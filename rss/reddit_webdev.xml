@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 06 Mar 2026 01:59:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 04:43:20 GMT</lastBuildDate>
+    <item>
+      <title>不受欢迎的观点：大多数网络应用程序不需要前端框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rm4crn/unpopular_opinion_most_web_apps_dont_need_a/</link>
+      <description><![CDATA[我构建 Web 应用程序已经有十多年了，我得出的结论可能会让我在五年前的任何站立会议上被嘲笑：我构建的大多数应用程序实际上并不需要 React、Vue 或 Angular。 听我说完。 大多数 Web 应用程序都是带有一些数据显示的美化 CRUD 表单。他们不需要客户端路由。他们不需要虚拟 DOM。他们不需要一个 200KB 的 JavaScript 包来渲染可能是服务器渲染的 HTML 的项目列表。 他们实际需要的是： - 服务器渲染的 HTML（任何后端语言都可以做到这一点） - 一些用于交互的 JavaScript（这里是模式，那里是表单验证） - HTMX 或 Alpine.js，用于感觉需要一个框架的动态位 - 良好的 CSS（框架无论如何也帮不上忙） 我最近重建了一个内部工具，它是一个带有 Redux、React Router 和 47 个 npm 依赖项的 React SPA。重建？ Django 模板 + HTMX + 200 行普通 JS。相同的功能、一半的代码、零构建步骤，团队中的初级开发人员无需一周的上手时间就可以真正理解和修改它。 性能差异也很大。第一次有意义的绘制从 2.3 秒缩短到 0.4 秒，因为我们发送的是 HTML，而不是等待 JavaScript 水合的空 div。 我并不是说框架不好。如果您正在构建 Figma、Web VS Code 或实时协作工具 - 是的，您需要一个框架。但是，如果您正在构建管理面板、内容网站、仪表板或电子商务商店，那么您可能对其进行了过度设计。 行业默认所有内容都采用 SPA，这是我们作为一个社区做出的最昂贵的集体决策之一。我们用简单性换取了复杂性，并以某种方式说服自己这是进步。 还有其他人回到服务器渲染的 HTML 并且从未回头吗？   由   提交/u/ruibranco  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rm4crn/unpopular_opinion_most_web_apps_dont_need_a/</guid>
+      <pubDate>Fri, 06 Mar 2026 04:37:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个简单的工具来使图表不再那么无聊</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rm46li/i_build_a_simple_tool_to_make_diagram_less_boring/</link>
+      <description><![CDATA[      https://i.redd.it/3hfajq1zqcng1.gif 所以我画了很多图表，有时觉得如果有一些动画的话图表会更容易理解。我构建了这个简单的图表为任何 svg 图表制作动画的工具（您可以从 excalidraw 或 draw.io 导出） 很高兴听到您的反馈 https://svgflow.datmt.com/   由   提交 /u/datmt   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rm46li/i_build_a_simple_tool_to_make_diagram_less_boring/</guid>
+      <pubDate>Fri, 06 Mar 2026 04:28:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Typescript 和 React 的最佳资源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rm3l8q/best_resource_for_typescript_and_react/</link>
+      <description><![CDATA[我是个新手，想知道是否有适合初学者的交互式资源来学习打字稿。并做出反应？我查到的很多内容都希望你已经了解基础知识，而且只是一堆阅读。我也不介意视频！任何提示和建议将不胜感激！   由   提交/u/JayDeesus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rm3l8q/best_resource_for_typescript_and_react/</guid>
+      <pubDate>Fri, 06 Mar 2026 03:59:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有一个想法，为患有计算障碍（学习障碍）的人创建免费的数字资源。这仍然只是一个想法，我还没有开始学习。本周早些时候，我遇到了 Base44 & 我创建了一些我想到的东西。好得令人难以置信？有什么问题吗？使建议成为现实？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rm2bxh/ive_had_this_idea_of_creating_free_digital/</link>
+      <description><![CDATA[计算障碍有点像阅读障碍，但涉及数字。然而，与阅读障碍不同的是，它几乎没有任何资源。它会对患有这种疾病的人的生活产生非常不利的影响，如果你去reddit的discalculia subreddit，那是一个非常令人沮丧的地方。我想设计资源和支持工具来提供帮助。本周早些时候，我发现了 base44，并能够快速设计这 2 个 aps： https://division-calculator-practice.base44.app https://division-form-cards.base44.app 这些aps 旨在帮助患有计算障碍的人学习如何以正确的顺序编写除法问题，并以所有不同的形式学习除法问题的各个部分。这很重要，因为使用计算器是计算障碍的常见住宿方式，但如果残疾导致无法以正确的顺序将数字输入计算器，那就没有任何帮助。 这些应用程序未经打磨，这是我第一次尝试做这样的事情，但我想创建一个充满这样的资源的数据库。 Base44 让它看起来不像只是一个浮夸的想法，这实际上对我来说在短期内是可以实现的。但我感觉有点警惕。有什么问题吗？这是一条错误的道路吗？ 如果我希望我的网站创意从长远来看是一个实用的、可靠的资源，base44 是一个可靠的选择吗？如果没有，我还能用它作为出发点吗？我并不是说我不想投入实际工作来学习网页设计。然而，我自己也有计算障碍，而且我对数字/数学非常糟糕，这使得我成为设计数学工具的人的想法不太可能实现。但同时，我作为这种资源的设计者也很好，因为我是一个有动力的人。由于环境和社会问题，我从来都不是人工智能的粉丝，但这似乎实际上是一线希望。人工智能处理这些数字，我在脑海中知道它需要如何外观和功能才能实现其目的。 那么，base44 有什么问题吗？ 有人愿意为我提供关于这个想法的建议以及如何实现它的一些提示吗？ 制作和维护一个包含计算障碍资源的网站可能要花多少钱？我自己是一名低收入学生，但我认为找到一种方法来保持这些资源免费且可访问是很不错的。我不确定这在经济意义上会带来什么好处。有没有比base44更经济的方式来托管网站/aps？ 谢谢   由   提交 /u/LadderWonderful2450   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rm2bxh/ive_had_this_idea_of_creating_free_digital/</guid>
+      <pubDate>Fri, 06 Mar 2026 03:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个工具，可以告诉您哪些开源问题值得您花时间（以及哪些 PR 将真正被合并）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rm1d3t/i_built_a_tool_that_tells_you_which_opensource/</link>
+      <description><![CDATA[嘿r/webdev，很好奇其他人如何进行开源贡献 - 具体来说，在投入大量时间之前，您如何找出哪些问题值得您花时间？ 我已经记不清我提交了多少 PR 了。没有响应，没有合并，什么都没有。开始想知道是否有更明智的方法来选择工作。 一直在尝试跟踪维护者响应模式、回购活动和问题竞争水平等内容。最终把它变成了一个名为 AlgoMerge 的小型副项目 - 如果有人好奇的话，很乐意在评论中分享链接。 但我真的想知道：在发现问题之前您会看什么信号？是星星、最后提交日期、维护者响应速度有多快？   由   提交 /u/mohit_code   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rm1d3t/i_built_a_tool_that_tells_you_which_opensource/</guid>
+      <pubDate>Fri, 06 Mar 2026 02:16:40 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个 VS Code 扩展，可以逐个提示准确显示您的 AI 代理更改的内容</title>
       <link>https://www.reddit.com/r/webdev/comments/1rm0tdq/i_built_a_vs_code_extension_that_shows_exactly/</link>
@@ -22,7 +57,7 @@
     <item>
       <title>Lighthouse 对于静态站点来说是多余的，所以我构建了一些更快且本地化的东西</title>
       <link>https://www.reddit.com/r/webdev/comments/1rlzjb7/lighthouse_is_overkill_for_static_sites_so_i/</link>
-      <description><![CDATA[      Claude AI 对优化工具的响应的屏幕截图 嘿！鉴于 Eleventy 的所有新闻和未来的不确定性，我想分享一些受 Eleventy 和静态站点构建启发而构建的东西。我是它的长期粉丝，所以看到这些变化真是苦乐参半。也许是一个时代的结束，也许是新事物的开始。 11ty 万岁...当有疑问时，Astro 非常酷。 最近，我发布了另一个静态网站，并且像往常一样，遇到了经典问题：缺少元标记、损坏的链接、空字段和未呈现的片段。无论您多么有经验，这些事情都可能会被忽略。 我意识到为每个页面运行完整的测试套件或运行 Lighthouse 是不切实际的。说实话我没有空间。资源有限。所以我开始写小检查来发现这些问题。一件事引发了另一件事，我最终构建了一个工具来验证元、模式、开放图、可访问性、来源、媒体等等。 速度非常快。代码在几秒钟内得到验证，这对持续开发和构建后的健全性检查有很大帮助。在 CLI 中并作为 Rest API 运行。甚至向克劳德寻求诚实的反馈，截图就是出来的。事实证明，即使人工智能也需要良好的验证才能完成其工作。 我真的很好奇：您如何在工作流程中发现这些问题？如果有人想尝试一下，它还处于测试阶段。我很想听听您的想法并看看它对您有何帮助。   由   提交/u/Next_Golf8878  [链接] [评论] ]]></description>
+      <description><![CDATA[      嘿！鉴于 Eleventy 的所有新闻和未来的不确定性，我想分享一些受 Eleventy 和静态站点构建启发而构建的东西。我是它的长期粉丝，所以看到这些变化真是苦乐参半。也许是一个时代的结束，也许是新事物的开始。 11ty 万岁...当有疑问时，Astro 非常酷。 最近，我发布了另一个静态网站，并且像往常一样，遇到了经典问题：缺少元标记、损坏的链接、空字段和未呈现的片段。无论您多么有经验，这些事情都可能会被忽略。 我意识到为每个页面运行完整的测试套件或运行 Lighthouse 是不切实际的。说实话我没有空间。资源有限。所以我开始写小检查来发现这些问题。一件事引发了另一件事，我最终构建了一个工具来验证元、模式、开放图、可访问性、来源、媒体等等。 速度非常快。代码在几秒钟内得到验证，这对持续开发和构建后的健全性检查有很大帮助。在 CLI 中并作为 Rest API 运行。甚至向 Claude 询问诚实的反馈，事实证明，即使是 AI 也需要良好的验证才能完成其工作。 [编辑]：之前有一个屏幕截图，根据评论被删除。其中显示了使用和不使用工具和 AI 的修复的准确性：  工具 + AI 技能 (95%) 仅工具 (85%) 仅 AI 技能 (70%) 无工具/无 AI (60%)  这是 AI 根据检测到的问题及其能够修复的问题进行的评级。建设性的反馈，是的，请！如果您想亲自尝试一下，那也是可以的！真的很好奇您如何在工作流程中发现这些问题？   由   提交/u/Next_Golf8878  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1rlzjb7/lighthouse_is_overkill_for_static_sites_so_i/</guid>
       <pubDate>Fri, 06 Mar 2026 00:56:12 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[所以我用 unity 制作的 Game Reflex 选项卡在移动设备（1080x1920）上完美运行，所以纵向，但我想将其导出到 WebGL，而在 PC 上它与屏幕尺寸不匹配有人可以帮忙吗？ https://play.unity.com/en/games/8911e169-f0c0-47ce-a5b6-a7c4312b662a/reflex-tab   由   提交/u/FarCryptographer5020   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1rlpsf9/help_with_webgl_export/</guid>
       <pubDate>Thu, 05 Mar 2026 18:42:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>主管管理和AI代码问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rlpjnr/competent_management_and_ai_code_question/</link>
-      <description><![CDATA[看来有能力的管理层会使用 AI 代码进行大量测试，以确保识别出 99% 的未知数。您是否认为大多数管理层都有一种心态，认为处理/修复人工智能代码（事后）比维持最小化人工智能所需的开销更便宜？    由   提交/u/Jimmy_at_grantmaker  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rlpjnr/competent_management_and_ai_code_question/</guid>
-      <pubDate>Thu, 05 Mar 2026 18:33:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>ELI5 后端返回HTML是什么意思？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rlmjp8/eli5_what_does_it_mean_to_return_html_from_the/</link>
-      <description><![CDATA[我一直在读/听到这个，我想知道它到底是什么。我主要使用 Laravel，但我在其他框架方面有经验，并且我总是将它们与模板引擎一起使用。 如何在后端渲染 HTML？ 您是否创建一个字符串并使用数据库中的数据对其进行插值？   由   提交 /u/dirtymint   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rlmjp8/eli5_what_does_it_mean_to_return_html_from_the/</guid>
-      <pubDate>Thu, 05 Mar 2026 16:46:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>事后分析：用 Lit 重写 AgnosticUI</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rlkv7k/postmortem_rewriting_agnosticui_with_lit/</link>
-      <description><![CDATA[几年前我发布了 AgnosticUI v1，作为 CSS 优先的 monorepo，其逻辑在框架包之间手动复制。这变成了一场维护噩梦。我最近用 Lit 重写了它，以更好地符合现代 Web 标准并统一核心，同时保持对 React、Vue、Svelte 和任何能够导入 Web 组件的框架的支持。 我最近在 Frontend Masters 上发布了一篇事后分析，详细介绍了这次迁移的挑战：使用 ::parts 进行样式设计、Shadow DOM 可访问性、表单参与，以及为什么我坚持使用 @lit/react尽管 React 19 有本机支持，但仍适用于 DX。 一个主要的架构转变是转向源优先模型。而不是“黑匣子”。在 node_modules 中，UI 源位于本地项目工作区中。这使得代码完全人工智能可读，允许法学硕士重构组件，而不会出现猜测隐藏库 API 时常见的幻觉。  我仍然维护传统工作流程的 NPM 包，但“本地”包已被保留。方法是我们看到最有趣的人工智能辅助结果的地方。 完整事后分析： https://frontendmasters.com/blog/post-mortem-rewriting-agnosticui-with-lit-web-components/ 项目主页： https://www.agnosticui.com   由   提交/u/LinguaLocked  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rlkv7k/postmortem_rewriting_agnosticui_with_lit/</guid>
-      <pubDate>Thu, 05 Mar 2026 15:42:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[教程]使用node.js和Hashcash构建工作证明挑战系统来阻止没有验证码的机器人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rlk4np/tutorial_build_a_proofofwork_challenge_system/</link>
-      <description><![CDATA[ 由   提交/u/cport1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rlk4np/tutorial_build_a_proofofwork_challenge_system/</guid>
-      <pubDate>Thu, 05 Mar 2026 15:13:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebTiles：实际上，接受用户提供的代码很好</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rljxar/webtiles_its_fine_to_accept_usersupplied_code/</link>
-      <description><![CDATA[不是我的博客。这个名字有点夸张，作者在帖子中也承认了这一点。但这仍然是一个非常酷的实验。    由   提交 /u/josephjnk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rljxar/webtiles_its_fine_to_accept_usersupplied_code/</guid>
-      <pubDate>Thu, 05 Mar 2026 15:04:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
