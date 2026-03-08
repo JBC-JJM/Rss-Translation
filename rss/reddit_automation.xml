@@ -4,11 +4,18 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sun, 08 Mar 2026 18:32:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 21:22:14 GMT</lastBuildDate>
+    <item>
+      <title>我们如何使 Notion 可以离线使用</title>
+      <link>https://www.reddit.com/r/automation/comments/1rog726/how_we_made_notion_available_offline/</link>
+      <description><![CDATA[   /u/Far_Inflation_8799   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1rog726/how_we_made_notion_available_offline/</guid>
+      <pubDate>Sun, 08 Mar 2026 20:54:44 GMT</pubDate>
+    </item>
     <item>
       <title>为英国清洁公司构建我的第一个 AI 销售自动化系统 – 构建自定义还是使用 n8n 等工具？</title>
       <link>https://www.reddit.com/r/automation/comments/1roauob/building_my_first_ai_sales_automation_system_for/</link>
-      <description><![CDATA[我正在与我的第一个客户合作，可以借鉴为中小企业构建自动化系统的人的一些建议。 该客户是一家英国清洁公司（约 50 名员工）。他们每月收到大约 100 个网站查询，还从第三方网站购买潜在客户。 他们想要解决的主要问题是将更多查询转化为预订工作并更快地响应潜在客户。 我建议构建一个销售自动化系统，其中包括：  AI 聊天机器人（网站 + WhatsApp）   24/7 即时响应查询 潜在客户资格问题 根据服务类型进行路线查询 自动会议/报价预订 CRM同步 回答有关固定定价计划的问题   个性化跟进系统   自动个性化跟进查询 通过优惠/建议赢回序列   AI Caller座席   非工作时间电话接听 通话资格 通话摘要发送至电子邮件 未接通话跟进 通话后WhatsApp跟进   销售管道管理   跟踪查询和交易价值 提醒销售团队跟进 高价值潜在客户提醒   审核自动化   工作完成后自动请求 Google 审核   社交媒体自动化   跨社交平台安排人工智能生成的帖子  这是我第一次实现这样的东西，而且是在构建之前我希望得到有关以下几件事的建议：  构建与工具  您会自定义构建类似的东西，还是使用 n8n、Zapier、Make 等自动化工具并将现有软件拼接在一起？ 我的本能是首先使用工具以加快速度，但我想知道这是否会造成长期限制。  定价结构  什么定价模型往往最适合这样的事情？ 例如：  一次性安装费+每月保留金 仅每月订阅 固定项目价格  对于此类项目我应该收取多少费用？  第一个客户的风险逆转  因为这是我的第一次实施，我想要强有力的结果/推荐，我正在考虑添加某种风险逆转。 但如果客户没有正确使用系统，我也不想最终免费工作。 你会如何构建这样的东西？   由   提交 /u/Adventurous-Lie-9209   [链接] [评论]]]></description>
+      <description><![CDATA[我正在与我的第一个客户合作，可以借鉴为中小企业构建自动化系统的人的一些建议。 该客户是一家英国清洁公司（约 50 名员工）。他们每月收到大约 100 个网站查询，还从第三方网站购买潜在客户。 他们想要解决的主要问题是将更多查询转化为预订工作并更快地响应潜在客户。 我建议构建一个销售自动化系统，其中包括：  AI 聊天机器人（网站 + WhatsApp）   24/7 即时响应查询 潜在客户资质问题 根据服务类型进行路线查询 自动会议/报价预订 CRM同步 回答有关固定定价计划的问题   个性化跟进系统   自动个性化跟进查询 通过优惠/建议赢回序列   AI Caller座席   非工作时间电话接听 通话资格 通话摘要发送至电子邮件 未接通话跟进 通话后WhatsApp跟进   销售管道管理   跟踪查询和交易价值 提醒销售团队跟进 高价值潜在客户提醒   审核自动化   工作完成后自动请求 Google 审核   社交媒体自动化   跨社交平台安排人工智能生成的帖子  这是我第一次实现这样的东西，而且是在构建之前我希望得到有关以下几件事的建议：  构建与工具  您会自定义构建类似的东西，还是使用 n8n、Zapier、Make 等自动化工具并将现有软件拼接在一起？ 我的本能是首先使用工具以加快速度，但我想知道这是否会造成长期限制。  定价结构  什么定价模型往往最适合这样的事情？ 例如：  一次性安装费+每月保留金 仅每月订阅 固定项目价格  对于此类项目我应该收取多少费用？  第一个客户的风险逆转  因为这是我的第一次实施，我想要强有力的结果/推荐，我正在考虑添加某种风险逆转。 但如果客户没有正确使用系统，我也不想最终免费工作。 你会如何构建这样的东西？   由   提交 /u/Adventurous-Lie-9209   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1roauob/building_my_first_ai_sales_automation_system_for/</guid>
       <pubDate>Sun, 08 Mar 2026 17:32:47 GMT</pubDate>
     </item>
@@ -88,13 +95,6 @@
       <description><![CDATA[几个月前，我们分享了 Deforge 的愿景，即“AI 代理的 Canva”，我们在这里收到的反馈是一个巨大的警钟。虽然您喜欢无代码 AI 的想法，但信息很明确：如果逻辑太复杂，即使没有代码也会感觉像是一件苦差事。 我们牢记这一点。我们花了深夜重建我们的架构和 UI，以确保你的“疯狂想法”可以在几分钟内变成实际的工具，而不是几个小时。 你的反馈如何影响这次发布：  “构建节点太多”：你告诉我们拖动节点仍然像编程一样。现在，你可以简单地用简单的英语描述你的代理，Deforge 会立即为你设计逻辑流程。灵活性”➡️ 多模型掌握：我们添加了在单个工作流程中在 GPT-5、Claude 4.6 和 Gemini 3.1 之间切换的无缝支持。 “UI 混乱”➡️ 全面重新设计：我们消除了噪音，提供了更快、更清晰的界面，让您可以专注于代理的“大脑”。 “使其具有可操作性”➡️ 表单生成器部署：现在，您只需填写表单即可部署代理。  我和联合创始人将整天在这里回答问题。    提交。 /u/AnoyRC   [link]   href=&quot;https://www.reddit.com/r/automation/comments/1rn4m8q/a_few_months_ago_we_shared_our_vision_for_canva/&quot;&gt;[评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1rn4m8q/a_few_months_ago_we_shared_our_vision_for_canva/</guid>
       <pubDate>Sat, 07 Mar 2026 08:20:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>将机器人过程自动化工具集成到我们的回归测试中</title>
-      <link>https://www.reddit.com/r/automation/comments/1rn4gaq/integrating_robotic_process_automation_tools_into/</link>
-      <description><![CDATA[我们希望超越简单的基于脚本的测试，并结合 RPA 工具来处理跨多个旧应用程序的端到端 UI 测试。挑战在于这些应用程序已经过时了。有没有人找到一种 RPA 工具，其弹性足以处理轻微的 UI 更改，而不会每天早上测试失败？我正在寻找足够用户友好的东西，以便我的手动测试人员开始构建自己的自动化序列。   由   提交 /u/Snow-Giraffe3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1rn4gaq/integrating_robotic_process_automation_tools_into/</guid>
-      <pubDate>Sat, 07 Mar 2026 08:10:50 GMT</pubDate>
     </item>
     <item>
       <title>在不支付高级工具费用的情况下努力提取 linkedin 联系人</title>
