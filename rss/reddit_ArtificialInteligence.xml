@@ -4,7 +4,35 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 10 Mar 2026 06:46:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 09:42:13 GMT</lastBuildDate>
+    <item>
+      <title>随着人工智能技术的进步，计算机硬件市场正在扩大</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rpsgzf/the_computer_hardware_market_is_expanding_along/</link>
+      <description><![CDATA[人工智能正在迅速发展，最终将变得强大到足以管理和协调文明的许多方面。这并不意味着这个人从照片中消失。家庭用户仍将与它并存——与它交流，向它学习，并继续做人类一直在做的事情：创造、探索、构建事物和享受生活。 个人的角色很重要。人们应该始终能够构建自己的计算机，运行自己的网络，试验自己的系统，并使用人工智能作为帮助他们创造和交流的工具。技术不应该剥夺这种自由。如果有的话，它应该加强它。 即使人工智能最终变得极其先进并帮助指导社会的大部分人，个人仍然希望有自己的空间来工作、思考和创造。人类自然地想要自己建造东西。我们喜欢拥有自己的工具、机器和环境，可以在其中进行实验和表达想法。 效率本身并不能驱动人类行为。在生活中，人们经常选择那些严格来说并不是最有效的东西，因为他们更喜欢它们。有时，一种产品在技术上可能与另一种产品完成相同的工作，但有人会选择更好或更令人满意的选项，只是因为他们更喜欢它。 同样的想法也适用于技术。即使存在集中式系统或高度自动化的系统，人们仍然希望运行自己的硬件、操作自己的软件、构建自己的环境。创造和实验的自由是人类的一部分。 人工智能应该被视为扩展个人能力的强大工具。它不会取代个人——而是与他们并肩工作。技术的未来应该包括强大的人工智能系统和赋权的个人，他们继续以自己的方式构建、创造、交流和探索。 目前市场上有一种趋势，一些人声称个人计算机硬件和运行自己的操作系统最终将消失，个人将不再需要自己的计算机。我完全不这么认为。尤其是现在——在通用人工智能出现之前——人工智能正在为家庭用户提供比以往更多的能力。 从事全职工作并且没有无限时间来挖掘复杂操作系统、软件堆栈或开发问题的普通人现在可以更快地完成工作。人工智能可以帮助在几分钟内解决可能需要数小时反复试验的问题。曾经需要浏览数十个甚至数百个系统、工具和技术障碍的任务现在变得更加容易完成。 您不再需要成为编程高手才能穿越复杂的技术环境。人工智能帮助人们解决问题、理解系统并构建以前需要更深入技术背景的东西。 因此，家庭用户的力量现在非常强大。如果说有什么不同的话，那就是这一刻应该是个人计算的扩展。家庭用户硬件和独立系统的市场应该不断增长，而不是萎缩。人工智能使个人计算变得更加强大，而不是变得不那么重要。 那些构建自己的计算机、运行自己的操作系统、开发软件、管理网络和在线经营业务的人们正在从这些工具中获益。人工智能增强了个人独立创造、建造和运营的能力。 人类的这一部分——建设者、独立开发者、运行自己的系统和在线创造事物的人——不应该消失。如果说有什么不同的话，那就是随着人工智能成为每个人都可以使用的更强大的工具，它现在应该正在扩展。   由   提交 /u/Potential_Candle_441   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rpsgzf/the_computer_hardware_market_is_expanding_along/</guid>
+      <pubDate>Tue, 10 Mar 2026 09:40:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>忘记学习的能力</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rprovh/ability_to_unlearn/</link>
+      <description><![CDATA[AI 模型忘记主题/符号含义/临时变量分配的能力有用吗？ 假设一个模型在维基百科数据集上进行训练，但训练后页面发生了更改，因为该页面包含不正确的数据。您的模型现在陷入了这种不正确的知识中，必须进行重新训练，或者只是逐步学习数据中存在的变化，这会慢慢改变权重，并随着时间的推移变得正确。如果能够快速忘却被验证为不正确的旧数据，会是什么样子？这对未来的人工智能模型有什么帮助，以及在构建新型神经网络时如何实现这一点？ 极端一点，假设模型被输入了关于故意错误的主题的数据，例如讽刺帖子，但被社交媒体误解并成为主流，以至于现在已经影响了用户对所述主题的理解。然后真相大白，纠正了这个观点，有了这种快速忘记旧数据的能力，它可以接受新的、正确的数据的训练，可以立即用正确的信息回应人们，从而更好地防止错误信息的传播。当战争、网络攻击甚至身体健康的话题被人们抢先一步声称某件事而受到欢迎并因此受到关注而成为现实的帖子所破坏时，这一点至关重要。  一旦验证为不正确的旧数据，如果有能力快速忘却旧数据，会是什么样子？ 这对生产环境中需要准确的最新信息的人们有什么帮助？至关重要？ 这对未来的人工智能模型有何帮助？ 在构建新型神经网络时如何实现这一点？    由   提交/u/DutytoDevelop  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rprovh/ability_to_unlearn/</guid>
+      <pubDate>Tue, 10 Mar 2026 08:50:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI之后会发生什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rprmmw/what_will_come_after_ai/</link>
+      <description><![CDATA[人工智能正在迅速改变技术、工作和日常生活。但人工智能之后的下一个重大步骤可能是什么？   由   提交/u/Sohaibahmadu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rprmmw/what_will_come_after_ai/</guid>
+      <pubDate>Tue, 10 Mar 2026 08:46:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>LeCun 通过 1.03B 美元种子轮启动 AMI Labs</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rpr10a/lecun_launches_ami_labs_with_103b_seed_round/</link>
+      <description><![CDATA[ 由   提交 /u/raymodmon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rpr10a/lecun_launches_ami_labs_with_103b_seed_round/</guid>
+      <pubDate>Tue, 10 Mar 2026 08:07:19 GMT</pubDate>
+    </item>
     <item>
       <title>听完《纽约时报》的“人类与五角大楼：人工智能战争的内幕”后我摇摇头</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rpp9wq/shaking_my_head_after_listening_to_nyt_dailys/</link>
@@ -13,25 +41,11 @@
       <pubDate>Tue, 10 Mar 2026 06:17:49 GMT</pubDate>
     </item>
     <item>
-      <title>关于假设人工智能有意识的优点的哲学讨论。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rpp0rb/a_philosophical_discussion_on_the_merits_of/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rpp0rb/a_philosophical_discussion_on_the_merits_of/</guid>
-      <pubDate>Tue, 10 Mar 2026 06:02:55 GMT</pubDate>
-    </item>
-    <item>
       <title>围绕法学硕士建立持久记忆是神话吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rpo7od/building_persistent_memory_around_llm_is_myth/</link>
       <description><![CDATA[大脑必须保持状态才能记住事物，我们不能将知识推向权重，因为这会导致注意力稀释？目前 Rag 是最好的存在方式吗？或任何其他正在进行的建立有状态的 LLM 的研究，大脑分层也是可能的，但它也是静态的，并且不能表现得那么高效！   由   提交/u/intellinker  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rpo7od/building_persistent_memory_around_llm_is_myth/</guid>
       <pubDate>Tue, 10 Mar 2026 05:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 3/9/2026</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rpnmx7/oneminute_daily_ai_news_392026/</link>
-      <description><![CDATA[ Anthropic 提起诉讼，阻止五角大楼因 AI 使用限制而将其列入黑名单。[1] Nvidia 计划推出开源 AI 代理平台。[2] Andrew Ng 的团队发布了 Context Hub：一款为您的编码代理提供最新 API 文档的开源工具需求。[3] 新型机器人微流体平台将人工智能引入脂质纳米颗粒设计。[4]  来源包括：https://bushaicave.com/2026/03/09/one-million-daily-ai-news-3-9-2026/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rpnmx7/oneminute_daily_ai_news_392026/</guid>
-      <pubDate>Tue, 10 Mar 2026 04:45:21 GMT</pubDate>
     </item>
     <item>
       <title>民意调查发现，人们对人工智能的厌恶甚至超过对 ICE 的厌恶</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[正在阅读 https://www.aifactoryinsider.com/p/why-your-best-operators-can-t-be-replaced-by-ai 上的一篇文章，该文章认为巨大的退休浪潮正在发生接触许多行业。 可怕的是知识随之消失。数十年来的隐性知识：机器的实际行为、交易如何真正完成、没有人写下来的小解决方案。 争论是人工智能可以帮助捕获这些知识（通过文档、访谈、培训模型），但大部分知识消失的时间可能只有 1-2 年。 人工智能实际上是保存机构知识的最佳工具，还是公司已经太晚了？   由   提交 /u/enlightenedshubham   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rozugn/we_might_only_have_12_years_to_capture_a_lot_of/</guid>
       <pubDate>Mon, 09 Mar 2026 13:13:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ICE 拘留设施所有者看到人工智能营地的巨大机遇</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1roww8d/owner_of_ice_detention_facility_sees_big/</link>
-      <description><![CDATA[“为了容纳建立人工智能数据中心所需的数百或数千名临时工人，开发人员越来越依赖被称为人员营地的临时村庄。” https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/   由   提交/u/talkingatoms  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1roww8d/owner_of_ice_detention_facility_sees_big/</guid>
-      <pubDate>Mon, 09 Mar 2026 10:47:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI是另一种3D打印吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1row0xm/is_ai_another_3d_printing/</link>
-      <description><![CDATA[3D 打印已经陪伴我们很长时间了，价格实惠的家用打印机已经存在超过 15 年了。虽然很多人的设想基本上是《星际迷航》中的复制机，但实际用途和对整体经济的影响与早期的预测相去甚远。有些领域受到了重大影响（原型设计、爱好者等），但普通人购买的几乎所有东西仍然是传统制造的。 人工智能不会发生同样的情况吗？ 人们会想象有感知能力的超级智能生物可以彻底改变科学和其他一切，但实际影响不会那么快那么广泛。尽管会有一些领域受到严重影响（编程、一些语言处理），但我们不会在 3 年内全部被人工智能取代。   由   提交/u/mikc137  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1row0xm/is_ai_another_3d_printing/</guid>
-      <pubDate>Mon, 09 Mar 2026 09:57:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
