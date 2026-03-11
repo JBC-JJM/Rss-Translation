@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 11 Mar 2026 09:42:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 12:58:28 GMT</lastBuildDate>
     <item>
       <title>开放用户界面</title>
       <link>https://www.producthunt.com/products/thesys</link>
@@ -20,32 +20,18 @@
       <pubDate>Wed, 11 Mar 2026 06:11:24 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 互动学习</title>
-      <link>https://www.producthunt.com/products/chatgpt-interactive-learning</link>
+      <title>然后</title>
+      <link>https://www.producthunt.com/products/hume-2</link>
       <description><![CDATA[
-            通过交互式视觉解释学习数学和科学 
+            1:1 文本声学对齐，语音生成速度提高 5 倍
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/chatgpt-interactive-learning</guid>
-      <pubDate>Wed, 11 Mar 2026 03:55:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>原生AI+云</title>
-      <link>https://www.producthunt.com/products/nativeline</link>
-      <description><![CDATA[
-            原生 Swift 应用程序 + 真正的云数据库。一提示就到了。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/nativeline</guid>
-      <pubDate>Wed, 11 Mar 2026 02:10:32 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/hume-2</guid>
+      <pubDate>Wed, 11 Mar 2026 02:35:18 GMT</pubDate>
     </item>
     <item>
       <title>CodeYam CLI 和内存</title>
@@ -104,18 +90,32 @@
       <pubDate>Tue, 10 Mar 2026 17:43:05 GMT</pubDate>
     </item>
     <item>
-      <title>MorphMind 推出可操纵人工智能平台</title>
-      <link>https://www.producthunt.com/products/morphmind-launches-steerable-ai-platform</link>
+      <title>双子座嵌入 2</title>
+      <link>https://www.producthunt.com/products/gemini-embedding-2</link>
       <description><![CDATA[
-            建立一支提供高质量工作的人工智能专家团队
+            谷歌第一个原生多模态嵌入模型
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/morphmind-launches-steerable-ai-platform</guid>
-      <pubDate>Tue, 10 Mar 2026 15:34:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/gemini-embedding-2</guid>
+      <pubDate>Tue, 10 Mar 2026 17:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ScreenGeany AI</title>
+      <link>https://www.producthunt.com/products/screengeany-ai</link>
+      <description><![CDATA[
+            使用单个热键向 AI 询问屏幕上的任何内容
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/screengeany-ai</guid>
+      <pubDate>Tue, 10 Mar 2026 14:01:25 GMT</pubDate>
     </item>
     <item>
       <title>因斯福吉</title>
@@ -188,6 +188,20 @@
       <pubDate>Thu, 05 Mar 2026 04:20:40 GMT</pubDate>
     </item>
     <item>
+      <title>炒作抄写员</title>
+      <link>https://www.producthunt.com/products/hypescribe</link>
+      <description><![CDATA[
+            Google Drive for Your Speech 带 99% AI 转录
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/hypescribe</guid>
+      <pubDate>Tue, 03 Mar 2026 01:55:17 GMT</pubDate>
+    </item>
+    <item>
       <title>知道</title>
       <link>https://www.producthunt.com/products/knowlify</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/knowlify</guid>
       <pubDate>Thu, 26 Feb 2026 17:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>打字机 10</title>
-      <link>https://www.producthunt.com/products/typinator-10</link>
-      <description><![CDATA[
-            适用于 macOS 和 iOS 的快速且私密的文本扩展器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/typinator-10</guid>
-      <pubDate>Thu, 26 Feb 2026 13:28:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
