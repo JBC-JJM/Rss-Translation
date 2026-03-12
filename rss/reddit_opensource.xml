@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 12 Mar 2026 18:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 21:32:32 GMT</lastBuildDate>
+    <item>
+      <title>如何正确做开源项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1rs2cib/how_do_i_do_open_source_projects_correctly/</link>
+      <description><![CDATA[嗨，我有一个非常有用的项目的想法，它对我有用，我想对其他人也有用，我决定将它开源，我看到了 openClaw，我想知道如何正确地做到这一点？一个人怎样才能正确开始呢？任何 101 指南或一些相关圣经😅 任何帮助表示赞赏，谢谢！    由   提交 /u/PazCrypt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1rs2cib/how_do_i_do_open_source_projects_correctly/</guid>
+      <pubDate>Thu, 12 Mar 2026 20:33:48 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个开源 Android 药物剂量记录器（CSV 导出/导入、统计）</title>
       <link>https://www.reddit.com/r/opensource/comments/1rrxz2h/i_built_an_opensource_android_drug_dose_logger/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在编写一个开源软件，我想使用 Ubuntu 附带的这个声音：/usr/share/sounds/freedesktop/stereo/service-login.oga。 我想为使用提供某种积分，但我不知道如何在我的软件中提及它LICENSE.md 如果有人能帮助我，我会非常高兴。 非常感谢！ 交叉发布到 r/Ubuntu   由   提交 /u/PudimVerdin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rp9tq8/how_to_give_credits_to_sound_used/</guid>
       <pubDate>Mon, 09 Mar 2026 19:20:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw 的新 Azure DevOps 技能：仅通过 REST 列出项目、冲刺、存储库和站立会议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1rp9p0r/new_azure_devops_skill_for_openclaw_list_projects/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1rp9p0r/new_azure_devops_skill_for_openclaw_list_projects/</guid>
-      <pubDate>Mon, 09 Mar 2026 19:16:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

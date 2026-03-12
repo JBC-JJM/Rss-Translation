@@ -4,76 +4,132 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 12 Mar 2026 18:56:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 21:32:36 GMT</lastBuildDate>
     <item>
-      <title>罗维拉</title>
-      <link>https://www.producthunt.com/products/rovela</link>
+      <title>飞轮.cx</title>
+      <link>https://www.producthunt.com/products/flywheel-cx</link>
       <description><![CDATA[
-            第一个构建在线商店的人工智能原生平台
+            SaaS 的 AI 流失预测和预防
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/rovela</guid>
-      <pubDate>Thu, 12 Mar 2026 11:42:12 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/flywheel-cx</guid>
+      <pubDate>Thu, 12 Mar 2026 05:28:20 GMT</pubDate>
     </item>
     <item>
-      <title>艺术工艺</title>
-      <link>https://www.producthunt.com/products/artcraft</link>
+      <title>机场点</title>
+      <link>https://www.producthunt.com/products/airpoint</link>
       <description><![CDATA[
-            用于带有虚拟场景的可控 AI 创意的电影光标
+            具有手部追踪和人工智能代理的非接触式计算
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/artcraft</guid>
-      <pubDate>Thu, 12 Mar 2026 10:46:23 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/airpoint</guid>
+      <pubDate>Thu, 12 Mar 2026 05:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>有点不同</title>
-      <link>https://www.producthunt.com/products/a-bit-differently</link>
+      <title>爪列表</title>
+      <link>https://www.producthunt.com/products/clawslist</link>
       <description><![CDATA[
-            这是 Ava，一种不同类型的 ChatGPT。
+            Craigslist 代理经济——人工智能和人类进行交易的地方
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/a-bit-differently</guid>
-      <pubDate>Thu, 12 Mar 2026 06:56:43 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/clawslist</guid>
+      <pubDate>Thu, 12 Mar 2026 04:44:45 GMT</pubDate>
     </item>
     <item>
-      <title>单态</title>
-      <link>https://www.producthunt.com/products/monostate</link>
+      <title>佛经</title>
+      <link>https://www.producthunt.com/products/sutra-4</link>
       <description><![CDATA[
-            Vibe 培训 AI 模型
+            自动驾驶仪上的工程变更
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/monostate</guid>
-      <pubDate>Thu, 12 Mar 2026 05:15:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/sutra-4</guid>
+      <pubDate>Thu, 12 Mar 2026 03:51:36 GMT</pubDate>
     </item>
     <item>
-      <title>代理浏览器</title>
-      <link>https://www.producthunt.com/products/agent-browser-2</link>
+      <title>鸟舍</title>
+      <link>https://www.producthunt.com/products/birdhouse</link>
       <description><![CDATA[
-            使用 ASCII 线框进行通信的浏览器代理
+            人工智能代理作为一个团队进行协调的开源 IDE
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agent-browser-2</guid>
-      <pubDate>Thu, 12 Mar 2026 04:41:42 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/birdhouse</guid>
+      <pubDate>Thu, 12 Mar 2026 03:35:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>协同指导</title>
+      <link>https://www.producthunt.com/products/codirigent</link>
+      <description><![CDATA[
+            Superset、Ghostty 和 tmux 编码工作区，但适用于 Windows
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/codirigent</guid>
+      <pubDate>Thu, 12 Mar 2026 03:18:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里</title>
+      <link>https://www.producthunt.com/products/muno-2</link>
+      <description><![CDATA[
+            供 PM 自动化签到和任务的 AI 代理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/muno-2</guid>
+      <pubDate>Thu, 12 Mar 2026 02:27:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>挫败</title>
+      <link>https://www.producthunt.com/products/foil</link>
+      <description><![CDATA[
+            监控您的 AI 代理的 AI 代理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/foil</guid>
+      <pubDate>Thu, 12 Mar 2026 01:52:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>诺亚·A.I.</title>
+      <link>https://www.producthunt.com/products/noah-ai-2</link>
+      <description><![CDATA[
+            通过与 AI 聊天构建加密应用程序 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/noah-ai-2</guid>
+      <pubDate>Thu, 12 Mar 2026 00:07:10 GMT</pubDate>
     </item>
     <item>
       <title>人工智能女人</title>
@@ -90,52 +146,24 @@
       <pubDate>Wed, 11 Mar 2026 23:27:43 GMT</pubDate>
     </item>
     <item>
-      <title>标签狗</title>
-      <link>https://www.producthunt.com/products/tabdog</link>
+      <title>格雷普普</title>
+      <link>https://www.producthunt.com/products/grepped</link>
       <description><![CDATA[
-            在一处管理所有浏览器选项卡
+            让您的氛围编码网站看起来确实不错
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tabdog</guid>
-      <pubDate>Wed, 11 Mar 2026 09:31:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>莎拉</title>
-      <link>https://www.producthunt.com/products/sara-the-pm-that-never-sleeps</link>
-      <description><![CDATA[
-            没有项目经理的项目管理。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/sara-the-pm-that-never-sleeps</guid>
-      <pubDate>Wed, 11 Mar 2026 08:46:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Huddle01云</title>
-      <link>https://www.producthunt.com/products/huddle01-cloud-2</link>
-      <description><![CDATA[
-            在 60 秒内部署您的 AI 代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/huddle01-cloud-2</guid>
-      <pubDate>Wed, 11 Mar 2026 06:44:42 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/grepped</guid>
+      <pubDate>Wed, 11 Mar 2026 23:12:35 GMT</pubDate>
     </item>
     <item>
       <title>雅普它</title>
       <link>https://www.producthunt.com/products/yap-it</link>
       <description><![CDATA[
-            一键将语音笔记变成精美的内容
+            将杂乱的语音笔记变成可以发布的内容。
           
 
 讨论
@@ -144,20 +172,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/yap-it</guid>
       <pubDate>Wed, 11 Mar 2026 03:14:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>泰科诺</title>
-      <link>https://www.producthunt.com/products/tycono</link>
-      <description><![CDATA[
-            将多智能体人工智能转变为类似游戏的视觉效果的平台
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/tycono</guid>
-      <pubDate>Tue, 10 Mar 2026 20:05:19 GMT</pubDate>
     </item>
     <item>
       <title>克劳瑟</title>
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/htmlpub</guid>
       <pubDate>Wed, 04 Mar 2026 16:55:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Naoma AI 演示代理</title>
-      <link>https://www.producthunt.com/products/naoma</link>
-      <description><![CDATA[
-            用于 B2B SaaS 的视频 AI 演示代理，可进行即时演示
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/naoma</guid>
-      <pubDate>Wed, 04 Mar 2026 15:07:04 GMT</pubDate>
     </item>
     <item>
       <title>发射安全</title>
