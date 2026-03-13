@@ -4,20 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 13 Mar 2026 15:43:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 18:42:48 GMT</lastBuildDate>
     <item>
       <title>kong 开源 vs 企业，实际上锁定了哪些功能？</title>
       <link>https://www.reddit.com/r/opensource/comments/1rslp3x/kong_open_source_vs_enterprise_what_features_are/</link>
       <description><![CDATA[开源版本和企业版本已经存在很大差异，对一个版本进行基准测试并购买另一个版本并不是升级，而是产品转换。 rbac、高级速率限制、在生产中重要的插件、所有企业。 供应商需要收入，这很好。但是测试操作系统并获得企业报价意味着您从未真正评估过您所购买的产品。   由   提交/u/Justin_3486  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rslp3x/kong_open_source_vs_enterprise_what_features_are/</guid>
       <pubDate>Fri, 13 Mar 2026 12:16:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gmail 替代方案？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1rsiv64/gmail_alternative/</link>
-      <description><![CDATA[我知道这是一个令人厌烦的话题，但我要问的是一个具体的新原因，我认为以前的帖子并未涵盖该原因： Gmail 即将删除网络版本上检查其他电子邮件地址 (POP3) 的功能，我主要使用 Gmail 不仅检查这些地址，而且作为“黑客”的一部分，将个人资料图片添加到与我拥有的域关联的电子邮件地址。 我似乎找不到专门允许我取代 Gmail 的此功能的 FOSS 客户端，而且我发现 2026 年最好/唯一的客户端真的很令人惊讶？让自定义域电子邮件地址拥有个人资料图片并且半可靠地不落入人们的垃圾邮件箱的方法是通过 Gmail/Gmailify 使用它，这两种方式很快就会结束。 我想要的只是从同一个位置检查和发送我的所有电子邮件，并让我的电子邮件像从 Gmail 链接帐户发送一样可靠地到达人们的收件箱（我不期望与*实际的* Gmail 具有相同的可靠性）帐户）   由   提交/u/allensynthesis   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1rsiv64/gmail_alternative/</guid>
-      <pubDate>Fri, 13 Mar 2026 09:41:01 GMT</pubDate>
     </item>
     <item>
       <title>如何正确做开源项目？</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[macOS 将所有屏幕录制保存为 .mov 文件。如果您必须在上传或共享之前将它们转换为 .mp4，此工具会在后台自动执行此操作。 工作原理：  轻量级后台服务会监视您的桌面（或您选择的任何文件夹）以查找新的屏幕录制内容 当出现新屏幕录制内容时，它会立即使用 ffmpeg 将其重新混合为 .mp4 — 无需重新编码，零质量损失 原始.mov在转换后被删除 登录时运行，几乎不使用任何资源（macOS本机文件观看，无轮询）  安装：  brew tap arch1904/mac-mp4-screen-rec brew install mac-mp4-screen-rec mac-mp4-screen-rec start  就这样。您还可以观看其他文件夹 (mac-mp4-screen-rec add ~/Documents) 或转换所有 .mov 文件，而不仅仅是屏幕录制 (mac-mp4-screen-rec config --all-movs)。 为什么 MOV → MP4 是无损的： macOS 屏幕录制使用 H.264/AAC。 MOV 和 MP4 都只是相同流的容器 - 重新混合只是重写元数据包装器，因此需要几秒钟的时间，并且视频是逐位相同的。 GitHub：https://github.com/arch1904/MacMp4ScreenRec 免费、开源、MIT 许可。只是一个 shell 脚本 + launchd。   由   提交 /u/hadouken_1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rq3kgq/made_a_free_tool_that_autoconverts_macos_screen/</guid>
       <pubDate>Tue, 10 Mar 2026 17:37:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>去谷歌和去微软</title>
+      <link>https://www.reddit.com/r/opensource/comments/1rpd1el/degoogle_and_demicrosoft/</link>
+      <description><![CDATA[在过去的几个月里，我对这两家社交媒体占主导地位的公司越来越恼火，以至于我转向了 Arch Linux，打算购买带有 eOS 的 Fairphone，以及转向 protonmail 等。 (1) 由于 github 是微软拥有的，我一直不喜欢 github 一直在做的东西，特别是 AI 功能，我想问一下例如，我听说过 gitlab 和 gitea，但许多视频并不能帮助我充分了解作为一个临时 git 用户的好处。我只是想要一个地方来存放我的项目源代码，而我的大部分项目都是我一个人完成的。 (2) 推荐什么浏览器，我已经从chrome换成了brave，但我不喜欢Leo AI、Brave Wallet等（到目前为止我只喜欢它的广告拦截）（我听说过其他的比如IceCat、Zen、LibreWolf，但不知道它们之间的区别 (3) 由于我试图不使用 Microsoft 应用程序，除了 MS Teams 之外还有哪些办公套件？我知道 LibreOffice 和 OpenOffice，但是还有其他的吗？我应该如何决定哪个好？   由   提交/u/PinguinPlayz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1rpd1el/degoogle_and_demicrosoft/</guid>
+      <pubDate>Mon, 09 Mar 2026 21:16:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
