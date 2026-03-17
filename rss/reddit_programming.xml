@@ -4,20 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 16 Mar 2026 21:39:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 02:00:53 GMT</lastBuildDate>
+    <item>
+      <title>Meta 对 Jemalloc 的新承诺</title>
+      <link>https://www.reddit.com/r/programming/comments/1rvqyo4/metas_renewed_commitment_to_jemalloc/</link>
+      <description><![CDATA[ 由   提交 /u/TheTwelveYearOld   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rvqyo4/metas_renewed_commitment_to_jemalloc/</guid>
+      <pubDate>Tue, 17 Mar 2026 00:04:24 GMT</pubDate>
+    </item>
     <item>
       <title>能力就是路线图</title>
       <link>https://www.reddit.com/r/programming/comments/1rvlrcg/capacity_is_the_roadmap/</link>
       <description><![CDATA[ 由   提交/u/Dear-Economics-315   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rvlrcg/capacity_is_the_roadmap/</guid>
       <pubDate>Mon, 16 Mar 2026 20:48:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>事务性地图实现的实践探索</title>
-      <link>https://www.reddit.com/r/programming/comments/1rvl8py/a_practical_exploration_of_transactional_map/</link>
-      <description><![CDATA[决定将我已经试验了大约一个月的事务性地图的实现的所有解释编译成一篇文章并在此处分享。   由   提交 /u/Polixa12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rvl8py/a_practical_exploration_of_transactional_map/</guid>
-      <pubDate>Mon, 16 Mar 2026 20:29:45 GMT</pubDate>
     </item>
     <item>
       <title>揭秘并改进缓存驱逐中的惰性提升</title>
@@ -71,7 +71,7 @@
     <item>
       <title>《连线》杂志大力推荐 COBOL。 :)</title>
       <link>https://www.reddit.com/r/programming/comments/1rvbxjs/wired_magazine_calls_out_cobol/</link>
-      <description><![CDATA[ 由   提交/u/Got1Green  [link] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Got1Green  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rvbxjs/wired_magazine_calls_out_cobol/</guid>
       <pubDate>Mon, 16 Mar 2026 15:03:41 GMT</pubDate>
     </item>
