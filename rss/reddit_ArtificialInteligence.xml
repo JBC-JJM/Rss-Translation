@@ -4,7 +4,35 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 17 Mar 2026 21:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 04:55:37 GMT</lastBuildDate>
+    <item>
+      <title>TEMM1E v3.0.0 — 用于 AI 代理运行时的群体智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rwtizu/temm1e_v300_swarm_intelligence_for_ai_agent/</link>
+      <description><![CDATA[TL;DR：我们教人工智能代理将复杂的任务分配给多个并行工作人员，这些工作人员通过气味信号进行协调 - 就像蚂蚁，而不是聊天。结果：速度提高 5.86 倍，成本降低 3.4 倍，质量相同。零协调令牌。 研究论文：https://github.com/nagisanzenin/temm1e/blob/main/docs/swarm/RESEARCH_PAPER.md --- 大多数多代理框架（AutoGen、CrewAI、LangGraph）通过让代理相互对话来协调代理。每条协调消息都是一次 LLM 调用。每个 LLM 调用都需要花费代币。协调开销可能超出实际工作量。 我们问：如果代理之间根本不交谈怎么办？ TEMM1E v3.0.0 引入了“Many Tems”功能— 一个群体智能系统，其中多个人工智能代理工作人员通过污名进行协调：通过环境信号进行间接通信。借鉴自蚁群优化，适用于 LLM 代理运行时。 工作原理如下：  您发送一个复杂的请求（“构建 5 个 Python 模块”） Alpha（协调器）将其分解为任务依赖关系图 — 一个 LLM 调用 一组 Tems（工作人员）生成 - 真正的并行 tokio 任务 每个 Tem 通过原子 SQLite 事务声明任务（无分布式锁） Tems 在工作时发出气味信号（时间衰减信息素） - “我完成了”、“我被困住了”、“这很难” 其他Tems 读取这些信号来选择他们的下一个任务 - 纯算术，零 LLM 调用 所有任务完成时结果聚合  关键见解：处理 12 个子任务的单个代理在上下文中携带所有先前的输出。到子任务 12 时，上下文增长了 28 倍。每个额外的子任务成本都会更高，因为 LLM 会读取之前的所有内容 - 二次增长：h*m(m+1)/2。 Pack 工作人员仅携带其任务描述 + 依赖任务的结果。无论存在多少个子任务，上下文都保持在约 190 字节。线性，而非二次。 基准（真实的 Gemini 3 Flash API 调用，非模拟）： 12 个独立函数：单个代理 103 秒，打包 18 秒。速度提高 5.86 倍。 7,379 个代币与 2,149 个代币。便宜 3.4 倍。质量：均 12/12 通过测试。 5 个并行子任务：单个代理 7.9 秒，打包 1.7 秒。速度提高 4.54 倍。相同的令牌（1.01x 比率 - 证明零浪费）。 简单消息（“你好”）：正确打包不会激活。零开销。不可见。 这与其他多代理系统有何不同： 零协调令牌。 AutoGen/CrewAI 使用 LLM 到 LLM 聊天进行协调——每条消息都会产生费用。我们的气味场是算术的（指数衰减、杰卡德相似度、叠加）。数学比单个令牌便宜。 对于简单任务来说是不可见的。分类器（已经在每条消息上运行）决定。如果它说“简单”或“标准” — 单一代理，零开销。 Pack 仅针对真正复杂的多交付任务激活。 任务选择方程是 40 行算术，而不是 LLM 调用： S = 亲和力 ^2.0 * 紧急度 ^1.5 * (1-难度)^1.0 * (1-失败)^0.8 * 奖励 ^1.2 1,535 次测试。仅在 swarm crate 中就有 71 个，其中两个证明了真正的并行性（4 个工作人员在约 200 毫秒内完成 200 毫秒的任务，而不是约 800 毫秒）。 内置 Rust。 17 箱。开源。麻省理工学院许可。该研究论文包含每个基准命令 - 您可以使用 API 密钥自己重现每个数字。 我们了解到： 群对 LLM 处理“做这 7 件事”的单轮任务没有帮助。在一个回应中。没有历史积累需要消除。当任务涉及上下文增长的多轮工具循环时，它会有所帮助 - 这就是真正的代理工作实际发生的方式。 我们在 Gemini Flash Lite（0.075 美元/M 输入）、Gemini Pro 和 GPT-5.2 上运行了基准测试。实验总成本：30 美元预算中的 0.04 美元。完整的实验报告包括群体失败的每个场景，而不仅仅是群体获胜的场景。 https://github.com/nagisanzenin/temm1e   由   提交 /u/No_Skill_8393   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rwtizu/temm1e_v300_swarm_intelligence_for_ai_agent/</guid>
+      <pubDate>Wed, 18 Mar 2026 04:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人员希望将人工智能和机器人技术应用于养猪工厂化养殖，作为替代人类工人的一种方式</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rwtbqu/researchers_look_to_use_ai_and_robotics_into_pig/</link>
+      <description><![CDATA[https://www.mdpi.com/2077-0472/16/3/334 “机器人系统能够进行自主巡检、精准送料和环境清洁，可有效缓解工厂劳动力短缺问题农场。它还在加强生物安全、优化管理流程和确保动物福利方面显示出巨大优势”   由   提交/u/CalpurniaSomaya   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rwtbqu/researchers_look_to_use_ai_and_robotics_into_pig/</guid>
+      <pubDate>Wed, 18 Mar 2026 03:51:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能并不能缩小技能差距。它扩大了它。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rws7j4/ai_doesnt_close_the_skill_gap_it_widens_it/</link>
+      <description><![CDATA[民主化争论不断出现。人工智能降低了门槛，更多的人可以做更多的事情。 这在入门级可能是正确的，但我一直在思考进一步发展过程中会发生什么。  拥有强大工具的强大操作员不仅能改进，还能实现复合。训练有素的用户和普通用户之间的差距并没有缩小。它会加速。 工具不是变量。操作员是。 很好奇这里的人们是否也有同样的看法，或者认为随着时间的推移，拉平效应是真实的。您的经历是什么样的？   由   提交 /u/dsolo01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rws7j4/ai_doesnt_close_the_skill_gap_it_widens_it/</guid>
+      <pubDate>Wed, 18 Mar 2026 02:59:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个可视化拖放式机器学习训练器（无需代码）。免费且开源。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rwm4qz/i_built_a_visual_draganddrop_ml_trainer_no_code/</link>
+      <description><![CDATA[适合那些厌倦了每次都编写相同的 ML 样板的人或没有编码经验的初学者。 MLForge 是一款可让您直观地构建机器学习管道的应用程序。 提交声明：MLForge 可以让初学者在没有编码经验的情况下学习 ML 的基础知识；此外，它还可以让经验丰富的 ML 开发人员在几分钟内快速建立管道原型，而无需编写任何代码。 您可以像跨三个选项卡的节点图一样构建管道： 数据准备 - 拖入数据集（MNIST、CIFAR10 等）、链式转换，最后使用 DataLoader。添加带有 val DataLoader 的第二条链，以进行正确的验证拆分。 模型 - 直观地连接层。输入-&gt;线性-&gt; ReLU-&gt;输出。有一些事情可以让这个过程比听起来不那么痛苦：  放入 MNIST（或任何数据集）节点，输入形状自动填充为 1, 28, 28 连接层和 in_channels / in_features 自动传播 扁平化后，下一个 Linear 的 in_features 是根据其上方的 conv 堆栈计算的，因此不再需要手动进行数学计算 强大的错误检查系统，尽力防止形状错误。  训练 - 放入模型和数据节点，将它们连接到损失和优化器节点，然后按“运行”。观看损失曲线实时更新，自动保存最佳检查点。 推理 - 打开推理窗口，您可以在其中放入检查点并根据测试数据评估模型。 Pytorch 导出 - 完成项目后，您可以选择将项目导出到纯 PyTorch，这是一个可以运行和试验的独立文件。 免费、开源。项目展示位于 Github 存储库中的 README 中。 GitHub：https://github.com/zaina-ml/ml_forge 要安装 MLForge，请在命令提示符中输入以下内容 pip install zaina-ml-forge  然后 ml-forge  如果您有任何反馈意见，请随时在下面发表评论。我的目标是制作一款初学者和专业人士都可以使用的软件。 这是 v1.0，所以会有粗糙的地方，如果你发现了，请在评论中指出，我会修复它。   由   提交/u/Mental-Climate5798   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rwm4qz/i_built_a_visual_draganddrop_ml_trainer_no_code/</guid>
+      <pubDate>Tue, 17 Mar 2026 22:46:31 GMT</pubDate>
+    </item>
     <item>
       <title>我们现在可以交互地生成和实时编辑 30 秒 1080p 视频（视频是实时的）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rwju5p/we_can_now_generate_and_liveedit_30s_1080p_videos/</link>
@@ -32,13 +60,6 @@
       <description><![CDATA[ 由   提交/u/forbes  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rwexsz/nvidias_aipowered_photorealistic_gaming/</guid>
       <pubDate>Tue, 17 Mar 2026 18:29:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>人力资源部门是否应该存在？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rwe9f5/should_hr_department_even_exist/</link>
-      <description><![CDATA[说实话：传统的人力资源部门是 20 世纪工业主义的遗物。我们都听过这样一句话：“人力资源部门是为了保护公司，而不是你”。坦率地说，他们甚至在“保护”国家方面做得并不好。随着人工智能模型变得越来越复杂，维持以人为主导的人力资源部门的论点正在崩溃。这就是为什么我们应该停止尝试“修复”问题。人力资源并使其自动化，使其不复存在。  消除“人”的存在。来自人力资源的偏见  人类生来就有无意识的偏见。是否“文化契合”？ （雇用像我们一样的人的代码）或不一致的纪律处分，人力资源经理都是主观的。 - AI修复：算法不关心你的母校或你是否有坚定的握手。人工智能驱动的系统可以实时审核薪酬差距，并确保晋升基于 f(x) = {绩效输出}，而不是基于谁与副总裁一起打高尔夫球。  彻底透明与把关  人力资源通常充当黑匣子。为什么那个人被解雇了？为什么公司增长 20% 时我的加薪却是 2%？ - AI 修复：想象一个去中心化的、由 AI 管理的薪酬和政策分类账。与其等三天才等到“人力资源通才”，不如等上三天。为了误解员工手册，法学硕士提供即时、100% 准确的 24/7 政策答案。  效率和“中间人税”  公司平均每年在每位员工身上花费数千美元，只是为了维持人力资源人数。大部分时间都花在了管理摩擦上：工资单错误、福利登记和归档文书工作。 - AI 修复：AI 代理可以处理 95% 的这些任务，且容错率为零。我们不需要“首席人事官”监督软件集成。  不闹剧地解决冲突  当你向人力资源部报告经理时，你常常把目标放在自己身上。 - AI 修复：匿名、AI 介导的报告系统可以将有毒模式和违反劳动法的情况直接标记为法律或董事会级别的监督，而无需中层管理人员“平息事情”。  反驳：“但是人工智能缺乏同理心！” 我的回应：企业人力资源部门什么时候表现出真正的同理心了？大多数企业的同理心只是“风险管理”。带着微笑。我宁愿有一个公平、客观的算法，也不愿有一个服务于底线的表演性人机交互。 你觉得怎么样？我们是否准备好删除人力资源部门并将其替换为“People API”？还是人为因素实际上使我们免遭更糟糕的事情？   由   提交 /u/Pretty-L​​auki-369   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rwe9f5/should_hr_department_even_exist/</guid>
-      <pubDate>Tue, 17 Mar 2026 18:05:47 GMT</pubDate>
     </item>
     <item>
       <title>这个 TikTok 有 2600 万浏览量，却没有人说它是人工智能。这才是真正的奇点。</title>
@@ -76,32 +97,11 @@
       <pubDate>Tue, 17 Mar 2026 12:06:33 GMT</pubDate>
     </item>
     <item>
-      <title>大英百科全书因人工智能训练起诉 OpenAI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rw2q4s/encyclopedia_britannica_sues_openai_over_ai/</link>
-      <description><![CDATA[“大英百科全书及其韦氏词典子公司已在曼哈顿联邦法院起诉 OpenAI，指控其滥用其参考资料来训练其人工智能模型。 大英百科全书在周五提交的诉状中表示，打开新选项卡微软支持的 OpenAI 使用其在线文章、百科全书和词典条目来教导其旗舰聊天机器人 ChatGPT 响应人类提示并“蚕食”机器人。大英百科全书的网络流量以及人工智能生成的内容摘要。”  https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-openai-over-ai-training-2026-03-16/   由   提交/u/talkingatoms  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rw2q4s/encyclopedia_britannica_sues_openai_over_ai/</guid>
-      <pubDate>Tue, 17 Mar 2026 10:26:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将 5 分钟的 AI 提示变成团队 48 小时的工作</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rw0jvp/how_to_turn_a_5minute_al_prompt_into_48_hours_of/</link>
-      <description><![CDATA[Vibe Coding 太棒了。 我使用 Claude 在短短几分钟内完成了这次重构。 现在我的技术团队可以花整整一周的时间来审查它以确保它有效（现在不起作用） 我正在开发代码并同时创造就业机会   由   提交/u/tiguidoio  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rw0jvp/how_to_turn_a_5minute_al_prompt_into_48_hours_of/</guid>
-      <pubDate>Tue, 17 Mar 2026 08:10:11 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能将最颠覆哪些人们尚未关注的行业？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rvzxz0/what_industry_will_ai_disrupt_the_most_that/</link>
       <description><![CDATA[我觉得每当人们谈论人工智能颠覆时，谈话总是直接涉及同一行业的编码、设计、写作、客户支持等。这些都是显而易见的。 但从历史上看，最大的颠覆往往发生在人们没有真正关注的地方。整个行业悄然发生变化，直到突然每个人都意识到事情完全不同了。 例如，许多行政工作、研究密集型角色，甚至医疗保健和教育的一部分似乎可以通过更好的人工智能工具发生巨大转变，但它们并没有像软件工程这样的事情那样受到广泛关注。 与此同时，一旦人工智能融入日常工作流程，人们认为“安全”的一些领域最终可能会发生比预期更大的变化。 所以我很好奇你认为人工智能将颠覆哪些行业，而人们还没有真正关注到？为什么？ 不一定是每个人都已经争论过的明显问题。   由   提交/u/SuchTill9660   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rvzxz0/what_industry_will_ai_disrupt_the_most_that/</guid>
       <pubDate>Tue, 17 Mar 2026 07:31:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 的新 AI 团队每个老板有 50 名工程师。可能会出什么问题？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rvj0gh/metas_new_ai_team_has_50_engineers_per_boss_what/</link>
-      <description><![CDATA[有扁平化的组织结构，还有 Meta 新的应用人工智能工程团队。据《华尔街日报》报道，该部门的任务是推进这家科技巨头的超级智能工作，将采用 50 比 1 的员工与经理比例，是通常被视为所谓控制范围范围的外部极限的 25 比 1 比例的两倍。  Facebook母公司片面的管理比例让那些精通扁平化组织的人都大吃一惊。伦敦贝叶斯商学院执行院长、组织行为学教授安德烈·斯派塞 (André Spicer) 表示：“最终，这将以悲剧告终。”  扁平化组织（管理者拥有大量直接报告）背后的理念是，通过简化决策流程并使管理层更贴近一线员工和客户体验，使公司变得更加敏捷。层次结构不混乱的跨职能协作可以加速创新。与权威人士越亲近的员工就越投入，拥有更深的主人翁意识。或者理论是这样的。 了解更多：https://fortune.com/2026/03/14/metas-ai-team-50-flat-management-struct/   由   提交/u/fortune  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rvj0gh/metas_new_ai_team_has_50_engineers_per_boss_what/</guid>
-      <pubDate>Mon, 16 Mar 2026 19:11:20 GMT</pubDate>
     </item>
     <item>
       <title>我们听到了您的声音 - r/ArtificialInteligence 变得更加敏锐</title>
