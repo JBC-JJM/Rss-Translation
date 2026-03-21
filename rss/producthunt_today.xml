@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 21 Mar 2026 01:54:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 04:27:12 GMT</lastBuildDate>
     <item>
       <title>GitAgent 由 Lyzr 提供</title>
       <link>https://www.producthunt.com/products/gitagent-2</link>
@@ -62,6 +62,20 @@
       <pubDate>Thu, 19 Mar 2026 21:59:19 GMT</pubDate>
     </item>
     <item>
+      <title>客房服务</title>
+      <link>https://www.producthunt.com/products/room-service-2</link>
+      <description><![CDATA[
+            专为开发者打造的 Mac 清理器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/room-service-2</guid>
+      <pubDate>Thu, 19 Mar 2026 21:57:07 GMT</pubDate>
+    </item>
+    <item>
       <title>音乐库</title>
       <link>https://www.producthunt.com/products/musiclib</link>
       <description><![CDATA[
@@ -76,7 +90,7 @@
       <pubDate>Thu, 19 Mar 2026 20:17:53 GMT</pubDate>
     </item>
     <item>
-      <title>Cursor 的作曲家 2</title>
+      <title>作曲家 2 by Cursor</title>
       <link>https://www.producthunt.com/products/cursor</link>
       <description><![CDATA[
             快速、令牌高效的前沿级编码模型
@@ -118,34 +132,6 @@
       <pubDate>Thu, 19 Mar 2026 13:22:37 GMT</pubDate>
     </item>
     <item>
-      <title>文件夹</title>
-      <link>https://www.producthunt.com/products/kickfolder</link>
-      <description><![CDATA[
-            将 Mac 的顶部边缘变成隐藏的命令中心
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/kickfolder</guid>
-      <pubDate>Thu, 19 Mar 2026 08:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>无缓存</title>
-      <link>https://www.producthunt.com/products/cacheless-ai-powered-disk-cleanup</link>
-      <description><![CDATA[
-            AI 支持的 Mac 系统数据清理器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cacheless-ai-powered-disk-cleanup</guid>
-      <pubDate>Thu, 19 Mar 2026 05:28:53 GMT</pubDate>
-    </item>
-    <item>
       <title>维斯迪夫</title>
       <link>https://www.producthunt.com/products/visdiff</link>
       <description><![CDATA[
@@ -172,6 +158,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/productbridge</guid>
       <pubDate>Wed, 18 Mar 2026 12:42:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>广告涡轮</title>
+      <link>https://www.producthunt.com/products/adsturbo-2</link>
+      <description><![CDATA[
+            使用看起来像真人的人工智能演员制作广告
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/adsturbo-2</guid>
+      <pubDate>Tue, 17 Mar 2026 07:31:34 GMT</pubDate>
     </item>
     <item>
       <title>温和限制</title>
