@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 24 Mar 2026 13:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 16:07:43 GMT</lastBuildDate>
+    <item>
+      <title>GUI 代码编辑器功能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1s2hj0q/gui_code_editor_features/</link>
+      <description><![CDATA[对于那些使用 GUI 文本编辑器（不是 nvim 或 helix，它们都很棒）的人 - 哪些功能对您来说至关重要，或者您最喜欢？ 开发出一些适合我需求的东西（完全自由开源，介于 Sublime 和 VS Code 之间） - 并且想要摆脱自己的大脑，了解哪些功能真正有用。   由   提交 /u/DanManPanther   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1s2hj0q/gui_code_editor_features/</guid>
+      <pubDate>Tue, 24 Mar 2026 15:47:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个聊天应用程序，即使我也无法阅读你的消息 - 不需要帐户，消息会自毁</title>
+      <link>https://www.reddit.com/r/opensource/comments/1s2este/built_a_chat_app_where_even_i_cant_read_your/</link>
+      <description><![CDATA[ 由   提交 /u/AlphaGe3k   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1s2este/built_a_chat_app_where_even_i_cant_read_your/</guid>
+      <pubDate>Tue, 24 Mar 2026 14:08:06 GMT</pubDate>
+    </item>
     <item>
       <title>有没有 Hemingway Editor Plus 的开源替代品以及我自己的 LLM api 密钥</title>
       <link>https://www.reddit.com/r/opensource/comments/1s2da1f/is_there_any_opensource_alternative_to_hemingway/</link>
@@ -39,13 +53,6 @@
       <description><![CDATA[ 由   提交 /u/Bro666   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1s2bc7y/krita_6_and_53_released_two_toptier_art_apps_for/</guid>
       <pubDate>Tue, 24 Mar 2026 11:39:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源服务器管理工​​具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1s270bz/opensource_server_management_tool/</link>
-      <description><![CDATA[      您好，我对另一个平台的有限功能感到沮丧，因此我构建了 WolfStack，它可以在 Proxmox 之上运行，支持独立集群，运行 Kubernetes、LXC 和 VM，附加到 S3 存储，并使用 Proxmox 备份等。希望您喜欢它！   由   提交/u/linuxpaul   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1s270bz/opensource_server_management_tool/</guid>
-      <pubDate>Tue, 24 Mar 2026 07:22:00 GMT</pubDate>
     </item>
     <item>
       <title>网络自动化是利基市场吗？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[在搜索免费/开源安全摄像头软件时，我看到人们推荐诸如 Zone Minder、Agent DVR、Shinobi、Frigate、MotionEye、SentryShot 之类的东西...有些是完全志愿者，有些是企业开源，但其中有没有经过代码审核的？主要询问 Linux 软件，但也想知道他们的手机应用程序。 是否曾发现安全摄像头软件带有后门的案例？   由   提交 /u/onekool   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1s1al64/which_of_the_open_source_security_camera_software/</guid>
       <pubDate>Mon, 23 Mar 2026 07:50:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在哪里可以正确了解开源商业模式？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1s10bzd/where_can_i_properly_learn_about_the_open_source/</link>
-      <description><![CDATA[我知道这可能听起来像是一个愚蠢的问题，但我长期以来一直对此感到好奇。 我是一名移动应用开发人员，我一直在思考互联网和软件行业有多少是建立在开源之上的。但尽管如此，我仍然不太理解开源商业模式。 每当我尝试了解它时，我大多会找到诸如“公司通过支持赚钱”或“开源建立信任和采用”之类的表面解释，但我觉得我错过了更深层次的图景。 我希望这个 Reddit 子版块可能有一个 wiki、阅读列表、博客文章、论文、演讲，甚至是正确解释这一点的书籍。 I非常感谢任何适合初学者但严肃的资源。   由   提交/u/swap_019  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1s10bzd/where_can_i_properly_learn_about_the_open_source/</guid>
-      <pubDate>Sun, 22 Mar 2026 23:09:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
