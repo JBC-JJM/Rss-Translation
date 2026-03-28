@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 28 Mar 2026 12:55:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 18:40:41 GMT</lastBuildDate>
     <item>
-      <title>刚刚推出了 Bricks UI - 生产就绪的网站主题市场。寻找反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5zjq4/just_launched_bricks_ui_productionready_website/</link>
-      <description><![CDATA[      我们刚刚推出了 https://bricks-ui.com/ - 一个跨多个行业（医疗保健、SaaS、房地产、餐厅等）的生产就绪网站主题的精选市场。 它的作用： - 专业设计、完全响应式主题 - 免费套餐：访问 40 多个主题 - 专业套餐（9.99 美元/年）：所有高级主题 + 每月 40 多个新模板 - 适合专业用户的内置主题自定义编辑器 - 一键式 Netlify 部署集成 下一步（路线图）： - 面向专业用户的人工智能定制 - 用自然语言描述变化，让人工智能为您修改主题 - 更多行业特定模板 - 高级定制功能 寻找： - 对产品和定价的诚实反馈 - 哪些功能会让这对您更有价值？ - 有任何改进建议吗？ 很想听听你的想法！很高兴回答有关构建或业务模型的任何问题。   由   提交/u/Bright_Pop1712   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5zjq4/just_launched_bricks_ui_productionready_website/</guid>
-      <pubDate>Sat, 28 Mar 2026 12:53:05 GMT</pubDate>
+      <title>从一个提示生成一个完整的多页面网站，好奇开发人员将如何改进它</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s682ge/generated_a_full_multipage_website_from_a_single/</link>
+      <description><![CDATA[我尝试仅使用一个提示从头开始生成一个餐厅网站。 它具有多个部分、不错的布局层次结构和可重用的组件。 很快就在 Runable 上构建它，只是为了看看有什么问题。   由   提交 /u/Appressive-Pop7997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s682ge/generated_a_full_multipage_website_from_a_single/</guid>
+      <pubDate>Sat, 28 Mar 2026 18:28:34 GMT</pubDate>
     </item>
     <item>
-      <title>寻找对此网站的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5zhh8/looking_for_feedback_for_this_website/</link>
-      <description><![CDATA[我是这个建筑网站的新手，您有什么想法？哪些地方可以改进，哪些地方做错了等等。 我正在为这家小公司举办一个博览会，所以这对我来说将是一个良好的开始。 网站：https://www.mwavesecurity.com/   由   提交 /u/13-months   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5zhh8/looking_for_feedback_for_this_website/</guid>
-      <pubDate>Sat, 28 Mar 2026 12:50:08 GMT</pubDate>
+      <title>烤我的网站！ 🔥</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s681k3/roast_my_website/</link>
+      <description><![CDATA[      大多数应用程序都很无聊且容易忘记 ziggle 为任何品牌增添了个性。在不到 10 分钟内创建您的自定义全动画吉祥物。  说实话：这会让你想要创建一个角色吗？ 请烤我的网站！   由   提交/u/missEves  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s681k3/roast_my_website/</guid>
+      <pubDate>Sat, 28 Mar 2026 18:27:36 GMT</pubDate>
     </item>
     <item>
-      <title>[周六炫耀] 适合所有人的免费工具。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5z9s9/showoff_saturday_free_tool_for_everyone/</link>
-      <description><![CDATA[希望为那些需要以光速启动具有专业外观的 UI 布局而无需订阅膨胀的人分享一个工具。 BYOK Build 是一个“计算器”。专为加快上市速度而设计的人工智能网站生成器。使用案例很简单：当您仍在与客户进行 Zoom 通话时，为客户构建实时、响应式的登陆页面演示。 工作原理：  免费使用：无月租费。您连接自己的 OpenRouter 密钥 (Claude 4.6 Sonnet / Gemini / Llama)，只需支付原始批发 API 成本 直播：描述布局并直接在实时预览中观看 Tailwind/HTML 流。 即时边缘部署：点击“上线”立即将最终代码推送到 Cloudflare 子域。  隐私和隐私安全性：这是一个纯粹的客户端实用程序。任何服务器上均不存储任何数据。您的 API 密钥和项目历史记录保留在您自己计算机上浏览器的 localStorage 中。后端只是 LLM 的轻量级传递。 它目前处于测试阶段，旨在成为“计算器式”实用程序 - 没有入门或教程，只有提示框和代码编辑器。 链接：https://byokbuild.com   由   提交 /u/Grandsleazy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5z9s9/showoff_saturday_free_tool_for_everyone/</guid>
-      <pubDate>Sat, 28 Mar 2026 12:40:14 GMT</pubDate>
+      <title>根据提示，在 10 分钟内建立一个包含菜单和预订的完整餐厅网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s6804r/built_a_complete_restaurant_website_with_menu_and/</link>
+      <description><![CDATA[我想测试一下你能将基于提示的网站生成推进到什么程度。尝试制作一个完整的餐厅网站、菜单、定价、位置部分和一个简单的预订流程。使用 Runable 来处理它，令人惊讶的是它处理结构的效果非常好。   由   提交 /u/Appressive-Pop7997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s6804r/built_a_complete_restaurant_website_with_menu_and/</guid>
+      <pubDate>Sat, 28 Mar 2026 18:26:05 GMT</pubDate>
     </item>
     <item>
-      <title>在我的开发朋友和我在晚餐时开玩笑说当人工智能取代我们的工作时我们会做什么后，我在两个小时内建立了一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5z6mf/i_built_a_site_in_2_hours_after_my_dev_friends/</link>
-      <description><![CDATA[昨晚我们在吃晚饭时大笑，有人说电工，有人说水管工，有人说木匠。 我今天有一些空闲时间，所以我做了这个愚蠢的小东西： https://whenaitakesmyjob.work 输入你的工作，开始你的新职业。显然，由人工智能提供支持。   由   提交 /u/NewBlock8420   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5z6mf/i_built_a_site_in_2_hours_after_my_dev_friends/</guid>
-      <pubDate>Sat, 28 Mar 2026 12:35:58 GMT</pubDate>
+      <title>评价我的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s67soz/rate_my_website/</link>
+      <description><![CDATA[https://lysforge.com/ 我知道背景视频的移动视图存在问题。 请给我您的反馈！谢谢。   由   提交 /u/Shurion11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s67soz/rate_my_website/</guid>
+      <pubDate>Sat, 28 Mar 2026 18:18:01 GMT</pubDate>
     </item>
     <item>
-      <title>我们让陌生人投票决定将哪些代码发送到生产环境。 2个月后，我们拿不到10票。你会怎么办？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5z104/we_let_strangers_vote_on_what_code_ships_to/</link>
-      <description><![CDATA[   OpenChaos - 一个任何人提交 PR、社区投票的存储库，投票最多的 PR 每周都会自动合并到实时站点。公关标题必须押韵。 任何人都可以改变任何事情，包括规则。 前两周非常激动人心。每个 PR 超过 100 票。人们构建主题、争夺迪克屁股、差点被关闭和投票操纵差点被投票。自动合并机器人坏了好几个星期——社区通过多个单独的 PR 自行修复了它。 现在我们勉强能达到 10 票。顶级 PR 目前有 9 个，在今天 19:00 UTC（下午 7 点）之前还需要 1 个，否则我们将跳过一周：https://github.com/skridlevsky/openchaos/pull/210 这个概念是有效的。该网站仍然有效。贡献者仍在建设中。但选民却消失了。 你会怎样做才能让这样的事情继续存在？ https://openchaos.dev | https://github.com/skridlevsky/openchaos   由   提交/u/Equivalent-Yak2407   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5z104/we_let_strangers_vote_on_what_code_ships_to/</guid>
-      <pubDate>Sat, 28 Mar 2026 12:28:43 GMT</pubDate>
+      <title>根据提示，在 10 分钟内建立一个包含菜单、定价和预订的完整餐厅网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s67owv/built_a_full_restaurant_website_with_menu_pricing/</link>
+      <description><![CDATA[我尝试为一家名为 Tonkotsu House 的虚构拉面店生成一个完整的网站。 它包括菜单、定价、位置部分，甚至基本的预订流程。老实说，没想到它会这么干净。 通过一个提示大约 10 分钟就可以运行了。   由   提交 /u/Appressive-Pop7997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s67owv/built_a_full_restaurant_website_with_menu_pricing/</guid>
+      <pubDate>Sat, 28 Mar 2026 18:14:08 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个包含 12 个基于浏览器的开发工具的免费工具包 — 无需注册，无需跟踪，一切都在客户端运行</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5yyhr/i_built_a_free_toolkit_of_12_browserbased_dev/</link>
-      <description><![CDATA[嘿r/webdev， 过去几周我一直在构建 ToolKit - 一组完全在浏览器中运行的免费实用程序。 其中包含什么：  密码生成器（Web Crypto API） 具有阅读时间+关键字密度的字数计数器 JSON 格式化程序/压缩器/验证器 Base64 编码器和编码器解码器 大小写转换器：camelCase、PascalCase、snake_case、kebab-case、CONSTANT_CASE、Title Case 等 具有 7 种和声模式（类似、互补、三元...）的调色板生成器 Lorem ipsum 生成器 UUID v4 生成器 哈希生成器（SHA-1、SHA-256、 SHA-384、SHA-512） URL 编码器/解码器 具有实时 HTML 预览的 Markdown 编辑器 用户名生成器（有趣、专业、游戏玩家、简约风格）  我为什么构建它：我厌倦了记录密码和 API 密钥的粗略工具。这里的一切都使用浏览器原生 API——Web Crypto、TextEncoder 等。对实际工具的零服务器调用。 堆栈： Next.js (SSG)、TypeScript、工具逻辑的零运行时依赖性。 链接：https://www.webtoolkit.tech/ 欢迎反馈 - 您在日常工作流程中缺少哪些工具？   由   提交 /u/_PawsAndWhiskers_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5yyhr/i_built_a_free_toolkit_of_12_browserbased_dev/</guid>
-      <pubDate>Sat, 28 Mar 2026 12:25:25 GMT</pubDate>
+      <title>我已获准在工作中使用我的 API 客户端应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s67mcw/got_approved_for_me_to_use_my_api_client_app_at/</link>
+      <description><![CDATA[我终于获准在工作中使用我的 API 客户端应用程序 我定义许可服务已经很长时间了，并且我使用了设备指纹 - CPU、磁盘、操作系统和主板信息的 sha256 哈希值（用于防止滥用）。 但是当我提交它时，安全官员拒绝了它，因为它可能会泄露公司基础设施详细信息。所以我完全删除了设备指纹。 最近，我了解了浮动许可证（就像 IntelliJ 使用的那样）。短期激活并绑定到设备的许可证，并发送周期性的心跳。无设备信息，安全风险较小。很快就会应用它。 顺便说一句，我实际上花了去年 5-9 个周末来构建这个。发布当天收到了大量反馈（来自我的同事），所以今天我疯狂地发布（尽管只是进行了一些小修复）。 该应用程序是一款一体化工具：  API 客户端 数据库客户端（仍然很简单，还存在一些错误） 数据检查器（具有多个查询的 JsonPath） 将它们链接在一起的变量  完全本地。我的想法是连接切换工具所需的所有内容：将 API 响应复制到数据检查器工具，或将数据库 ID 复制到 API 请求中。所以我将它们全部合并到一个地方。 有 14 天的完整免费试用期。如果你们喜欢，我可以将其延长至 3 个月 - 只需将您的试用许可证密钥发送给我，我将手动延长它。 我已经用我的个人证书签署了 Windows 版本，但由于该应用程序尚未广为人知，您可能仍然会看到警告。 如果您尝试一下，我将非常感激 - 希望它对你们有用。 感谢阅读🙏 啊，您可以给在这里尝试一下： https://github.com/postpilot-dev/postpilot-dev   由   提交 /u/lactranandev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s67mcw/got_approved_for_me_to_use_my_api_client_app_at/</guid>
+      <pubDate>Sat, 28 Mar 2026 18:11:23 GMT</pubDate>
     </item>
     <item>
-      <title>[周六炫耀]为我最近的求职创建了一份在线简历。反馈？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5ysvy/showoff_saturday_created_a_online_cv_for_my/</link>
-      <description><![CDATA[我对 WebGL 着色器的结果感到自豪:)   由   提交 /u/JustSpeedy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5ysvy/showoff_saturday_created_a_online_cv_for_my/</guid>
-      <pubDate>Sat, 28 Mar 2026 12:17:55 GMT</pubDate>
+      <title>一个月前刚刚开始网络开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s67jjg/just_started_web_dev_a_month_ago/</link>
+      <description><![CDATA[看到所有“人工智能将取代网络开发人员”的言论真是令人沮丧。声明、帖子。开始我的旅程感觉就像是一条死胡同，人们说转向其他事情，好像这很容易，我们有很多选择，就像一个父母把所有的钱都花在教育上的人，看着人们说“技术已经死了”，“人工智能将取代软件工程师”。在心理上具有挑战性。我不知道该做什么，我也不知道我有什么计划，几个月后我将开始毕业后的生活，这将持续三年，我什至不知道到那时会有工作要做。这是一个可悲的国家科技，以前像我这样的人曾经摆脱他们的财务状况并为自己建造房子，现在这可能只是生存的一种方式。    由   提交/u/StatisticianStock310   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s67jjg/just_started_web_dev_a_month_ago/</guid>
+      <pubDate>Sat, 28 Mar 2026 18:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>[周六炫耀] Anthropic 刚刚从配置错误的 CMS 中泄露了 3,000 个文件。我今天扫描了 38 个 vivi 编码的应用程序 — 81% 存在安全问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5ylkj/showoff_saturday_anthropic_just_leaked_3000_files/</link>
-      <description><![CDATA[本周的人择事件。如果您错过了，他们的 CMS 将每个上传的文件默认设置为公开。没有人把它关掉。剑桥的一位安全研究人员发现了大约 3,000 个未发布的文件就在那里：草稿、有关未发布模型的内部文档、一些私人 CEO 活动的详细信息。 《财富》杂志报道了这个故事，Anthropic 争先恐后地锁定了它。 这家公司在人工智能安全方面花费了数十亿美元。修复方法是翻转默认值。就是这样。 我一直在为 vivi 编码的应用程序构建安全扫描器（之前在这里发布过两次）。看完 Anthropic 的故事后，我今天又运行了一批新的批次 — 抓取了 38 个用 Lovable、Bolt 和其他人工智能工具构建的公共存储库，对所有这些库进行了安全扫描。 结果（今天，3 月 28 日）：  平均安全得分：61/100 81% 存在安全问题（满分 31 分） 38) 38 个应用程序中只有 1 个应用程序得分高于 85 最低得分：35。最高得分：92  最常见的问题并不奇怪 - 缺少 CSRF 保护、没有安全标头、零输入验证、本应位于环境变量中但实际上却没有的配置值。任何代码审查都会被捕获的东西，除了没有代码审查，因为人工智能编写了它并且它在第一次尝试时就起作用了。 它与 Anthropic 相同，只是规模较小。一切都按配置进行。配置错误，没有人回去查看。 为什么这种情况不断发生 你告诉人工智能工具“用 Supabase auth 为我构建一个应用程序”它会为您构建一个具有 Supabase 身份验证的应用程序。它使代码工作。它不会循环检查是否有 CSRF 保护或者错误响应是否将堆栈跟踪转储到客户端。你得到了你想要的——工作授权。它周围的安全问题从来没有出现过。 快速检查你的 对于暴露的秘密：grep -r &quot;sk_live\|service_role\|apikey\|PRIVATE&quot; --include=“*.js” --include=“*.ts” --include=“*.jsx” --include=“*.tsx” src/ 对于缺少的标头 - 打开 DevTools、“网络”选项卡，检查主页上的响应标头。如果没有 Content-Security-Policy、没有 X-Frame-Options、没有 Strict-Transport-Security — 您的服务器没有使用浏览器已内置的安全功能。 关于扫描器 我在自己部署的代码中发现问题后构建了 VibeWrench。它运行 18 种扫描类型——安全、SEO、速度、移动、可访问性、提示注入。今天的批次只是安全性，但扫描仪覆盖了更多地面。 每月 3 次免费扫描，无需注册：viwrench.dev 仍然只有我和一台 Hetzner 服务器。仅扫描面向公众的代码，因此不会捕获私人存储库中的内容，并且检测存在盲点。但默认无人检查类别是大多数问题所在，而这正是它所擅长的。 如果 Anthropic 可以在不通知的情况下以公共默认方式发布 CMS，那么可能值得花 30 秒来检查您的 AI 工具留下的默认值。 前几周： - 100 个应用程序进行安全扫描 - 50 个提示已测试注入   由   提交 /u/Inevitable_Board4896   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5ylkj/showoff_saturday_anthropic_just_leaked_3000_files/</guid>
-      <pubDate>Sat, 28 Mar 2026 12:07:50 GMT</pubDate>
+      <title>对于网络开发人员来说，改进现有的用 Rust 编写的全栈应用程序是否很难？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s67dqn/is_it_hard_for_a_webdev_to_improve_an_existing/</link>
+      <description><![CDATA[我正在使用 Dioxus 在 Rust 中开发一个全栈应用程序。我努力将 UI 与业务和后端逻辑分开，并将样式隔离在 css 文件中。任何没有 HTML 原生组件（主要是基本组件组）的 UI 组件都已作为不同的 Rust 实现。  当然，我预计很少有 Webdev 会比我选择任何基于 js/ts 的框架更熟悉该堆栈。  但实际上，由于我的 UI 设计技能与我的技术技能相去甚远，我迟早必须找到可以将其提升一两个档次的人。  所以，我的问题是，与使用选择的框架相比，进行设计工作会有多困难？    由   提交/u/modelithe  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s67dqn/is_it_hard_for_a_webdev_to_improve_an_existing/</guid>
+      <pubDate>Sat, 28 Mar 2026 18:02:16 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了 notscare.me，一个恐怖电影、连续剧和游戏的 Jumpscare 数据库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5y86j/i_built_notscareme_a_jumpscare_database_for/</link>
-      <description><![CDATA[      notscare.me 可让您准确找到恐怖内容中发生 Jumpscare 的时间，并提供时间戳和强度评级。 超过 9,500 个游戏，完全由社区驱动，并且每周仍在增长。总是很高兴谈论一些反馈！   由   提交/u/DevWarrior504  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5y86j/i_built_notscareme_a_jumpscare_database_for/</guid>
-      <pubDate>Sat, 28 Mar 2026 11:49:08 GMT</pubDate>
+      <title>我（尝试过）在单个 HTML 文件上制作了一款受 TFT 启发的游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s67873/i_tried_made_a_tft_inspired_game_on_a_single_html/</link>
+      <description><![CDATA[我真的需要帮助。实际上我只是主要使用人工智能来帮助设计游戏，而且我有一堆破损的机制和代码，在某些部分上并不能完全发挥作用，但游戏确实是可以玩的。我只是想改进这一点。还有人想尝试帮忙吗？ https://github.com/iJarvisZ/HTML-Based-TFT-Game  使用金币升级之类的东西不起作用（而是每 4 轮+怪物轮后添加单位。 我主要只是使用 AI 来开发这个没有太多的编码经验或时间。 我只是想解决那些可以实际使用金币来升级和添加单位的部分，并根据 TFT 的机制让这些物品实际使用。     提交的 /u/NotiSynx   [链接]   href=&quot;https://www.reddit.com/r/webdev/comments/1s67873/i_tried_made_a_tft_inspired_game_on_a_single_html/&quot;&gt;[评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s67873/i_tried_made_a_tft_inspired_game_on_a_single_html/</guid>
+      <pubDate>Sat, 28 Mar 2026 17:56:43 GMT</pubDate>
     </item>
     <item>
-      <title>内置 Deny-By-Default-as-a-Service (dbdaas) - 一个适合内向和外向的有趣的 Go API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5xvdf/built_denybydefaultasaservice_dbdaas_a_fun_go_api/</link>
-      <description><![CDATA[嘿伙计们！ 我最近开始学习 Go，经过几周的摸索，我决定构建一些“有用”的东西（绝对没用，但技术上很有趣）。 受此存储库 No-as-a-service 的启发，我构建了 Deny-By-Default-as-a-Service (dbdaas)。它非常适合为您的网站、应用程序或机器人添加幽默感，甚至可以作为开发过程中的创意占位符。 它是一个 API，可以返回对用户说“不”的幽默而时髦的理由。请求或“是” （请参阅自述文件，了解如何触发它。） 尝试一下。 API：https://dbdaas.rajathjaiprakash.com/ GitHub：https://github.com/rajathjn/deny-by-default-as-a-service 注意：API 强制执行每个 IP 地址每分钟 30 个请求的速率限制。 默认情况下，API 返回一个字符串。您可以通过添加 application/json Content-Type 或 Accept 标头或仅将 ?format=json 添加到 URL 来请求 JSON。 我很乐意听到任何反馈。保持安全并不断否认！   由   提交 /u/DisastrousEggy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5xvdf/built_denybydefaultasaservice_dbdaas_a_fun_go_api/</guid>
-      <pubDate>Sat, 28 Mar 2026 11:29:15 GMT</pubDate>
+      <title>Lorea - 构建您的 3D 学习世界和课程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s66na5/lorea_build_your_3d_study_worlds_courses/</link>
+      <description><![CDATA[      现在可能很多人都知道 - 教育科技是人工智能正在改变的主要行业之一。但大多数工具认为它不够大，并且专注于小型、分散的内容创建。这就是为什么我构建了 Lorea.app - 只需通过提示即可构建整个大学般的课程。采用 3D 世界格式或经典课程格式。 - 在学习世界、课程、视频、游戏、多项选择、摘要、歌曲、播客等之间进行选择 - 编辑您的世界和内容通过提示、添加图表、思维导图、流程图等进行课程 - 与您的学生、同事和朋友分享 - 慷慨的免费套餐，付费高级用户  https://preview.redd.it/1x12bdq2otrg1.png?width=916&amp;format=png&amp;auto=webp&amp;s=7b55945b961c9cfe35126b9bfad4ee795e57082b 我之前退出了 3 个教育科技 SaaS 平台，专门为客户构建教育科技移动应用程序和平台。该平台的增长策略主要关注专门针对 STEM 的集群 SEO 主题。 我非常高兴获得有关用户流量、商业化等方面的反馈。 Lorea.app   由   提交 /u/Total-Strategy8675   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s66na5/lorea_build_your_3d_study_worlds_courses/</guid>
+      <pubDate>Sat, 28 Mar 2026 17:34:07 GMT</pubDate>
     </item>
     <item>
-      <title>周六炫耀：使用 Tauri v2 构建开源 Postman 替代方案 – 10 天内获得 900 多个 GitHub star</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5xpp8/showoff_saturday_built_an_opensource_postman/</link>
-      <description><![CDATA[      本周有用户向我发送了这张屏幕截图。 这是 ApiArk 与 Apidog。这就是我构建这个的原因。 ApiArk 是一个本地优先的开源 API 客户端。没有登录。没有云。不使用 800MB RAM。 10 天内获得 900+ GitHub 星，自然而然，无需预算。 Github 仓库：github.com/berbicanes/apiark 网页：apiark.dev   由   提交/u/ScarImaginary9075  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5xpp8/showoff_saturday_built_an_opensource_postman/</guid>
-      <pubDate>Sat, 28 Mar 2026 11:20:47 GMT</pubDate>
+      <title>MilkTea - 音频可视化器 + 视频渲染器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s66g38/milktea_audio_visualizer_video_renderer/</link>
+      <description><![CDATA[      我正在寻找一种工具，可以用来根据我制作的音乐创建可视化 MP4 文件，但我找不到任何基于 Web 的可视化工具：  免费 允许从可视化工具创建视频文件 拥有一个不错的 UI  经过一番研究，我发现了一个名为 butterchurn 的库，并决定构建 MilkTea。 它仍在进行中，但您可以通过首先选择一个音频文件来渲染视频文件（您可以将其拖放到 UI 上）然后创下“纪录”按钮。目前它仅渲染 1080p，但我计划添加一个可以配置渲染选项的窗格。 有许多可用的热键（以及基本的滑动手势触摸设备）。您可以通过单击“帮助”来查看它们。角落里的按钮。 侧面还添加了一些其他功能：  麦克风输入。 从其他选项卡和窗口共享音频（在基于 Chromium 的浏览器上）。 “舞台和启动”预设，这样您就可以在需要的时候更改为特定的预设。  感谢任何看过它的人！ https://milktea.ink/   由   提交/u/vilos5099  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s66g38/milktea_audio_visualizer_video_renderer/</guid>
+      <pubDate>Sat, 28 Mar 2026 17:26:27 GMT</pubDate>
     </item>
     <item>
-      <title>我的第一个作品集（欢迎反馈）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5xmzh/my_first_ever_portfolio_feedback_is_welcome/</link>
-      <description><![CDATA[我刚刚使用 HTML、CSS 和 JS 创建了我的第一个作品集。我花了大约 4 天左右的时间（我是一个初学者），我对结果非常满意，但我也想了解一些外部观点。 就背景而言，我是网络安全专业的一年级本科生。它可能有很多错误或构造不良的代码。 （祝在网站中找到复活节彩蛋的人 30 年好运） https://l00k1.github.io/Website-Portfolio/   由   提交/u/700K1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5xmzh/my_first_ever_portfolio_feedback_is_welcome/</guid>
-      <pubDate>Sat, 28 Mar 2026 11:16:38 GMT</pubDate>
+      <title>我厌倦了管理 12 个版本的论文，因此开发了一个应用程序来解决这个问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s66f4f/i_got_so_tired_of_managing_12_versions_of_my/</link>
+      <description><![CDATA[你知道如何得到“Essay_v3_FINAL_actuallyFINAL.docx”吗？或者你为“为什么是我们”写了两个完全不同的开头。文章，然后你在文档的底部粘贴一个注释，上面写着“可以使用这个”？ 我一直在我的暑期项目申请中这样做，但它已经完全失控了，所以我构建了一个写作应用程序，你可以在其中分支任何句子。您可以将两个版本保留在文档中，在它们之间切换，并且永远不会丢失您没有选择的版本。 它被称为 Quillium，它是免费的，公共测试版于 4 月 2 日启动。我想你们中的一些人可能会发现它很有用，因为论文季基本上是版本控制的噩梦。 下面是它的快速演示：https://imgur.com/eQpTmen 等候名单https://quillium.bryanhu.com/   由   提交 /u/ThatXliner   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s66f4f/i_got_so_tired_of_managing_12_versions_of_my/</guid>
+      <pubDate>Sat, 28 Mar 2026 17:25:23 GMT</pubDate>
     </item>
     <item>
-      <title>您的网站现在可以与访问者对话</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5xlix/your_website_can_now_talk_back_to_visitors/</link>
-      <description><![CDATA[我在您的网站上构建了一个像人类一样的人工智能语音助手。它会读取您的页面，了解您的产品，并实时回答访客的问题。无需培训，无需设置，什么都没有。 在这里观看它：https://talking-website.landinghero.app/ 在您自己的网站上尝试一下：landinghero.ai/widget 希望获得有关实际使您满意的反馈将其放在您的网站上。   由   提交 /u/BearInevitable3883   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5xlix/your_website_can_now_talk_back_to_visitors/</guid>
-      <pubDate>Sat, 28 Mar 2026 11:14:31 GMT</pubDate>
+      <title>烤我的着陆页 - 良好的流量，几乎为零的转化</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s65uyc/roast_my_landing_page_good_traffic_almost_zero/</link>
+      <description><![CDATA[      我构建了 NeoTiler，一个适用于 macOS 的原生 Swift 窗口管理器。该产品获得了持续的流量，但转化率很糟糕，我不明白为什么。 堆栈：Next.js 前端，用于支付和许可的 Lemon Squeezy。 我所看到的： - 人们登陆页面 - 他们滚动 - 他们没有下载免费试用版就离开 我怀疑问题出在英雄部分或 CTA 结构中的某个地方，但是我是一名开发人员，而不是设计师或转换专家，所以我可能对明显的问题视而不见。 网站：https://getneotiler.com 我不确定的具体事情： - 英雄中有两个 CTA（获取 NeoTiler + 下载免费试用版）是否令人困惑？ - 定价（5.99 美元）是否令人困惑？一次）在页面中出现得太晚？ - 视频位置是否有害或有帮助？ - 某处是否存在信任问题？ 残酷一点。我能应付。什么会让你立即反弹？   由   提交/u/Major_Commercial4253  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s65uyc/roast_my_landing_page_good_traffic_almost_zero/</guid>
+      <pubDate>Sat, 28 Mar 2026 17:03:54 GMT</pubDate>
     </item>
     <item>
-      <title>请在我的网站上分享您的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5x8fu/please_share_your_feedbacks_on_my_website/</link>
-      <description><![CDATA[      我的第一个全栈项目  https://broFounders.com 一个供学习者和业余构建者学习的平台，首先用他们所知道的一点点知识进行构建，然后在破坏/构建的过程中弄清楚其余的知识。即使在法学硕士之前，这也是非常有效的，所以我认为这会有所帮助。 没有什么开创性的，只是我希望我有一个空间来构建这个以及之前和将来的项目。所有其他网站都很难找到具体信息或不容易访问，所以我建立了这个。 谢谢   由   提交/u/supreme_rain  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5x8fu/please_share_your_feedbacks_on_my_website/</guid>
-      <pubDate>Sat, 28 Mar 2026 10:54:14 GMT</pubDate>
+      <title>需要对我的新项目（心理健康领域）提出严厉的反馈——UI/UX、性能和可访问性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s64vhm/need_harsh_feedback_on_my_new_project_mental/</link>
+      <description><![CDATA[大家好。由于今天是星期六，我很想让您关注我正在构建的项目：mindresets.org 这是一个专注于神经系统调节和慢性倦怠的教育平台。由于观众已经完全疲惫不堪，不知所措，因此 UI/UX 需要极其平静、无摩擦且轻巧。我的目标是零视觉混乱和零激进的销售策略。 在扩展内容和增加流量之前，我需要您拆解构建。 我需要您讨论的具体领域：  移动响应能力：移动设备上有任何东西会破裂、重叠或感觉笨重吗？ 性能：感觉是否灵活、轻便？或者是否存在任何渲染瓶颈？ 辅助功能（a11y）：对于经历脑雾或感官超载的人来说，对比度、字体大小和间距是否确实舒适？ 一般 UI/UX：用户从登陆页面到课程页面的旅程是否感觉逻辑和流畅？  请对设计、布局和前端体验尽可能残酷。谢谢！   由   提交 /u/MindResets   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s64vhm/need_harsh_feedback_on_my_new_project_mental/</guid>
+      <pubDate>Sat, 28 Mar 2026 16:26:26 GMT</pubDate>
     </item>
     <item>
-      <title>构建了 ai-setup 来停止手动配置光标规则和 CLAUDE.md 每个项目，只需在 github 上打 100 颗星</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s5wh6l/built_aisetup_to_stop_manually_configuring_cursor/</link>
-      <description><![CDATA[使用人工智能编码工具的网络开发人员可能会涉及到这一点。 好吧，每个新项目的设置税都让我痛不欲生。你想和 Claude 一起使用 Cursor 吗？必须写一个 .cursorrules 文件。想独立使用克劳德代码吗？得写一个CLAUDE.md。有 mcp 服务器吗？单独的配置。使用开放代码？另一个配置文件。 每个新项目的倍数，而且加起来很快。 所以我们构建了 ai-setup。它是一个 CLI，会询问您正在使用什么工具以及您正在构建什么类型的应用程序，然后为您生成所有 AI 配置文件。一切都经过预先配置，可以很好地协同工作。 刚刚在 github 上获得了 100 颗星，并收到了来自贡献者的 90 个 PR，这真是太棒了。人们一直在添加新模板、新框架设置、新工具支持。 如果您启动了很多新项目，这将为您节省大量时间： https://github.com/caliber-ai-org/ai-setup discord 社区：https://discord.com/invite/u3dBECnHYs 这是一个周六的项目，后来发展成了真正的东西，哈哈，欢迎反馈   由   提交 /u/Substantial-Cost-429   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s5wh6l/built_aisetup_to_stop_manually_configuring_cursor/</guid>
-      <pubDate>Sat, 28 Mar 2026 10:09:23 GMT</pubDate>
+      <title>我制作了一个网站来计算 NBA 统计数据和比赛结果</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s64sy2/i_made_a_website_to_calculate_nba_stats_and/</link>
+      <description><![CDATA[标题。欢迎任何反馈和/或支持。 它使用加权平均值+增量来计算玩家/团队统计数据。加权平均值基于游戏中的游戏时间，增量基于玩家/团队所面对的团队（如果有，否则仅使用加权平均值）。 比赛结果（每个团队的分数）使用 XGBoost 的 XGBRegressor 计算。 以下是链接： erammkabir.github.io 谢谢阅读，祝你有美好的一天！   由   提交/u/ throw_away_for_the_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s64sy2/i_made_a_website_to_calculate_nba_stats_and/</guid>
+      <pubDate>Sat, 28 Mar 2026 16:23:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
