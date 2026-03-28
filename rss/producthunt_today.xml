@@ -4,48 +4,48 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Mar 2026 02:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 04:56:10 GMT</lastBuildDate>
     <item>
-      <title>Composio 的通用 CLI</title>
-      <link>https://www.producthunt.com/products/composio</link>
+      <title>苏诺v5.5</title>
+      <link>https://www.producthunt.com/products/suno</link>
       <description><![CDATA[
-            直接从您的终端将 AI 代理连接到 1000 多个应用程序
+            用您的声音进行创作，根据您的声音调整模型
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/composio</guid>
-      <pubDate>Fri, 27 Mar 2026 02:14:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/suno</guid>
+      <pubDate>Fri, 27 Mar 2026 04:02:38 GMT</pubDate>
     </item>
     <item>
-      <title>克劳德代码自动修复</title>
-      <link>https://www.producthunt.com/products/claude-code-auto-fix-in-the-cloud</link>
+      <title>原来是</title>
+      <link>https://www.producthunt.com/products/oli-2</link>
       <description><![CDATA[
-            在云中自动修复 PR，而您无需干涉
+            扫描任何产品即可了解其在怀孕期间是否安全
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/claude-code-auto-fix-in-the-cloud</guid>
-      <pubDate>Thu, 26 Mar 2026 17:27:33 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/oli-2</guid>
+      <pubDate>Fri, 27 Mar 2026 00:44:33 GMT</pubDate>
     </item>
     <item>
-      <title>游戏测试者.gg</title>
-      <link>https://www.producthunt.com/products/playtester-gg</link>
+      <title>hoop.dev - 克劳德代码网关</title>
+      <link>https://www.producthunt.com/products/hoop-dev-for-databases</link>
       <description><![CDATA[
-            为您的独立游戏提供新鲜且经过验证的游戏测试人员
+            将 Claude Code 连接到您的内部系统，无需凭据
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/playtester-gg</guid>
-      <pubDate>Thu, 26 Mar 2026 16:46:30 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/hoop-dev-for-databases</guid>
+      <pubDate>Thu, 26 Mar 2026 17:51:50 GMT</pubDate>
     </item>
     <item>
       <title>Mistral AI 的 Voxtral TTS</title>
@@ -62,18 +62,32 @@
       <pubDate>Thu, 26 Mar 2026 16:43:40 GMT</pubDate>
     </item>
     <item>
-      <title>双子座3.1 快闪直播</title>
-      <link>https://www.producthunt.com/products/gemini-6</link>
+      <title>奥多斯出版社</title>
+      <link>https://www.producthunt.com/products/socap</link>
       <description><![CDATA[
-            让音频 AI 更自然、更可靠
+            建立人工智能业务，最高可获得 10 万美元。没有取得股权
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/gemini-6</guid>
-      <pubDate>Thu, 26 Mar 2026 15:43:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/socap</guid>
+      <pubDate>Thu, 26 Mar 2026 15:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>CapCut 影音工作室</title>
+      <link>https://www.producthunt.com/products/capcut-video-and-image-editor</link>
+      <description><![CDATA[
+            将想法转化为令人惊叹的 AI 视频
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/capcut-video-and-image-editor</guid>
+      <pubDate>Thu, 26 Mar 2026 14:45:45 GMT</pubDate>
     </item>
     <item>
       <title>夜光藻</title>
@@ -118,34 +132,6 @@
       <pubDate>Thu, 26 Mar 2026 11:22:36 GMT</pubDate>
     </item>
     <item>
-      <title>应用程序台</title>
-      <link>https://www.producthunt.com/products/appdesk</link>
-      <description><![CDATA[
-            您的 App Store 数据在 Mac 上以精美的方式呈现
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/appdesk</guid>
-      <pubDate>Thu, 26 Mar 2026 09:23:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>1开发工具</title>
-      <link>https://www.producthunt.com/products/1devtool</link>
-      <description><![CDATA[
-            具有持久终端和 9 个开发工具的多项目 IDE
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/1devtool</guid>
-      <pubDate>Thu, 26 Mar 2026 07:43:53 GMT</pubDate>
-    </item>
-    <item>
       <title>长凳跨度</title>
       <link>https://www.producthunt.com/products/benchspan</link>
       <description><![CDATA[
@@ -160,32 +146,46 @@
       <pubDate>Thu, 26 Mar 2026 07:29:52 GMT</pubDate>
     </item>
     <item>
-      <title>内部组织</title>
-      <link>https://www.producthunt.com/products/insideorg</link>
+      <title>双子座出口工作室</title>
+      <link>https://www.producthunt.com/products/gemini-export-studio</link>
       <description><![CDATA[
-            适合任何公司的免费组织结构图查看器
+            将 Gemini 聊天导出为 PDF、Markdown、JSON、CSV
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/insideorg</guid>
-      <pubDate>Thu, 26 Mar 2026 06:25:29 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/gemini-export-studio</guid>
+      <pubDate>Wed, 25 Mar 2026 19:44:25 GMT</pubDate>
     </item>
     <item>
-      <title>泡菜比赛</title>
-      <link>https://www.producthunt.com/products/picklematch</link>
+      <title>胡纳</title>
+      <link>https://www.producthunt.com/products/hunna</link>
       <description><![CDATA[
-            约会应用程序，你的第一次约会是泡菜球
+            适合企业创始人的利润应用程序
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/picklematch</guid>
-      <pubDate>Sun, 22 Mar 2026 16:19:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/hunna</guid>
+      <pubDate>Tue, 24 Mar 2026 19:27:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>苏帕平</title>
+      <link>https://www.producthunt.com/products/supapin</link>
+      <description><![CDATA[
+            扫描您的网站以创建 pin + SEO 优化的描述
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/supapin</guid>
+      <pubDate>Tue, 24 Mar 2026 11:35:50 GMT</pubDate>
     </item>
     <item>
       <title>斯塔克帕克自动驾驶仪</title>
