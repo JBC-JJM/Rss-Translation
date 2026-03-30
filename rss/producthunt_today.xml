@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 30 Mar 2026 13:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 16:08:18 GMT</lastBuildDate>
     <item>
       <title>盛传人才</title>
       <link>https://www.producthunt.com/products/vibetalent</link>
@@ -34,18 +34,18 @@
       <pubDate>Mon, 30 Mar 2026 04:22:48 GMT</pubDate>
     </item>
     <item>
-      <title>Halo Vision 耳机</title>
-      <link>https://www.producthunt.com/products/halo-headphones</link>
+      <title>听写。</title>
+      <link>https://www.producthunt.com/products/dictate</link>
       <description><![CDATA[
-            带摄像头的耳机可捕捉您即兴创作的瞬间
+            用 AI 语音输入取代 iPhone 键盘
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/halo-headphones</guid>
-      <pubDate>Mon, 30 Mar 2026 01:40:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/dictate</guid>
+      <pubDate>Sun, 29 Mar 2026 19:38:30 GMT</pubDate>
     </item>
     <item>
       <title>弹出任务</title>
@@ -90,6 +90,20 @@
       <pubDate>Sun, 29 Mar 2026 05:25:28 GMT</pubDate>
     </item>
     <item>
+      <title>锁匙</title>
+      <link>https://www.producthunt.com/products/imbue-7</link>
+      <description><![CDATA[
+            本地人工智能代理的凭证层
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/imbue-7</guid>
+      <pubDate>Sun, 29 Mar 2026 01:21:40 GMT</pubDate>
+    </item>
+    <item>
       <title>蓝色人工智能</title>
       <link>https://www.producthunt.com/products/bluor-ai</link>
       <description><![CDATA[
@@ -116,20 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/blood-sugar-journal</guid>
       <pubDate>Sat, 28 Mar 2026 17:47:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>穆尔莫聊天</title>
-      <link>https://www.producthunt.com/products/mulmochat</link>
-      <description><![CDATA[
-            用于视觉交互人工智能响应的模块化界面
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mulmochat</guid>
-      <pubDate>Sat, 28 Mar 2026 07:16:00 GMT</pubDate>
     </item>
     <item>
       <title>调用</title>
@@ -188,6 +188,20 @@
       <pubDate>Thu, 26 Mar 2026 12:04:05 GMT</pubDate>
     </item>
     <item>
+      <title>人工智能空间</title>
+      <link>https://www.producthunt.com/products/aispace</link>
+      <description><![CDATA[
+            所有前沿人工智能模型集中于一处 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/aispace</guid>
+      <pubDate>Tue, 24 Mar 2026 06:37:40 GMT</pubDate>
+    </item>
+    <item>
       <title>概念MCP</title>
       <link>https://www.producthunt.com/products/notion-mcp</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/notion-mcp</guid>
       <pubDate>Wed, 04 Mar 2026 00:50:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>nCompass人工智能助手</title>
-      <link>https://www.producthunt.com/products/ncompass-tech</link>
-      <description><![CDATA[
-            让每个人都能编写 GPU 内核
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ncompass-tech</guid>
-      <pubDate>Wed, 25 Feb 2026 18:43:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
