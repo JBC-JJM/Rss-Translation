@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 31 Mar 2026 13:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 16:07:07 GMT</lastBuildDate>
     <item>
       <title>正在寻找适用于 Mac 的免费或永久许可视频升级工具。有什么建议吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1s8ktck/looking_for_a_free_or_perpetual_license_video/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>这是一个静音音频驱动程序</title>
       <link>https://www.reddit.com/r/editors/comments/1s84eh1/ndi_silent_audio_driver/</link>
-      <description><![CDATA[我正在尝试使用 NDI 虚拟输入方法通过 Zoom 将时间线传输到客户端。视频工作完美，但我无法让一滴音频通过 NDI 管道传递到 Zoom。 （我已经尝试过 Premiere 和 Avid） 我已经尝试过的所有内容：  Avid 设置：启用“广播时播放本地音频” HW/SW 菜单中的（桌面音频）。我可以听到扬声器上的音频，但 NDI 流没有声音。 缩放设置：选择“NDI 音频”作为麦克风。启用了“音乐家的原创声音”。 Mac“隐私”：NDI 虚拟输入不会出现在麦克风隐私列表中。 NDI 虚拟输入：应用程序正在运行，并且源已正确设置为“Avid Media Composer”。  我在这方面和“麦克风”上花了一段时间。权限根本不会在系统设置中触发。有没有人找到 NDI 音频驱动程序的解决方法？ 谢谢！ https://ndi.video/tools/ 编辑/更新： 我已经成功通过安装 BlackHole 并将其设置为我的系统音频输出和 Zoom 的麦克风输入来使音频正常工作。不过，质量不是很好，听起来有点压缩。   由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试使用 NDI 虚拟输入方法通过 Zoom 将时间线传输到客户端。视频工作完美，但我无法让一滴音频通过 NDI 管道传递到 Zoom。 （我已经尝试过 Premiere 和 Avid） 我已经尝试过的所有内容：  Avid 设置：启用“广播时播放本地音频” HW/SW 菜单中的（桌面音频）。我可以听到扬声器上的音频，但 NDI 流没有声音。 缩放设置：选择“NDI 音频”作为麦克风。启用了“音乐家的原创声音”。 Mac“隐私”：NDI 虚拟输入不会出现在“麦克风隐私”列表中。 NDI 虚拟输入：应用程序正在运行，源已正确设置为“Avid Media Composer”。  我在这方面和“麦克风”上花了一段时间。权限根本不会在系统设置中触发。有没有人找到 NDI 音频驱动程序的解决方法？ 谢谢！ https://ndi.video/tools/ 编辑/更新： 我已经成功通过安装 BlackHole 并将其设置为我的系统音频输出和 Zoom 的麦克风输入来使音频正常工作。不过，质量不是很好，听起来有点压缩。   由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1s84eh1/ndi_silent_audio_driver/</guid>
       <pubDate>Mon, 30 Mar 2026 21:45:30 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>我可以将 Premiere 快捷方式导入到 Resolve 中吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1s7u3sb/can_i_import_my_premiere_shortcuts_into_resolve/</link>
-      <description><![CDATA[我在使用 Premiere 和整个 Adob​​e 软件包时感到非常烦恼，因为它不断崩溃并且最近变得非常不可靠；所以我想尝试一下Resolve。  但是，我是一个巨大的快捷方式用户，并且我有很多个性化的特定快捷方式。我想知道在 Resolve 中复制这些是否很容易，甚至以某种方式导入它们是否很容易。提前致谢。  ps。欢迎提供有关如何有效利用 NLE 的任何建议   由   提交 /u/rajolablanka   [链接] [评论]]]></description>
+      <description><![CDATA[我在使用 Premiere 和整个 Adob​​e 软件包时感到非常烦恼，因为它不断崩溃并且最近变得非常不可靠；所以我想尝试一下Resolve。  但是，我是一个巨大的快捷方式用户，并且我有很多特定的个性化快捷方式。我想知道在 Resolve 中复制这些是否很容易，甚至以某种方式导入它们是否很容易。提前致谢。  ps。欢迎提供有关如何有效利用 NLE 的任何建议   由   提交 /u/rajolablanka   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1s7u3sb/can_i_import_my_premiere_shortcuts_into_resolve/</guid>
       <pubDate>Mon, 30 Mar 2026 15:40:00 GMT</pubDate>
     </item>
