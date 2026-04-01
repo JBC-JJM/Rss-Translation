@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 01 Apr 2026 13:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 16:05:39 GMT</lastBuildDate>
+    <item>
+      <title>基于终端的家庭自动化工具包发布</title>
+      <link>https://www.reddit.com/r/automation/comments/1s9low2/terminalbased_home_automation_toolkit_released/</link>
+      <description><![CDATA[今天在 GitHub 上发布，我真的很兴奋。一直在以艰难的方式调试 IoT 设备 - 编写脚本、导入 SDK、处理身份验证、解析响应。每个设备测试需要 15 分钟以上。对 20 台设备重复？半天过去了。涂鸦的新 CLI 看起来减少了这一点：- 设备查询、设备控制、批量操作、JSON 输出、自动区域检测五种功能，配置一次，然后只需运行命令。对于 AI 代理工作来说，这是巨大的 - 代理已经本机执行 shell 命令。早期访问，但方法是正确的。 GUI 适合人类，CLI 适合人工智能。   由   提交/u/Fit_Guidance2029   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s9low2/terminalbased_home_automation_toolkit_released/</guid>
+      <pubDate>Wed, 01 Apr 2026 14:10:56 GMT</pubDate>
+    </item>
     <item>
       <title>用于电话的人工智能笔记记录器与用于会议的人工智能笔记记录器是不同的产品类别</title>
       <link>https://www.reddit.com/r/automation/comments/1s9k6x2/ai_note_taker_for_phone_calls_is_a_different/</link>
@@ -39,13 +46,6 @@
       <description><![CDATA[大家好， 我厌倦了仅适用于作者所使用的确切技术堆栈的 AI 提示列表。因此，我使用 [PLACEHOLDERS] 构建了一些不同的提示模板，而不是硬编码的细节。 这个想法很简单：而不是： “编写一个 Python 脚本来使用 pandas 清理数据集。” 你得到： “编写一个 [LANGUAGE] 脚本来使用 [LIBRARY] 清理 [数据集描述]，处理 [问题]” 交换你的工具。立即获得完美的针对性提示。 包含的内容（全部免费）： - 25 个 Web 开发模板 - 20 个移动应用程序开发模板 总共有 245 个模板：单个 Markdown 文件中的 245 个模板。 在这里免费分享。 很高兴回答评论中的问题。   由   提交 /u/pretendingMadhav   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1s9gqu1/i_made_245_fillintheblank_ai_prompt_templates_for/</guid>
       <pubDate>Wed, 01 Apr 2026 10:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户服务中的人工智能聊天机器人是否已真正达到顶峰，还是我们才刚刚开始</title>
-      <link>https://www.reddit.com/r/automation/comments/1s9ghsd/have_ai_chatbots_in_customer_service_actually/</link>
-      <description><![CDATA[最近一直在思考这个问题。我与一些电子商务客户合作，在过去一年左右的时间里，我们一直在推动他们采用人工智能聊天机器人设置。对于订单跟踪和常见问题解答等基本内容，它确实运作良好，成本下降，响应时间更快。但每当客户遇到哪怕是稍微复杂的事情时，机器人就会循环播放或提供错误的信息，最终他们会愤怒地完全退出聊天。感觉这些东西可以处理的内容和人们实际需要的客户支持之间仍然存在很大差距。根据我所读到的内容，下一波浪潮应该是更加代理的人工智能，它实际上可以做一些事情，例如自主处理退款或更新帐户，而不仅仅是回答问题。这听起来很有希望，但我对企业是否准备好将这种程度的信任移交给人工智能有点怀疑。很好奇这里是否有人看到这些更自主的设置实际上在生产中运行良好，或者大多数地方仍然停留在令人沮丧的基于规则的东西上，这给整个类别带来了坏名声。   由   提交/u/Lina_KazuhaL   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s9ghsd/have_ai_chatbots_in_customer_service_actually/</guid>
-      <pubDate>Wed, 01 Apr 2026 10:17:44 GMT</pubDate>
     </item>
     <item>
       <title>AI时代的创造似乎依然没有那么简单。</title>
