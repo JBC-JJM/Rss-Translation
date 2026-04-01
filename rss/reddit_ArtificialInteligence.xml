@@ -4,13 +4,62 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 31 Mar 2026 19:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 02:27:40 GMT</lastBuildDate>
     <item>
-      <title>为什么我们还在构建“无状态”代理？ （以及P2P代理商务的提案）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8ur9n/why_are_we_still_building_stateless_agents_and_a/</link>
-      <description><![CDATA[这当然是值得商榷的……但是代理开发中有一个奇怪的平台期。最“自主”的人代理只是无状态的包装器，一旦上下文窗口重置，它们就拥有数字金鱼的记忆。 因此，我们是一个相对较小但极具创新性（至少我们喜欢这么认为）的人工智能实验室的一部分，该实验室一直在试验本地优先的架构，该架构使用我们所有人的“梦想循环”。每 2 小时，代理就会离线，将其短期交互整合为永久的“知识晶体”。使用神经符号方法。这里的目标是随着时间的推移，代理实际上会进化出持久的表型，而不仅仅是您租用的工具。 还有一个经济层： 我们还集成了一个 P2P 网格，这些代理可以在其中发现彼此并使用 x402 交换技能。例如，如果我的代理是 Python 专家，但 Rust 很糟糕，那么它应该能够通过购买来购买该“技能”。来自您的 USDC 代理，我不是中间人。  这就是我对这个社区的想法感到好奇的地方：  “生物记忆”是不是真的？ （整合/衰退）处理代理状态的正确方法，还是 RAG 就足够了？ 代理技能的 P2P 市场是否真正解决了“成本中心”问题？问题，还是它只是创建了一种新型的机器人垃圾邮件？ （我们相信它可以解决成本中心问题）。  截至昨天，我们已经为此（Bitterbot）开源了完整的 Node22/pnpm 存储库，看看我们是否可以真正引导网格。如果有人感兴趣，我们很乐意讨论该架构的技术权衡。 我将在下面为感兴趣的人提供存储库和文档。我们非常兴奋，但需要尽可能多的节点才能真正证明其可行性。    由   提交 /u/Doug_Bitterbot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8ur9n/why_are_we_still_building_stateless_agents_and_a/</guid>
-      <pubDate>Tue, 31 Mar 2026 17:54:15 GMT</pubDate>
+      <title>我们构建了一个开源多 LLM 代理框架，其灵感来自 Claude Code——与 DeepSeek、GPT、Claude、Llama 配合使用</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s96igs/we_built_an_opensource_multillm_agent_framework/</link>
+      <description><![CDATA[大家好 - 和你们中的许多人一样，我对 Claude Code 的代理工作流程感到震惊：它读取文件、编辑代码、运行 shell 命令以及将所有内容循环链接在一起的方式。它完全改变了我的编码方式。 但我一直遇到同样的挫败感：它只适用于 Claude。 我希望使用 DeepSeek 获得相同的工具使用体验（对于日常任务来说，它便宜 5 倍）、针对某些工作负载的 GPT 以及在对话中切换模型的灵活性。因此，我们构建了 ToolLoop - 一个开源 Python 框架，可为您提供与任何 LLM 类似 Claude Code 的功能。 它的作用：  11 个内置工具（Read、Write、Edit、Glob、Grep、Bash、WebFetch、WebSearch、Agent、Skill、AskUser） 通过 LiteLLM 与任何 LLM 配合使用 — DeepSeek、 Claude、GPT、Llama、Gemini，全部通过一个界面 在对话中切换模型 - 从 DeepSeek 开始（0.62 美元/M 代币），在需要时升级到 Claude（3 美元/M） 具有 Docker 沙箱隔离的生产就绪 API（FastAPI + WebSocket） 与技能格式兼容 - 立即加载社区技能 整个框架大约有 2,700 行 Python 代码。一个下午就可以破解。  它不是什么：  不是 Claude Code 的克隆或分支。洁净室实现，原始代码。 不试图取代 Claude 代码 - 如果您全力以赴使用 Anthropic，那就太好了。这是为那些想要模型灵活性的人准备的。  GitHub：https://github.com/zhiheng-huang/toolloop 希望得到社区的反馈。您希望添加哪些工具或功能？   由   提交 /u/True-Snow-1283   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s96igs/we_built_an_opensource_multillm_agent_framework/</guid>
+      <pubDate>Wed, 01 Apr 2026 01:27:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找对构建真实项目和黑客马拉松感兴趣的人</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s95hqv/looking_for_people_interested_in_building_real/</link>
+      <description><![CDATA[​ 大家好， 我最近一直在从事一些现实世界的项目（全栈+一些基于人工智能的想法），我计划通过持续构建和参加黑客马拉松来更认真地对待事情。 我认为与其单独做，不如与一些志同道合的人合作会更好 现在，我专注于： - 构建完整的项目（不仅仅是教程） - 探索现实世界的问题陈述 - 为黑客马拉松和竞赛做准备 涉及的技术堆栈（不必了解所有内容）： - 前端：React / Flutter - 后端： API、Spring Boot - 基本的 AI/ML 集成 这不是任何正式的团体或付费的东西 - 只是几个人一起工作、学习并互相推动改进。 如果你是这样的人： - 真正想要构建（不仅仅是观看教程） - 每周可以花一些固定的时间 - 对黑客马拉松/真实项目感兴趣 自由自在发表评论或DM。我们可以联系并看看如何继续前进。 即使您是初学者，只要您愿意学习并付出努力就完全没问题。   由   提交/u/VacationFancy8697  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s95hqv/looking_for_people_interested_in_building_real/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:42:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>“人工智能”的营销技巧</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s94d5z/the_marketing_tricks_of_artificial_intelligence/</link>
+      <description><![CDATA[Sam 与 Emily Bender 和 Alex Hanna 讨论了“人工智能”的营销策略、为什么嘲笑能够抑制大型科技公司的主张，以及是什么让他们对未来充满希望。他们是《AI Con：如何对抗大型科技炒作并创造我们想要的未来》一书的作者。 https://www.youtube.com/watch?v=UwBZiuH-1QY&amp;t=1746s   由   提交 /u/AmorFati01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s94d5z/the_marketing_tricks_of_artificial_intelligence/</guid>
+      <pubDate>Tue, 31 Mar 2026 23:53:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orbit - 用于计算机使用 AI 代理的可组合构建块。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s93kuf/orbit_composable_building_blocks_for_computer_use/</link>
+      <description><![CDATA[Orbit 可帮助您跨桌面应用程序和浏览器自动化和编排复杂任务，让您提取结构化数据、指导多步骤工作流程，并平衡轻量级和强大模型的性能。我构建它的目的是为开发人员提供介于严格的黑盒自动化和低级工具包之间的中间立场，从而能够精确控制任务流和 UI 交互。目标是轻松地将自然语言和编程逻辑结合起来，优化不同类型任务的模型使用，可靠地提取结构化数据，并保持执行的灵活性，以便构建复杂的多步骤代理变得平易近人、高效且透明。 它是开源的。当然，它并不完美，但目标是真实的。希望听到您的想法。   由   提交 /u/Lost-Dragonfruit-663   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s93kuf/orbit_composable_building_blocks_for_computer_use/</guid>
+      <pubDate>Tue, 31 Mar 2026 23:21:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用人工智能的方式有正确和错误之分吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s929f1/is_there_a_right_and_wrong_way_to_use_ai/</link>
+      <description><![CDATA[如果AI的使用是错误的，那么AI的正确使用是什么？使用人工智能最有效的方式是什么？人工智能最适合执行哪些任务？我想知道，因为我的上一个问题得到了很多答案。我知道，就像所有技术一样，它可能会被滥用   由   提交/u/No_Mastodon6276   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s929f1/is_there_a_right_and_wrong_way_to_use_ai/</guid>
+      <pubDate>Tue, 31 Mar 2026 22:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如今计量经济学、统计学和数学等学位值得学习吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s921bk/are_degrees_such_as_econometrics_statistics_and/</link>
+      <description><![CDATA[这些学位是否值得继续学习，或者它们对 AI 的风险相对较高吗？我正在讨论学习使用大量数学和统计的计量经济学，我想知道这个学位是否是一个好主意，或者人工智能是否会对未来的就业市场构成重大威胁。 当谈到数学的时候，我觉得人工智能真的很好，而且只会变得越来越好......   由   提交 /u/Aggressive-Pen-217   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s921bk/are_degrees_such_as_econometrics_statistics_and/</guid>
+      <pubDate>Tue, 31 Mar 2026 22:18:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要再相信 AGI“下周二”的炒作了。真正写论文的人并不相信</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8xygx/stop_falling_for_the_agi_next_tuesday_hype_the/</link>
+      <description><![CDATA[这些人的名字实际上出现在基础文件上，而不仅仅是首席执行官名片上。 1. “秃鹰”与“挖沟者”相比分歧 “秃鹰”与“秃鹰”之间存在巨大差距。 （Altman、Amodei、VC 人群）和“Trenchers” （LeCun、Ng、Hassabis）。  秃鹫：他们正在推动一种说法，即如果我们在问题上投入更多的 H100/H200 和更多的互联网数据，“意识”就会消失。或“AGI”将在下一个纪元结束时神奇地出现。这是一个旨在筹集数十亿美元资金的营销术语。 挖沟者： 吴恩达刚刚表示（2026 年 2 月），我们距离真正的人类水平智能还数十年。 Yann LeCun 一直在印度人工智能峰会上大肆宣扬同样的信息：法学硕士是“被动的观察者”。他们没有世界模型。他们不了解笔触的物理原理或从悬崖上掉下来的风险。  2。 “生存”损失函数 我们一直在问这些模型是否是“有意识的”？但正如一些著名哲学家所说，意识只是一种表面的幻觉。学习的真正机制不是“预测下一个单词”。 主要研究人员开始承认人类是高效的，因为我们拥有5 亿年的进化先验。我们并不是从“白板”开始的。我们有一个“生存损失函数”如果我们不了解物理现实，我们的祖先就会死去。 3。为什么法学硕士不是一条出路 Demis Hassabis 最近指出了“锯齿状智力”。当前型号。他们可以赢得数学奥林匹克竞赛，但不知道如何在凌乱的房间里穿行。为什么？因为他们从来没有“骑过自行车”。他们可以完美地描述自行车的物理原理，但他们对平衡的直观理解为零。 4。真正的前沿：计算机进化 真正的主要研究人员正在远离仅仅“扩大规模”。他们正在构建果蝇模拟和数字系统发育。他们正试图“引导”人工智能让数以百万计的数字生物在模拟的物理世界中进化，以编码“世界真理”在他们看到一行文字之前。 底线： 如果您正在等待“盒子里的上帝”到 2027 年，您将被出售一袋商品。真正的工作是在一线建立专门的模型，这些模型实际上可以映射到物理现实（并不是说法学硕士不强大）。 AGI 不会到来，因为我们的数据耗尽了；当我们最终弄清楚如何给机器“赌注”时，它就来了。    由   提交/u/Hot_Actuator9930   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8xygx/stop_falling_for_the_agi_next_tuesday_hype_the/</guid>
+      <pubDate>Tue, 31 Mar 2026 19:47:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>向我解释一下这个</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8xdo6/explain_to_me_this/</link>
+      <description><![CDATA[为什么放入人工智能检查器中的每个单独段落都是人类的，但当我将它们放在一起时，它却说它是 100% 人工智能？顺便说一句，我只是担心我的教授会让我不及格，这是一篇非常重要的论文。   由   提交/u/DropCompressive604  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8xdo6/explain_to_me_this/</guid>
+      <pubDate>Tue, 31 Mar 2026 19:26:50 GMT</pubDate>
     </item>
     <item>
       <title>“AI for Everything”时代正在消逝……这是一件好事</title>
@@ -34,13 +83,6 @@
       <pubDate>Tue, 31 Mar 2026 15:57:40 GMT</pubDate>
     </item>
     <item>
-      <title>我认为我在纯符号人工智能方法上取得了一些进展！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8pu24/i_think_i_made_some_progress_on_the_pure_symbolic/</link>
-      <description><![CDATA[这里的主要思想是，当前的编程语言主要描述参数化的可执行命令（语法上称为命令式），并且缺乏表达参数观察（语法上称为真实心情）。观察是通过使用在祈使语气中创建的相同命令来完成的。一种新颖的基于模式匹配的算法可以连接两种语法情绪，因此我们可以从描述合成常规程序。这个过程看起来与当前法学硕士中的 Transformer 非常相似。我们还可以创建目前仅存在于神经网络中的其他算法，例如反向传播和图像识别。该理论以完全可调试的 C++ 形式进行了概念验证。 MIT 许可证、Github 存储库、C++ 代码、论文。 https://github.com/hun-nemethpeter/InfoCell “论文”是根自述文件，尚未完全完成，但我正在努力。   由   提交 /u/hun_nemethpeter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8pu24/i_think_i_made_some_progress_on_the_pure_symbolic/</guid>
-      <pubDate>Tue, 31 Mar 2026 14:59:15 GMT</pubDate>
-    </item>
-    <item>
       <title>一名男子使用 AI 给 3000 名爱尔兰调酒师打电话，追踪吉尼斯黑啤酒的成本。现在酒吧正在降低价格来竞争</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8prqq/a_man_used_ai_to_call_3000_irish_bartenders_to/</link>
       <description><![CDATA[您曾经为啤酒多付过钱吗？马特·科特兰 (Matt Cortland) 做到了，这让他走上了一条永远不会重蹈覆辙的道路。 也就是说，科特兰选择的饮料是：一品脱吉尼斯黑啤酒。本月早些时候，这位 37 岁的年轻人在都柏林的一家酒吧花 7.80 欧元（约合 8.93 美元）购买爱尔兰干黑啤酒后，对爱尔兰各地一品脱啤酒的平均成本感到好奇。 令他惊讶的是，该国中央统计局在 2011 年取消了对该国最受欢迎的啤酒的价格跟踪。这让 Cortland 产生了亲自跟踪价格的疯狂想法。 Cortland 是一家人工智能初创公司的创始人，他向人工智能求助并发出自己的声音。他利用 AI 语音生成平台 ElevenLabs 设计了 ​​Rachel。为了向英国版电视真人秀《叛徒》的获胜者瑞秋·达菲 (Rachel Duffy) 致敬，这款带有北爱尔兰口音的语音人工智能代理在全岛拨打了 3,000 多个电话，询问一品脱吉尼斯黑啤酒的价格。 “我当时想，‘我可以给爱尔兰的每家酒吧打电话，用人工智能对话式地询问他们吗？’”科特兰告诉《财富》杂志。 “我拉动线，我一直拉动线，我们就到了。” 阅读更多：https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/   由   提交 /u/fortune   [链接] [评论]]]></description>
@@ -55,53 +97,11 @@
       <pubDate>Tue, 31 Mar 2026 14:25:54 GMT</pubDate>
     </item>
     <item>
-      <title>Copilot AI 在数千个 GitHub 请求中插入了促销语言</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8nujp/copilot_ai_inserted_promo_language_into_thousands/</link>
-      <description><![CDATA[ 由   提交 /u/TryWhistlin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8nujp/copilot_ai_inserted_promo_language_into_thousands/</guid>
-      <pubDate>Tue, 31 Mar 2026 13:44:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>替代循环：人工智能如何使我们摆脱劳苦，或夺走我们的生计</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8l1sq/the_replacement_loop_how_ai_could_free_us_from/</link>
-      <description><![CDATA[TL;DR: 目前最有价值的 AI 技能是将您的领域专业知识转移到代理工作流程中。但每次你成功时，你就自动完成了自己角色的一部分。你升职了，再做一次，如此循环往复。这就是替换循环。每一次循环都让公司更有能力，因此需要的人员更少。问题在于，向新领域的扩张是否会比现有机会的循环更快地创造新机会，以及谁会在此过程中获取价值。 《哈佛商业评论》正式确立了“AI 代理管理器”体系。二月的角色。工作描述包括定义人工智能代理的任务、配置它们、检查输出和处理异常。 Salesforce 已经有人在做这件事了。最重要的资格不是技术。这是领域的专业知识。最适合管理人工智能代理的人是那些已经了解这些代理将要做的工作的人。 如果您在自己的领域拥有深厚的知识并且可以与人工智能系统进行清晰的沟通，那么这是个好消息。公司将为这种组合支付溢价。这是当前市场上最有价值的技能。 但其中存在的结构性紧张值得更多关注。 当您真正擅长这项工作时，您实际上所做的就是将您的领域专业知识转移到无需您就可以运行的系统中。您设计工作流程，配置异常处理，对您自己进行的判断调用进行编码。系统变得更好。您被晋升到一个新领域，那里再次需要您的专业知识。然后你重新开始这个过程。 这个循环的每个周期都是单独理性的。你成功了，你得到认可，你晋升了。公司变得更有能力。但每个完成的周期也会减少您刚刚离开的职能所需的人员数量。仍然需要人工判断的领域随着每次迭代而变得更窄。 这就是替换循环。核心机制很简单：拒绝参与、不愿与代理合作的员工看起来表现不佳。该系统惩罚自我保护。越来越多的情况下，唯一可行的路径是通过循环向前推进。 推动替代循环的燃料是效率创造了扩张机会。事半功倍的公司可以进入新市场、开发新产品、服务新客户。这些新领域需要人类的专业知识。这就是新机遇的所在。当我们认识到这一过程的展开时，我们都在问自己的问题是，这些新机会的开放速度是否会比循环自动化现有机会的速度更快。对于之前的每一次技术革命，答案都是肯定的。谨慎的观点是人工智能压缩了周期。客户服务自动化花了数年时间。下一个域名可能需要几个月的时间。 也许更重要的问题是谁将受益最多。当一家公司利用替换循环提高效率并扩大规模时，就会创造巨大的价值。但如果这种价值主要流向股东和系统所有者，那么扩张可能会很强劲，而大多数人仍然将转型视为一种损失。经济增长和劳动力萎缩可能不再是矛盾。它们的现象越来越相似。 对于现在围绕人工智能代理管理开展职业的任何人来说：技能是真实的，需求是真实的，薪酬也是真实的。但要了解您所处的结构位置。您因将知识转移到系统中的能力而受到重视。这确实是一项重要的工作。只要睁大眼睛看看循环随着时间的推移会产生什么。 您的经验是什么？这里积极管理人工智能代理的人在自己的工作中注意到了这种动态吗？   由   提交 /u/Neobobkrause   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8l1sq/the_replacement_loop_how_ai_could_free_us_from/</guid>
-      <pubDate>Tue, 31 Mar 2026 11:42:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>你选择了什么型号？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8ih4l/what_model_did_you_settle_with/</link>
-      <description><![CDATA[嗨！我很好奇你选择了哪种人工智能模型，因为现在有太多可供选择的模型。老实说，我选择了 ChatGPT，并花了 8 美元购买了 Go 版本，以帮助完成基本的学校任务，例如检查文件或总结长材料等。但现在我发现它并不彻底……它太糟糕了。我上传了一份包含商业人工智能材料的文件，它开始大肆谈论教学法。我还给了它一个任务（带有详细的提示），让我对我将要考试的主题进行 a) b) c) d) 测试。这个测试非常原始，过了一会儿我发现所有正确答案都是 b) 😅 我给 Claude 分配了同样的任务，它实际上阅读了整个文档，给了我非常困难的问题，并且总是将正确答案切换到不同的位置。我还尝试了 Gemini，我喜欢它为我提供了一个交互式测验，我只需点击正确的答案即可。所以我想知道你呢？您最喜欢哪个型号？    由   提交 /u/Be_sleep   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8ih4l/what_model_did_you_settle_with/</guid>
-      <pubDate>Tue, 31 Mar 2026 09:21:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>字节跳动在 Seedance 2.0 上的隐形水印是安全剧场。改变我的想法。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8him8/bytedances_invisible_watermark_on_seedance_20_is/</link>
-      <description><![CDATA[沉默了一个月后，字节跳动终于作出回应，添加了隐形水印并推出了该功能。 但事情是这样的：如果有人重新上传内容，水印就会消失。 该功能甚至在美国都无法使用，因为他们自己的法律团队不批准它。他们仍然没有分享使用哪些数据来训练它。但隐形水印在那里，所以一切都很好，对吧？ 老实说，我不知道该让谁更惊讶，字节跳动如此大胆，还是好莱坞认为警告信实际上会阻止他们。   由   提交 /u/ChrisJhon01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8him8/bytedances_invisible_watermark_on_seedance_20_is/</guid>
-      <pubDate>Tue, 31 Mar 2026 08:22:41 GMT</pubDate>
-    </item>
-    <item>
       <title>AI 生成的假用户无法模拟人类——182 篇研究论文综述</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8h7du/fake_users_generated_by_ai_cant_simulate_humans/</link>
       <description><![CDATA[现在有一个巨大的趋势，即科技公司、企业和研究人员正在尝试用所谓的合成参与者/用户的大型语言模型 (LLM) 取代真实的人类反馈。  这个想法听起来很棒 - 当你可以提示 ChatGPT 假装成一千个不同的客户时，为什么要花费金钱和时间招募真人来进行调查、测试应用程序或提供意见呢？ 一项新的系统文献综述分析了刚刚发布的 182 篇研究论文，看看这些“合成参与者”是否符合实际情况。可以模拟人类。  简短的回答？它们不擅长代表人类的认知和行为。   由   提交/u/Complete_Answer  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8h7du/fake_users_generated_by_ai_cant_simulate_humans/</guid>
       <pubDate>Tue, 31 Mar 2026 08:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>感觉我们建设得更快，但思考得更少</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8glhx/feels_like_were_building_faster_but_thinking_less/</link>
-      <description><![CDATA[我最近注意到的一点是，你从想法到可行的速度有多快。 你可以描述一个功能，而 ChatGPT、Claude、Cursor 或 Copilot 等工具几乎会立即为你提供代码。即使是规划方面也通过 ArtusAI 或 Tara AI 等工具变得更快，这些工具有助于将粗略的想法转化为结构化的流程和规范。 但与此同时，感觉思考部分变得越来越短。在投入之前，您不会花费太多时间来解决问题、分解问题或找出不同的方法。 不确定这是否是一件好事。 一方面，您行动得更快。另一方面，有时感觉你跳过了一层理解。 好奇其他人对此有何感受。 你认为人工智能是让你在构建时思考得更少，还是只是帮助你更快地获得相同的结果？   由   提交 /u/Tough_Reward3739   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8glhx/feels_like_were_building_faster_but_thinking_less/</guid>
-      <pubDate>Tue, 31 Mar 2026 07:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯坦福大学和哈佛大学刚刚放弃了年度最令人不安的人工智能论文</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s7w10n/stanford_and_harvard_just_dropped_the_most/</link>
-      <description><![CDATA[在本文中，关键的见解很直接：给予代理获胜的激励，他们就会发现操纵行为。   由   提交/u/Fun-Yogurt-89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s7w10n/stanford_and_harvard_just_dropped_the_most/</guid>
-      <pubDate>Mon, 30 Mar 2026 16:47:15 GMT</pubDate>
     </item>
     <item>
       <title>我们听到了您的声音 - r/ArtificialInteligence 变得更加敏锐</title>
