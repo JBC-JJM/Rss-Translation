@@ -4,7 +4,7 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 01 Apr 2026 05:26:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:19:51 GMT</lastBuildDate>
     <item>
       <title>人为泄漏：内部 Claude 代码库 + 代理工具暴露</title>
       <link>https://www.reddit.com/r/webdev/comments/1s9bfrq/anthropic_leak_internal_claude_codebase_agent/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>还有其他 Web 开发人员申请数据分析师职位吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1s9afn1/any_other_web_devs_applying_for_data_analyst/</link>
-      <description><![CDATA[我是一名 18 岁以上的软件开发人员，主要从事 .Net/SQL 领域的开发。由于健康原因，在休假几年后，我一直在努力重返比赛。和其他许多人一样，我一直没有受到关注，但我确信我的简历中的差距在一定程度上是一个很好的原因。  我很擅长我的工作，但我参加的面试很少，而且说实话，最近才面试过。 我已经通过了数据分析师职位的第一轮面试，并被要求在第二轮进行技术面试，这确实让我感到惊讶。 我知道我可以胜任这个职位，而且两年来我第一次感到兴奋。  还有其他人经历过这个并有任何富有成效的建议吗？   由   提交 /u/ProfDrd   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名 18 岁以上的软件开发人员，主要从事 .Net/SQL 领域的开发。由于健康原因，在休假几年后，我一直在努力重返比赛。和其他许多人一样，我一直没有受到关注，但我确信我的简历中的差距在一定程度上是一个很好的原因。  我很擅长我的工作，但我参加的面试很少，而且说实话，最近才面试过。 我已经通过了数据分析师职位的第一轮面试，并被要求进入第二轮技术面试，这确实让我感到惊讶。 我知道我可以胜任这个职位，而且两年来我第一次感到兴奋。  还有其他人经历过这个并有任何富有成效的建议吗？   由   提交 /u/ProfDrd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1s9afn1/any_other_web_devs_applying_for_data_analyst/</guid>
       <pubDate>Wed, 01 Apr 2026 04:28:02 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>构建了一个工具，可以在网站中查找 UX/UI 问题并寻求反馈</title>
       <link>https://www.reddit.com/r/webdev/comments/1s95zh7/built_a_tool_that_finds_ux_ui_issues_in_websites/</link>
-      <description><![CDATA[我一直在构建 MyDesignAudit，这是一个扫描网站并突出显示可能会影响转化的用户体验问题的工具。 在看到许多美观的网站因小的可用性问题而陷入困境后开始使用此工具。 还为时过早，希望得到设计师的反馈   由   提交 /u/No_One008   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在构建 MyDesignAudit，这是一个扫描网站并突出显示可能会影响转化的用户体验问题的工具。 在看到许多美观的网站因小的可用性问题而陷入困境后，开始了这个工作。 还为时过早，希望得到设计师的反馈   由   提交 /u/No_One008   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1s95zh7/built_a_tool_that_finds_ux_ui_issues_in_websites/</guid>
       <pubDate>Wed, 01 Apr 2026 01:04:06 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>对 bug 感到沮丧</title>
       <link>https://www.reddit.com/r/webdev/comments/1s90vxr/frustration_with_bugs/</link>
-      <description><![CDATA[我正在处理几个项目，涉足了一些氛围编码，然后转向了 Claude 代码。我使用 GitHub、vercel、supabase、resend。我感觉自己就像一个疯子，试图找到所有不起作用的废话。我已经研究 bug 三个多星期了。一直都是这样吗？一定有更好的方法吗？我研究了剧作家，这很有帮助，但该死的，它永远不会结束！ 我的背景是住宅装修销售，过去 7 年我一直在管理销售团队。我必须提到我所强调的MIS（管理信息系统）学位。我正在为我的客户建立一个推荐平台，他们可以在其中兑换他们发送给我们的推荐的东西。 我听到的建议是必须手动通过系统以确保一切正常。我准备好聘请技术人员并分享一些所有权，因为我已经受够了。我喜欢成为一名独立创始人的想法，但是有什么可以彻底测试每个人的小细节吗？不确定这是否是一个咆哮的地方，但我只是在寻找那些独立创始人如何维护他们的网站的建议。   由   提交/u/raul25911  [链接] [评论]]]></description>
+      <description><![CDATA[我正在处理几个项目，涉足了一些氛围编码，然后转向了 Claude 代码。我使用 GitHub、vercel、supabase、resend。我感觉自己就像一个疯子，试图找到所有不起作用的废话。我已经研究 bug 三个多星期了。一直都是这样吗？一定有更好的方法吗？我研究了剧作家，这很有帮助，但该死的，它永远不会结束！ 我的背景是住宅装修销售，过去 7 年我一直管理销售团队。我必须提到我所强调的MIS（管理信息系统）学位。我正在为我的客户建立一个推荐平台，他们可以在其中兑换他们发送给我们的推荐的东西。 我听到的建议是必须手动通过系统以确保一切正常。我准备好聘请技术人员并分享一些所有权，因为我已经受够了。我喜欢成为一名独立创始人的想法，但是有什么可以彻底测试每个人的小细节吗？不确定这是否是一个咆哮的地方，但我只是在寻找那些独立创始人如何维护他们的网站的建议。   由   提交/u/raul25911  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1s90vxr/frustration_with_bugs/</guid>
       <pubDate>Tue, 31 Mar 2026 21:33:45 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>谁能帮助我。</title>
       <link>https://www.reddit.com/r/webdev/comments/1s9069l/can_anyone_help_me/</link>
-      <description><![CDATA[      无论我做什么，它都会给我这个错误，我没有这个域连接到任何其他网站。 好的，所以我检查了我的网站是否已经托管，它不是只显示托管商管理页面。   由   提交/u/Syber_7697  [链接] [评论] ]]></description>
+      <description><![CDATA[      无论我做什么，它都会给我这个错误，我没有这个域连接到任何其他网站。 好吧，所以我检查了我的网站是否已经托管，它不是只显示托管商管理页面。   由   提交/u/Syber_7697  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1s9069l/can_anyone_help_me/</guid>
       <pubDate>Tue, 31 Mar 2026 21:06:47 GMT</pubDate>
     </item>
