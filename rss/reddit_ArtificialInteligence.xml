@@ -4,13 +4,48 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Wed, 01 Apr 2026 10:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 13:18:54 GMT</lastBuildDate>
     <item>
-      <title>埃隆·马斯克任命格罗克负责美国核武库，称其“通过了氛围检查”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s9g8aq/elon_musk_puts_grok_in_charge_of_us_nuclear/</link>
-      <description><![CDATA[CNBC · 2026 年 4 月 1 日 在马斯克说服五角大楼“具有幽默感的人工智能正是核威慑所需要的”之后，xAI 的 Grok 聊天机器人已获得对 STRATCOM 系统的咨询访问权限。据报道，当被问及风险时，Grok 回答说：“别担心，我主要只是想发布表情包。” https://aiweekly.co/april-fools   由   提交 /u/Justgototheeffinmoon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s9g8aq/elon_musk_puts_grok_in_charge_of_us_nuclear/</guid>
-      <pubDate>Wed, 01 Apr 2026 10:03:17 GMT</pubDate>
+      <title>人工智能代理正悄然成为目前商业中最被低估的工具。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s9kbo3/ai_agents_are_quietly_becoming_the_most/</link>
+      <description><![CDATA[想象一下，您是一位创始人，每天花费三个小时执行每次都遵循相同模式的任务。客户回复、数据输入和安排。一切都在预料之中。都是重复的。所有这些都会让您远离真正发展业务的工作。 人工智能代理了解上下文，根据逻辑和数据做出决策，然后在您的工具中独立执行。您可以构建一个端到端处理客户查询的系统。它获取意图、引用知识库并采取行动。一切都无需介入。 您认为人工智能代理在明年会在哪些方面产生最大影响？   由   提交/u/LLFounder  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s9kbo3/ai_agents_are_quietly_becoming_the_most/</guid>
+      <pubDate>Wed, 01 Apr 2026 13:17:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可能已经解决了AI slop的问题..？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s9jiwe/i_might_have_solved_the_problem_of_ai_slop/</link>
+      <description><![CDATA[我是一名来自斯德哥尔摩的 19 岁年轻人，从我记事起就一直在使用 Reddit（以及最近的 Substack）。我知道我最喜欢的 Reddit 子版块和最喜欢的作者通常不会使用生成人工智能，但我脑后总是有那个小声音告诉我，我读到的任何内容都是假的。读到这里的你现在可能就有这种感觉。我非常厌倦这种感觉。 这就是为什么我决定尝试创建自己的平台，称为“voight”，它的工作方式与任何其他基于文本的社交平台一样。但在每个帖子和评论上都增加了重播按钮的功能。每个帖子和评论都附有一个重播按钮，您可以在其中看到正在写出的文本，以及 1:1 的创建方式。每次停顿、每次退格、每次复制粘贴。一切都在那里。 我很乐意听到任何人的反馈！只需点击周围并观看重播等即可。现在唯一发帖的人是我和我兄弟的一些现实生活中的朋友。该网站是 voight.vercel.app 它仍处于非常早期的开发阶段，所以请告诉我它的所有错误和问题:)   由   提交 /u/Alternative-Help735   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s9jiwe/i_might_have_solved_the_problem_of_ai_slop/</guid>
+      <pubDate>Wed, 01 Apr 2026 12:45:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>分布式计算网络刚刚开始新的工作负载</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s9it4c/a_distributed_compute_network_just_started_a_new/</link>
+      <description><![CDATA[我关注 Qubic 一段时间了。它是一个由裸机服务器组成的网络，可以一起训练神经网络。今天早上，他们激活了我以前从未见过的东西：他们在同一网络中的不同硬件上运行完全独立的计算工作负载，并使用从中获得的收入来资助人工智能计算基础设施。 您可以实时观看它的发生：[https://doge.qubic.tools/](vscode-file://vscode-app/c:/Users/SeanR%C3%B8dland/Downloads/VSCode-win32-x64-1.112.0/07ff9d6178/resources/app/out/vs/code/electron-browser/workbench/workbench.html) 这就是我认为这很有趣的原因。 同一网络经过了 CertiK 的审核，他们验证了主网上每秒运行的 1552 万次操作。这比 Visa 处理付款的速度更快。没有虚拟化，只是直接在硬件上运行的软件。 该模型非常简单。一组专用机器处理特定的计算任务。这项工作的收入可以支付整个网络的费用。与此同时，同一基础设施中的 CPU 和 GPU 正在训练神经网络。相同的电费，相同的数据中心，并行运行的两个不同的作业。 如果您想自己检查数字，一切都是公开且可验证的。 我真的很好奇这里的人们是怎么想的。您真的可以通过这种方式构建可扩展的人工智能计算基础设施吗？使用一项工作量来补贴另一项工作量？这是目前正在发生的对该概念的现实世界测试。   由   提交 /u/srodland01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s9it4c/a_distributed_compute_network_just_started_a_new/</guid>
+      <pubDate>Wed, 01 Apr 2026 12:14:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>科技巨头甲骨文大幅裁员数千人失业</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s9i3mr/thousands_lose_their_jobs_in_deep_cuts_at_tech/</link>
+      <description><![CDATA[“科技巨头甲骨文取得了“重大”成就据高级员工在网上发帖称，周二进行了裁员。 高级经理迈克尔·谢泼德 (Michael Shepherd) 并未受到裁员的影响，但他在 LinkedIn 上写道，“高级工程师、建筑师、运营负责人、项目经理和技术专家”将被裁员。一名员工周二告诉 BBC，据信到目前为止约有 10,000 人失业，原因是 Oracle 内部消息系统 Slack 上活跃的员工数量有所下降。 BBC 新闻联系到 Oracle 时，该公司拒绝发表评论。  https://www.bbc.com/news/articles/cm296jzzl9yo   由   提交 /u/talkingatoms   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s9i3mr/thousands_lose_their_jobs_in_deep_cuts_at_tech/</guid>
+      <pubDate>Wed, 01 Apr 2026 11:41:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个提示管理器，这样我就不会失去好的提示 - 赠送 3 个 Pro+ 帐户（3 个月）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s9hk6k/i_built_a_prompt_manager_so_i_never_lose_good/</link>
+      <description><![CDATA[这种情况一直发生在我身上：我会创建一个非常好的提示......然后丢失它、忘记它，或者最终从头开始重写它。 因此我构建了 https://PromptRepo.eu，一个以结构化方式组织、重用和改进提示的简单工具。 这个想法是简单明了： • 以干净、可搜索的方式保存提示• 通过类别和标签进行组织• 重用和优化而不是从头开始• 构建您自己的个人“提示库” 如果您经常使用AI（内容、编码、自动化等）并希望获得更高的一致性和速度，这尤其有用。 我还添加了Claude 技能支持： • 浏览以下有用技能： Anthropic Claude • 私下保存您自己的自定义技能 • 随着时间的推移建立您自己的可重用技能集  还有一个简单的推荐系统： • 每个用户都会获得自己的邀请链接 • 如果有人通过您的链接注册，你们俩都将获得 1 个免费月份 • 您可以通过邀请更多人来叠加几个月  为了获得真正的反馈并让人们正确尝试，我将赠送 3 个 Pro+ 帐户（每个 3 个月）： 代码： • 94981982 • DFD57A68 • E243DC8B  先到先得。 如果您尝试一下，我真的很感激任何反馈 - 尤其是那些感觉不必要、缺失或令人困惑的反馈。   由   提交/u/rafaroah  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s9hk6k/i_built_a_prompt_manager_so_i_never_lose_good/</guid>
+      <pubDate>Wed, 01 Apr 2026 11:14:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的未来是什么？我们会取代“LLM”架构吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s9hjme/what_is_the_future_of_ai_will_we_replace_the_llm/</link>
+      <description><![CDATA[我知道 LLM 基本上是推理机，它们与代币等一起工作，但是随着新的神经拟态硬件的使用，例如英特尔 Loihi 或桑迪亚国家实验室的 Hala Point，未来或人工智能会远离大型语言模型并开始走向受人类生物学启发的架构吗？ 像 Spiking Neural Networks、MatMul-free LLM 和持续学习架构一样。  也许使用像素作为输入，而不是令牌......或者像人类一样的其他类型的输入...... 变形金刚正在浪费电力来移动数据，而真正的智能需要稀疏连接、本地处理和最大化信息与能量（I/E）比率，Hala Point 通过构建定制的物理大脑来解决这个问题。 或者当我们更换 LLM 架构时，我们可能已经拥有 AGI 了？    由   提交 /u/ShoulderDelicious710   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s9hjme/what_is_the_future_of_ai_will_we_replace_the_llm/</guid>
+      <pubDate>Wed, 01 Apr 2026 11:13:49 GMT</pubDate>
     </item>
     <item>
       <title>你曾经使用人工智能来想出纹身创意吗？</title>
@@ -34,27 +69,6 @@
       <pubDate>Wed, 01 Apr 2026 07:40:59 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能猫</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s9db4i/ai_chats/</link>
-      <description><![CDATA[只有我不喜欢在左侧边栏或整个世界上进行大量聊天吗？对我来说，这感觉很不舒服，如果我觉得人工智能正在失去对它的掌握，那么在我继续之前，我通常会在一个聊天页面或线程中聊很长时间。    由   提交/u/Automatic-Pin9116   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s9db4i/ai_chats/</guid>
-      <pubDate>Wed, 01 Apr 2026 07:08:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>“人工智能”的营销技巧</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s94d5z/the_marketing_tricks_of_artificial_intelligence/</link>
-      <description><![CDATA[Sam 与 Emily Bender 和 Alex Hanna 讨论了“人工智能”的营销策略、为什么嘲笑能够抑制大型科技公司的主张，以及是什么让他们对未来充满希望。他们是《AI Con：如何对抗大型科技炒作并创造我们想要的未来》一书的作者。 https://www.youtube.com/watch?v=UwBZiuH-1QY&amp;t=1746s   由   提交 /u/AmorFati01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s94d5z/the_marketing_tricks_of_artificial_intelligence/</guid>
-      <pubDate>Tue, 31 Mar 2026 23:53:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能的方式有正确和错误之分吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s929f1/is_there_a_right_and_wrong_way_to_use_ai/</link>
-      <description><![CDATA[如果AI的使用是错误的，那么AI的正确使用是什么？使用人工智能最有效的方式是什么？人工智能最适合执行哪些任务？我想知道，因为我的上一个问题得到了很多答案。我知道，就像所有技术一样，它可能会被滥用   由   提交/u/No_Mastodon6276   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s929f1/is_there_a_right_and_wrong_way_to_use_ai/</guid>
-      <pubDate>Tue, 31 Mar 2026 22:27:31 GMT</pubDate>
-    </item>
-    <item>
       <title>如今计量经济学、统计学和数学等学位值得学习吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s921bk/are_degrees_such_as_econometrics_statistics_and/</link>
       <description><![CDATA[这些学位是否值得继续学习，或者它们对 AI 的风险相对较高吗？我正在讨论学习使用大量数学和统计的计量经济学，我想知道这个学位是否是一个好主意，或者人工智能是否会对未来的就业市场构成重大威胁。 当谈到数学的时候，我觉得人工智能真的很好，而且只会变得越来越好......   由   提交 /u/Aggressive-Pen-217   [链接] [评论]]]></description>
@@ -67,13 +81,6 @@
       <description><![CDATA[这些人的名字实际上出现在基础文件上，而不仅仅是首席执行官名片上。 1. “秃鹰”与“挖沟者”相比分歧 “秃鹰”与“秃鹰”之间存在巨大差距。 （Altman、Amodei、VC 人群）和“Trenchers” （LeCun、Ng、Hassabis）。  秃鹫：他们正在推动一种说法，即如果我们在问题上投入更多的 H100/H200 和更多的互联网数据，“意识”就会消失。或“AGI”将在下一个纪元结束时神奇地出现。这是一个旨在筹集数十亿美元资金的营销术语。 挖沟者： 吴恩达刚刚表示（2026 年 2 月），我们距离真正的人类水平智能还数十年。 Yann LeCun 一直在印度人工智能峰会上大肆宣扬同样的信息：法学硕士是“被动的观察者”。他们没有世界模型。他们不了解笔触的物理原理或从悬崖上掉下来的风险。  2。 “生存”损失函数 我们一直在问这些模型是否是“有意识的”？但正如一些著名哲学家所说，意识只是一种表面的幻觉。学习的真正机制不是“预测下一个单词”。 主要研究人员开始承认人类是高效的，因为我们拥有5 亿年的进化先验。我们并不是从“白板”开始的。我们有一个“生存损失函数”如果我们不了解物理现实，我们的祖先就会死去。 3。为什么法学硕士不是一条出路 Demis Hassabis 最近指出了“锯齿状智力”。当前型号。他们可以赢得数学奥林匹克竞赛，但不知道如何在凌乱的房间里穿行。为什么？因为他们从来没有“骑过自行车”。他们可以完美地描述自行车的物理原理，但他们对平衡的直观理解为零。 4。真正的前沿：计算机进化 真正的主要研究人员正在远离仅仅“扩大规模”。他们正在构建果蝇模拟和数字系统发育。他们正试图“引导”人工智能让数以百万计的数字生物在模拟的物理世界中进化，以编码“世界真理”在他们看到一行文字之前。 底线： 如果您正在等待“盒子里的上帝”到 2027 年，您将被出售一袋商品。真正的工作是在一线建立专门的模型，这些模型实际上可以映射到物理现实（并不是说法学硕士不强大）。 AGI 不会到来，因为我们的数据耗尽了；当我们最终弄清楚如何给机器“赌注”时，它就来了。    由   提交/u/Hot_Actuator9930   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8xygx/stop_falling_for_the_agi_next_tuesday_hype_the/</guid>
       <pubDate>Tue, 31 Mar 2026 19:47:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>向我解释一下这个</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8xdo6/explain_to_me_this/</link>
-      <description><![CDATA[为什么放入人工智能检查器中的每个单独段落都是人类的，但当我将它们放在一起时，它却说它是 100% 人工智能？顺便说一句，我只是担心我的教授会让我不及格，这是一篇非常重要的论文。   由   提交/u/DropCompressive604  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8xdo6/explain_to_me_this/</guid>
-      <pubDate>Tue, 31 Mar 2026 19:26:50 GMT</pubDate>
     </item>
     <item>
       <title>“AI for Everything”时代正在消逝……这是一件好事</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[您曾经为啤酒多付过钱吗？马特·科特兰 (Matt Cortland) 做到了，这让他走上了一条永远不会重蹈覆辙的道路。 也就是说，科特兰选择的饮料是：一品脱吉尼斯黑啤酒。本月早些时候，这位 37 岁的年轻人在都柏林的一家酒吧花 7.80 欧元（约合 8.93 美元）购买爱尔兰干黑啤酒后，对爱尔兰各地一品脱啤酒的平均成本感到好奇。 令他惊讶的是，该国中央统计局在 2011 年取消了对该国最受欢迎的啤酒的价格跟踪。这让 Cortland 产生了亲自跟踪价格的疯狂想法。 Cortland 是一家人工智能初创公司的创始人，他向人工智能求助并发出自己的声音。他利用 AI 语音生成平台 ElevenLabs 设计了 ​​Rachel。为了向英国版电视真人秀《叛徒》的获胜者瑞秋·达菲 (Rachel Duffy) 致敬，这款带有北爱尔兰口音的语音人工智能代理在全岛拨打了 3,000 多个电话，询问一品脱吉尼斯黑啤酒的价格。 “我当时想，‘我可以给爱尔兰的每家酒吧打电话，用人工智能对话式地询问他们吗？’”科特兰告诉《财富》杂志。 “我拉动线，我一直拉动线，我们就到了。” 阅读更多：https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/   由   提交 /u/fortune   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8prqq/a_man_used_ai_to_call_3000_irish_bartenders_to/</guid>
       <pubDate>Tue, 31 Mar 2026 14:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 生成的假用户无法模拟人类——182 篇研究论文综述</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8h7du/fake_users_generated_by_ai_cant_simulate_humans/</link>
-      <description><![CDATA[现在有一个巨大的趋势，即科技公司、企业和研究人员正在尝试用所谓的合成参与者/用户的大型语言模型 (LLM) 取代真实的人类反馈。  这个想法听起来很棒 - 当你可以提示 ChatGPT 假装成一千个不同的客户时，为什么要花费金钱和时间招募真人来进行调查、测试应用程序或提供意见呢？ 一项新的系统文献综述分析了刚刚发布的 182 篇研究论文，看看这些“合成参与者”是否符合实际情况。可以模拟人类。  简短的回答？它们不擅长代表人类的认知和行为。   由   提交/u/Complete_Answer  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8h7du/fake_users_generated_by_ai_cant_simulate_humans/</guid>
-      <pubDate>Tue, 31 Mar 2026 08:02:45 GMT</pubDate>
     </item>
     <item>
       <title>我们听到了您的声音 - r/ArtificialInteligence 变得更加敏锐</title>
