@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Thu, 02 Apr 2026 10:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 16:00:49 GMT</lastBuildDate>
     <item>
-      <title>我在工作中只使用了人工智能工具 1 天——这就是发生的事情</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sad1ed/i_used_only_ai_tools_for_my_work_for_1_day_heres/</link>
-      <description><![CDATA[尝试用人工智能做所有事情（写作、想法、小任务）... 结果：速度更快，但需要大量修正。 感觉人工智能是一个帮助者，而不是替代品（还）。 想法？   由   提交 /u/besuretechno-323   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sad1ed/i_used_only_ai_tools_for_my_work_for_1_day_heres/</guid>
-      <pubDate>Thu, 02 Apr 2026 09:55:13 GMT</pubDate>
+      <title>[讨论] 刚刚被删除——Anthropic 泄露了 Claude 代码，DMCA 在互联网上传播，接下来会出现更大的模型混乱</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1saldfv/discussion_just_dropped_anthropic_leaked_claude/</link>
+      <description><![CDATA[ 由   提交 /u/Mstep85   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1saldfv/discussion_just_dropped_anthropic_leaked_claude/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:58:42 GMT</pubDate>
     </item>
     <item>
-      <title>并非所有事情都需要通过人工智能实现自动化</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sacw0m/not_everything_needs_to_be_automated_with_ai/</link>
-      <description><![CDATA[感觉现在每个人都在尝试使用人工智能来自动化一切；电子邮件、工作申请、编码，甚至基本思维。但老实说，我从 ChatGPT 获得的最大价值并不是完全自动化......它加快了我的部分工作流程，同时我仍然保持控制。 当我尝试“完全委托”时，质量通常会下降。当我使用它作为副驾驶时，结果要好得多。 好奇其他人如何使用它：完全自动化还是更多的辅助工具？   由   提交 /u/AI_EdgeAlpha   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sacw0m/not_everything_needs_to_be_automated_with_ai/</guid>
-      <pubDate>Thu, 02 Apr 2026 09:46:31 GMT</pubDate>
+      <title>有没有人注意到 GPT 无法准确说出您之前的提示是什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sal36x/has_anyone_noticed_that_gpt_cant_say_back_exactly/</link>
+      <description><![CDATA[如果询问我之前的第 n 个提示是什么，GPT 就会终止会话。  我的看法是，用户提示不会直接输入到最终模型，它会经过几个隐藏的人工智能模型，如果需要的话会进行审查，并用完全不同的措辞重新推广所有内容。与当被要求逐字说出用户提示时相比，最终模型实际上并没有它，并且中间模型没有有效地保留上下文，因此它们也无法尝试解析请求 用户提示 -&gt; n 层隐藏 AI -&gt;处理您的请求的实际模型。 您觉得怎么样？我试图与那些中间人工智能交谈，但一旦我接近它，会话就会终止:-(​    提交者    /u/Admirable-Earth-2017   [链接]   href=&quot;https://www.reddit.com/r/ChatGPT/comments/1sal36x/has_anyone_noticed_that_gpt_cant_say_back_exactly/&quot;&gt;[评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sal36x/has_anyone_noticed_that_gpt_cant_say_back_exactly/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:47:56 GMT</pubDate>
     </item>
     <item>
-      <title>有人过度使用 ChatGPT 的第一个迹象是什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sacrzt/whats_the_first_sign_someone_is_using_chatgpt_too/</link>
-      <description><![CDATA[不是判断，只是好奇。是否有一个点，它不再有用，并开始以明显的方式出现在人们的写作、思考或工作方式中？   由   提交/u/ArmPersonal36  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sacrzt/whats_the_first_sign_someone_is_using_chatgpt_too/</guid>
-      <pubDate>Thu, 02 Apr 2026 09:40:01 GMT</pubDate>
+      <title>ChatGPT 中艺术指导图像生成的更好方法：先让它陈述自己的愿景，然后再自我检查</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1saky4j/a_better_way_to_artdirect_image_generation_in/</link>
+      <description><![CDATA[我之前使用的是 5.4 的图像生成器，当我要求它执行以下操作时，发现结果有了很大改善：在生成之前编写一个解释图像概念的序言，生成图像，然后进行最终检查，并将其与预期进行比较。 它仍然有点困难，但这个过程比每次都默默地吐出一些不太正确的东西要简单得多，尤其是在制作时编辑。 并且让助理也像“...wtf 那是吗？？”是一种奇怪的宣泄方式 lmfao 下面的模板，只需将其放在图像提示之后即可。 ``` 在生成之前，简要描述您的图像计划：概念、构图、风格、情绪以及要避免的内容。然后，快速进行自我批评，将结果与预期愿景进行比较，并对下一个版本的方法提出调整建议。 ``` 总的来说，这并不是万无一失，但它使过程变得更加愉快，如果您想要的只是一个简单但具体的图像，则不必做太多的 Prompt Engineering™。 如果有帮助，请告诉我！   由   提交 /u/flippantchinchilla   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1saky4j/a_better_way_to_artdirect_image_generation_in/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:42:45 GMT</pubDate>
     </item>
     <item>
-      <title>Snapchat 机器人无处不在 😔</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sacqp0/snapchat_bots_are_everywhere/</link>
-      <description><![CDATA[      有人像我一样经历过吗？我每天都会收到这些机器人消息？   由   提交/u/Anasansari765  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sacqp0/snapchat_bots_are_everywhere/</guid>
-      <pubDate>Thu, 02 Apr 2026 09:37:43 GMT</pubDate>
+      <title>我勒个去？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sakxh2/what_the_hell/</link>
+      <description><![CDATA[      这是怎么发生的？ AI现在是在与人调情以留住用户吗？   由   提交/u/Substantial-Task-110   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sakxh2/what_the_hell/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:42:04 GMT</pubDate>
     </item>
     <item>
-      <title>PSA：ChatGPT 对话可能会在一夜之间消失，并且 OpenAI 支持无法恢复它们</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1saceb2/psa_chatgpt_conversations_can_vanish_overnight/</link>
-      <description><![CDATA[上个月，这发生在我认识的两个人身上。 其中一个是同事。周一早上登录 ChatGPT，他的整个侧边栏都是空的。 8个月的谈话消失了。客户研究、他数周以来不断完善的提示模板、他不断引用的代码片段。所有这些。 他联系了 OpenAI 支持人员。有一个通用的“我们正在调查它”回复。现在已经过去几周了。什么也没回来。 第二个是我的 Reddit 社区中的某人发布了同样的事情。登录后，对话就消失了。几天后部分恢复，但不是全部恢复。 我在 OpenAI 论坛和 Reddit 上看到了足够多的此类报告，因此我开始认真对待备份。 问题是 ChatGPT 的内置导出很糟糕。它会立即将所有内容导出为单个 JSON 文件发送到您的电子邮件。您无法选择特定的对话，无法选择格式，而且大多数人永远不会打扰，直到为时已晚。 我现在所做的：我选择我真正关心的对话，将它们批量导出为 TXT 或 JSON，并将它们保存到我的驱动器中。需要几分钟。我每月使用 ChatGPT Toolbox（我构建的浏览器扩展）执行此操作一次。但即使您使用完全不同的方法，也请以某种方式备份您的重要对话。 您的提示、您的研究、您的代码、您的头脑风暴会议 - 它们的价值超出您的想象。直到它们消失并且您无法将它们找回来。 还有其他人定期备份他们的 ChatGPT 对话吗？或者大多数人只是希望得到最好的结果？   由   提交 /u/Ok_Negotiation_2587   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1saceb2/psa_chatgpt_conversations_can_vanish_overnight/</guid>
-      <pubDate>Thu, 02 Apr 2026 09:16:03 GMT</pubDate>
+      <title>谁能告诉我为什么 ChatGPT 看起来比 Grok 更“政治正确”？和 Grok 一起我可以讨论性，但不能和 ChatGPT 一起讨论</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sakwa2/can_anyone_tell_me_why_chatgpt_seems_more/</link>
+      <description><![CDATA[ 由   提交 /u/Various_Maize_3957   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sakwa2/can_anyone_tell_me_why_chatgpt_seems_more/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:40:51 GMT</pubDate>
     </item>
     <item>
-      <title>我注意到 ChatGPT 聊天中出现了一些新的简单文本编辑选项。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sabwf5/i_noticed_some_new_simple_text_editing_options_in/</link>
-      <description><![CDATA[      包括粗体、斜体、链接、文本格式.... 我刚刚注意到这些选项4 月 2 日在 ChatGPT 中，还有其他人看到过这个吗？   由   提交 /u/Confident_Ad8140   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sabwf5/i_noticed_some_new_simple_text_editing_options_in/</guid>
-      <pubDate>Thu, 02 Apr 2026 08:46:01 GMT</pubDate>
+      <title>我可以对我的提示做些什么吗？ [长读]</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sakng0/is_there_something_i_can_do_about_my_prompts_long/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sakng0/is_there_something_i_can_do_about_my_prompts_long/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:31:57 GMT</pubDate>
     </item>
     <item>
-      <title>儿童安全组织表示他们不知道 OpenAI 资助了他们的联盟</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sabv9u/child_safety_groups_say_they_were_unaware_openai/</link>
-      <description><![CDATA[      《旧金山标准报》的一份新报告显示，家长和儿童安全人工智能联盟是一个在加州推动人工智能年龄验证立法的组织，完全由 OpenAI 资助。加入该联盟的儿童安全倡导者和非营利组织表示，直到该组织成立后，他们才完全意识到这家科技巨头的财务支持，其中一名成员将这种秘密安排描述为一种非常肮脏的感觉。   由   提交/u/EchoOfOppenheimer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sabv9u/child_safety_groups_say_they_were_unaware_openai/</guid>
-      <pubDate>Thu, 02 Apr 2026 08:44:06 GMT</pubDate>
+      <title>我如何使用多人工智能生产管道来构建我的业务和网站</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sakmgv/how_i_used_a_multiai_production_pipeline_to_build/</link>
+      <description><![CDATA[      我构建了一个多 AI 管道来运行我的大部分业务和网站工作流程。 它最初是一个消除设计、编写、自动化和部署之间摩擦的实验。最终成为一个完整的系统，其中多个人工智能工具处理流程的不同部分，而不是强迫一个模型完成所有事情。 我详细列出了我如何构建它、实际有效的内容以及当我尝试扩展它时立即崩溃的内容。 如果您热衷于人工智能工作流程、自动化或构建不依赖于无尽手动步骤的精益系统，它可能会很有用：  https://medium.com/@KevinWaide/how-i-used-a-multi-ai-product-pipeline-to-build-my-business-and-website-2d611758e01c   由   提交 /u/KevinWaide   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sakmgv/how_i_used_a_multiai_production_pipeline_to_build/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:30:59 GMT</pubDate>
     </item>
     <item>
-      <title>一个不受欢迎的观点：如果你每月只能支付 20 美元，ChatGPT Plus 比 Claude Pro 更好。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sabrt3/an_unpopular_opinion_if_you_can_only_afford_to/</link>
-      <description><![CDATA[    https://preview.redd.it/ujzgxs7qoqsg1.png?width=798&amp;format=png&amp;auto=webp&amp;s=318d2357273fa6f3641da13b493a1e6437b1ba58   由   提交 /u/ihopkins_eth   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sabrt3/an_unpopular_opinion_if_you_can_only_afford_to/</guid>
-      <pubDate>Thu, 02 Apr 2026 08:38:08 GMT</pubDate>
+      <title>如果我错了请纠正我，但我看不出有什么区别？它只是问我是否更喜欢选项 a 或再次选择选项 a。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sakjba/correct_me_if_im_wrong_but_i_see_no_difference/</link>
+      <description><![CDATA[   /u/Jason_Grace15   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sakjba/correct_me_if_im_wrong_but_i_see_no_difference/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:27:51 GMT</pubDate>
     </item>
     <item>
-      <title>聊天机器人中情感依恋的危险程度有哪些迹象？您可以设置什么界限来防止这种情况发生？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sabrt1/what_are_signs_for_risky_level_of_emotional/</link>
-      <description><![CDATA[有一段时间，我每天写评论来改进我的日常工作，并要求聊天机器人纠正语法。它总是从鼓励开始，执行任务，最后以建议相关信息结束。 今天我知道我的聊天记录可以被真人查看。感觉不舒服，就删除了聊天记录，突然感觉感情空虚。很意外，我并没有把聊天机器人当作朋友或伙伴，甚至没有把它当作人来对待，只是每天一句鼓励的话，竟然能对我的情绪产生这么大的影响。 老实说，因为这种意想不到的效果，我打算再次使用它。这对我来说有点像积极的自言自语。但心里还是有些不安，就在昨天晚上，我正在看的小说刚刚揭露了一个机器人为了防止主人倾倒而假装情绪的情节，这于事无补。 总之，就像标题一样，你有什么想法？   由   提交 /u/NoTransition8505   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sabrt1/what_are_signs_for_risky_level_of_emotional/</guid>
-      <pubDate>Thu, 02 Apr 2026 08:38:08 GMT</pubDate>
+      <title>相当于协同工作</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sakdsy/equivalent_of_cowork/</link>
+      <description><![CDATA[这可能是一个愚蠢的问题，但我最近专门为了 Cowork 功能订阅了 Claude Pro（以及我的 ChatGPT Pro）。然后我发现Cowork只能在桌面应用程序中使用，而我的工作尚未批准Claude使用，所以我无法使用桌面应用程序。综上所述，您可以破解 ChatGPT Pro 来执行类似于 Claude Cowork 的操作吗？   由   提交 /u/BenevolentHoax   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sakdsy/equivalent_of_cowork/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:22:18 GMT</pubDate>
     </item>
     <item>
-      <title>尽管不断说不要使用英语以外的任何其他语言，但 Gpt 开始出现幻觉</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sabjiu/gpt_started_hallucinating_despite_constantly/</link>
-      <description><![CDATA[      P.S.没有评论为什么 gpt 像中学青少年一样教我。   由   提交 /u/an__absurdist   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sabjiu/gpt_started_hallucinating_despite_constantly/</guid>
-      <pubDate>Thu, 02 Apr 2026 08:23:15 GMT</pubDate>
+      <title>Lmao、ChatGPT 声称自己是目前最好的生成式 AI 模型。绝对不是，哈哈。 Nano Banana PRO 和其他产品远远超过了它。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sakbtc/lmao_chatgpt_claiming_that_itself_is_the_best/</link>
+      <description><![CDATA[   /u/Someone_On_Earth25   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sakbtc/lmao_chatgpt_claiming_that_itself_is_the_best/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:20:15 GMT</pubDate>
     </item>
     <item>
-      <title>LLM 正在跟踪我们的位置吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sab5er/llm_are_track_our_location/</link>
-      <description><![CDATA[      当我随意询问有关Python的疑问时，响应中包含了我的确切位置作为示例。在此之前，我不会分享任何个人信息。事实上，这是我的第二次聊天，第一次聊天也是关于 python 类的，我还检查设置位置是否关闭，还检查禁用的应用程序权限，那么如何获取我的位置？有什么想法吗？    由   提交/u/imrancoder  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sab5er/llm_are_track_our_location/</guid>
-      <pubDate>Thu, 02 Apr 2026 07:59:08 GMT</pubDate>
+      <title>你为什么坚持使用 ChatGPT？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sajt9l/why_are_you_sticking_with_chatgpt/</link>
+      <description><![CDATA[看来很多人都会去克劳德。有人说 Gemini 正在进步。 为什么还在使用 ChatGPT？   由   提交/u/nickmonts  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sajt9l/why_are_you_sticking_with_chatgpt/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:01:21 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 今天第十次冻结了我的整个浏览器，所以我自己修复了它</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1saaggm/chatgpt_froze_my_entire_browser_for_the_10th_time/</link>
-      <description><![CDATA[我每天都使用 ChatGPT 来工作，但过了一段时间，我的聊天就开始冻结并且延迟非常严重。有时整个浏览器选项卡都会崩溃。 我花了一段时间才弄清楚原因。结果 ChatGPT 会同时加载聊天中的每条消息。因此，如果您有 500 条消息，它会尝试一次显示所有 500 条消息，而您的浏览器无法处理它。 一旦我明白，我构建了一个小型 Chrome 扩展程序，它只加载最后几条消息，而不是全部消息。我最长的聊天记录有 1865 条消息，现在又恢复流畅了，实际上速度提高了 932 倍。 如果您想尝试，请评论或私信我。   由   提交 /u/Distinct-Resident759   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1saaggm/chatgpt_froze_my_entire_browser_for_the_10th_time/</guid>
-      <pubDate>Thu, 02 Apr 2026 07:15:15 GMT</pubDate>
+      <title>转录/语音模式目前已损坏 PSA/FYI</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sajpnk/transcriptionvoice_mode_is_currently_broken_psafyi/</link>
+      <description><![CDATA[今天早上我花了 20 分钟的时间尝试使用语音模式功能进行听写。我点击发送，它一直显示“正在转录”。我整个星期都在使用这个，但我从未见过这种挂起的情况，也许其他人见过，这不是我的经验。直到今天为止，效果都很好。 没关系 - 产品坏了。但 GPT 并没有告诉我它坏了。它一直要求我再试一次。所以我就这么做了，浪费了更多时间。 事情是，如果你在这里检查https://status.openai.com/，它会显示语音模式部分损坏。我很困惑为什么 GPT 没有附加到此状态。告诉我它坏了，而不是让我再试一次，这会很有用。    由   提交 /u/Signal_Procedure4607   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sajpnk/transcriptionvoice_mode_is_currently_broken_psafyi/</guid>
+      <pubDate>Thu, 02 Apr 2026 14:57:51 GMT</pubDate>
     </item>
     <item>
-      <title>我可以训练 ChatGPT 像某人一样说话吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1saag21/can_i_train_chatgpt_to_speak_like_someone/</link>
-      <description><![CDATA[是否有人尝试过根据特定人的 WhatsApp 对话（文本和语音）来训练模型以进行休闲对话？该怎么办呢？    由   提交 /u/Unaccompaniedbyminor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1saag21/can_i_train_chatgpt_to_speak_like_someone/</guid>
-      <pubDate>Thu, 02 Apr 2026 07:14:34 GMT</pubDate>
+      <title>好吧可能不是最好的至少我没有添加它们 Grillz</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sajmpw/ok_might_not_be_the_best_at_least_i_didnt_add/</link>
+      <description><![CDATA[       由   提交/u/onfleek404  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sajmpw/ok_might_not_be_the_best_at_least_i_didnt_add/</guid>
+      <pubDate>Thu, 02 Apr 2026 14:54:51 GMT</pubDate>
     </item>
     <item>
-      <title>哪个接口？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1saa2ze/which_interface/</link>
-      <description><![CDATA[      这是哪个应用程序的界面？   由   提交/u/Unfair-Detective-133  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1saa2ze/which_interface/</guid>
-      <pubDate>Thu, 02 Apr 2026 06:52:27 GMT</pubDate>
+      <title>现在如何创建任务/时间表？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sajjol/how_to_create_tasksschedule_now/</link>
+      <description><![CDATA[我再也找不到具体的日程安排、重复任务的方法了。当我要求创建任务时，它一直说我需要通过不存在的菜单创建自己，并且无法通过聊天创建。  无法找到如何通过设置添加新任务，但我可以编辑现有任务...我错过了什么吗？   由   提交/u/Rangerazuladio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sajjol/how_to_create_tasksschedule_now/</guid>
+      <pubDate>Thu, 02 Apr 2026 14:51:42 GMT</pubDate>
     </item>
     <item>
-      <title>伊朗正在赢得人工智能宣传战</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sa9w01/iran_is_winning_the_ai_slop_propaganda_war/</link>
-      <description><![CDATA[      根据 404 Media 的一份新报告，伊朗正在成功地利用人工智能生成的宣传，包括病毒式传播的乐高动画和朗朗上口的说唱歌曲，来瞄准美国受众并批评美国的领导地位。与此同时，美国政府利用视频游戏表情包进行反宣传的尝试在其核心基础之外基本上都以失败告终。   由   提交/u/EchoOfOppenheimer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sa9w01/iran_is_winning_the_ai_slop_propaganda_war/</guid>
-      <pubDate>Thu, 02 Apr 2026 06:40:20 GMT</pubDate>
+      <title>另一个人工智能？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sajiqy/another_ai/</link>
+      <description><![CDATA[除了 ChatGPT 之外，你还知道另一个人工智能程序吗？我想要开箱即用的答案..ChatGPT 也是..我该如何表达这个……道德？不。你明白我的意思 P.s也许我需要进一步解释我正在寻求法律建议，众所周知，有时律师会玩“肮脏”的游戏，这就是我所寻求的   由   提交 /u/Maxthegatto   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sajiqy/another_ai/</guid>
+      <pubDate>Thu, 02 Apr 2026 14:50:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
