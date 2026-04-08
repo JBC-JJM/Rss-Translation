@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 08 Apr 2026 16:16:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 19:17:05 GMT</lastBuildDate>
     <item>
       <title>git-fire</title>
       <link>https://www.producthunt.com/products/git-fire</link>
@@ -20,20 +20,6 @@
       <pubDate>Wed, 08 Apr 2026 04:48:14 GMT</pubDate>
     </item>
     <item>
-      <title>大理石1.1</title>
-      <link>https://www.producthunt.com/products/marble-by-world-labs</link>
-      <description><![CDATA[
-            更好的照明和更大的尺寸，用于生成 3D 世界
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/marble-by-world-labs</guid>
-      <pubDate>Wed, 08 Apr 2026 03:21:27 GMT</pubDate>
-    </item>
-    <item>
       <title>莫</title>
       <link>https://www.producthunt.com/products/mo-4</link>
       <description><![CDATA[
@@ -46,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/mo-4</guid>
       <pubDate>Tue, 07 Apr 2026 21:46:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Chrome 垂直标签</title>
-      <link>https://www.producthunt.com/products/google</link>
-      <description><![CDATA[
-            Chrome现在支持垂直标签和沉浸式阅读模式
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/google</guid>
-      <pubDate>Tue, 07 Apr 2026 17:20:11 GMT</pubDate>
     </item>
     <item>
       <title>时间线io</title>
@@ -90,18 +62,18 @@
       <pubDate>Tue, 07 Apr 2026 15:31:32 GMT</pubDate>
     </item>
     <item>
-      <title>壮举掉落</title>
-      <link>https://www.producthunt.com/products/featdrop</link>
+      <title>鲁米尔</title>
+      <link>https://www.producthunt.com/products/roomieu</link>
       <description><![CDATA[
-            供构建者共享产品更新的公共变更日志
+            专为大学生打造的室友匹配应用
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/featdrop</guid>
-      <pubDate>Tue, 07 Apr 2026 15:20:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/roomieu</guid>
+      <pubDate>Tue, 07 Apr 2026 14:11:53 GMT</pubDate>
     </item>
     <item>
       <title>商务计算器</title>
@@ -118,20 +90,6 @@
       <pubDate>Mon, 06 Apr 2026 22:27:54 GMT</pubDate>
     </item>
     <item>
-      <title>搜索引擎优化</title>
-      <link>https://www.producthunt.com/products/seolint</link>
-      <description><![CDATA[
-            SEO 代理位于 Claude 内部并通过 MCP
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/seolint</guid>
-      <pubDate>Mon, 06 Apr 2026 19:37:39 GMT</pubDate>
-    </item>
-    <item>
       <title>燧石</title>
       <link>https://www.producthunt.com/products/flint-6</link>
       <description><![CDATA[
@@ -144,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/flint-6</guid>
       <pubDate>Mon, 06 Apr 2026 16:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德的职业生涯</title>
-      <link>https://www.producthunt.com/products/santifer-io</link>
-      <description><![CDATA[
-            基于克劳德代码构建的人工智能求职系统
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/santifer-io</guid>
-      <pubDate>Mon, 06 Apr 2026 10:40:50 GMT</pubDate>
     </item>
     <item>
       <title>屏幕切片</title>
@@ -174,6 +118,20 @@
       <pubDate>Sat, 04 Apr 2026 09:09:34 GMT</pubDate>
     </item>
     <item>
+      <title>状态统计</title>
+      <link>https://www.producthunt.com/products/statusstats</link>
+      <description><![CDATA[
+            菜单栏中的 Mac 指标
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/statusstats</guid>
+      <pubDate>Sat, 04 Apr 2026 01:58:08 GMT</pubDate>
+    </item>
+    <item>
       <title>快照重写</title>
       <link>https://www.producthunt.com/products/snaprewrite</link>
       <description><![CDATA[
@@ -186,6 +144,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/snaprewrite</guid>
       <pubDate>Fri, 03 Apr 2026 15:25:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>帕斯键</title>
+      <link>https://www.producthunt.com/products/pawsekeys-remote-keyboard-locker-mac</link>
+      <description><![CDATA[
+            保护您的键盘免受儿童和宠物的伤害
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/pawsekeys-remote-keyboard-locker-mac</guid>
+      <pubDate>Fri, 03 Apr 2026 00:54:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>说流</title>
+      <link>https://www.producthunt.com/products/talkflowy-just-speak-write-5x-faster</link>
+      <description><![CDATA[
+            适用于 Mac 的本地实时语音转录
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/talkflowy-just-speak-write-5x-faster</guid>
+      <pubDate>Thu, 02 Apr 2026 11:36:28 GMT</pubDate>
     </item>
     <item>
       <title>达德罗特 V 网</title>
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/iris-id-by-passportreader</guid>
       <pubDate>Fri, 13 Mar 2026 11:20:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>简报</title>
+      <link>https://www.producthunt.com/products/brieflee</link>
+      <description><![CDATA[
+            视频拼写检查 - 在发布之前发现质量问题
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/brieflee</guid>
+      <pubDate>Wed, 26 Jun 2024 14:40:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
