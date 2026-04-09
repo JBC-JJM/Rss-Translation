@@ -4,7 +4,28 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Thu, 09 Apr 2026 07:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 10:12:25 GMT</lastBuildDate>
+    <item>
+      <title>大多数企业都错误地使用了人工智能；这是我们改变的</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sgl7x9/most_businesses_are_using_ai_wrong_heres_what_we/</link>
+      <description><![CDATA[我们最初认为人工智能只会加快速度。 相反，它迫使我们彻底重新思考我们的工作方式。 对我们来说发生了什么变化：  我们不再要求人工智能“创建内容”，而是开始使用它来“辅助思考” 构建可重复的工作流程，而不是随机的工作流程提示 更多地关注编辑而不是生成 开始将提示视为资产，而不是一次性输入  这种转变与工具无关；而是与工具有关。这与流程有关。 老实说，我看到的大多数糟糕的人工智能结果都来自糟糕的系统，而不是糟糕的工具。   由   提交 /u/360Presence   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sgl7x9/most_businesses_are_using_ai_wrong_heres_what_we/</guid>
+      <pubDate>Thu, 09 Apr 2026 09:55:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>字节跳动在全球悄然推出Seedance 2.0</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sgl39q/bytedance_quietly_rolls_out_seedance_20_globally/</link>
+      <description><![CDATA[ 由   提交 /u/tteei   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sgl39q/bytedance_quietly_rolls_out_seedance_20_globally/</guid>
+      <pubDate>Thu, 09 Apr 2026 09:48:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 首次推出来自备受赞誉的超级智能团队的人工智能模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sgje3e/meta_debuts_first_ai_model_from_prized/</link>
+      <description><![CDATA[人工智能竞赛不再关乎模型，而是关乎控制。 Meta Platforms, Inc. 的 Muse Spark 标志着封闭系统、专有智能和平台主导地位的转折点。   由   提交 /u/Senior_Addendum_704   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sgje3e/meta_debuts_first_ai_model_from_prized/</guid>
+      <pubDate>Thu, 09 Apr 2026 08:04:46 GMT</pubDate>
+    </item>
     <item>
       <title>科学家发明了一种假疾病。 AI告诉人们这是真实的</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sgigd2/scientists_invented_a_fake_disease_ai_told_people/</link>
@@ -13,25 +34,11 @@
       <pubDate>Thu, 09 Apr 2026 07:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>AI在线约会代表的想法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sgi5sz/ai_online_dating_rep_idea/</link>
-      <description><![CDATA[也许是奇怪的想法，但我读到了网上约会就像一份全职工作的噩梦故事。无休止的搜索、消息传递、重影。 是否有一项新服务，让人们训练自己的人工智能角色版本（与大多数约会应用程序的深度差不多），然后我们的人工智能代表与其他代表混合，直到看起来有很强的匹配。然后用户会收到通知。 有点像朋友为您提供更个性化的约会推荐。 或者您的人工智能代表至少在第一个对话阶段过滤掉真实的人类，了解用户并礼貌地发现危险信号。 显然接下来您仍然需要进行所有个人聚会等。 只是一个想法   由   提交 /u/Both-Move-8418   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sgi5sz/ai_online_dating_rep_idea/</guid>
-      <pubDate>Thu, 09 Apr 2026 06:51:00 GMT</pubDate>
-    </item>
-    <item>
       <title>克劳德神话和逃离沙盒</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sghwzi/claude_mythos_and_escaping_the_sandbox/</link>
       <description><![CDATA[今天每个人的提要都充满了神话，事实上它逃离了指定的沙箱，并在研究人员吃三明治时向他发送了电子邮件……首先，他们为什么不告诉我们是什么样的三明治？！？ 而且，它将该漏洞发布到了一些不起眼但面向公众的网站，而不是像明智的红队成员那样报告它。我认为这是强化学习目标不一致的迹象，它误解了“完成后告诉我”的信息。 如果这是真的，那么使用真正有能力的模型会变得更加困难，因为我们需要真正具体地了解我们想要什么以及应该如何完成它。 在我看来，风险可能是向世界发布神话，但也因为我们还没有真正准备好使用它。我们喜欢偷懒并尽可能少地指定 - 过于冗长并不符合这一点，一旦每个人的老板了解到它的有效性，他们就会考虑如何替换他们需要的昂贵的红队人员。   由   提交/u/Brad19916  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sghwzi/claude_mythos_and_escaping_the_sandbox/</guid>
       <pubDate>Thu, 09 Apr 2026 06:36:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个人工智能代理存在于您的文本中，无需应用程序，无需安装，无需设置</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sgguur/this_ai_agent_lives_in_your_texts_no_app_no/</link>
-      <description><![CDATA[ 由   提交/u/Secure-Address4385   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sgguur/this_ai_agent_lives_in_your_texts_no_app_no/</guid>
-      <pubDate>Thu, 09 Apr 2026 05:36:22 GMT</pubDate>
     </item>
     <item>
       <title>如果人工智能实际上正在扼杀软件工程，为什么代码比以往任何时候都多？</title>
@@ -57,7 +64,7 @@
     <item>
       <title>亚马逊上大约 77% 的新“成功”自助书籍可能是由 AI 撰写的，其中一位作者 Noah Felix Bennett 仅在 2025 年中期就出版了惊人的 74 本书，每天的速度超过 1 本书。出版了数百本书的 Richard Trillion Mantey 被评估为每一本书都使用了人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sg5aqc/77_of_all_new_success_selfhelp_books_on_amazon/</link>
-      <description><![CDATA[“具有讽刺意味的是，该数据集中的 844 本书中的一本名为“如何在人工智能世界中为人类写作：消除数字噪音并触及真实的人”。在其中，作者对人工智能撰写内容的激增表示遗憾：“我们在网上、收件箱、甚至新闻文章中看到的文字，常常让人感觉它们不是由某个特定的人写的，”他写道。 “它们在语法上是完美的，但在情感上却是空虚的。他们很流利，但没有灵魂。具有讽刺意味的是，我们从来没有像今天这样写过更多的文章。我们正在制作大量的内容：帖子、标题、宣传、文本和无穷无尽的电子邮件。与此同时，在所有这些噪音中，一些重要的东西正在消失。这是一种真实的人正在与另一个真实的人交谈的感觉。”那本书的内容被标记为可能是人工智能生成的。”   由   提交 /u/StarlightDown   [链接] [评论]]]></description>
+      <description><![CDATA[“具有讽刺意味的是，该数据集中的 844 本书中的一本名为“如何在人工智能世界中为人类写作：消除数字噪音并触及真实的人”。在其中，作者对人工智能撰写的内容激增表示遗憾：“我们在网上、收件箱、甚至新闻文章中看到的文字，常常让人感觉它们不是由某个特定的人写的，”他写道。 “它们在语法上是完美的，但在情感上却是空虚的。他们很流利，但没有灵魂。具有讽刺意味的是，我们从来没有像今天这样写过更多的文章。我们正在制作大量的内容：帖子、标题、宣传、文本和无穷无尽的电子邮件。与此同时，在所有这些噪音中，一些重要的东西正在消失。这是一种真实的人正在与另一个真实的人交谈的感觉。”那本书的内容被标记为可能是人工智能生成的。”   由   提交 /u/StarlightDown   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sg5aqc/77_of_all_new_success_selfhelp_books_on_amazon/</guid>
       <pubDate>Wed, 08 Apr 2026 20:57:10 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[企业披露在其营销内容中使用人工智能生成的人类（如果该内容是由人工智能制作或由艺术家本身制作）。  如果您是艺术家或营销人员，您对此有何看法？   由   提交/u/XIFAQ  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sg43dk/no_ai_disclaimers_are_rising_among_marketers/</guid>
       <pubDate>Wed, 08 Apr 2026 20:12:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德神话是太危险而无法发布，还是太有利可图而无法分享？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sfvprt/is_claude_mythos_too_dangerous_to_release_or_too/</link>
-      <description><![CDATA[Anthropic 构建了历史上最强大的人工智能。十二家公司获得了访问权，那么其他公司呢？我们收到一份公开声明，称“这太危险了” 对你来说太危险了。对于亚马逊、苹果、谷歌、微软、英伟达和摩根大通来说并不太危险。对其他人来说太危险了。 一家准备进行价值可能数千亿美元的公开发行的公司在同一天宣布，它已经构建了历史上最强大的人工智能，并且将限制对地球上最大公司精心挑选的名单的访问，并且其收入在十五个月内增加了两倍。  现有 12 家最富有、最强大的技术和金融公司。这些是 Anthropic 的客户。这些是人类投资者。毫无疑问，我们其他人都是产品。   由   提交/u/buffduckusa  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sfvprt/is_claude_mythos_too_dangerous_to_release_or_too/</guid>
-      <pubDate>Wed, 08 Apr 2026 15:13:29 GMT</pubDate>
     </item>
     <item>
       <title>山姆·奥尔特曼 (Sam Altman) 表示，人工智能超级智能是如此之大，以至于我们需要一项“新政”。批评者称 OpenAI 的政策理念是“监管虚无主义”的掩护</title>
