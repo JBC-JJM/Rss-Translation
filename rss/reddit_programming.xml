@@ -4,7 +4,7 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 11 Apr 2026 21:36:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 02:28:27 GMT</lastBuildDate>
     <item>
       <title>在 AWS 工作了 20 年，但从来都不是我的工作</title>
       <link>https://www.reddit.com/r/programming/comments/1sipvi3/20_years_on_aws_and_never_not_my_job/</link>
@@ -76,7 +76,7 @@
       <pubDate>Fri, 10 Apr 2026 14:33:14 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>使用模型检查器重现 AWS 中断竞争条件</title>
       <link>https://www.reddit.com/r/programming/comments/1shmtl3/reproducing_the_aws_outage_race_condition_with_a/</link>
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1shmtl3/reproducing_the_aws_outage_race_condition_with_a/</guid>

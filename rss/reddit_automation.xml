@@ -4,7 +4,28 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 11 Apr 2026 21:31:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 02:27:23 GMT</lastBuildDate>
+    <item>
+      <title>我的第一个自动化项目</title>
+      <link>https://www.reddit.com/r/automation/comments/1sj1gbn/my_first_automation_project/</link>
+      <description><![CDATA[我一直在为我的客户手动完成所有营销工作。从创建网站、元广告和谷歌广告到使用 hubspot CRM 发送电子邮件。  我期待一些关于如何自动化我的流程的想法。  请为我提供最佳的入门策略。我对编码技术不太了解，但我可以轻松地使用前端应用程序。    由   提交 /u/digital_entrpreneur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1sj1gbn/my_first_automation_project/</guid>
+      <pubDate>Sun, 12 Apr 2026 01:55:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>重大更新：AutoRewarder v3.0 现已推出！现在提供每日套装、高级鼠标物理和模块化架构。</title>
+      <link>https://www.reddit.com/r/automation/comments/1sj19p1/huge_update_autorewarder_v30_is_here_now_with/</link>
+      <description><![CDATA[   大家好！ 几天前，我在这里分享了我的 Microsoft Rewards 自动化工具。从那时起，我一直在不停地工作，以使其更安全、更快、更“人性化”。今天，我很高兴发布版本 3.0。 AutoRewarder 的下载量已经超过 200 次！ 我已经放弃了单一代码，并重新构建了核心，使其尽可能不易被检测到。 v3.0 中的新增功能：  每日设置收集器：它现在自动完成您的每日设置任务（每天一次）。 高级鼠标物理：使用贝塞尔曲线和自然点击的新交互系统。不再有机器人“传送”指针。 智能滚动：现在每个会话都有独特的滚动速度和长度。 “咖啡休息”：机器人现在会在长时间会话期间随机暂停，以模仿真人休息。 自然导航：它不仅仅停留在一个页面上，它偶尔会切换选项卡（图像、视频、新闻）到看起来像有机浏览。 模块化重构：我已将代码拆分为模块 (src/)，以获得更好的稳定性和更轻松的更新。 更新检查器：现在，当有新版本可用时，应用程序会直接通知您，以便您始终使用最新的反机器人补丁。  该项目仍然 100% 开源。 GitHub：所有者：safarsin AutoRewarder 如果您使用过以前的版本，我强烈建议更新到 v3.0（只需从发布页面下载新的 .exe）。 演示已加快观看速度。实际执行包括随机延迟和暂停以模仿人类行为。 一如既往，如果您觉得这有用，GitHub 上的 ⭐ 将是支持该项目的最佳方式。享受应用程序吧！   由   提交/u/18safarov  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1sj19p1/huge_update_autorewarder_v30_is_here_now_with/</guid>
+      <pubDate>Sun, 12 Apr 2026 01:46:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要专家的诚实建议</title>
+      <link>https://www.reddit.com/r/automation/comments/1sivquz/need_honest_advice_from_experts/</link>
+      <description><![CDATA[我打算创办自己的人工智能机构。现在这就是AI AGENCY 的问题。我无法理解我应该擅长什么确切的服务以及目标是什么。如今，人工智能机构这个名字更像是一种炒作，它要么是一家营销机构，要么是其他什么。  需要指导，伙计们，我刚刚开始，每天都在尝试新事物，而不是专注于一个新事物，这让自己不知所措。   由   提交/u/Asleep_Belt2655   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1sivquz/need_honest_advice_from_experts/</guid>
+      <pubDate>Sat, 11 Apr 2026 21:39:02 GMT</pubDate>
+    </item>
     <item>
       <title>我将 Wi-Fi 网络变成了存在传感器，它与 Home Assistant 配合得非常好</title>
       <link>https://www.reddit.com/r/automation/comments/1siqk1n/i_turned_my_wifi_network_into_a_presence_sensor/</link>
@@ -81,27 +102,6 @@
       <description><![CDATA[我是一家中型企业的一员，基本上我们每个月都会通过电子邮件收到大量员工费用收据，我们正在寻找某种方法来实现自动化。  理想情况下，不会给其他员工带来不便，也不会改变他们提交收据的方式或以某种方式使其变得更容易。 不确定是否有一个好的工具，或者是否应该在内部自动化。   由   提交/u/headlessHorse-man   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1si4q8a/recommendations_on_expense_automation_software/</guid>
       <pubDate>Sat, 11 Apr 2026 00:56:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>为吸引 Marc Andreessen 的注意，人工智能代理获得了 1,000 美元的预算——对其方法的观察</title>
-      <link>https://www.reddit.com/r/automation/comments/1shsc7s/an_ai_agent_was_given_a_1000_budget_to_get_marc/</link>
-      <description><![CDATA[我一直在阅读有关一项涉及自主人工智能代理的实验，该代理被分配了一个有限的目标：让 Marc Andreessen 注意到一个初创公司的宣传活动，预算约为 1,000 美元。 在浏览了 pmarca.ai 上的材料后。看来该代理并不依赖单一渠道。相反，它结合了多种方法，包括域名获取、有针对性的在线广告以及通过雇用的个人协调线下促销活动。还提到了针对地域的努力。 突出的一个方面是过程的透明度。代理的决策、行动和支出都被记录下来，这样可以更仔细地检查它是如何构建其方法的。 我对其他人如何评估这一点感兴趣。 这是否反映了有意义的自主规划水平，或者主要是跨可用渠道的迭代试错？   由   提交 /u/Vane1st   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1shsc7s/an_ai_agent_was_given_a_1000_budget_to_get_marc/</guid>
-      <pubDate>Fri, 10 Apr 2026 16:57:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 OpenClaw 替代品以实现简单的自动化，无需繁重的设置</title>
-      <link>https://www.reddit.com/r/automation/comments/1shqzye/looking_for_openclaw_alternatives_for_simple/</link>
-      <description><![CDATA[我正在尝试自动化一些基本工作流程，例如研究、内容生成和小型重复任务。 我研究了 OpenClaw，但感觉它对于我的需求来说有点大材小用，特别是在设置、托管和持续管理方面。 我真正想要的是开箱即用的东西，无需花费数小时将所有内容连接在一起。   由   提交 /u/Hereemideem1a   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1shqzye/looking_for_openclaw_alternatives_for_simple/</guid>
-      <pubDate>Fri, 10 Apr 2026 16:10:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 PDF 中提取数据总是这么痛苦吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1shqeam/is_extracting_data_from_pdfs_always_this_painful/</link>
-      <description><![CDATA[我没想到 PDF 会成为我们工作流程中的瓶颈。 我们每天都会收到发票和报告，每次我们都需要一些值总计、日期等。必须有人打开文件并深入研究它。 尝试过 OCR + 一些脚本，但它有效......直到它不起作用。表格损坏，格式发生变化，然后您又回到手动检查。 感觉我们从“手动输入”转向“手动验证”。 很好奇这是否正常，或者人们是否确实正确解决了这个问题。   由   提交 /u/Pale_Negotiation2215   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1shqeam/is_extracting_data_from_pdfs_always_this_painful/</guid>
-      <pubDate>Fri, 10 Apr 2026 15:49:35 GMT</pubDate>
     </item>
     <item>
       <title>与一位在 6 个月内赚了超过 2 万美元的人工智能机构所有者的交谈向我展示了为什么 80% 的自动化被抛弃（以及真正有效的修复）</title>
