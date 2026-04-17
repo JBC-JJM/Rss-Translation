@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 17 Apr 2026 10:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:16:57 GMT</lastBuildDate>
     <item>
       <title>我关闭了 AnimeMyPic 项目，几个月后检查了分析并重新启动</title>
       <link>https://feed.indiehackers.world/post/6d5158d49e</link>
@@ -16,6 +16,33 @@
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/6d5158d49e</guid>
       <pubDate>Thu, 16 Apr 2026 15:16:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Show IH：我构建了一个人工智能工具，可以在推销之前模拟任何观众</title>
+      <link>https://feed.indiehackers.world/post/7673a682dd</link>
+      <description><![CDATA[
+通过详细推理获得模拟反应
+
+它的用途：
+
+🎯 政治家测试竞选信息
+📣 影响者衡量内容反应
+💼 企业家验证推介
+🎭 管理公众认知的名人
+📈 营销人员优化营销活动
+
+技术堆栈：
+
+采用现代网络技术构建
+由先进的 AI 模型提供支持
+简洁、直观的界面
+
+我很想听听您的反馈！哪些功能会让它对您更有用？
+查看：https://www.poll-sim.com
+感谢您的阅读！ 🙏
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/7673a682dd</guid>
+      <pubDate>Thu, 16 Apr 2026 04:43:40 GMT</pubDate>
     </item>
     <item>
       <title>我经营一家 OpenClaw 托管公司。 A/B'd vs Hermes 作为编码工具——Hermes 获胜</title>
@@ -168,14 +195,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/50ed2f9f10</guid>
       <pubDate>Sat, 11 Apr 2026 07:42:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>昨天推出。这是我学到的。</title>
-      <link>https://feed.indiehackers.world/post/38b84b4b8a</link>
-      <description><![CDATA[如果您在消费者创意工具中发现了 PMF - 您是什么时候知道的？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/38b84b4b8a</guid>
-      <pubDate>Fri, 10 Apr 2026 10:39:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
