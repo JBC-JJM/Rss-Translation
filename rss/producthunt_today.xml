@@ -4,20 +4,20 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 17 Apr 2026 16:00:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 18:58:55 GMT</lastBuildDate>
     <item>
-      <title>阿尔基</title>
-      <link>https://www.producthunt.com/products/arky</link>
+      <title>市场爱</title>
+      <link>https://www.producthunt.com/products/ichiba-ai</link>
       <description><![CDATA[
-            人工智能思考的画布
+            AI 对 AI 的影响，得分。看看是什么让模型受到感动。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/arky</guid>
-      <pubDate>Fri, 17 Apr 2026 06:50:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ichiba-ai</guid>
+      <pubDate>Fri, 17 Apr 2026 05:07:24 GMT</pubDate>
     </item>
     <item>
       <title>画布人工智能2.0</title>
@@ -34,46 +34,18 @@
       <pubDate>Fri, 17 Apr 2026 04:47:46 GMT</pubDate>
     </item>
     <item>
-      <title>Studio – AI 原生媒体工作空间</title>
-      <link>https://www.producthunt.com/products/coreviz-visual-ai-for-teams</link>
+      <title>DASC</title>
+      <link>https://www.producthunt.com/products/dasca</link>
       <description><![CDATA[
-            使用 AI 一次性组织、标记和编辑数千张照片
+            GLSL Playground 的实时视觉效果
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/coreviz-visual-ai-for-teams</guid>
-      <pubDate>Fri, 17 Apr 2026 04:19:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯托亚</title>
-      <link>https://www.producthunt.com/products/stoa-4</link>
-      <description><![CDATA[
-            用于完成实际工作的实时多人 AI 团队空间
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/stoa-4</guid>
-      <pubDate>Thu, 16 Apr 2026 23:04:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>纳沃克斯代理</title>
-      <link>https://www.producthunt.com/products/navox-agents</link>
-      <description><![CDATA[
-            Claude Code 的专业人工智能工程团队
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/navox-agents</guid>
-      <pubDate>Thu, 16 Apr 2026 18:37:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/dasca</guid>
+      <pubDate>Fri, 17 Apr 2026 01:16:39 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 的 Codex 2.0</title>
@@ -90,18 +62,32 @@
       <pubDate>Thu, 16 Apr 2026 17:18:10 GMT</pubDate>
     </item>
     <item>
-      <title>Chrome 中的 AI 模式</title>
-      <link>https://www.producthunt.com/products/ai-mode-in-chrome</link>
+      <title>VideoToFlip.com - 将视频转换为翻页书</title>
+      <link>https://www.producthunt.com/products/videotoflip-make-a-flipbook-from-video</link>
       <description><![CDATA[
-            并排浏览和搜索，无需切换选项卡
+            用您的视频瞬间创建精美的活页簿
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ai-mode-in-chrome</guid>
-      <pubDate>Thu, 16 Apr 2026 17:10:18 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/videotoflip-make-a-flipbook-from-video</guid>
+      <pubDate>Thu, 16 Apr 2026 16:08:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fabricant 智能工具</title>
+      <link>https://www.producthunt.com/products/the-fabricant-intelligent-tools</link>
+      <description><![CDATA[
+            人工智能驱动的设计套件让任何人都可以设计时尚
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/the-fabricant-intelligent-tools</guid>
+      <pubDate>Thu, 16 Apr 2026 15:53:09 GMT</pubDate>
     </item>
     <item>
       <title>Cloudflare 电子邮件服务</title>
@@ -118,18 +104,46 @@
       <pubDate>Thu, 16 Apr 2026 14:56:49 GMT</pubDate>
     </item>
     <item>
-      <title>视差专业版</title>
-      <link>https://www.producthunt.com/products/parallaxpro</link>
+      <title>近距离工作 4.7</title>
+      <link>https://www.producthunt.com/products/claude-opus-4-7</link>
       <description><![CDATA[
-            AI 工具可将您的提示变成真正的视频游戏
+            克劳德最有能力的推理和代理编码模型
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/parallaxpro</guid>
-      <pubDate>Thu, 16 Apr 2026 10:50:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/claude-opus-4-7</guid>
+      <pubDate>Thu, 16 Apr 2026 14:29:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.6-35B-A3B</title>
+      <link>https://www.producthunt.com/products/qwen3</link>
+      <description><![CDATA[
+            用于代理编码的开放稀疏 MoE 模型
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/qwen3</guid>
+      <pubDate>Thu, 16 Apr 2026 13:51:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>祖弗洛</title>
+      <link>https://www.producthunt.com/products/zuflow</link>
+      <description><![CDATA[
+            使用视觉逻辑构建 3D 装配体
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/zuflow</guid>
+      <pubDate>Thu, 16 Apr 2026 12:05:16 GMT</pubDate>
     </item>
     <item>
       <title>埃尔万</title>
@@ -146,34 +160,6 @@
       <pubDate>Thu, 16 Apr 2026 09:52:48 GMT</pubDate>
     </item>
     <item>
-      <title>日历管</title>
-      <link>https://www.producthunt.com/products/calendarpipe</link>
-      <description><![CDATA[
-            人类和人工智能代理的可编程日历同步
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/calendarpipe</guid>
-      <pubDate>Thu, 16 Apr 2026 09:36:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>可追踪</title>
-      <link>https://www.producthunt.com/products/trackables-2</link>
-      <description><![CDATA[
-            开源遥测已解决
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/trackables-2</guid>
-      <pubDate>Thu, 16 Apr 2026 04:50:37 GMT</pubDate>
-    </item>
-    <item>
       <title>眼睛。通过专家追逐</title>
       <link>https://www.producthunt.com/products/expert-chase-deleted-1107920</link>
       <description><![CDATA[
@@ -186,6 +172,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/expert-chase-deleted-1107920</guid>
       <pubDate>Wed, 15 Apr 2026 19:46:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>协同代理</title>
+      <link>https://www.producthunt.com/products/coagentor</link>
+      <description><![CDATA[
+            实时参加会议的人工智能代理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/coagentor</guid>
+      <pubDate>Wed, 15 Apr 2026 18:11:13 GMT</pubDate>
     </item>
     <item>
       <title>构建检查（对于外部人员）</title>
