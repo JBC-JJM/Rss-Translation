@@ -4,26 +4,110 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 17 Apr 2026 05:27:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:44:23 GMT</lastBuildDate>
     <item>
-      <title>门厅</title>
-      <link>https://www.producthunt.com/products/foyer-3</link>
+      <title>语音伙伴</title>
+      <link>https://www.producthunt.com/products/speechpal-speak-intent-not-anxiety</link>
       <description><![CDATA[
-            让您的网站说话并销售
+            现实生活对话的练习室
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/foyer-3</guid>
-      <pubDate>Thu, 16 Apr 2026 06:59:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/speechpal-speak-intent-not-anxiety</guid>
+      <pubDate>Fri, 17 Apr 2026 06:10:11 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 代理 SDK</title>
+      <title>工作室</title>
+      <link>https://www.producthunt.com/products/coreviz-visual-ai-for-teams</link>
+      <description><![CDATA[
+            使用 AI 一次性组织、标记和编辑数千张照片
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/coreviz-visual-ai-for-teams</guid>
+      <pubDate>Fri, 17 Apr 2026 04:19:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>网格地</title>
+      <link>https://www.producthunt.com/products/gridland</link>
+      <description><![CDATA[
+            在终端和浏览器中呈现的 React 应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/gridland</guid>
+      <pubDate>Thu, 16 Apr 2026 23:26:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴克德工作室</title>
+      <link>https://www.producthunt.com/products/barkod-studio</link>
+      <description><![CDATA[
+            将枯燥的条形码转变为美丽的品牌资产
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/barkod-studio</guid>
+      <pubDate>Thu, 16 Apr 2026 22:06:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>锐式</title>
+      <link>https://www.producthunt.com/products/sharpsana</link>
+      <description><![CDATA[
+            运行整个初创公司的人工智能代理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/sharpsana</guid>
+      <pubDate>Thu, 16 Apr 2026 19:12:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>纳沃克斯代理</title>
+      <link>https://www.producthunt.com/products/navox-agents</link>
+      <description><![CDATA[
+            Claude Code 的专业人工智能工程团队
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/navox-agents</guid>
+      <pubDate>Thu, 16 Apr 2026 18:37:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>梅洛</title>
+      <link>https://www.producthunt.com/products/melo-3</link>
+      <description><![CDATA[
+            一张画布可容纳您的所有作品
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/melo-3</guid>
+      <pubDate>Thu, 16 Apr 2026 17:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>食典2.0</title>
       <link>https://www.producthunt.com/products/openai</link>
       <description><![CDATA[
-            使用线束和沙箱构建生产代理
+            Codex 现在运行应用程序、自动执行任务、代码等
           
 
 讨论
@@ -31,189 +115,105 @@
             链接
 ]]></description>
       <guid>https://www.producthunt.com/products/openai</guid>
-      <pubDate>Thu, 16 Apr 2026 06:51:50 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 17:18:10 GMT</pubDate>
     </item>
     <item>
-      <title>代理卡</title>
-      <link>https://www.producthunt.com/products/agent-card</link>
+      <title>Fabricant 智能工具</title>
+      <link>https://www.producthunt.com/products/the-fabricant-intelligent-tools</link>
       <description><![CDATA[
-            供 AI 代理使用的预付费虚拟 Visa 卡
+            人工智能驱动的设计套件让任何人都可以设计时尚
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agent-card</guid>
-      <pubDate>Thu, 16 Apr 2026 05:42:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/the-fabricant-intelligent-tools</guid>
+      <pubDate>Thu, 16 Apr 2026 15:53:09 GMT</pubDate>
     </item>
     <item>
-      <title>3PL 中心</title>
-      <link>https://www.producthunt.com/products/3pl-hub</link>
+      <title>Qwen3.6-35B-A3B</title>
+      <link>https://www.producthunt.com/products/qwen3</link>
       <description><![CDATA[
-            查找并比较 3PL 履行合作伙伴
+            用于代理编码的开放稀疏 MoE 模型
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/3pl-hub</guid>
-      <pubDate>Thu, 16 Apr 2026 02:55:46 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/qwen3</guid>
+      <pubDate>Thu, 16 Apr 2026 13:51:24 GMT</pubDate>
     </item>
     <item>
-      <title>Gemini CLI 中的子代理</title>
-      <link>https://www.producthunt.com/products/google</link>
+      <title>人工智能视觉公关测试</title>
+      <link>https://www.producthunt.com/products/qa-tech</link>
       <description><![CDATA[
-            Gemini CLI 现在在您的终端中运行专业子代理
+            使用为您运行测试的 AI 验证每个 PR
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/google</guid>
-      <pubDate>Wed, 15 Apr 2026 20:06:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/qa-tech</guid>
+      <pubDate>Thu, 16 Apr 2026 12:52:36 GMT</pubDate>
     </item>
     <item>
-      <title>风键</title>
-      <link>https://www.producthunt.com/products/funkey</link>
+      <title>祖弗洛</title>
+      <link>https://www.producthunt.com/products/zuflow</link>
       <description><![CDATA[
-            适用于 Mac 的机械键盘和鼠标声音
+            使用视觉逻辑构建 3D 装配体
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/funkey</guid>
-      <pubDate>Wed, 15 Apr 2026 18:33:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/zuflow</guid>
+      <pubDate>Thu, 16 Apr 2026 12:05:16 GMT</pubDate>
     </item>
     <item>
-      <title>屏幕上的黑客地球</title>
-      <link>https://www.producthunt.com/products/hackerearth</link>
+      <title>诺亚</title>
+      <link>https://www.producthunt.com/products/noa-4</link>
       <description><![CDATA[
-            始终在线、零偏见的人工智能招聘工具
+            您的生活管理员，可帮助您快速安排时间
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/hackerearth</guid>
-      <pubDate>Wed, 15 Apr 2026 13:38:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/noa-4</guid>
+      <pubDate>Thu, 16 Apr 2026 07:57:07 GMT</pubDate>
     </item>
     <item>
-      <title>克劳德·代码桌面应用程序重新设计</title>
-      <link>https://www.producthunt.com/products/claude-redesigned</link>
+      <title>眼睛。通过专家追逐</title>
+      <link>https://www.producthunt.com/products/expert-chase-deleted-1107920</link>
       <description><![CDATA[
-            从一个桌面工作区运行并行编码代理
+            人类生活与人工智能一起运行
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/claude-redesigned</guid>
-      <pubDate>Tue, 14 Apr 2026 19:22:22 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/expert-chase-deleted-1107920</guid>
+      <pubDate>Wed, 15 Apr 2026 19:46:19 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌浏览器技能</title>
-      <link>https://www.producthunt.com/products/google-chrome-skills</link>
+      <title>雅典娜</title>
+      <link>https://www.producthunt.com/products/athena-9b536c7c-a0eb-4ab0-a230-ea0de18d0f47</link>
       <description><![CDATA[
-            将您最好的 AI 提示变成 Chrome 中的一键式工具
+            产品团队的克劳德代码
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/google-chrome-skills</guid>
-      <pubDate>Tue, 14 Apr 2026 17:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>阶段性的</title>
-      <link>https://www.producthunt.com/products/stagewise-2</link>
-      <description><![CDATA[
-            在自己的浏览器环境中工作的编码代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/stagewise-2</guid>
-      <pubDate>Tue, 14 Apr 2026 07:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astropad 工作台</title>
-      <link>https://www.producthunt.com/products/workbench-4</link>
-      <description><![CDATA[
-            在无头 Mac 上运行的 AI 代理的远程桌面
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/workbench-4</guid>
-      <pubDate>Mon, 13 Apr 2026 20:56:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由网</title>
-      <link>https://www.producthunt.com/products/libertify-com</link>
-      <description><![CDATA[
-            将任何文档变成交互式视频
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/libertify-com</guid>
-      <pubDate>Sun, 12 Apr 2026 19:58:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>X-飞行员</title>
-      <link>https://www.producthunt.com/products/x-pilot-5</link>
-      <description><![CDATA[
-             准确地解释任何事情，从文档到视频课程
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/x-pilot-5</guid>
-      <pubDate>Sun, 12 Apr 2026 15:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>因科克莱斯</title>
-      <link>https://www.producthunt.com/products/incoclyse</link>
-      <description><![CDATA[
-            人工智能可读取您的发票并选择正确的 Incoterms®
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/incoclyse</guid>
-      <pubDate>Thu, 09 Apr 2026 10:18:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ignite - 英语练习</title>
-      <link>https://www.producthunt.com/products/ignite-english-drill</link>
-      <description><![CDATA[
-            将任何技术文档变成由人工智能评分的口语练习
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ignite-english-drill</guid>
-      <pubDate>Sun, 29 Mar 2026 13:59:02 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/athena-9b536c7c-a0eb-4ab0-a230-ea0de18d0f47</guid>
+      <pubDate>Wed, 15 Apr 2026 18:59:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
