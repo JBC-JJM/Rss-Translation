@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 20 Apr 2026 08:05:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 10:47:57 GMT</lastBuildDate>
     <item>
       <title>我想为 Shopify 商店构建一个 AI 支持代理 - 我能解决真正的问题吗？</title>
       <link>https://feed.indiehackers.world/post/d009ab93b3</link>
@@ -65,6 +65,15 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Sat, 18 Apr 2026 15:23:06 GMT</pubDate>
     </item>
     <item>
+      <title>从项目工程和资本市场到 AI SaaS：我“Vibe-Coded”了我的第一个产品！</title>
+      <link>https://feed.indiehackers.world/post/46378573ea</link>
+      <description><![CDATA[由于我是社区新手，所以我很想听听您的意见：“Vibe Coding”是否可行？独立创始人的未来，还是我很快就会碰壁？
+如果您有兴趣成为前 100 名测试逻辑并提供反馈的人之一，请在评论中告诉我，我将发送链接并访问详细信息！
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/46378573ea</guid>
+      <pubDate>Sat, 18 Apr 2026 15:21:02 GMT</pubDate>
+    </item>
+    <item>
       <title>全栈开发人员寻求加入作为联合创始人</title>
       <link>https://feed.indiehackers.world/post/5c831c537f</link>
       <description><![CDATA[我是 Rafal，迪拜的高级全栈工程师。 Rust/WASM 专家，但我涵盖整个堆栈 - React/TypeScript/Tailwind、用于移动的 Kotlin/Swift、用于后端的 Go 和 Python。 10 多年构建生产软件的经验。
@@ -81,7 +90,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <title>我厌倦了沉默的运输，所以我建立了 dopaAI</title>
       <link>https://feed.indiehackers.world/post/cec5e3f2ea</link>
       <description><![CDATA[一致性：我终于每周发帖 4-5 次，而不是每月一次。
-执行障碍：我不再回避视频，因为“工作量太大。”
+执行阻碍：我不再回避视频，因为“工作量太大。”
 现在 dopaAI 已经上线，我每天都在自己的项目中使用它。
 我构建它是因为我厌倦了伟大的功能在沉默中消亡。
 如果您是一位独立创始人，交付速度快，但很难吸引人们关注您所构建的产品，那么这可能会消除阻碍您前进的确切摩擦。
@@ -207,17 +216,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/e4761c4ec6</guid>
       <pubDate>Tue, 14 Apr 2026 21:19:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的用户在不知不觉中使我的产品变得更好。我是这样设计的。</title>
-      <link>https://feed.indiehackers.world/post/c7e3134c20</link>
-      <description><![CDATA[
-如果您正在使用法学硕士进行构建，请回复并告诉我什么模型及其用途。我将告诉您三种最常见的设置注入模式。
-
-castle.bordair.io | bordair.io
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/c7e3134c20</guid>
-      <pubDate>Tue, 14 Apr 2026 18:44:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
