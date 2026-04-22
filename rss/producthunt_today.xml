@@ -4,76 +4,62 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 22 Apr 2026 13:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 16:09:55 GMT</lastBuildDate>
     <item>
-      <title>索梅费雷</title>
-      <link>https://www.producthunt.com/products/kimiflare</link>
+      <title>争吵</title>
+      <link>https://www.producthunt.com/products/wrangle-4</link>
       <description><![CDATA[
-            kimi k2.6 cli 代码编辑器托管在 cloudflare Workers AI 上
+            看懂CLAUDE.md的Markdown编辑器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/kimiflare</guid>
-      <pubDate>Wed, 22 Apr 2026 01:16:37 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/wrangle-4</guid>
+      <pubDate>Wed, 22 Apr 2026 02:20:47 GMT</pubDate>
     </item>
     <item>
-      <title>一目了然</title>
-      <link>https://www.producthunt.com/products/oneglanse</link>
+      <title>ChatGPT 图像 2.0</title>
+      <link>https://www.producthunt.com/products/chatgpt-images-2-0</link>
       <description><![CDATA[
-            用于 LLM 可见性的免费开源 GEO 跟踪器
+            第一个具有思维能力的图像模型
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/oneglanse</guid>
-      <pubDate>Tue, 21 Apr 2026 17:10:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/chatgpt-images-2-0</guid>
+      <pubDate>Tue, 21 Apr 2026 19:04:42 GMT</pubDate>
     </item>
     <item>
-      <title>层数</title>
-      <link>https://www.producthunt.com/products/layers-7</link>
+      <title>即时精彩集锦 V2（Heygen）</title>
+      <link>https://www.producthunt.com/products/heygen</link>
       <description><![CDATA[
-            专用网络陌生人实际上无法联系到您。
+            在几秒钟内将长视频变成病毒剪辑
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/layers-7</guid>
-      <pubDate>Tue, 21 Apr 2026 14:01:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/heygen</guid>
+      <pubDate>Tue, 21 Apr 2026 17:03:21 GMT</pubDate>
     </item>
     <item>
-      <title>参考板</title>
-      <link>https://www.producthunt.com/products/reference-board</link>
+      <title>塞克纳尔</title>
+      <link>https://www.producthunt.com/products/seeknal</link>
       <description><![CDATA[
-            无限画布，满足您的想法
+            用于管道和 NL 查询的数据和 AI/ML CLI
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/reference-board</guid>
-      <pubDate>Tue, 21 Apr 2026 13:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>聊天文件夹</title>
-      <link>https://www.producthunt.com/products/chatfolders</link>
-      <description><![CDATA[
-            与 ChatGPT Claude、Gemini 和 Grok 进行 AI 聊天的文件夹
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/chatfolders</guid>
-      <pubDate>Tue, 21 Apr 2026 08:55:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/seeknal</guid>
+      <pubDate>Tue, 21 Apr 2026 16:02:49 GMT</pubDate>
     </item>
     <item>
       <title>空白</title>
@@ -90,18 +76,46 @@
       <pubDate>Tue, 21 Apr 2026 08:29:36 GMT</pubDate>
     </item>
     <item>
-      <title>斯坦利·福𝕏</title>
-      <link>https://www.producthunt.com/products/stanley-for-x</link>
+      <title>在动物身上</title>
+      <link>https://www.producthunt.com/products/loomal</link>
       <description><![CDATA[
-            全球首位人工智能内容主管
+            AI 代理的身份基础设施
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/stanley-for-x</guid>
-      <pubDate>Mon, 20 Apr 2026 16:52:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/loomal</guid>
+      <pubDate>Tue, 21 Apr 2026 07:07:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>诺米 v2</title>
+      <link>https://www.producthunt.com/products/nomie</link>
+      <description><![CDATA[
+            用自我照顾的互动世界取代末日滚动
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/nomie</guid>
+      <pubDate>Mon, 20 Apr 2026 21:25:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.6-Max-预览版</title>
+      <link>https://www.producthunt.com/products/qwen3</link>
+      <description><![CDATA[
+            用于代理编码的旗舰 Qwen
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/qwen3</guid>
+      <pubDate>Mon, 20 Apr 2026 14:30:13 GMT</pubDate>
     </item>
     <item>
       <title>Zernio 广告 API</title>
@@ -118,20 +132,6 @@
       <pubDate>Mon, 20 Apr 2026 10:57:04 GMT</pubDate>
     </item>
     <item>
-      <title>索卡尔</title>
-      <link>https://www.producthunt.com/products/sokal</link>
-      <description><![CDATA[
-            显示朋友何时有空的社交日历
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/sokal</guid>
-      <pubDate>Fri, 17 Apr 2026 18:57:49 GMT</pubDate>
-    </item>
-    <item>
       <title>说</title>
       <link>https://www.producthunt.com/products/speakon</link>
       <description><![CDATA[
@@ -144,20 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/speakon</guid>
       <pubDate>Wed, 15 Apr 2026 03:17:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>丁斯的故事 副驾驶</title>
-      <link>https://www.producthunt.com/products/tines</link>
-      <description><![CDATA[
-            用于构建智能工作流程的对话式 AI 界面
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/tines</guid>
-      <pubDate>Tue, 14 Apr 2026 20:10:49 GMT</pubDate>
     </item>
     <item>
       <title>港口</title>
@@ -174,18 +160,32 @@
       <pubDate>Tue, 14 Apr 2026 10:50:14 GMT</pubDate>
     </item>
     <item>
-      <title>新星招聘员</title>
-      <link>https://www.producthunt.com/products/nova-recruiter</link>
+      <title>当然2.0</title>
+      <link>https://www.producthunt.com/products/toki-ai</link>
       <description><![CDATA[
-            寻找、联系和招聘顶尖人才的代理平台
+            自动从想法到预定计划
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/nova-recruiter</guid>
-      <pubDate>Thu, 09 Apr 2026 12:13:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/toki-ai</guid>
+      <pubDate>Fri, 10 Apr 2026 08:59:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>停产数据集</title>
+      <link>https://www.producthunt.com/products/eol-dataset</link>
+      <description><![CDATA[
+            找到堆栈中的每个 EOL 依赖项。自由的。 5分钟后。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/eol-dataset</guid>
+      <pubDate>Thu, 09 Apr 2026 19:50:31 GMT</pubDate>
     </item>
     <item>
       <title>蔡</title>
