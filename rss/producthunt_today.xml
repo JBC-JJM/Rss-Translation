@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 24 Apr 2026 08:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 10:20:27 GMT</lastBuildDate>
     <item>
       <title>TuneJourney.com</title>
       <link>https://www.producthunt.com/products/tunejourney-com</link>
@@ -20,34 +20,6 @@
       <pubDate>Fri, 24 Apr 2026 04:39:59 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek-V4</title>
-      <link>https://www.producthunt.com/products/deepseek</link>
-      <description><![CDATA[
-            1M情境智能的开源时代
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/deepseek</guid>
-      <pubDate>Fri, 24 Apr 2026 03:52:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的 Codex 3.0</title>
-      <link>https://www.producthunt.com/products/codex-3-0-by-openai</link>
-      <description><![CDATA[
-            Codex 现在可以在自动驾驶仪上构建、测试和调试
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/codex-3-0-by-openai</guid>
-      <pubDate>Thu, 23 Apr 2026 18:48:21 GMT</pubDate>
-    </item>
-    <item>
       <title>邮件提示</title>
       <link>https://www.producthunt.com/products/mailcue-realistic-email-testing-server</link>
       <description><![CDATA[
@@ -60,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/mailcue-realistic-email-testing-server</guid>
       <pubDate>Thu, 23 Apr 2026 17:36:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>搭便车</title>
-      <link>https://www.producthunt.com/products/haiker</link>
-      <description><![CDATA[
-            适合非英语母语人士的黑客新闻应用程序
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/haiker</guid>
-      <pubDate>Thu, 23 Apr 2026 14:43:39 GMT</pubDate>
     </item>
     <item>
       <title>保存表格.io</title>
@@ -118,18 +76,46 @@
       <pubDate>Thu, 23 Apr 2026 12:41:19 GMT</pubDate>
     </item>
     <item>
-      <title>Landsat 中你的名字🛰️</title>
-      <link>https://www.producthunt.com/products/your-name-in-landsat</link>
+      <title>诺德工艺2.0</title>
+      <link>https://www.producthunt.com/products/toddle</link>
       <description><![CDATA[
-            这个星球可以拼出你的名字——字面意思！
+            我设计的代理具有完整的 HTML/CSS 控制和 SSR
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/your-name-in-landsat</guid>
-      <pubDate>Thu, 23 Apr 2026 08:50:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/toddle</guid>
+      <pubDate>Thu, 23 Apr 2026 10:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>斯皮拉艾</title>
+      <link>https://www.producthunt.com/products/spira-ai</link>
+      <description><![CDATA[
+            始终紧随潮流的人工智能影响者，创建和发展您的品牌
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/spira-ai</guid>
+      <pubDate>Thu, 23 Apr 2026 08:15:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace 智能</title>
+      <link>https://www.producthunt.com/products/google</link>
+      <description><![CDATA[
+            AI 能够理解并为您的工作空间提供支持
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/google</guid>
+      <pubDate>Wed, 22 Apr 2026 19:42:56 GMT</pubDate>
     </item>
     <item>
       <title>询问 Product Hunt AI</title>
@@ -160,18 +146,32 @@
       <pubDate>Tue, 21 Apr 2026 17:45:22 GMT</pubDate>
     </item>
     <item>
-      <title>乐队</title>
-      <link>https://www.producthunt.com/products/band</link>
+      <title>Writesonic 的 Bansi AI</title>
+      <link>https://www.producthunt.com/products/bansi</link>
       <description><![CDATA[
-            在一次聊天中协调和管理多代理工作
+            用于长篇头像视频的 AI 视频编辑器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/band</guid>
-      <pubDate>Tue, 14 Apr 2026 19:31:47 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/bansi</guid>
+      <pubDate>Thu, 16 Apr 2026 16:33:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>靴子列表</title>
+      <link>https://www.producthunt.com/products/boots-list</link>
+      <description><![CDATA[
+            从 Rekordbox 收藏到可设置的播放列表
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/boots-list</guid>
+      <pubDate>Sat, 11 Apr 2026 06:21:50 GMT</pubDate>
     </item>
     <item>
       <title>用于实时通话的情商 AI</title>
