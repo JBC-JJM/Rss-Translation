@@ -4,7 +4,28 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 01 May 2026 02:52:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 06:15:28 GMT</lastBuildDate>
+    <item>
+      <title>一个 Linkedin 机器人来回复与我的工作相关的有趣讨论？</title>
+      <link>https://www.reddit.com/r/automation/comments/1t0l22h/a_linkedin_bot_to_reply_on_interesting_discussion/</link>
+      <description><![CDATA[是否可以拥有或创建一个机器人来更快地管理 Linkedin 并回复与我的工作/个人资料相关的重要帖子？   由   提交 /u/InvitePatient9411   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t0l22h/a_linkedin_bot_to_reply_on_interesting_discussion/</guid>
+      <pubDate>Fri, 01 May 2026 06:12:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>密闭压缩机电路上的过载保护尺寸错误，刚刚解决了</title>
+      <link>https://www.reddit.com/r/automation/comments/1t0k7fi/been_sizing_overload_protection_wrong_on_hermetic/</link>
+      <description><![CDATA[对于任何接触 HVAC 或制冷相关面板的人来说都是快速的。我总是被教导根据电机铭牌上的 FLA 来确定过载保护的大小。在我的职业生涯中，通用电机工作得很好。 上个月，我正在审查新压缩机安装的面板设计，规范中提到了 RLA - 额定负载安培。完全不同的数字，运行速度低于 FLA。原因是密封压缩机电机在接近 RLA（而不是 FLA）的条件下连续运行，因此在 FLA 上确定过载大小所提供的实际保护比您想象的要少。 供应商数据表中隐藏了这两个数字，我差点错过了。如果您在密封补偿器上设置过载来处理 FLA，则在真正的过流事件期间您可能永远不会真正跳闸，因为电机远高于 RLA，但在正常负载波动期间仍低于 FLA 阈值。 还有其他人在改造时遇到此问题，其中原始图纸仅表示电机安培而未指定哪个标准吗？试图找出未来文档的最佳实践，特别是当现有图例没有明确工程师使用哪个值时。   由   提交 /u/WhichWayIsTheB4r   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t0k7fi/been_sizing_overload_protection_wrong_on_hermetic/</guid>
+      <pubDate>Fri, 01 May 2026 05:27:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>后端自动化工具的应用程序审查屏幕录制要求 - 需要指导</title>
+      <link>https://www.reddit.com/r/automation/comments/1t0jd5z/app_review_screen_recording_requirements_for/</link>
+      <description><![CDATA[ 由   提交 /u/ScoopyChaatt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t0jd5z/app_review_screen_recording_requirements_for/</guid>
+      <pubDate>Fri, 01 May 2026 04:44:54 GMT</pubDate>
+    </item>
     <item>
       <title>好吧，这很有趣</title>
       <link>https://www.reddit.com/r/automation/comments/1t0dtga/okay_this_is_funny/</link>
@@ -39,13 +60,6 @@
       <description><![CDATA[       由   提交 /u/ShabzSparq   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t05pcw/betterclaw_openrouter_free_api_key_0_agent_setup/</guid>
       <pubDate>Thu, 30 Apr 2026 19:04:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是一名计算机科学学生，想学习人工智能自动化以实现自由职业和收入来源！我需要最好的兄弟指导之路！怎么开始呢！</title>
-      <link>https://www.reddit.com/r/automation/comments/1t04wq6/im_a_cs_student_want_to_learn_ai_automation_for/</link>
-      <description><![CDATA[我擅长学习技术方面的东西！  &amp;我想知道要关注哪些具体事情将有助于我在这个领域成功建立职业生涯...... 在哪里学习这个和知识？从哪里开始... 我将非常感谢你😊   由   提交/u/videoquality  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t04wq6/im_a_cs_student_want_to_learn_ai_automation_for/</guid>
-      <pubDate>Thu, 30 Apr 2026 18:36:42 GMT</pubDate>
     </item>
     <item>
       <title>为我的首席执行官打造了一台名片扫描仪——终于可以在一张照片中处理 30 张名片了</title>
@@ -90,25 +104,11 @@
       <pubDate>Thu, 30 Apr 2026 11:18:15 GMT</pubDate>
     </item>
     <item>
-      <title>有什么方法可以自动处理 Shopify 退款吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1szsfif/is_there_any_way_to_automate_processing_shopify/</link>
-      <description><![CDATA[我有点厌倦了自己手动处理所有这些。特别是如果时间太长，就有负面评论的风险。我想雇用一名 VA，但我现在无法雇用。有什么建议吗？   由   提交 /u/Training-Entry-743   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1szsfif/is_there_any_way_to_automate_processing_shopify/</guid>
-      <pubDate>Thu, 30 Apr 2026 10:41:46 GMT</pubDate>
-    </item>
-    <item>
       <title>有人如何使用云电话环境而不是虚拟机或容器来实现可扩展的云工作流程？</title>
       <link>https://www.reddit.com/r/automation/comments/1szpx0q/how_anyone_used_cloud_phone_environments_instead/</link>
       <description><![CDATA[我一直在思考人们如何在云环境中构建分布式工作流程，并且我一直想知道在实践中是否实际使用基于浏览器的设置甚至云电话环境，而不是更传统的虚拟机或基于容器的系统。从我的实际情况来看，大多数可扩展的系统都依赖虚拟机或容器来进行隔离和控制。但我也遇到过通过浏览器环境在会话或配置文件级别处理隔离的方法，并且在某些情况下，移动式云手机设置用于基于应用程序的工作流程，而不需要为所有内容启动完整的云实例。我很好奇这里是否有人对可扩展工作流程的此类设置有真正的经验，以及它们在实践中的比较。特别是在性能、隔离质量、成本效率以及当事情开始扩展到超出少数工作流程或客户端时的可管理性方面。很高兴听到人们实际上正在大规模构建这个，以及他们注意到这些不同方法之间的权衡。    由   提交 /u/Emotional_Bar_2573   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1szpx0q/how_anyone_used_cloud_phone_environments_instead/</guid>
       <pubDate>Thu, 30 Apr 2026 08:18:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 对 81,000 名 Claude 用户进行了有关人工智能经济影响的调查。结果令人着迷（也有点令人不安）</title>
-      <link>https://www.reddit.com/r/automation/comments/1szndkd/anthropic_surveyed_81000_claude_users_about_ais/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1szndkd/anthropic_surveyed_81000_claude_users_about_ais/</guid>
-      <pubDate>Thu, 30 Apr 2026 05:53:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
