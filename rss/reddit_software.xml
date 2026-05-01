@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 01 May 2026 06:16:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 10:23:03 GMT</lastBuildDate>
+    <item>
+      <title>我需要有关计算机错误代码 0x1A 的帮助</title>
+      <link>https://www.reddit.com/r/software/comments/1t0pf89/i_need_help_with_computer_arror_code_0x1a/</link>
+      <description><![CDATA[我不知道我必须做什么。我看过很多 YouTube 视频，但没有任何帮助。如果您了解更多，可以帮我吗？   由   提交/u/secuze  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1t0pf89/i_need_help_with_computer_arror_code_0x1a/</guid>
+      <pubDate>Fri, 01 May 2026 10:21:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>屏幕级AI助手——翻译、截图、提问</title>
+      <link>https://www.reddit.com/r/software/comments/1t0p4ot/screenlevel_ai_assistant_translate_screenshot_ask/</link>
+      <description><![CDATA[ 由   提交 /u/ZMFooo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1t0p4ot/screenlevel_ai_assistant_translate_screenshot_ask/</guid>
+      <pubDate>Fri, 01 May 2026 10:05:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 如何在周末重建 Next.js</title>
+      <link>https://www.reddit.com/r/software/comments/1t0nqew/how_cloudflare_rebuilt_nextjs_in_a_weekend/</link>
+      <description><![CDATA[我们在内联 AI 代码建议方面已经取得了很大进展。现在，开发人员正在使用人工智能编码代理对整个软件组件甚至主要框架进行逆向工程。 最新案例来自 Cloudflare。 2026 年初，一位工程总监在 OpenCode 中使用 Claude 在几天内重建了流行的 React 框架 Next.js。  “一个周末，一位工程总监决定将人工智能指向它，看看他通过纯粹的代理编码能走多远，”Cloudflare 首席技术官 Dane Knecht 告诉 LeadDev。 “第一个周末之后，效果非常好。” 完整故事：https://leaddev.com/ai/how-cloudflare-rebuilt-next-js-in-a-weekend   由   提交 /u/OfficialLeadDev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1t0nqew/how_cloudflare_rebuilt_nextjs_in_a_weekend/</guid>
+      <pubDate>Fri, 01 May 2026 08:45:43 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 备份共享软件</title>
       <link>https://www.reddit.com/r/software/comments/1t0j7da/windows_backup_shareware/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交 /u/replacement-part   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1t03sk6/is_there_a_local_photo_management_software_that/</guid>
       <pubDate>Thu, 30 Apr 2026 17:56:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>AppControl 见解部分</title>
-      <link>https://www.reddit.com/r/software/comments/1t022o3/appcontrol_insights_section/</link>
-      <description><![CDATA[ 由   提交 /u/CatchProfessional554   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1t022o3/appcontrol_insights_section/</guid>
-      <pubDate>Thu, 30 Apr 2026 16:55:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于这种情况需要指导</title>
-      <link>https://www.reddit.com/r/software/comments/1szzbpq/need_guidance_on_this_situation/</link>
-      <description><![CDATA[ 由   提交 /u/Early-Scientist9848   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1szzbpq/need_guidance_on_this_situation/</guid>
-      <pubDate>Thu, 30 Apr 2026 15:24:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费 - 开源 - 音乐可视化工具 - 无需帐户/无需订阅 - 仅供娱乐</title>
-      <link>https://www.reddit.com/r/software/comments/1szyj73/free_open_source_music_visualizer_no_accountno/</link>
-      <description><![CDATA[ 由   提交/u/Far-Employee-9531   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1szyj73/free_open_source_music_visualizer_no_accountno/</guid>
-      <pubDate>Thu, 30 Apr 2026 14:59:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
