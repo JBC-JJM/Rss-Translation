@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 02 May 2026 13:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 15:43:53 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个 AI 顾问，它使用定价数据比较 10 个工作流程自动化平台。没有联盟回扣，没有“2026 年最佳工具”的废话。这就是它的工作原理。</title>
+      <link>https://www.reddit.com/r/automation/comments/1t1ppg1/i_built_an_ai_advisor_that_compares_10_workflow/</link>
+      <description><![CDATA[每个“最佳工作流程自动化工具”都适用Google 上的文章要么是附属农场，要么已过时 3 年。我厌倦了。所以我构建了 Crux\.do 它有两件事。就是这样。  研究报告。您发送给同事或发票签字人的可共享链接。定价数学、集成计数以及每个平台所做的权衡。  诀窍在于数据层。定价和集成计数每周都会从每个供应商的官方页面上重新抓取。 AI读取您的需求；数据库进行比较。因此，该模型无法幻觉不再存在的定价层。 它不会做什么：当您说需要本地部署时，告诉您 Zapier 很棒。没有联盟计划付钱让我撒谎。 我想得到您的反馈。 谢谢   由   提交 /u/dpaluy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t1ppg1/i_built_an_ai_advisor_that_compares_10_workflow/</guid>
+      <pubDate>Sat, 02 May 2026 13:19:12 GMT</pubDate>
+    </item>
     <item>
       <title>目前哪种自动化可以为您节省最多的时间？</title>
       <link>https://www.reddit.com/r/automation/comments/1t1njr8/what_automation_gives_you_the_biggest_time/</link>
@@ -76,13 +83,6 @@
       <pubDate>Fri, 01 May 2026 21:12:51 GMT</pubDate>
     </item>
     <item>
-      <title>自动化让我变得一团糟</title>
-      <link>https://www.reddit.com/r/automation/comments/1t13w1e/what_automation_made_a_mess_of_for_me/</link>
-      <description><![CDATA[ 由   提交/u/Anantha_datta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t13w1e/what_automation_made_a_mess_of_for_me/</guid>
-      <pubDate>Fri, 01 May 2026 19:48:31 GMT</pubDate>
-    </item>
-    <item>
       <title>RetailBanker：为什么金融服务必须采用流程编排</title>
       <link>https://www.reddit.com/r/automation/comments/1t0zoyq/retailbanker_why_financial_services_must_embrace/</link>
       <description><![CDATA[       由   提交/u/philhoey  [链接] [评论] ]]></description>
@@ -92,7 +92,7 @@
     <item>
       <title>自动奖励器 v3.2 来了！现在提供多帐户支持、移动积分收集和全新的用户界面。</title>
       <link>https://www.reddit.com/r/automation/comments/1t0wr91/autorewarder_v32_is_here_now_with_multiaccount/</link>
-      <description><![CDATA[   大家好！ 首先，感谢您对之前版本的持续支持。 AutoRewarder 已在 GitHub 上获得+625 次下载和+91 颗星 今天，我很高兴与大家分享AutoRewarder v3.2。虽然上次更新侧重于后台自动化，但此版本在可扩展性和用户体验方面向前迈出了一大步。现在，您可以无缝管理多个帐户并管理移动点，所有这些都包含在新界面中。 v3.2 中的新增功能：  多帐户支持：为每个帐户添加了带有专用 Edge 配置文件的引导式首次设置。 全新 UI： 完全重新设计的现代化界面。 （非常感谢 JeromeM 的新 UI 和大力帮助。） 移动点收集：机器人现在可以在 PC 搜索的同时执行移动点收集搜索。 按帐户安排和设置历史记录：您现在可以为每个帐户设置计划，并在新的历史记录窗口中查看清晰的日期/时间/查询/状态跟踪。 更新通知：实时日志现在显示带有直接下载链接的 GitHub 版本更新，这样您就不会错过新版本。 扩展文档：添加了分步多帐户登录屏幕截图，改进了故障排除，并澄清了 Windows 和 Windows 的运行时数据位置。 Linux。 修复：为损坏的设置或历史文件添加了弹性恢复。  该项目仍然 100% 开源。 GitHub 上的更多信息、屏幕截图、演示和代码：repo:safarsin/AutoRewarder  （注意：如果您打算设置多个配置文件，我强烈建议您查看多个帐户用户指南中的部分） 我很想听听您的反馈、错误报告或对下一次更新的想法！   由   提交/u/18safarov  [链接] [评论] ]]></description>
+      <description><![CDATA[   大家好！ 首先，感谢您对之前版本的持续支持。 AutoRewarder 已在 GitHub 上获得+700 次下载和+100 颗星 今天，我很高兴与大家分享AutoRewarder v3.2。虽然上次更新侧重于后台自动化，但此版本在可扩展性和用户体验方面向前迈出了一大步。现在，您可以无缝管理多个帐户并管理移动点，所有这些都包含在新界面中。 v3.2 中的新增功能：  多帐户支持：为每个帐户添加了带有专用 Edge 配置文件的引导式首次设置。 全新 UI： 完全重新设计的现代化界面。 （非常感谢 JeromeM 的新 UI 和大力帮助。） 移动点收集：机器人现在可以在 PC 搜索的同时执行移动点收集搜索。 按帐户安排和设置历史记录：您现在可以为每个帐户设置计划，并在新的历史记录窗口中查看清晰的日期/时间/查询/状态跟踪。 更新通知：实时日志现在显示带有直接下载链接的 GitHub 版本更新，这样您就不会错过新版本。 扩展文档：添加了分步多帐户登录屏幕截图，改进了故障排除，并澄清了 Windows 和 Windows 的运行时数据位置。 Linux。 修复：为损坏的设置或历史文件添加了弹性恢复。  该项目仍然 100% 开源。 GitHub 上的更多信息、屏幕截图、演示和代码：repo:safarsin/AutoRewarder （注意：如果您打算设置多个配置文件，我强烈建议您查看“多帐户”部分在用户指南中） 我很想听听您的反馈、错误报告或对下一次更新的想法！   由   提交/u/18safarov  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t0wr91/autorewarder_v32_is_here_now_with_multiaccount/</guid>
       <pubDate>Fri, 01 May 2026 15:32:15 GMT</pubDate>
     </item>

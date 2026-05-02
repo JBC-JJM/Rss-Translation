@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 02 May 2026 13:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 15:45:21 GMT</lastBuildDate>
+    <item>
+      <title>SitePix：开源工具，可将博物馆 API 和 WordPress 博客转换为屏幕保护程序源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1t1s5en/sitepix_opensource_tool_that_turns_museum_apis/</link>
+      <description><![CDATA[      我刚刚发布了 SitePix，这是一个跨平台开源工具，可以从博物馆/档案馆 API（大都会博物馆、史密森尼、NASA、国会图书馆、Flickr Commons、NYPL）和 WordPress 驱动中提取高分辨率图像新闻博客，将它们保存到本地文件夹以用作屏幕保护程序或桌面幻灯片。在 Windows、macOS 和 Linux 上运行。 如果您关注大量图像网站（摄影博客、新闻媒体、社区页面），并希望他们的最新视觉效果在您的桌面上轮播，而不需要手动保存，那么它非常有用。 功能：  6 个内置 API 源（Met、Smithsonian、NASA、LoC、Flickr Commons、NYPL）以及适用于任何 WordPress 博客的 HTML 抓取 首次运行设置向导 - 在 8 个快速提示中选择源、文件夹、计划和覆盖 可选文本覆盖（标题 + 日期），可配置字体、颜色和不透明度 内置计划（任务计划程序/launchd/cron）和自动桌面幻灯片设置 跨平台安装：winget、Homebrew、AppImage、.deb、.rpm 或从源构建(.NET 10) 存储库中捆绑了 10 个随时可用的示例配置文件  我一直在当地的冥想中心使用它在课前显示旋转的图像拼贴画，这就是该项目的动机。 存储库：https://github.com/alexreich/SitePix 许可证：CC BY 4.0 希望得到反馈或贡献！   由   提交/u/areich  [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1t1s5en/sitepix_opensource_tool_that_turns_museum_apis/</guid>
+      <pubDate>Sat, 02 May 2026 14:57:16 GMT</pubDate>
+    </item>
     <item>
       <title>星际穿越 TARS 语音有开源 TTS 模型吗？如果没有，创建它的最佳方法是什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1t1dbma/is_there_an_open_source_tts_model_for_tars_voice/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>亲爱的 FOSS 小姐，关于分叉和 PR</title>
       <link>https://www.reddit.com/r/opensource/comments/1szwdbh/dear_miss_foss_regarding_forking_and_prs/</link>
-      <description><![CDATA[采用礼仪小姐信函的风格，因为这是一个礼仪问题。 亲爱的 FOSS 小姐， 我喜欢一个最近似乎停滞不前的开源项目。它设计得很好，我每天都使用它。我们就叫它汉克吧。它已经一年没有发布新版本，有一千多个问题和 500 多个等待 PR。我正在考虑分叉，以便我可以向其中添加我想要的功能。不过，这些功能的一部分是利用其中的一些 PR。 我问你的问题是，如果我分叉 Hank，携带这些 PR 是否是禁忌，我是否应该单独联系每个 PR 提交者以征求他们的许可？ 感谢您的帮助， 陷入软件困境   由   提交 /u/WilliamBarnhill   [链接] [评论]]]></description>
+      <description><![CDATA[采用礼仪小姐信函的风格，因为这是一个礼仪问题。 亲爱的 FOSS 小姐， 我喜欢一个最近似乎停滞不前的开源项目。它设计得很好，我每天都使用它。我们就叫它汉克吧。它已经一年没有发布新版本，有一千多个问题和 500 多个等待 PR。我正在考虑分叉，以便我可以向其中添加我想要的功能。不过，这些功能的一部分是利用其中的一些 PR。 我的问题是，如果我分叉 Hank，携带这些 PR 是否是禁忌，我是否应该单独联系每个 PR 提交者以征求他们的许可？ 感谢您的帮助， 陷入软件困境   由   提交 /u/WilliamBarnhill   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1szwdbh/dear_miss_foss_regarding_forking_and_prs/</guid>
       <pubDate>Thu, 30 Apr 2026 13:38:47 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[      Windows 11 手册专注于隐私、消胀以及使用 AME 向导设置更合理的默认值。 目标是使全新安装更可用、更简洁，同时保持 Windows 更新和游戏完好无损。  我正在寻找以下方面的反馈：  缺少调整或隐私漏洞 任何实施不佳的内容（可以做得更好） 下一步添加内容的想法  如果你测试它，请先使用虚拟机。 一切都是手写的，而不是人工智能生成的。   由   提交/u/PossuTryffeli   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1sz5ww1/i_built_a_privacyfocused_windows_11_playbook/</guid>
       <pubDate>Wed, 29 Apr 2026 17:41:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为哪些框架或库目前没有得到足够的关注而可能成为游戏规则的改变者？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1syz68v/what_framework_or_library_do_you_think_doesnt/</link>
-      <description><![CDATA[最好积极维护和资助。我的是 https://skiplabs.io/ 听起来像是应用程序的 nixos。 （编辑：自从我收到有关自我推销 - mods 的警告后，我除了作为技术呆子并可能在将来使用它或类似的东西之外，与该项目没有任何关系）   由   提交 /u/Pzzlrr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1syz68v/what_framework_or_library_do_you_think_doesnt/</guid>
-      <pubDate>Wed, 29 Apr 2026 13:41:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
