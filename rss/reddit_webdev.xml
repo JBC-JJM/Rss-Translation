@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 01 May 2026 21:53:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 07:43:09 GMT</lastBuildDate>
     <item>
-      <title>我单独构建了一个自托管的 Slack + Notion 克隆。以下是我处理实时 WebRTC、Y.js CRDT 和本地 AI 的方法。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t16b1j/i_built_a_selfhosted_slack_notion_clone_solo/</link>
-      <description><![CDATA[嘿 r/webdev， 在过去的几个月里，我一直在构建一个开源前端和一个自托管工作区，它基本上将聊天、看板和协作文档合并到一个 Docker 部署中。 我想分享我在构建过程中遇到的一些最大的架构挑战这个单独的，因为将这些特定技术结合在一起是一个巨大的头痛。  双数据库头痛（Postgres + Dgraph） 我最初只使用 Postgres，但是对复杂关系（用户 -&gt; 团队 -&gt; 通道 -&gt; 线程）的建模很快就变得混乱。我最终将所有关系密集的图形数据移至 Dgraph，同时将 Auth、Config 和 Users 保留在 Postgres 中。保持它们同步需要在 Go 后端进行严格的领域驱动设计。 与 Y.js 的协作文档我想要 Notion 风格的文档。我最终将 Tiptap 与 Y.js CRDT（无冲突复制数据类型）和 Hocuspocus 服务器一起使用。最困难的部分是处理离线状态并解决用户离线输入后重新连接时的合并冲突。 视频通话（LiveKit + WebRTC） 我为 WebRTC 层集成了 LiveKit。设置 TURN/STUN 服务器以便视频通话能够跨越严格的企业防火墙进行工作是残酷的。 本地 AI 我将 Ollama 融入到 Docker compose 中，以便团队可以拥有“第二大脑”。搜索他们的聊天和文档，而不向 OpenAI 发送数据。  堆栈：  前端：Next.js  后端：Go（Chi Router） 实时：EMQX（MQTT 代理）  如果有人想查看代码或使用 UI 组件，我开源了整个 Next.js 前端。一切已在 https://github.com/OneMana-Soft/OneCamp-fe 结束。 对于后端，我决定尝试一种不同的模型：前端是开放的，但我以 19 美元的一次性费用出售可用于生产的后端二进制文件，以保持正常运行。 希望获得有关架构的任何反馈，或者是否有其他人提供反馈这里有与 Postgres 一起扩展 Dgraph 的经验！   由   提交 /u/False_Staff4556   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t16b1j/i_built_a_selfhosted_slack_notion_clone_solo/</guid>
-      <pubDate>Fri, 01 May 2026 21:19:09 GMT</pubDate>
+      <title>LogoQR - 让您的下一个二维码变得更酷</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1j1el/logoqr_lets_make_your_next_qr_codes_a_bit_cooler/</link>
+      <description><![CDATA[      https://qr.mitbin.com/ 厌倦了看到名片被丑陋的黑白 QR 码毁坏，所以我构建了 LogoQR - 一个免费工具，可将您的徽标直接嵌入到 QR 矩阵本身   由   提交/u/feje  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1j1el/logoqr_lets_make_your_next_qr_codes_a_bit_cooler/</guid>
+      <pubDate>Sat, 02 May 2026 07:25:35 GMT</pubDate>
     </item>
     <item>
-      <title>我使用 OPFS（零 DB）构建了一个开源 GPT 图像和视频生成器 Web 客户端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t15msv/i_built_an_opensource_gpt_image_video_generator/</link>
-      <description><![CDATA[大家好， 我是一名法国前端开发人员，也是一名开源极客。我喜欢为特定的技术领域构建核心工具，但最近我只是想要一种更干净、更快速的方式来生成 AI 媒体，而无需处理繁重的 UI 或昂贵的订阅锁定。因此，我构建了 GPT-Images。 它是一个用于图像和视频生成的完全开源的 Web 界面。您只需插入自己的 OpenAI API 密钥，应用程序就会处理其余的事情。 该架构是我最喜欢的：  技术堆栈： Svelte 5、SvelteKit 和 Tailwind 4。整个东西托管在 Cloudflare Workers 上，我使用 Bun pm，因为它安装速度更快，而且对于我的情况来说非常稳定。 零数据库：我使用 Origin 私有文件系统 (OPFS) 直接在浏览器中处理所有媒体存储。它完全本地化，并 100% 尊重您的隐私。 功能：安全 API 密钥管理、无缝媒体生成（图像和视频）以及用于管理输出的干净网格/灯箱 UI。  我尝试尽可能保持代码库干净且严格键入。如果只是想为您的 AI 世代提供一个凉爽的本地 UI，请随时查看并分叉它。 存储库：https://github.com/Ayfri/GPT-Images 站点：gpt-images.ayfri.com   由   提交 /u/Ayfri   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t15msv/i_built_an_opensource_gpt_image_video_generator/</guid>
-      <pubDate>Fri, 01 May 2026 20:53:34 GMT</pubDate>
+      <title>我不会推广临时邮件网站（6.6K-11K 用户），但收入几乎持平 接下来我应该关注什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1ixgx/i_will_not_promote_growing_a_temp_mail_site/</link>
+      <description><![CDATA[    https://preview.redd.it/t7giuo0mdoyg1.png?width=1208&amp;format=png&amp;auto=webp&amp;s=31e60a91494c7a631d4e144761a2bda218ef4f8a 在过去的几个月里，我一直在处理临时邮件，希望分享我的进展，并从构建类似工具的人那里获得一些诚实的建议。  三月： ~6.6K 用户 四月： ~11K 用户大约一个月内增长 60-70%  但是这里有一些有趣的事情：  观看次数（3 月）： ~29K 观看次数（4 月）： ~30K 用户增加了很多，但观看次数几乎没有变化  流量主要是全球性的（孟加拉国、尼日利亚、一些欧洲等），使用模式很简单： 人们来 → 生成电子邮件 → 检查 OTP 我已经添加了 Adsterra 广告，但说实话：  收入非常低 并没有真正随着流量增长 感觉我可能做错了什么（展示位置或网络）  现在我对下一步感到困惑： 我应该专注于首先增加流量（搜索引擎优化、扩展用户） 或者我应该开始优化盈利（更好的广告、展示位置、其他方法）？  什么最适合通过临时邮件/实用网站盈利？ 是否有比 Adsterra 更好的广告网络 流行广告在这个利基市场中实际上效果更好 如何增加流量每个用户的收入  我希望将其发展成为高流量工具（50K-100K 用户/月），并将其转变为可靠的收入来源。 非常感谢任何建议、真实经验，甚至是直率的反馈 仍在学习和解决问题。   由   提交 /u/Future-Cry-7975   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1ixgx/i_will_not_promote_growing_a_temp_mail_site/</guid>
+      <pubDate>Sat, 02 May 2026 07:19:10 GMT</pubDate>
     </item>
     <item>
-      <title>上传徽标 → 获取完整的品牌套件（SVG、图标、OG 图像）。希望反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t15e4a/upload_a_logo_get_a_full_brand_kit_svgs_favicons/</link>
-      <description><![CDATA[我刚刚推出了 LogoNuri，这是一个基于浏览器的工具，可将徽标文件转换为可用于生产的品牌资产。我不是在炫耀，而是真诚地向每天需要这个的人寻求建议。 我构建它是因为“准备好制作徽标”需要我 3-5 个工具。该项目旨在减轻追逐文件、修复格式、调整内容大小以及猜测缺少什么的情况。 这意味着将所有这些都折叠到一个流程中。 主要焦点是界面。我不希望它感觉像是一个你上传一些东西并希望得到最好结果的工具。它应该给人一种被引导、快速、明确下一步该做什么的感觉。其中包括一个网站 URL 搜索功能，可以直接从现有网站中提取徽标来使用，并内置于 AI Upscale 中。 希望得到实际构建或交付产品的人的真实反馈，因为这是我第一次。 如果您可以向这样的一体化工具添加一个东西，它会是什么？ 我正在开发一些测试版功能，例如： 直接导出/导入到 Canva 以及Figma，更无缝的 CLI 体验，水印去除器。   由   提交/u/josephdc18  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t15e4a/upload_a_logo_get_a_full_brand_kit_svgs_favicons/</guid>
-      <pubDate>Fri, 01 May 2026 20:44:25 GMT</pubDate>
+      <title>构建了一个 Chrome 扩展程序来监视我在 GitHub、GitLab 和 Bitbucket 上的 PR，这样我就不再整天跳标签页了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1iufg/built_a_chrome_extension_that_watches_my_prs/</link>
+      <description><![CDATA[嘿 r/webdev，分享一个业余项目以获取反馈。 我在不同平台上的多个存储库中工作，并厌倦了： - 保持 4 个 PR 选项卡打开并刷新它们 - 错过了 30 分钟的 CI 失败，因为我在另一个项目中window - 通知电子邮件要么太吵闹，要么迟到 10 分钟 因此，我构建了一个 Chrome 扩展程序（Manifest V3、React、Tailwind），它会轮询后台和表面的三个 API： - 所有开放 PR 的 CI 状态（带有“谁破坏了构建”属性） - 未解决的审核评论 - 通过 GitHub 的 GraphQL API 拉取，因为 REST 计数是错误的 - 等待审阅者、冲突、请求更改、过时标志 - CI 状态更改时桌面通知 + 声音 - 无需选项卡 - 直接从弹出窗口合并并考虑分支保护 我学到的一些东西可能对这里做类似操作的任何人有用： - MV3 服务工作人员无法播放音频。您需要一个带有单独 JS 文件的离屏文档 - 内联 脚本被 CSP 阻止。 - Bitbucket Cloud 的 /workspaces 端点即将停用；请改用 /2.0/user/workspaces。 - GitLab 的 /changes 端点会在巨大的 MR 上返回溢出标志 - 如果您忽略它，计数就会撒谎。 - 在 chrome.storage 中保留 CI 状态（不在内存中）很重要，因为 MV3 服务工作线程会不断关闭 ，因此您需要持久状态来检测“状态”改变了”可靠。 它是免费的，无后端，无需注册，令牌仅存储在 chrome.storage.local 中。真诚地寻求反馈——尤其是关于紧急分类用户体验（列表上方的图标+计数筹码），因为这是我不断迭代的领域。 https://chromewebstore.google.com/detail/pr-radar-%E2%80%93-github-gitlab/hkombgibegjffiadmekpiabdakkoidmh   由   提交/u/Better_Ad6110   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1iufg/built_a_chrome_extension_that_watches_my_prs/</guid>
+      <pubDate>Sat, 02 May 2026 07:14:25 GMT</pubDate>
     </item>
     <item>
-      <title>我构建人工智能驱动的 SaaS 已经有两年了。以下是我在几乎所有人工智能应用程序中看到的 3 个安全错误。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t14v9m/ive_been_building_aipowered_saas_for_2_years_here/</link>
-      <description><![CDATA[此处为 CISSP 认证工程师。不卖任何东西。只是分享我不断发现的内容。 1.几乎从未处理过提示注入 大多数创始人都会添加人工智能聊天机器人，为其提供系统上下文，然后就大功告成。 恶意用户可以覆盖您的系统提示并在几秒钟内提取您的整个知识库。 将提示视为 SQL 查询。假设他们是敌对的。在获得法学硕士之前对所有内容进行消毒。 2.通过 LLM 响应实现多租户数据泄露 如果您的 AI 具有数据库访问权限并且您有多个客户...测试客户 A 是否可以通过巧妙的提示提取客户 B 的数据。 您会惊讶地发现这种方法的工作频率有多高。 将 AI 的数据库访问权限严格限制在经过身份验证的用户组织内。切勿授予其全局读取权限。 3. OAuth 令牌存储不安全 本地存储中的令牌。 URL 中的令牌。控制台日志中的令牌。 全部可利用。所有常见的。 HTTPOnly cookie。服务器端会话。切勿将令牌暴露给客户端 JavaScript。 乐于回答问题。在这个空间中构建已经有一段时间了。`   由   提交 /u/Wise-Cardiographer-31   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t14v9m/ive_been_building_aipowered_saas_for_2_years_here/</guid>
-      <pubDate>Fri, 01 May 2026 20:24:34 GMT</pubDate>
+      <title>Tidal Town - HTML5 游戏，你要保护你的王国免受潮汐侵袭</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1ilbt/tidal_town_html5_game_were_you_protect_your/</link>
+      <description><![CDATA[ 由   提交/u/thirdjin  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1ilbt/tidal_town_html5_game_were_you_protect_your/</guid>
+      <pubDate>Sat, 02 May 2026 07:00:35 GMT</pubDate>
     </item>
     <item>
-      <title>为什么网站开始这样做？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t14h5d/why_do_websites_started_to_do_this/</link>
-      <description><![CDATA[嘿，我不知道这个东西叫什么，但让我解释一下。我在谷歌上搜索了一些内容并打开了图像部分，有很多我搜索的结果，它们都是低分辨率或模糊的。要查看图像，您必须单击链接并输入该站点。右键单击“在新选项卡中打开图像”也不起作用，因为它要么显示低分辨率版本，要么显示模糊版本，您看不到或读不到任何内容&quot;我知道 Instagram 或 Twitter 或任何大型网站都会这样做，并迫使您创建一个帐户才能查看图片，但为什么其他较小的网站（甚至博客）会这样做？他们的网站上并没有获得 insta 或 twitter 级别的活动。   由   提交 /u/diomedes-on-rampage   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t14h5d/why_do_websites_started_to_do_this/</guid>
-      <pubDate>Fri, 01 May 2026 20:10:01 GMT</pubDate>
+      <title>在印度海得拉巴寻找一家经济实惠的高质量网站开发公司。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1iapi/looking_for_an_affordable_highquality_website/</link>
+      <description><![CDATA[我正在海得拉巴寻找一家专业的网站开发公司，该公司可以以合理且实惠的价格提供优质的网站。我已经在海得拉巴见过几家公司，但定价与我的预期不符。我所说的“负担得起”并不是指廉价或基本的网站 - 我完全准备好投资一个设计精良、高性能且专业的网站，为我的业务增加真正的价值。 除了网站开发之外，如果您的团队还提供 SEO 和数字营销服务，那将是一个很大的优势，因为我正在寻找一个完整的长期解决方案。我更喜欢与海得拉巴的团队合作，这样我们就可以直接会面、清晰地讨论想法并高效地执行项目。   由   提交/u/Pspecial_Honey_940   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1iapi/looking_for_an_affordable_highquality_website/</guid>
+      <pubDate>Sat, 02 May 2026 06:43:58 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找类似 Tufte 的 CSS 的东西，但是是颜色</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t14etr/looking_for_something_like_tuftes_css_but_for/</link>
-      <description><![CDATA[ Tufte CSS 提供了使用 Edward Tufte 的书籍和讲义所展示的想法来设计 Web 文章样式的工具。 Tufte 的风格以其简单性、大量使用旁注、图形与文本的紧密结合以及精心选择的版式而闻名。  我正在做一个对我来说非常重要的个人项目，但我在选择颜色时遇到了一些麻烦。 我希望有类似 Tufte CSS 的东西，但它不会专注于版式，而是专注于版式颜色。 我的网站本质上是一本书，所以我正在寻找一种资源，可以告诉我为标题、副标题、引文、段落、注释......分配什么颜色。   由   提交 /u/Wise_Stick9613   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t14etr/looking_for_something_like_tuftes_css_but_for/</guid>
-      <pubDate>Fri, 01 May 2026 20:07:43 GMT</pubDate>
+      <title>[炫耀星期六] 适合狗的地点的社区地图</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1i0re/showoff_saturday_a_community_map_of_dogfriendly/</link>
+      <description><![CDATA[构建此内容是因为每次我带着我的狗旅行时，我最终都会每天在谷歌上搜索“X 狗是否友好”五次。觉得地图会更好。还有其他平台可以做到这一点，但我想要一个快速且高性能的替代方案，既可以允许位置，也可以禁止进入区域。 任何人都可以留下图钉（不需要帐户），管理员批准它，然后你会得到水碗、零食、不拴绳规则等详细信息。评论为 1-5 星，并带有“狗真的被允许吗？”切换，因为 Google 上的答案有一半时间是错误的。 用户还可以添加安全警告，例如报告狗窝咳嗽等。 如果有人关心的话，可以堆叠：Next 16 + React 19、带有自托管 Protomaps 磁贴的 MapLibre、Postgres + PostGIS、Redis、Drizzle。 LibreTranslate 用于其他语言的评论。 还很早 - 大部分都是 OSM 数据种子，因此大量引脚未经验证。希望提供反馈，尤其是关于提交流程和设计的反馈 链接：https://dogstinations.com 编辑：由于存储原因，仅启用欧洲和北美，呵呵。很快将启用全球   由   提交 /u/DeceivingDog   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1i0re/showoff_saturday_a_community_map_of_dogfriendly/</guid>
+      <pubDate>Sat, 02 May 2026 06:28:39 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能编码工具正在悄然削弱我们的技能，航空业 30 年前就发现了这一点</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t13zls/ai_coding_tools_are_quietly_atrophying_our_skills/</link>
-      <description><![CDATA[       由   提交/u/walden99  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t13zls/ai_coding_tools_are_quietly_atrophying_our_skills/</guid>
-      <pubDate>Fri, 01 May 2026 19:52:08 GMT</pubDate>
+      <title>Wander - 一个小型的去中心化工具，用于探索个人网站的小型网络</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1hzmt/wander_a_tiny_decentralised_tool_to_explore_the/</link>
+      <description><![CDATA[ 由   提交/u/susam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1hzmt/wander_a_tiny_decentralised_tool_to_explore_the/</guid>
+      <pubDate>Sat, 02 May 2026 06:26:54 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了这个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t133oj/i_created_this_website/</link>
-      <description><![CDATA[      https://everycinematicuniverse.com/ 提供我可以在此处添加的反馈和宇宙，以及如何改进它。尽管我试图将其保持在最低限度 在下次更新中我将添加全局过滤器   由   提交/u/darkarrow_sh   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t133oj/i_created_this_website/</guid>
-      <pubDate>Fri, 01 May 2026 19:19:18 GMT</pubDate>
+      <title>[Showoff Saturday] 我在 Electron 中构建了一个 Mac 备份应用程序，并将 UI 重新用作交互式登陆页面演示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1hn3t/showoff_saturday_i_built_a_mac_backup_app_in/</link>
+      <description><![CDATA[嗨！ :) 我是一名 Web 开发人员，现在已经有大约 7 年的经验，但我以前从未构建过桌面应用程序。 由于这将成为我构建过的最复杂的副项目，因此我决定使用 Electron 至少了解我所涉及的大部分内容，而不是还必须学习 Swift 的诀窍。 另一个好处是我可以轻松地将我为应用程序编写的代码用作登陆时的交互式组件页。这对我来说很重要，因为当向创意人员演示产品时，有很多“啊哈！”的想法。  这是登陆页面： tuskbackup.com 我什至考虑为创意人员（摄像师/摄影师，任何真正拥有大量数据的人）构建 Mac 备份软件的原因是： 我曾经制作 YouTube 视频，我花了几周的时间进行拍摄和剪辑，而且我总是对现有的备份解决方案感到非常恼火。 Tusk（我现在构建的应用程序）为我解决了以下问题：  在多个设备上自动备份我的项目，验证（使用 BLAKE3 校验和）并跟踪其状态。 即使您的驱动器未插入，您仍然可以查看这些文件的放置位置以及备份是否完成。这意味着，如果您查找特定项目或文件，您可以随时在 Tusk 中查看这些备份到底存储在哪个驱动器上。 如果您当前没有处理特定项目，您只需删除本地文件即可释放 Mac 上的空间，同时知道您的文件是安全的。如果您确实需要将文件恢复到本地，只需单击一下即可恢复它们。 如果您将新文件添加到项目文件夹中，Tusk 会监视该文件夹并自动将文件发送到备份位置。对于修改也是如此。如果您在本地删除文件，Tusk 显然不会在备份驱动器中删除它。  其底层是 Electron + React + SQLite，采用本地优先方法。我也喜欢这一点，因为我永远不会看到您的实际文件，甚至也不会看到您的索引文件库。一切都保留在您的机器上。  我很感激任何类型的反馈！如果您对此感兴趣，测试版将于下周开始，我很乐意邀请​​您！   由   提交/u/frustball   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1hn3t/showoff_saturday_i_built_a_mac_backup_app_in/</guid>
+      <pubDate>Sat, 02 May 2026 06:07:35 GMT</pubDate>
     </item>
     <item>
-      <title>用于重构 Playwright 测试自动化代码的 AI</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t11jy6/ai_for_for_refactoring_playwright_test_automation/</link>
-      <description><![CDATA[我即将加入一家公司，作为他们的第一个 QA，我必须使用 Playwright (TypeScript) 从头开始设置测试自动化。 在我的工作流程中，我必须：  生成初始 Playwright 测试（可能使用 codegen） 然后将它们重构为一个干净且可扩展的页面对象模型（称为POM） 随着时间的推移维护和发展测试套件  我试图优化的是重构部分，特别是：  将现有测试转换为 POM 重用现有页面对象而不是重复逻辑 随着测试套件的发展保持一切干净  我一直在研究 AI帮助我完成这些任务的工具，有很多选择，我对哪一个与我的案例更相关感到有点迷失。对于我需要做的事情，您会推荐什么人工智能？   由   提交 /u/Competitive_Echo9463   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t11jy6/ai_for_for_refactoring_playwright_test_automation/</guid>
-      <pubDate>Fri, 01 May 2026 18:23:17 GMT</pubDate>
+      <title>我创建了 notscare.me — 为恐怖迷提供的 Jumpscare 指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1hb2f/i_built_notscareme_a_jumpscare_guide_for_horror/</link>
+      <description><![CDATA[      notscare.me 可帮助您准确找到恐怖电影、连续剧和游戏中发生跳跃惊吓的时间，并提供时间戳和强度评级。它由社区驱动，已包含 9,500 多部影片。 还有一个即将上映的电影部分，以便您可以查看即将上映的电影并开始计划您的下一个恐怖之夜。 [notscare.me](https://notscare.me)   由   提交/u/DevWarrior504  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1hb2f/i_built_notscareme_a_jumpscare_guide_for_horror/</guid>
+      <pubDate>Sat, 02 May 2026 05:49:31 GMT</pubDate>
     </item>
     <item>
-      <title>您是否能够跟上人工智能的代码更改？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t11hx9/do_you_manage_keep_up_with_the_code_changes_from/</link>
-      <description><![CDATA[我以为我已经牢牢掌握了我的前端项目，但是在今天的代码审查中，我意识到我不再理解其中的某些部分是如何或为什么工作的。  现在这种情况很常见吗？   由   提交/u/ThanosDi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t11hx9/do_you_manage_keep_up_with_the_code_changes_from/</guid>
-      <pubDate>Fri, 01 May 2026 18:21:14 GMT</pubDate>
+      <title>仅基本 CSS 淡入淡出滚动条示例</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1fj7z/basic_css_only_fading_scrollbar_example/</link>
+      <description><![CDATA[经过一些实验，我想出了一种创建淡入和淡出滚动条（用于可滚动内容）的方法。 这是一个简单的 JSFiddle 展示该技术： https://jsfiddle.net/wuvoh/3auL2rn6/13/show 这是一个近乎最小的 CSS 片段 - apply class=&quot;scrollableArea&quot;到一个div来挂钩它。不需要JS。 :root{--sb-color: #99AABB;} @property --sb-opacity {语法: &#39;&#39;;初始值：0；继承：真实； } .scrollableArea { 过渡：--sb-opacity 850ms;滚动条装订线：稳定；溢出-y：自动；溢出-x：隐藏；} .scrollableArea：悬停{ --sb-opacity：0.75； } ::-webkit-scrollbar { 宽度：6px;高度：6 像素； } ::-webkit-scrollbar-track { 背景：0 0; } ::-webkit-scrollbar-corner{background:0 0} ::-webkit-scrollbar-thumb {background: rgb(from var(--sb-color) r g b / var(--sb-opacity));border-radius:999px;}    由   提交 /u/woroboros   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1fj7z/basic_css_only_fading_scrollbar_example/</guid>
+      <pubDate>Sat, 02 May 2026 04:15:34 GMT</pubDate>
     </item>
     <item>
-      <title>还有人因为整天坐着工作而感到身体疲惫不堪吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t10xhu/anyone_else_feel_their_body_breaking_from_sitting/</link>
-      <description><![CDATA[我经常坐着工作（每天超过 9 小时）并开始感觉到这一点。好奇其他人如何处理这个问题： 您尝试过任何有效（或无效）的方法吗？或者你大多只是忽略它？   由   提交/u/delmade  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t10xhu/anyone_else_feel_their_body_breaking_from_sitting/</guid>
-      <pubDate>Fri, 01 May 2026 18:01:12 GMT</pubDate>
+      <title>在自由市场上自托管无头 CMS 是否值得？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1fglb/is_selfhosting_the_headless_cms_worth_in_the/</link>
+      <description><![CDATA[我一直在争论选择哪个 Headless CMS（顺便说一句，我已经厌倦了）；在这一点上，我问自己，自托管、基于 git 和单一存储库方面是否真的那么重要，所以我想知道，在现实的客户网站情况下......你会选择那些自托管/基于 git 的选项，还是只坚持像理智这样的东西（或者如果你富有的话，内容丰富） 更多背景：我必须构建的网站非常简单，客户只想编辑一些文本，因此我想：“好吧，那么我会尽量不这样做” “用无头 cms 杀伤力太大”，但最终找到真正易于设置和易于使用（对于客户端和移动设备）的选项绝对是一场噩梦，所以也许“杀伤力大”会更好。或“咬紧牙关”并实施更稳健的解决方案。  PD：我主要使用Astro，基本上是出于同样的原因，不要过度杀伤。   由   提交 /u/FeeWise   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1fglb/is_selfhosting_the_headless_cms_worth_in_the/</guid>
+      <pubDate>Sat, 02 May 2026 04:11:59 GMT</pubDate>
     </item>
     <item>
-      <title>您的产品经理和设计师也在进行氛围编码吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t10ebx/are_your_pms_and_designers_also_vibe_coding/</link>
-      <description><![CDATA[咆哮 我讨厌那些强迫非技术人员使用人工智能来发送垃圾代码的人。这是做什么好事？仅仅因为你会写英语并不能让你成为一名开发人员。耶稣！  就我而言，高级经理和董事要求我的待命开发人员对损坏的管道进行故障排除，他们正在推动糟糕的不合规 PR。我厌倦了向这些傻瓜解释为什么他们的拉取请求无法合并或者是一个破坏性的改变。他们甚至不理解反馈。一个白痴将我的反馈直接复制粘贴到了 Claude Agent 聊天窗口上，然后 Agent 决定更改整个 CI yaml 文件，只是为了合并这个 PR。卧槽！！  你们也面临这个问题吗？我能做些什么？我应该向高管们做出如此愚蠢的、不知情的决定的会议室扔一块石头吗？最重要的是，他们还厚颜无耻地回来说工程师不会推出更多功能并进行裁员！辛勤工作的工程师因为指标而被解雇。我们怎么能？？？当利益相关者像经验丰富的工程师一样表现出巨大的瓶颈并试图每天破坏生产时！  咆哮结束！   由   提交 /u/sjltwo-v10   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t10ebx/are_your_pms_and_designers_also_vibe_coding/</guid>
-      <pubDate>Fri, 01 May 2026 17:42:12 GMT</pubDate>
+      <title>我构建了一个零知识加密的pastebin，服务器永远不会看到你的内容</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1favw/i_built_a_zeroknowledge_encrypted_pastebin_where/</link>
+      <description><![CDATA[嘿r/webdev！我构建了 Cloakbin 一个 Pastebin 风格的应用程序，在任何内容到达后端之前，加密完全在浏览器中进行： 👉 https://cloakbin.com 工作原理  AES-256-GCM 加密在客户端运行 加密密钥存储在URL 片段 (#key) 中，浏览器从不发送到服务器 服务器仅存储密文，即使被泄露，它也无法解密或读取粘贴  加密方法（高级） 当您创建粘贴时：  浏览器会生成一个随机密文密钥 您的内容使用Web Crypto API进行加密 仅将密文发送到服务器 密钥会附加到 URL 的 #  由于片段 (#...) 不会在 HTTP 请求中传输，因此解密密钥永远不会到达后端。 开源 代码库：https://github.com/ishannaik/cloakbin 希望获得有关用户体验、整体实现或您要更改的任何内容的反馈。 很乐意回答有关加密模型和其他任何问题的问题   由   提交 /u/Ishannaik   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1favw/i_built_a_zeroknowledge_encrypted_pastebin_where/</guid>
+      <pubDate>Sat, 02 May 2026 04:04:05 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个免费的开源扩展，可以从 LinkedIn 中删除 AI 垃圾邮件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t107pn/i_built_a_free_open_source_extension_that_removes/</link>
-      <description><![CDATA[LinkedIn 对我来说变得难以阅读。 每几篇帖子都是关于 AI 的，相同的关键字、相同的内容模式、相同的噪音。 因此，我构建了一个小型浏览器扩展，可以直接在 Feed 中模糊与 AI 相关的帖子。 您可以：  使用内置 AI 关键字进行过滤 添加您自己的关键字 将您真正想要阅读的作者列入白名单 根据需要手动显示任何帖子  它在本地运行，不使用跟踪、不抓取、不使用外部服务。 它已经上线： Chrome 网上应用店： https://chromewebstore.google.com/detail/zenfeed-ai/eiabbedkbileenhpbmbnobmkelannlfh?pli=1 Firefox 商店： https://addons.mozilla.org/en-US/firefox/addon/feed-cleaner-for-linkedin/ 存储库： https://github.com/drakvyn/zen-feed-ai/   由   提交 /u/chmodking   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t107pn/i_built_a_free_open_source_extension_that_removes/</guid>
-      <pubDate>Fri, 01 May 2026 17:35:45 GMT</pubDate>
+      <title>ICANN 开放新 gTLD 申请</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1ep5c/icann_opens_applications_for_new_gtlds/</link>
+      <description><![CDATA[      “ICANN 自 2012 年以来就不再提供新 gTLD，但周四开放了 27 个文字的新域名申请... “如果您喜欢 gTLD，则需要在 8 月之前支付 227,000 美元的申请费12 号……然后等待，可能要到 2030 年，这个过程才会结束。”   由   提交/u/Azar42  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1ep5c/icann_opens_applications_for_new_gtlds/</guid>
+      <pubDate>Sat, 02 May 2026 03:33:24 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年 Astro SEO 检查表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t0zutl/astro_seo_checklist_2026/</link>
-      <description><![CDATA[      我之前在我的 Astro 博客上发表过一篇关于性能的文章，讲述了我所犯的错误（例如不使用图像组件、不设置 src 等）。您可以在此处找到完整列表。  我收到了很多关于我如何处理 SEO 的评论（在这里和 LinkedIn 上），这促使我审核我的应用程序（它非常好），但遗漏了一些东西。  本文列出了我认为在您的 Astro 博客上最重要的 20 件事，按影响力从高到低排列。    由   提交/u/cresta29  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t0zutl/astro_seo_checklist_2026/</guid>
-      <pubDate>Fri, 01 May 2026 17:23:05 GMT</pubDate>
+      <title>经过 6 年帮助被剥夺权利的年轻人找到职业道路后，我们重建了整个评估工具 (Vue/TS/Vertex)。现在它的评分为 9.7/10，而且速度比以往任何时候都快。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1dcdc/after_6_years_of_helping_disenfranchised_youth/</link>
+      <description><![CDATA[嘿r/webdev， 在过去的 6 年里，我一直致力于一个名为 Traitstack 的项目，该项目的具体使命是：为通常落后的人提供专业级的职业指导。我们帮助了被剥夺权利的年轻人、边缘化群体以及那些感觉没有明确方向的人。 问题：大多数职业评估都很无聊、令人疲劳，而且感觉像是一件官僚琐事。对于我们服务的社区来说，这是一个巨大的障碍。我们想要采取“无聊”的方式摆脱这个等式，并将其变成人们实际上可以一次完成而不会头痛的事情。 旅程和过程重建：我们有一个最初的工具可以完成这项工作，但根据多年的反馈，我们决定将其拆除并从头开始重建，使其“更清晰”。 我们将重点转向基于图像的评估方式，以降低语言障碍并减少疲劳。结果令人难以置信：  速度：评估现在平均需要 4-6 分钟。 影响：我们目前看到的用户评分为 9.7/10。 清晰度：报告的设计宗旨是即时且可操作，不再是“四个字母”代码”标签并转化为实际的心理特征量表（大五和RIASEC）。  技术堆栈：我们想要一个“正常工作”的堆栈这样我们就可以专注于 UX/UI：  前端： 使用 TypeScript 的 VueJS（干净、模块化且易于维护）。 后端： Firebase（轻松处理我们的身份验证和扩展）。 AI/逻辑： Vertex AI（帮助我们改进匹配和报告生成）。  我分享的原因：我对这项工作感到非常自豪。这是漫长的6年迭代之路，但看到人们的反馈，终于感觉到“被看到”了。通过职业工具让开发时间值得。 我很想了解您对 UI/UX 或使用基于图像的可访问性评估的一般方法的想法。 在这里查看：Traitstack 周六快乐！   由   提交/u/atheistjebus  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1dcdc/after_6_years_of_helping_disenfranchised_youth/</guid>
+      <pubDate>Sat, 02 May 2026 02:28:07 GMT</pubDate>
     </item>
     <item>
-      <title>我厌倦了在谷歌上搜索发布日期，所以我为电视节目构建了一个实时倒计时应用程序。寻找诚实的反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t0ztlw/i_got_tired_of_googling_release_dates_so_i_built/</link>
-      <description><![CDATA[大家好， 当我的节目（例如《龙之屋》或《熊》）实际在我所在时区播出时，我花了太多时间寻找，而且我讨厌在观看节目之前就在 Twitter 上看到剧透而毁了结局。 我构建了 TVTRACK 来解决这个问题。这是一个 React + Supabase 工具，可以： * 与美国实时日程同步。 * 显示实时倒计时。 * 我目前正在对 Google 日历同步和智能提醒等 Pro 功能进行原型设计。  https://preview.redd.it/i2uny2pq7kyg1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=f7ac8dcf7152d6503bd675d55da957d3273e837c &lt;一href=&quot;https://preview.redd.it/19oeo7kd7kyg1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=981fb1d3dea72d3919c842f97fe4b51dffaa8993&quot;&gt; https://preview.redd.it/19oeo7kd7kyg1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=981fb1d3dea72d3919c842f97fe4b51dffaa8993 &lt;一href=&quot;https://preview.redd.it/uvtpm2nv7kyg1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=c161d76aa4ba34e68bb1b7e8dd7c0dc00c783255&quot;&gt; https://preview.redd.it/uvtpm2nv7kyg1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=c161d76aa4ba34e68bb1b7e8dd7c0dc00c783255 如果您有时间，我很想知道：您目前使用任何东西来跟踪您的节目吗？您希望存在的功能是什么？ 不是在寻找任何东西，只是想看看这是否真的对社区有用。   由   提交 /u/subooom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t0ztlw/i_got_tired_of_googling_release_dates_so_i_built/</guid>
-      <pubDate>Fri, 01 May 2026 17:21:50 GMT</pubDate>
+      <title>构建了一个基于浏览器的 3D 建模工具 — 3 个月的进度</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t1bb0v/built_a_browserbased_3d_modeling_tool_3_month/</link>
+      <description><![CDATA[      3个月前，我们的3D建模工具只能建模占位符。 今天，它可以建模这个Wall-E。 项目源代码：https://github.com/sengchor/kokraf   由   提交/u/Sengchor  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t1bb0v/built_a_browserbased_3d_modeling_tool_3_month/</guid>
+      <pubDate>Sat, 02 May 2026 00:52:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
