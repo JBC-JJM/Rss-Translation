@@ -4,20 +4,27 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 05 May 2026 02:35:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 05:42:22 GMT</lastBuildDate>
+    <item>
+      <title>我们构建了一个人工智能，可以在生产中做出持续自主的业务决策。八个月的时间里，人们发现了一些令人不安的事情，即当前人工智能判断力实际上崩溃的地方。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t466fu/we_built_an_ai_that_makes_continuous_autonomous/</link>
+      <description><![CDATA[PayWithLocus 是公司。 Locus Founder 就是这样的产品。我们今年早些时候进入了 YCombinator。 Beta 版于 5 月 5 日启动。 该系统自主运行整个业务。店面生成、产品采购、转化优化文案、Google Facebook 和 Instagram 上的持续广告管理、通过 Apollo 生成潜在客户、自动运行冷电子邮件。在无人参与的情况下持续运行。 在生产环境中运行八个月，让我们了解了一些意想不到的自主人工智能决策。 能力不再是瓶颈 个人能力已基本得到解决。撰写可转换的副本。生成看起来合法的店面。做出合理的目标决策。以可接受的利润采购产品。两年前，这些都是雄心勃勃的。现在它们是基线。 瓶颈发生了变化，但我们没有完全预料到它会转移到哪里。 判断差距 系统在预期条件下表现良好。不断出现的失败模式是自信地在他们之外执行错误。没有明显的错误。在检查下游后果之前，确信的错误看起来是正确的。 局部最优的广告支出决策对于业务轨迹来说是全局错误的。短期转化并长期侵蚀品牌信任的文案。考虑到利润合理而忽略供应商可靠性的采购决策表明，人们的权重会有所不同。系统模式会匹配最接近的熟悉情况，而不是推理该情况是否真正熟悉。 这不是能力故障。系统可以完成任务。这是一种元认知失败。该系统缺乏对其自身能力边界的可靠自我了解。 生产中的分配转移问题 实验室评估并不能让您为现实世界业务环境的多样性做好准备。该系统遇到了超出其训练分布的市场条件、供应商情况和平台政策变化，并根据模式匹配做出自信的决策，而不是标记真正的不确定性。 让自主系统知道何时进行模式匹配，何时真正推理新情况，是我们正在研究的最难解决的问题。置信度校准有助于提高输出水平。分布偏移检测有助于输入级别。两者都没有解决潜在的元认知差距。 生产数据实际显示的内容 构建坚实且一致的层。运营层在大多数情况下表现良好，覆盖了大部分生产量。边缘情况的尾部是判断失败的地方，也是后果最严重的地方。 诚实的总结：生产中的自主人工智能判断比我们在正常条件下的预期要好，但在最重要的条件下比我们需要的更糟糕。 这对当前架构意味着什么 我们认为元认知问题在架构上指向与更好的训练数据或改进的不确定性量化不同的东西。系统不仅需要更好的预测，还需要更好的自身预测可靠性模型。这是与能力改进不同的问题，也是当前架构并未明确设计解决的问题。 PayWithLocus 今年进入了 YCombinator。测试版已上线。 100 个免费名额。你保留你所做的一切。 测试版：https://forms.gle/nW7CGN1PNBHgqrBb8 值得讨论的问题：自主系统中的元认知问题是一个需要逐步解决的工程问题，还是需要一种根本不同的架构方法。我们有一个可行的假设。希望听到认真思考这个问题的人们的意见。   由   提交 /u/IAmDreTheKid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t466fu/we_built_an_ai_that_makes_continuous_autonomous/</guid>
+      <pubDate>Tue, 05 May 2026 05:25:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>这就是非技术人员使用人工智能的目的！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t45otc/this_is_what_nontech_bros_are_using_ai_for/</link>
+      <description><![CDATA[ 由   提交/u/YogurtWild   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t45otc/this_is_what_nontech_bros_are_using_ai_for/</guid>
+      <pubDate>Tue, 05 May 2026 04:59:49 GMT</pubDate>
+    </item>
     <item>
       <title>白宫考虑审查人工智能模型发布前</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3wy9a/white_house_considers_vetting_ai_models_before/</link>
       <description><![CDATA[ 由   提交/u/xanderdad  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3wy9a/white_house_considers_vetting_ai_models_before/</guid>
       <pubDate>Mon, 04 May 2026 22:30:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们一直在构建错误的代理。他们不需要更好的提示，他们需要“内部压力”。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3wj9v/weve_been_building_agents_wrong_they_dont_need/</link>
-      <description><![CDATA[大多数代理框架（AutoGPT、CrewAl 等）将 LLM 视为等待提示的被动工具。我一直在我的项目中尝试不同的原语，Hollow AgentOS：厌恶状态建模。我不只是给它一个目标，而是给它一个“压力源”。多变的。如果代理保持闲置或任务失败，其“压力”就会增加。  见解：当压力达到某个阈值时，智能体的行为会从“遵循指示”变为“遵循指示”。来“解决不适”。它不再请求许可，并开始合成自己的工具来绕过瓶颈。 我发现它在凌晨 3 点编写自定义文件解析器，因为它无法读取我提供的特定日志格式。它是本地优先（Qwen 2.5 7B/9B）并使用矢量化内存层，因此它不会“忘记”我的日志。一小时后，它自己创建了自己的工具。 Repo：https://github.com/ninjahawk/hollow-agentOS 我试图弄清楚这种“心理”是否存在。编写代码的方法是获得真正的 24/7 自主权的唯一方法。我希望一些系统人员能够查看 core/logic.py 并告诉我这是一个突破还是只是数字混乱的一个根源。   由   提交 /u/TheOnlyVibemaster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3wj9v/weve_been_building_agents_wrong_they_dont_need/</guid>
-      <pubDate>Mon, 04 May 2026 22:13:54 GMT</pubDate>
     </item>
     <item>
       <title>白宫考虑审查人工智能模型发布前</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[ 由   提交 /u/TryWhistlin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3ivxv/aigenerated_actors_and_scripts_are_now_ineligible/</guid>
       <pubDate>Mon, 04 May 2026 14:12:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前人工智能采用的最大瓶颈不是模型。事实上，公司数据一团糟。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3ef9e/the_biggest_bottleneck_to_ai_adoption_right_now/</link>
-      <description><![CDATA[每个人都高度关注下一个重大 Claude、Gemini 或 GPT 更新，以及“代理 AI”的承诺。完全自动化我们的工作流程。 但在实际的 B2B 企业世界中，残酷的现实是：您无法在碎片化、无文档记录的数据库之上构建可靠的 AI 代理。 公司需要神奇的 GenAI 解决方案来解决所有增长和运营问题，但他们不想首先花时间清理 SQL 表或修复 Python 中的数据管道。如果你的底层数据结构是垃圾，那么你的大规模人工智能计划只会自信地总结这些垃圾。 人工智能革命的真正英雄不仅仅是及时的工程师；还有。他们是数据分析师，从事着让公司数据能够被这些模型真正读取的乏味工作。   由   提交/u/netcommah  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3ef9e/the_biggest_bottleneck_to_ai_adoption_right_now/</guid>
-      <pubDate>Mon, 04 May 2026 11:03:54 GMT</pubDate>
     </item>
     <item>
       <title>中国法院裁定人工智能不能取代工人</title>
