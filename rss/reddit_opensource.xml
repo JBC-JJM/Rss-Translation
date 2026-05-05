@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 05 May 2026 08:09:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 10:46:32 GMT</lastBuildDate>
     <item>
       <title>ReactOS 获得统一的安装程序映像和新的存储堆栈</title>
       <link>https://www.reddit.com/r/opensource/comments/1t3ym5z/reactos_gets_unified_installer_image_and_a_new/</link>
@@ -92,7 +92,7 @@
     <item>
       <title>正在为我正在开发的工作文档管理应用程序寻找 Beta 测试人员</title>
       <link>https://www.reddit.com/r/opensource/comments/1t2broh/looking_for_beta_testers_for_a_job_document/</link>
-      <description><![CDATA[      我在工作中使用 JobBOSS。虽然它非常适合作业跟踪，但无法管理文档。 采购订单、询价、蓝图和作业相关文档必须手动管理。 我一直在开发一个辅助应用程序，允许从 Outlook 和 Thunderbird 拖放电子邮件和附件。 它将按客户和作业或报价编号组织文件，并将它们链接到专用的客户蓝图文件夹。  它还包括一个带有预览窗口的搜索引擎，可以快速查找作业文件。 这是我过去几个月一直致力于的一个开源项目。 I&#39;m not looking to monetize it.我只是希望更多的人关注它，这样我就可以尽可能地改进它。  我已将其作为 Flatpak 和 Windows 安装程序发布。 您可以在本文链接的我的 GitHub 页面上找到它。   由   提交/u/i_machine_things   [链接] [评论] ]]></description>
+      <description><![CDATA[      我在工作中使用 JobBOSS。虽然它非常适合作业跟踪，但无法管理文档。 采购订单、询价、蓝图和作业相关文档必须手动管理。 我一直在开发一个辅助应用程序，允许从 Outlook 和 Thunderbird 拖放电子邮件和附件。 它将按客户和作业或报价编号组织文件，并将它们链接到专用的客户蓝图文件夹。  它还包括一个带有预览窗口的搜索引擎，可以快速查找作业文件。 这是我过去几个月一直致力于的一个开源项目。我并不打算将其货币化。我只是希望更多的人关注它，这样我就可以尽可能地改进它。  我已将其作为 Flatpak 和 Windows 安装程序发布。 您可以在本文链接的我的 GitHub 页面上找到它。   由   提交/u/i_machine_things   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1t2broh/looking_for_beta_testers_for_a_job_document/</guid>
       <pubDate>Sun, 03 May 2026 04:45:55 GMT</pubDate>
     </item>
