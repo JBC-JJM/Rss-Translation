@@ -4,13 +4,27 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Fri, 08 May 2026 02:47:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:29:31 GMT</lastBuildDate>
+    <item>
+      <title>比如说，chatGPT 是如何写论文的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t6whqu/how_does_say_chatgpt_write_essays/</link>
+      <description><![CDATA[假设我向聊天 GPT 索要一篇关于公元前 500-100 年养蜂业对雅典经济的重要性的文章。 我会得到其他人文章的复制粘贴吗？ 或者聊天 GPT 会思考这些信息，分析它，根据它形成一些意见，决定留下什么，留下什么，决定如何做构建论文，决定以何种顺序提出哪些观点，在论文的各个部分之间建立联系并引用它们，再看一遍并思考“哦，等等，第四段是不需要的，因为它基本上是引言的重复”等等？ 免责声明：老实说，我没有在作业上作弊（已经过了学龄几十年了） 只是对这些东西的工作原理非常着迷。   由   提交/u/eques_99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t6whqu/how_does_say_chatgpt_write_essays/</guid>
+      <pubDate>Fri, 08 May 2026 03:40:24 GMT</pubDate>
+    </item>
     <item>
       <title>克劳德能查出我是不是人类吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t6tdzx/can_claude_detect_if_im_human/</link>
       <description><![CDATA[查看克劳德和我之间的这段对话。你们相信它可以检测我是人类还是被编程为假装人类的机器人吗？   由   提交/u/kodr78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t6tdzx/can_claude_detect_if_im_human/</guid>
       <pubDate>Fri, 08 May 2026 01:13:52 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t6skni/most_suitable_and_best_ai_for_me/</link>
+      <description><![CDATA[所以我几个月后就要参加考试，非常重要且竞争激烈的国家级考试。我想要一个完美且最适合我的人工智能代理，甚至可以同时完成以下任务：  从多年来的 pyq 映射到主题和可能主题的趋势演变进行准确和深入的 PYQ 分析 我将提供我自己的笔记，它必须根据我的 PYQ 蓝图进行过滤和相应修改，并具有完全的准确性和最佳答案。 我将通过共享它必须集成的增值资源来不断更新我的笔记，以集成相关内容进入我的笔记  早些时候，我想从grok、deepseek和microsoft copilot（免费版本）进行pyq分析，然后将结果放入claude opus 4.6模型中进行pyq分析并相应地做笔记。但如果有更好、更适合上述任务的人工智能代理，请告诉我。想要诚实的建议。   由   提交/u/InternalConnection95  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t6skni/most_suitable_and_best_ai_for_me/</guid>
+      <pubDate>Fri, 08 May 2026 00:35:52 GMT</pubDate>
     </item>
     <item>
       <title>无法“进入”人工智能聊天？</title>
@@ -22,7 +36,7 @@
     <item>
       <title>还有其他人觉得人工智能基准测试对于预测现实世界的性能变得越来越没用吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t6p3ma/does_anyone_else_feel_like_ai_benchmarks_are/</link>
-      <description><![CDATA[许多最近的模型在基准测试中得分非常高，但实际的日常使用通常感觉与排行榜的预期非常不同。 在实践中，团队似乎更关心以下事情：  长时间会话的一致性 延迟 上下文处理 工具使用可靠性 成本效率 模型从错误中恢复的能力 开发人员工作流程质量  一些模型在演示/评估中感觉很棒，但在持续的实际使用中却变得令人沮丧，因为它们：  过度解释 在长上下文中失去焦点 变得重复 难以应对编排繁重的任务  感觉我们可能正在进入一个基础设施+工作流程质量几乎与原始模型智能一样重要的阶段。 很好奇其他人是否也看到同样的事情，或者基准是否仍然与您的现实世界体验紧密匹配。   由   提交 /u/qubridInc   [链接] [评论]]]></description>
+      <description><![CDATA[A lot of recent models are scoring incredibly well on benchmarks, but actual day-to-day usage often feels very different from leaderboard expectations. In practice, teams seem to care more about things like:  consistency over long sessions latency context handling tool use reliability cost efficiency how well models recover from mistakes developer workflow quality  Some models feel amazing in demos/evals but become frustrating during sustained real-world usage because they:  over-explain lose focus over long contexts become repetitive struggle with orchestration-heavy tasks  Feels like we might be entering a phase where infrastructure + workflow quality matter almost as much as raw model intelligence. Curious if others are seeing the same thing or if benchmarks are still matching your real-world experience closely.   由   提交 /u/qubridInc   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t6p3ma/does_anyone_else_feel_like_ai_benchmarks_are/</guid>
       <pubDate>Thu, 07 May 2026 22:07:20 GMT</pubDate>
     </item>
@@ -41,25 +55,11 @@
       <pubDate>Thu, 07 May 2026 20:56:38 GMT</pubDate>
     </item>
     <item>
-      <title>我们构建了一个代理运行时，其中作业是从配置编译的显式状态机</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t6n05h/we_built_an_agent_runtime_where_jobs_are_explicit/</link>
-      <description><![CDATA[大家好，我是 Friday Studio 的建设者之一。分享是因为我们希望得到实际与代理发货的人的反馈。  我们的团队在代理 AI 方面不断遇到同样的两个问题：要么是需要设置的巨大 PITA，要么是运行后太脆弱。我们想要一个运行时，您的工作流程每次都以相同的方式运行，每次都会留下痕迹，并且不会让您感到惊讶。  我们认为可靠性是一个配置问题。大多数工具都会要求法学硕士弄清楚每次运行时要做什么。这就是你产生偏差的地方，“昨天还有效”。失败。  Frid​​ay 将您所描述的内容编译到workspace.yml 中并每次执行。您可以读取 YAML，将其提交到 git，并跨版本进行比较。作业是有限状态机：状态、转换和代理分派在配置中是明确的，而不是在运行时推断（编译器位于packages/workspace/src/execution-to-fsm.ts）。法学硕士在每个州都有效； FSM 决定接下来运行什么。代理无法在运行中决定执行您未定义的操作。  每次运行都会留下完整的痕迹：状态机、每个步骤的瀑布时间线以及每个工具调用的完整输入和输出。当出现问题时，您会看到哪个状态失败以及原因。  代理获得在代码中作为硬编码集强制执行的显式 MCP 工具白名单，而不是提示级别的“请不要”白名单。 （参见packages/core/src/agent-conversion/agent-tool-filters.ts）。内存是仅追加的降价，在会话开始时自动注入到代理上下文中，代理通过 memory_save 写回摘要。无向量DB，无需检索调优；代理首先调用 memory_read 来进行重复数据删除。  可靠性在模型颠簸中保持不变，因为状态图就是契约；仅输入操作提示发生变化。对于大多数工作流程来说，设置都很快，尤其是开箱即用的工作流程（cron、webhook 信号）。目前仅适用于 macOS。  文档：docs.hellofriday.ai 仓库：github.com/friday-platform/friday-studio  希望获得反馈，尤其是来自使用代理构建的人员的反馈。   由   提交/u/Vpr99  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t6n05h/we_built_an_agent_runtime_where_jobs_are_explicit/</guid>
-      <pubDate>Thu, 07 May 2026 20:47:18 GMT</pubDate>
-    </item>
-    <item>
       <title>联邦和省监管机构称 OpenAI 违反了加拿大隐私法</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t6ixfq/openai_violated_canadian_privacy_laws_federal_and/</link>
       <description><![CDATA[ 由   提交/u/Wolf99  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t6ixfq/openai_violated_canadian_privacy_laws_federal_and/</guid>
       <pubDate>Thu, 07 May 2026 18:23:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我因向人工智能窃取我的照片寻求帮助而被禁止...因为我的英语不好？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t6hntj/i_got_banned_for_asking_help_about_ai_stealing_my/</link>
-      <description><![CDATA[看起来我是一名来自希腊的专业摄影师，我现在真的很生气。我发现我的照片被用来训练人工智能模型，没有人问我。所以我去一些论坛询问我可以做什么合法的事情以及如何保护我的作品。会发生什么？我被删除或禁止。他们告诉我，我听起来像个机器人。  为什么？因为我使用工具来帮助我写出更好的英语，因为它不是我的母语。所以如果你不是来自英国或美国，你在这里没有发言权？这是数字种族主义还是什么？人工智能窃取了我的光芒和我的工作，当我使用人工智能只是为了与你交谈并寻求正义时，你就把我踢了出去。这太疯狂了。世界上 80% 的人都不会说完美的英语，所以我们只能保持沉默，而大科技却夺走了一切？无论如何，我只是想知道这里是否还有其他摄影师遇到同样的问题，平台禁止他，因为他试图争取自己的版权。抱歉我的英语不好，我只是厌倦了这个。   由   提交 /u/Dear-Armadillo-7497   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t6hntj/i_got_banned_for_asking_help_about_ai_stealing_my/</guid>
-      <pubDate>Thu, 07 May 2026 17:39:37 GMT</pubDate>
     </item>
     <item>
       <title>大家冷静一下，我明白了。</title>
@@ -85,7 +85,7 @@
     <item>
       <title>Salesforce 表示将招聘 1,000 名“AI 原生”应届毕业生</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t6cl6o/salesforce_says_it_will_hire_1000_ainative_new/</link>
-      <description><![CDATA[上周，Salesforce 首席执行官马克·贝尼奥夫 (Marc Benioff) 在 X 上的一篇帖子中宣布，该公司将雇用 1,000 名新毕业生和实习生，“以驾驭 AI 指数”。昨天，该公司发布了一份声明，致力于该计划。 Salesforce 在其大学招聘计划中启动了一项新的 Builder 计划，以快速跟踪应届毕业生进入工程、产品和销售职位，重点关注其专有的人工智能代理系统 Agentforce。该公司表示，迄今为止，已通过大学招聘计划聘用了超过 10,000 名专业人士。 根据 LinkedIn 最近的一份报告，美国的初级招聘人数同比下降了 6%。一些主要首席执行官认为人工智能将导致工作岗位流失并扰乱职业生涯，特别是对于初级候选人而言。  但 Salesforce 希望缓解新毕业生的一些惨淡统计数据——至少在人工智能方面是如此。   由   提交/u/_fastcompany  [链接] [评论]]]></description>
+      <description><![CDATA[上周，Salesforce 首席执行官马克·贝尼奥夫 (Marc Benioff) 在 X 上的一篇帖子中宣布，该公司将雇用 1,000 名新毕业生和实习生，“以驾驭 AI 指数”。昨天，该公司发布了一份声明，致力于该计划。 Salesforce 在其大学招聘计划中启动了一项新的 Builder 计划，以快速跟踪应届毕业生进入工程、产品和销售职位，重点关注其专有的 AI 代理系统 Agentforce。该公司表示，迄今为止，它已通过大学招聘计划聘用了超过 10,000 名专业人士。 根据 LinkedIn 最近的一份报告，美国的初级招聘人数同比下降了 6%。一些主要首席执行官认为人工智能将导致工作岗位流失并扰乱职业生涯，特别是对于初级候选人而言。  但 Salesforce 希望缓解新毕业生的一些惨淡统计数据——至少在人工智能方面是如此。   由   提交/u/_fastcompany  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t6cl6o/salesforce_says_it_will_hire_1000_ainative_new/</guid>
       <pubDate>Thu, 07 May 2026 14:42:40 GMT</pubDate>
     </item>
