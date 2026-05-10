@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 10 May 2026 19:03:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 21:48:57 GMT</lastBuildDate>
+    <item>
+      <title>国际电话号码最终成为我们处理过的最烦人的后端问题之一</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t9hwib/international_phone_numbers_ended_up_being_one_of/</link>
+      <description><![CDATA[我们最近在国际上扩展了一个产品，完全低估了电话号码处理会变得多么混乱。 起初我们假设存储号码很简单： 国家/地区代码 + 号码 = 完成。 现实很混乱。 我们开始发现： • 用户输入本地格式而不是国际格式 • 重复的国家/地区前缀 •前导零破坏短信传送 • WhatsApp 与短信提供商的不同格式 • 阿根廷/墨西哥边缘情况的行为不同 • 存储有空格/连字符的旧号码默默地失败了验证 最糟糕的是，这些记录中的大多数在数据库中看起来“有效”，直到传送失败开始发生。 我们最终不得不将所有内容标准化为 E.164 格式，并清除多年来不一致的数据。 好奇如何做到这一点。其他开发团队大规模处理此问题。 您在注册时立即标准化数字，还是稍后在管道中清理/转换它们？   由   提交 /u/Annual_Ad_8737   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t9hwib/international_phone_numbers_ended_up_being_one_of/</guid>
+      <pubDate>Sun, 10 May 2026 20:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在我的应用程序中使用 unsplash 图像吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t9hhjb/can_i_use_unsplash_images_in_my_app/</link>
+      <description><![CDATA[我想在我的 iOS 应用程序中使用 200-300 张 Unsplash 人物图像 我可以下载这些图像，然后存储在我的数据库中，然后在应用程序中显示。  或者我可以将图像链接存储在数据库中，并可以直接在应用程序中显示。 我可以这样做吗？我不想链接任何归属。 我想知道是否允许这样做？ 这样做是否存在任何 unsplash 条款或违反许可行为？   由   提交 /u/tokyo-spare   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t9hhjb/can_i_use_unsplash_images_in_my_app/</guid>
+      <pubDate>Sun, 10 May 2026 20:09:06 GMT</pubDate>
+    </item>
     <item>
       <title>代理世界各地的网络开发人员！</title>
       <link>https://www.reddit.com/r/webdev/comments/1t9fptq/agency_web_developers_around_the_world/</link>
@@ -20,16 +34,9 @@
       <pubDate>Sun, 10 May 2026 17:43:33 GMT</pubDate>
     </item>
     <item>
-      <title>我的游戏开发团队正在招聘。寻找长期合作伙伴关系。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t9derp/hiring_for_my_game_dev_team_looking_for_long_term/</link>
-      <description><![CDATA[嗨！我有一个独立游戏开发工作室，我们制作精心编写的、风格化的成人游戏。我们已经发展了大约 5 年，现在我们有 2 名作家、3.5 名艺术家、2 名程序员和一名社交媒体经理。 该游戏是一款视觉小说/点击式冒险游戏。我们每个月都会发布一个更新，每个更新都会添加一个任务（去这里，拿起物品，与这个角色交谈等），并以一个特殊的场景结束。这个故事充满对话，角色有分支路线，根据玩家的选择会有不同的结果。 我希望扩大我们的团队并吸引更多有才华的人。 我正在寻找的一些角色： 虚拟助手 - 这就是我写这篇文章的动力。我真的希望找到一个优秀的虚拟助手，他有兴趣融入我们的游戏开发工作室，并与之一起成长。你拥有的技能（编程、编辑、美术）越多越好，但我只是在寻找一个能够真正扮演助理角色、全天待命、帮助我完成所有日常任务的人。 艺术家 - 对于我的游戏工作室，我们总是需要更多的艺术家。如果您认为您可以匹配我们现有的风格（这并不容易），您可以提交您的作品集。我们有艺术指南。 作家 - 我也一直在寻找有才华的作家。多年来，这一直是我最难担任的角色，因为我对写作质量的要求非常高，而且我真的在寻找能写得很好的人。出色的对话和人物塑造、良好的散文、结构良好等。如果您认为自己符合条件，请申请。  程序员 - 我正在寻找两种类型的程序员。对于对游戏开发方面更感兴趣的人，对于这个角色，我可以接受更业余一点的人，或者仍在学习的人（当然我也不介意有经验的人！）。我正在寻找可以帮助我们将游戏编程到引擎中的人。现在我们正在使用 Python RenPy 引擎，但我们正在过渡到 Typescript 引擎，因此熟悉该引擎或 Web 开发将会非常有帮助。  对于第二个角色，我正在寻找人工智能工程师/专家。我相信人工智能，我想构建一些工具来帮助我们的工作室提高工作流程和效率。我以前构建过软件，但我正在寻找一位非常专业的开发人员，他对人工智能和构建 RAG 了解很多，并希望帮助我们的工作室。  联系方式： 我实际上创建了一个服务器来帮助管理所有这些并帮助保持所有应用程序的排序。 www.discordgg/8PsYavAa43 （只需在discord和gg之间添加一个句点） 我的预算范围为1,000美元- 5,000 美元，具体取决于角色、项目等。  如果以上任何内容听起来对您很有吸引力，或者您认为您可以为我们的工作室提供帮助，请加入服务器并在相关类别中留言并附上您的作品集。    由   提交 /u/TimeWizardStudios   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t9derp/hiring_for_my_game_dev_team_looking_for_long_term/</guid>
-      <pubDate>Sun, 10 May 2026 17:37:38 GMT</pubDate>
-    </item>
-    <item>
       <title>您对重新设计的 remix.run 网站有何看法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1t9d78u/what_are_your_thoughts_on_redesigned_remixrun/</link>
-      <description><![CDATA[Remix 刚刚与 Remix 3 测试版一起重新设计了网站，我很好奇您对此有何看法。 博客文章：Remix — 全新的 Remix 说道：  “用视觉效果设计一个新网站走在技术抽象和未来可视化之间的界线”  浏览主页后，当我闭上眼睛时，我确实看到了网站视觉效果的闪烁。对我来说，它更像是一个交互式科幻产品体验，而不是一个框架网站。  张力？   由   提交 /u/EastSwan   [链接] [评论]]]></description>
+      <description><![CDATA[Remix 刚刚与 Remix 3 测试版一起重新设计了网站，我很好奇您对此有何看法。 博客文章：Remix — 全新的 Remix 说道：  “设计一个新网站，其视觉效果在技术抽象和概念之间游走。未来的可视化”  浏览主页后，当我闭上眼睛时，我确实看到了网站视觉效果的闪烁。对我来说，它更像是一个交互式科幻产品体验，而不是一个框架网站。  张力？   由   提交 /u/EastSwan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1t9d78u/what_are_your_thoughts_on_redesigned_remixrun/</guid>
       <pubDate>Sun, 10 May 2026 17:29:59 GMT</pubDate>
     </item>
@@ -53,13 +60,6 @@
       <description><![CDATA[我们构建了 SpamMail.org，这是一个一次性电子邮件提供商，专为希望更好地控制临时和注重隐私的收件箱的用户而设计。 核心功能： - 创建自定义电子邮件别名 - 从单个帐户管理多个别名 - 使用您自己的域 - 跨别名和域使用一个通用收件箱 - 使用统一收件箱通过 IMAP 访问所有内容 这个想法很简单：一个帐户、多个身份、最小摩擦。 基础设施和隐私： - 托管在欧洲，主要是德国 - 公司位于奥地利 - 设计符合 GDPR - 数据最小化：我们只存储技术上所需的内容 - 内置将隐私作为默认假设，而不是作为营销层 对于高级用户，我们为想要保持更高程度匿名性的用户提供附加功能并支持加密支付。 路线图： - 发送电子邮件 - 浏览器扩展 - 本机桌面应用程序 - 本机移动应用程序 - 电子邮件转发 目标是让基于别名的电子邮件管理变得不那么痛苦，尤其是高级用户和注重隐私的用户，他们不想到处暴露自己的主收件箱。 欢迎提供反馈。   由   提交 /u/Doovester   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1t9b07m/we_built_spammailorg_disposable_email/</guid>
       <pubDate>Sun, 10 May 2026 16:07:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>放弃你的项目，我会给出诚实的反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t9aa26/drop_your_project_and_ill_give_honest_feedback/</link>
-      <description><![CDATA[      将您的网站放在下面，我会给您一些诚实的反馈。   由   提交/u/mfns07  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t9aa26/drop_your_project_and_ill_give_honest_feedback/</guid>
-      <pubDate>Sun, 10 May 2026 15:39:31 GMT</pubDate>
     </item>
     <item>
       <title>作为开发人员，您如何学习新事物？</title>
