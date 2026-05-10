@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sun, 10 May 2026 02:46:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 06:10:47 GMT</lastBuildDate>
+    <item>
+      <title>我将免费对您的 n8n 工作流程进行质量检查 - 仅限前 5 名构建者</title>
+      <link>https://www.reddit.com/r/automation/comments/1t8y64i/ill_qa_your_n8n_workflow_for_free_first_5/</link>
+      <description><![CDATA[ 由   提交/u/exnav29  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t8y64i/ill_qa_your_n8n_workflow_for_free_first_5/</guid>
+      <pubDate>Sun, 10 May 2026 05:39:51 GMT</pubDate>
+    </item>
     <item>
       <title>我希望我能找到我的第一个客户。</title>
       <link>https://www.reddit.com/r/automation/comments/1t8unqg/i_wish_i_can_land_my_first_client/</link>
@@ -88,13 +95,6 @@
       <description><![CDATA[      Tasket++ 是一款适用于 Windows 的轻量级无代码自动化工具，可在精确的时间执行重复的用户工作流程。它可以回放用户定义的光标位置和击键，安排静默屏幕截图，自动跨应用程序发送消息，并运行一天结束的例程（关闭应用程序、淡入淡出音频、关闭）。一切都通过简单的 UI 在本地运行，无需遥测。该项目是开源的。 主要功能 - 回放用户定义的光标移动和击键 - 在任何地方粘贴预定义的文本 - 在特定日期时间、启动时或通过桌面快捷方式安排任务 - 系统操作：打开文件/程序、改变音量、静默截图、关机、文件/文件夹操作 - 循环：运行任务一次、固定循环或无限期 -谨慎模式：仅在计划任务在后台执行时从系统托盘运行 本地、可移植且开源。 现已在 Microsoft Store 中提供，搜索“Tasket++” github 页面中提供了便携式版本 有关反馈、帮助、建议或其他查询：[contact@amirhammoutene.dev](mailto:contact@amirhammoutene.dev)   由   提交/u/AmirHammoutene  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t7xnqr/tasket_lightweight_nocode_automation_for_windows/</guid>
       <pubDate>Sat, 09 May 2026 07:07:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们使用哪些人工智能工具将表单数据转换为报告/模板？</title>
-      <link>https://www.reddit.com/r/automation/comments/1t7afwh/what_ai_tools_are_people_using_to_turn_form_data/</link>
-      <description><![CDATA[我处理了大量的表单提交，并且一直在寻找一种更智能的方法将这些数据转换为可用的报告、大纲、摘要、客户文档等，而无需每次都手动将所有内容拼凑在一起。 主要寻找能够真正从响应中理解上下文的东西，而不是仅仅将基本字段替换为模板。 好奇这里的人们使用什么工具或工作流程这种设置以及一旦数量开始增长就能保持良好的状态。   由   提交 /u/Imprintingprotocol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t7afwh/what_ai_tools_are_people_using_to_turn_form_data/</guid>
-      <pubDate>Fri, 08 May 2026 14:59:01 GMT</pubDate>
     </item>
     <item>
       <title>人们正在转向什么而不是 Zapier？</title>
