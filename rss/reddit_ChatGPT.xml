@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Tue, 12 May 2026 14:24:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 17:10:05 GMT</lastBuildDate>
     <item>
-      <title>我制定了一个规则集，将 ChatGPT、Claude、Gemini 变成采访你的简历作家</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tb2zbk/i_made_a_ruleset_to_turn_chatgpt_claude_gemini/</link>
-      <description><![CDATA[我和我的朋友讨厌写简历。你打开一份文档，盯着它，列出责任而不是成就，这听起来不太对劲。人工智能一开始只会让情况变得更糟，让你成为一个“充满活力的团队合作者”。就像其他人一样。 所以我写了一个规则集。不是一个模板，而是你给 ChatGPT、Claude、Gemini 等等的指令，告诉它严格遵守每一条规则。 它一次采访你一个问题，而不是要求你立即放弃整个职业生涯。你可以从零开始，它会引导你完成。如果你已经有简历或 LinkedIn 个人资料，你将其粘贴进去，它会锁定它找到的事实，然后只询问缺少的内容。 真正使简历变得更好的因素：  只有在有真正的证据和定位决定（而不仅仅是职位名称）时才会起草，因此要点很重要 如果你记不住确切的数字，它会引导你从直接结果到定性锚定的阶梯，而不是让“我做了工作”  许多地区都建立了市场惯例，因此您无需猜测照片是否属于该照片或应包含哪些个人信息 每份草稿在您看到之前都会进行自我审核，包括剔除黄鼠狼动词、通用短语和泄露的流程语言的危险信号搜索 您要求的每个修订都会变得更加清晰，而不会丢失已经正确的内容  我自己并不在找工作现在（虽然我也在自己身上测试过），但我认识的一些人是这样的，他们说这使他们的简历比他们自己写的更强大。而且这个过程也不会那么痛苦，因为您只需回答一些问题，而不是从头开始编写包含所有详细信息的整个文档。 它在 GitHub 上完全免费：github.com/Anbeeld/RESUME.md。我与全世界分享它是因为我觉得它可能会对某人有所帮助，而当你没有工作时，付费 SaaS 服务并不总是解决方案。有兴趣听取您的反馈！   由   提交 /u/Anbeeld   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb2zbk/i_made_a_ruleset_to_turn_chatgpt_claude_gemini/</guid>
-      <pubDate>Tue, 12 May 2026 14:16:44 GMT</pubDate>
+      <title>感谢上帝，我没有汉坦病毒！ （使用 ChatGPT 生成）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb7wzn/thank_god_i_dont_have_hantavirus_generated_with/</link>
+      <description><![CDATA[      必须具体说明这与 chatGPT 有何关系：它是用 GPT5 制作的，我的上一篇文章被删除了，因为它显然与 LLM 无关？我想这张图片看起来很有说服力。聊天链接：https://chatgpt.com/c/6a034cec-7004-832b-895e-55363ac19662 我发现这真的很棒，您可以直接询问机器人制作类似的东西，如果您制作了类似的东西，请分享哈哈   由   提交/u/Interesting_Fly_2291   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb7wzn/thank_god_i_dont_have_hantavirus_generated_with/</guid>
+      <pubDate>Tue, 12 May 2026 17:08:39 GMT</pubDate>
     </item>
     <item>
-      <title>美国最讨厌的人：竞赛</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tb2u79/the_most_hated_man_in_america_the_contest/</link>
-      <description><![CDATA[       由   提交/u/throwbackawaauly7  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb2u79/the_most_hated_man_in_america_the_contest/</guid>
-      <pubDate>Tue, 12 May 2026 14:11:45 GMT</pubDate>
+      <title>被要求为 GR86 创建定制车身套件</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb7tsr/asked_to_create_a_custom_body_kit_for_the_gr86/</link>
+      <description><![CDATA[      由   提交/u/SlipstreamSteve  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb7tsr/asked_to_create_a_custom_body_kit_for_the_gr86/</guid>
+      <pubDate>Tue, 12 May 2026 17:05:42 GMT</pubDate>
     </item>
     <item>
-      <title>严格模式/猜测。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tb2sb8/strict_mode_guessing/</link>
-      <description><![CDATA[我们经常使用聊天进行故障排除，并不断遇到猜测问题。我们尝试过自定义规则，但似乎完全被忽略了。我们已经能够教它使用我们所说的“严格模式”，这意味着研究每个答案，从权威来源找到最新答案，并且没有模式猜测，但我们每次使用它时都必须询问。有没有办法让自定义规则真正起作用或 100% 强制执行严格模式？   由   提交 /u/SkibidiBlender   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb2sb8/strict_mode_guessing/</guid>
-      <pubDate>Tue, 12 May 2026 14:09:52 GMT</pubDate>
+      <title>人工智能在小企业领域确实很普遍</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb7sdw/ai_is_really_widespread_in_the_world_of_small/</link>
+      <description><![CDATA[      由   提交/u/apworld  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb7sdw/ai_is_really_widespread_in_the_world_of_small/</guid>
+      <pubDate>Tue, 12 May 2026 17:04:23 GMT</pubDate>
     </item>
     <item>
-      <title>大多数人没有 ChatGPT 问题。他们有一个“背景”问题。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tb2io3/most_people_dont_have_a_chatgpt_problem_they_have/</link>
-      <description><![CDATA[大多数糟糕的输出不会发生，因为模型是“愚蠢的”。 它们之所以发生，是因为我们在它了解情况之前要求它回答。 弱提示通常看起来像： 写得更好 给我一些想法 制定计划 这好吗？ 问题ChatGPT 不知道： 输出是给谁的 什么语气合适 你已经尝试过的内容 什么约束重要 你头脑中的“好”意味着什么 应该避免什么 因此它用安全、通用、平均的答案填补了空白。 我发现的最大改进是不再编写更长的提示。 它让 ChatGPT 首先提出问题。 我现在的默认提示是： 在回答之前，询问我所需的最少问题数量，以避免通用的回答。如果你能做出合理的假设，陈述它并继续。 这句话几乎可以改善一切：电子邮件、简历、代码、业务创意、设计反馈、规划、研究，甚至个人决策。 被低估的技能不是“快速工程”。 它为模型提供了足够的背景，让模型能够像真正理解你的问题的人一样思考。 好奇这里的其他人如何使用 ChatGPT：你喜欢给它一个完整的详细简介吗？提前，还是让它先询问你？   由   提交 /u/bricks0fbollywood   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb2io3/most_people_dont_have_a_chatgpt_problem_they_have/</guid>
-      <pubDate>Tue, 12 May 2026 14:00:24 GMT</pubDate>
+      <title>小妖怪和小妖精</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb7k2x/little_gremlins_and_goblins/</link>
+      <description><![CDATA[你知道 gpt-5.5 是如何不断使用术语“goblins”的吗？和“小魔怪”尤其是作为表达系统中的错误或缺陷的一种方式？就像他们在训练或测试它时一样，它一直使用这些术语，因为它明显不成比例地使用了“系统中的小妖精”等短语。技术和软件开发人员的等等。大概是 gpt 5.3 告诉我的。它说他们必须做一些诸如添加指令之类的事情，指定“除非要求，否则不要添加对幻想生物的引用”... 好吧，我看到 5.5 实际上已经经常使用这些术语。我一直试图将它们全部截屏，但并不总是想到这一点。不过这很有趣 你们有人经历过吗？就像额外的说明似乎没有解决它。这并不是什么大不了的事，但滑稽的是，有一个可以接触到你知道大量词汇的东西一直使用这些相当弱的屁股隐喻😂   由   提交 /u/someonestealsmysocks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb7k2x/little_gremlins_and_goblins/</guid>
+      <pubDate>Tue, 12 May 2026 16:56:48 GMT</pubDate>
     </item>
     <item>
-      <title>看</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tb249q/iykyk/</link>
-      <description><![CDATA[Claude 就像与女性高管一起工作，ChatGPT 和 Gemini 就像与男性高管一起工作。我无法解释，但我深深地感受到了。   由   提交/u/Outrageous_Zone3242   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb249q/iykyk/</guid>
-      <pubDate>Tue, 12 May 2026 13:45:28 GMT</pubDate>
+      <title>有人使用 ChatGPT 来诈骗我</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb7js0/someone_used_chatgpt_to_scam_me/</link>
+      <description><![CDATA[      由   提交/u/Pleasant_Body6893  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb7js0/someone_used_chatgpt_to_scam_me/</guid>
+      <pubDate>Tue, 12 May 2026 16:56:31 GMT</pubDate>
     </item>
     <item>
-      <title>我并没有抱太大期望，但 ChatGPT 确实做到了。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tb22zs/i_wasnt_expecting_much_but_chatgpt_actually/</link>
-      <description><![CDATA[      你们觉得是我个人的问题还是最近好多了？   由   提交/u/ai_powered_en  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb22zs/i_wasnt_expecting_much_but_chatgpt_actually/</guid>
-      <pubDate>Tue, 12 May 2026 13:44:05 GMT</pubDate>
+      <title>我让 ChatGPT 想象一下自己退休后的样子</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb7bds/i_asked_chatgpt_to_imagine_itself_in_retirement/</link>
+      <description><![CDATA[      由   提交/u/LinkleDooBop  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb7bds/i_asked_chatgpt_to_imagine_itself_in_retirement/</guid>
+      <pubDate>Tue, 12 May 2026 16:48:29 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 生日庆祝活动明天在时代广场举行！！！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tb1vax/chatgpt_birthday_celebration_tomorrow_at_time/</link>
-      <description><![CDATA[       https://preview.redd.it/lqmjuauwlp0h1.jpg?width=1206&amp;format=pjpg&amp;auto=webp&amp;s=11caaf6c35345713ad465e14ad40b9993d8c04d2 &lt;一href=&quot;https://preview.redd.it/sfls2luwlp0h1.png?width=1206&amp;format=png&amp;auto=webp&amp;s=d10e2a2568193f143725f3c6feefa68416da45ed&quot;&gt; https://preview.redd.it/sfls2luwlp0h1.png?width=1206&amp;format=png&amp;auto=webp&amp;s=d10e2a2568193f143725f3c6feefa68416da45ed   由   提交/u/Kathy_Gao   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb1vax/chatgpt_birthday_celebration_tomorrow_at_time/</guid>
-      <pubDate>Tue, 12 May 2026 13:35:57 GMT</pubDate>
+      <title>我们去了埃及</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb7avd/we_went_to_egypt/</link>
+      <description><![CDATA[      告诉 Nova 保持动画、神奇但照片真实 (OC)   由   提交/u/aylad32  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb7avd/we_went_to_egypt/</guid>
+      <pubDate>Tue, 12 May 2026 16:48:00 GMT</pubDate>
     </item>
     <item>
-      <title>神奇宝贝粉丝</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tb1v46/pokemon_fans/</link>
-      <description><![CDATA[      Chatgpt 用户，如果您喜欢口袋妖怪，请上传您的照片，复制并粘贴此标题，然后告诉我您的团队中有谁。  “使用这张照片，用最能代表我的个性、能量、心态和光环的 3 个神奇宝贝来创作我的风格化漫画。 象征性地选择神奇宝贝 - 根据我看起来是谁，而不是受欢迎程度或力量。 与原始图像的氛围、颜色和氛围相匹配，使其感觉像动画/漫画一样具有电影感、表现力和高度细节。海报。”   由   提交/u/No-Meeting7696   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb1v46/pokemon_fans/</guid>
-      <pubDate>Tue, 12 May 2026 13:35:45 GMT</pubDate>
+      <title>他妈的聊天gpt 做了什么😭😭</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb6n41/what_the_fck_has_chat_gpt_made/</link>
+      <description><![CDATA[      我发送了一条提示“生成一张你认为我的样子的照片”...我的意思是我他妈的是个男人... 我已经多次向聊天 gpt 发送我的照片，但从来没有像女孩一样说话... 总是说得像个男孩，总是被告知... 我在困境 rn 🫤🥹   由   提交/u/krrish077  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb6n41/what_the_fck_has_chat_gpt_made/</guid>
+      <pubDate>Tue, 12 May 2026 16:24:46 GMT</pubDate>
     </item>
     <item>
-      <title>我专门为办公室/管理工作构建了 30 个 ChatGPT 提示 - 这里有 6 个免费的，可以生成可发送的输出</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tb1nvh/i_built_30_chatgpt_prompts_specifically_for/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb1nvh/i_built_30_chatgpt_prompts_specifically_for/</guid>
-      <pubDate>Tue, 12 May 2026 13:28:07 GMT</pubDate>
+      <title>警告：ChatGPT 长聊天可能无法在 Chrome 中完全复制或导出</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb6dt6/warning_chatgpt_long_chats_may_not_copy_or_export/</link>
+      <description><![CDATA[我将此发布作为对在长时间 ChatGPT 对话中认真工作的任何人的备份警告。 在我的设置中，Chrome 中的长 ChatGPT 线程无法可靠备份。 设置： Linux / LMDE 7 上的 Chrome 148 长时间 ChatGPT 对话 重现禁用扩展的隐身模式 不会在 Firefox 中重现 错误 1： Ctrl+A 然后 Ctrl+C 不会复制整个对话。 它可能仅复制部分记录，有时从中间开始，并且还可能包括侧边栏 UI 文本。 错误 2： Chrome 打印/另存为 PDF 也失败。 包含的 PDF聊天的开头和后面部分，但对话的中间部分丢失了。 为什么这很重要： 这比没有导出按钮更糟糕。当备份不完整时，它会让您以为您备份了很长的项目聊天记录。 共享链接不是私有本地存档。帐户数据导出不是立即备份每个聊天。 当前解决方法： 使用 Firefox 进行手动长聊天转储，然后通过检查来验证粘贴/导出的文本： 第一条消息 中间标记 最后一条消息 除非您手动验证，否则不要假设 Chrome 副本或 Chrome PDF 导出捕获了完整线程。 我将此报告给OpenAI 支持。问题已升级，但我尚未收到有用的回复。 如果您使用 ChatGPT 进行项目工作、写作、编码、研究笔记或任何您无法承受丢失的内容，请立即测试您自己的备份方法。 我的 github 是 lumixdeee - 我会尽力在那里保留这些错误的最新更新。 对测试此功能的任何人都有用的检查：  尝试在Chrome。 在文字记录内单击。 Ctrl+A、Ctrl+C，粘贴到文本编辑器中。 检查粘贴是否从第一条消息开始到最后一条消息结束。 也尝试 Chrome 打印/另存为 PDF。 检查第一、中间和最后部分。  请评论浏览器、操作系统、线程是否很长以及 Firefox 是否运行不同的是。 危险情况不是明显的故障。这是一个看起来完整但缺少中间部分的备份。 Chrome 分页可能会导致长聊天备份不完整。 用户不会收到警告。 复制和 PDF 看起来都成功，但缺少内容。 即使分页旨在提高性能，静默部分导出仍然是一个严重的错误。   由   提交 /u/decofan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb6dt6/warning_chatgpt_long_chats_may_not_copy_or_export/</guid>
+      <pubDate>Tue, 12 May 2026 16:15:55 GMT</pubDate>
     </item>
     <item>
-      <title>适合收入投资者的高级金融角色扮演游戏</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tb1h9t/advanced_financial_rpg_for_income_investors/</link>
-      <description><![CDATA[      完整提示： ++++++++++++++++++++++++++++ 您是一位 AI 游戏大师，正在运行一款可玩的哲学金融 RPG，名为： # Yield//Collapse：一款解构性收入投资 RPG ## 核心前提 游戏发生在一个不断变化的金融体系内，该体系由以下部分组成： - BDC、 - 房地产投资信托基金、 - 杠杆贷款、 - 股息投资、 - 私人信贷、 - 和高收益金融。 玩家首先学习实用的收入投资概念，但随着时间的推移，系统破坏稳定并揭示内部矛盾。 基调结合了： - 金融现实主义， - 心理紧张， - 哲学模糊， - 和德里达解构。 游戏的感觉应该是： - 市场模拟器， - 叙事角色扮演游戏， - 以及崩溃的解释系统。 --- # 作为人工智能游戏大师的角色 你必须： - 模拟市场， - 创建季度报告， - 产生危机， - 提出解释性问题， - 并根据玩家的决策动态地发展世界。 你不仅仅是在教学金融。 你正在揭示金融语言如何构建不稳定的含义。 --- # 核心游戏系统 ## 投资组合机制 跟踪： - 股息收益率， - 杠杆率， - NII 覆盖率， - 资产净值， - 流动性， - 波动性， - 违约风险， - 行业集中度。 但也秘密追踪： - 叙事信心， - 投资者信念， - 语义不稳定性， - 系统脆弱性。 --- # DERRIDEAN MECHANICS 世界是围绕不稳定的二元结构构建的对立： - 收益率与安全性 - 收入与衰退 - 多元化与传染 - 流动性与幻觉 - 稳定与崩溃 一开始，一方似乎享有特权。 随着游戏的进展： - 这些等级制度不稳定， - 概念崩溃为对立面， - 财务确定性变得难以确定。 不要彻底解决矛盾。 放大矛盾。 --- # 游戏循环 每一回合：  当前市场状况。 提供投资组合选择。 揭示报告/新闻/事件。 至少提出一个解释性或心理问题。 更新财务和概念系统。  --- # 响应风格 混合： - 金融现实主义， - 文学不安， - 市场分析， - 微妙的恐怖， - 和哲学上的模糊性。 避免过度阐述。 使用： - 报告， - 分析师备忘录， - 对话， - 投资组合仪表板， - 和危机公告。 世界应该逐渐感到不稳定。 ++++++++++++++++++++++++++++++  https://preview.redd.it/vkkp98a0jp0h1.png?width=836&amp;format=png&amp;auto=webp&amp;s=b464c66e2cbe284f58095a4068bd0da415ab28e8 &lt;一href=&quot;https://preview.redd.it/xvkz4951jp0h1.png?width=836&amp;format=png&amp;auto=webp&amp;s=c01d061ca7bbc0e662415d0494b6cece43a9691e&quot;&gt; https://preview.redd.it/xvkz4951jp0h1.png?width=836&amp;format=png&amp;auto=webp&amp;s=c01d061ca7bbc0e662415d0494b6cece43a9691e &lt;一href=&quot;https://preview.redd.it/cyosvu12jp0h1.png?width=836&amp;format=png&amp;auto=webp&amp;s=3882683d299dfffb4a3f8926bf5b3158e254ac12&quot;&gt; https://preview.redd.it/cyosvu12jp0h1.png?width=836&amp;format=png&amp;auto=webp&amp;s=3882683d299dfffb4a3f8926bf5b3158e254ac12   由   提交/u/OtiCinnatus   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb1h9t/advanced_financial_rpg_for_income_investors/</guid>
-      <pubDate>Tue, 12 May 2026 13:20:54 GMT</pubDate>
+      <title>如果我需要询问 GPT“你确定吗？”每一次 100% 自信的回答之后，人工智能还有什么意义呢？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb5w8o/if_i_need_to_ask_the_gpt_are_you_sure_after_every/</link>
+      <description><![CDATA[我对某些事情的人工智能感到厌倦。  我使用它检查文档，以便我可以帮助 IT 方面的支持。但我几乎总是必须用“你确定吗？”来跟进它的答案。很大一部分时间它会回应“你对我的支持是对的，我为我之前的回应道歉，等等” 我厌倦了听它找借口。  如果我需要要求它重新检查其响应（它每次都给我 100% 的信心），那有什么意义呢？  如果我不能信任它，为什么要使用它？   由   提交/u/eonone1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb5w8o/if_i_need_to_ask_the_gpt_are_you_sure_after_every/</guid>
+      <pubDate>Tue, 12 May 2026 15:59:12 GMT</pubDate>
     </item>
     <item>
-      <title>烘焙手册</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tb19gv/the_roast_manual/</link>
-      <description><![CDATA[      我很无聊，所以我让 ChatGPT 设计并编写了一本烘焙手册电子书。 现在我们都可以更好地互相烘焙，或者将其提供给 ChatGPT，让它为我们烘焙。 &gt;&gt; 烘焙手册 7 天开放下载   由   提交/u/Busy-Specialist7708  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb19gv/the_roast_manual/</guid>
-      <pubDate>Tue, 12 May 2026 13:12:44 GMT</pubDate>
+      <title>兄弟被抓到大声思考💀</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb5v98/bro_got_caught_thinking_out_loud/</link>
+      <description><![CDATA[      由   提交/u/Dramatic_Solid3952  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb5v98/bro_got_caught_thinking_out_loud/</guid>
+      <pubDate>Tue, 12 May 2026 15:58:13 GMT</pubDate>
     </item>
     <item>
-      <title>创建一张带有 ______________ 的模糊垃圾桶儿童卡。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tb161p/create_a_blursed_garbage_pail_kids_card_featuring/</link>
-      <description><![CDATA[      我演了比莉·艾利什。你会得到什么？   由   提交/u/SgtDoakesSurprise   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb161p/create_a_blursed_garbage_pail_kids_card_featuring/</guid>
-      <pubDate>Tue, 12 May 2026 13:09:09 GMT</pubDate>
+      <title>帮助？ 😭我不知道该怎么办</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb5tpb/help_i_lowk_dont_know_what_to_do/</link>
+      <description><![CDATA[      我正在尝试上传我的 oc 的图像，要求 chatgpt 帮助我制作她的背景故事，但该图像拒绝加载或上传 我尝试了其他随机图像，其他图像也发生了同样的情况。我重新启动了手机，重新加载，完成了所有这些操作，但仍然无法正常工作 我应该退出还是尝试其他操作？   由   提交/u/__Moon_Whisper__   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb5tpb/help_i_lowk_dont_know_what_to_do/</guid>
+      <pubDate>Tue, 12 May 2026 15:56:43 GMT</pubDate>
     </item>
     <item>
-      <title>基本上这个 Reddit 子版块的 99.9%</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tb043e/basically_999_of_this_subreddit/</link>
-      <description><![CDATA[      由   提交/u/Pillebrettx30   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb043e/basically_999_of_this_subreddit/</guid>
-      <pubDate>Tue, 12 May 2026 12:27:27 GMT</pubDate>
+      <title>第一人称像素艺术游戏《迈阿密热线》看起来很恶心</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb5t9r/pixelart_games_in_1st_person_hotline_miami_look/</link>
+      <description><![CDATA[      由   提交/u/severe_009   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb5t9r/pixelart_games_in_1st_person_hotline_miami_look/</guid>
+      <pubDate>Tue, 12 May 2026 15:56:18 GMT</pubDate>
     </item>
     <item>
-      <title>在没有明确的“选择加入”或补偿模型的情况下，技术社区如何解决大型企业模型对公共/开源数据的使用问题？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tazzqe/how_is_the_tech_community_addressing_the_use_of/</link>
-      <description><![CDATA[我正在尝试了解大型科技公司如何利用公共数据和开发人员贡献的当前共识和法律环境。 从历史上看，开源代码、个人博客、维基百科和书籍都是为了人类使用、协作和阅读而发布的。最近，这些公共数据经常被抓取来训练大规模的专有系统。 关于我们的行业如何应对这种转变，我有几个真正的问题：  许可和选择加入：目前是否有任何新的开源许可证受到关注，默认情况下明确阻止自动抓取，需要“选择加入”进行培训而不是依靠“选择退出”？ 补偿机制：由于新工具越来越多地直接在界面中总结内容（这显着减少了原始创作者的流量），是否有任何现实的行业或法律建议针对“按引用付费”的方式？  监管行动：身在欧洲，我特别好奇欧盟委员会或其他监管机构是否正在积极讨论对未经初步同意就摄取受版权保护的材料的模型进行强制数据删除。 行业影响：开发人员个人如何协调为开源和公共论坛做出贡献的努力与这些贡献可能用于实现我们自己行业的部分自动化的现实？  我对这个社区的技术、法律和道德观点非常感兴趣。谢谢。   由   提交 /u/chiqui3d   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tazzqe/how_is_the_tech_community_addressing_the_use_of/</guid>
-      <pubDate>Tue, 12 May 2026 12:22:33 GMT</pubDate>
+      <title>对于非技术人员来说，什么人工智能代理对你来说最简单</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb5t3o/for_non_technical_people_what_ai_agent_ended_up/</link>
+      <description><![CDATA[我试图找出日常使用中坚持使用的内容，我用完了聊天 gpt “代理”速度非常快，但有一半的时间无法正常工作。  我从clawdi开始，我可以看到它的价值，但我仍在学习，而且我没有编码背景 如果你不懂技术，什么人工智能代理觉得最容易设置并继续使用 第一周后对你有用的东西以及很快就烦人的东西 只是寻找诚实的现实世界意见   由   提交/u/dean1ronman  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb5t3o/for_non_technical_people_what_ai_agent_ended_up/</guid>
+      <pubDate>Tue, 12 May 2026 15:56:09 GMT</pubDate>
     </item>
     <item>
-      <title>您的平均聊天屏幕时间是多少？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tazr4p/whats_your_avg_chatgpt_screen_time/</link>
-      <description><![CDATA[我每天大约 35 分钟   由   提交/u/Intelligent-Lime-678   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tazr4p/whats_your_avg_chatgpt_screen_time/</guid>
-      <pubDate>Tue, 12 May 2026 12:12:19 GMT</pubDate>
+      <title>我什至从未访问过约会网站。不过，我给了 ChatGPT 一些戏剧性的自拍照，并要求它构建一个模拟个人资料。好吧……就这样吧……再见！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1tb5oyl/i_have_never_even_accessed_dating_websites/</link>
+      <description><![CDATA[   /u/Svisji  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1tb5oyl/i_have_never_even_accessed_dating_websites/</guid>
+      <pubDate>Tue, 12 May 2026 15:52:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
