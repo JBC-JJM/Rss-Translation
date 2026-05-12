@@ -4,13 +4,27 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 12 May 2026 19:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 22:11:12 GMT</lastBuildDate>
     <item>
-      <title>这家伙利用人工智能将自己带入了《权力的游戏》。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tbb657/this_guy_used_ai_to_put_himself_in_game_of_thrones/</link>
-      <description><![CDATA[他将自己融入到《权力的游戏》中，决定改变现状并扇了一些人耳光。 图片来源：IG 上的 Advkiki。   由   提交/u/Gadgeteer_007   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tbb657/this_guy_used_ai_to_put_himself_in_game_of_thrones/</guid>
-      <pubDate>Tue, 12 May 2026 18:59:47 GMT</pubDate>
+      <title>AI 基础知识：了解模型、代理和线束工程</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tbedcz/ai_fundamentals_understanding_models_agents_and/</link>
+      <description><![CDATA[在本文中，我将在需要了解的基础上介绍人工智能的基础知识。目标是提供一个坚实的基础，帮助理解行业中当前正在发生的许多事情：模型如何实际发挥作用以实现向代理循环和“利用工程”的转变。 探索的一些关键领域包括：  训练过程：了解预训练和微调之间的区别。 模型局限性：为什么无状态和上下文腐烂是当前法学硕士的重大障碍。 代理循环：我们如何从简单的聊天界面转向可以通过“工具”实际执行任务的模型。  我很乐意获得一些反馈并开始讨论。如果您对我应该在以后的文章中介绍的特定主题有任何想法，请告诉我！   由   提交 /u/rainerhahnekamp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tbedcz/ai_fundamentals_understanding_models_agents_and/</guid>
+      <pubDate>Tue, 12 May 2026 20:51:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的账单可能和博士后的工资一样大。成本值得吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tbdukz/ai_bills_can_be_as_big_as_a_postdoc_salary_is_the/</link>
+      <description><![CDATA[“最近的价格上涨、使用限制和不可靠的产出正在导致一些科学研究人员在使用人工智能时三思而后行。”   由   提交/u/shikizen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tbdukz/ai_bills_can_be_as_big_as_a_postdoc_salary_is_the/</guid>
+      <pubDate>Tue, 12 May 2026 20:33:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sutskever 和 Nadella 在 OpenAI 审判中作证</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tbd9sd/sutskever_nadella_testify_at_openai_trial/</link>
+      <description><![CDATA[ 由   提交/u/QuantumQuicksilver  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tbd9sd/sutskever_nadella_testify_at_openai_trial/</guid>
+      <pubDate>Tue, 12 May 2026 20:12:31 GMT</pubDate>
     </item>
     <item>
       <title>如果科技公司能够诚实地对待就好了</title>
@@ -18,13 +32,6 @@
       <description><![CDATA[ 由   提交/u/RepairOld9423  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tbax4x/if_only_tech_companies_were_brutally_honest/</guid>
       <pubDate>Tue, 12 May 2026 18:51:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[ 已被 Reddit 删除 ]</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tbafo2/removed_by_reddit/</link>
-      <description><![CDATA[[因违反内容政策而被 Reddit 删除。 ]   由   提交/u/damonflowers  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tbafo2/removed_by_reddit/</guid>
-      <pubDate>Tue, 12 May 2026 18:33:57 GMT</pubDate>
     </item>
     <item>
       <title>人工智能并没有像公司想象的那样获得回报。研究发现，自动化驱动的裁员未能产生回报</title>
@@ -50,7 +57,7 @@
     <item>
       <title>教克劳德像穴居人一样说话，减少使用 75% 的代币。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tayl61/taught_claude_to_talk_like_a_caveman_to_use_75/</link>
-      <description><![CDATA[为什么要浪费时间说很多单词，而很少的单词就能做到这一点？ 我希望克劳德不会因为改变而变得更笨，我们会发现。   由   提交/u/Complete-Sea6655   [链接] [评论]]]></description>
+      <description><![CDATA[为什么要浪费时间在很少的单词就能完成技巧的情况下说很多单词？ 我希望克劳德不要因为改变而变得更愚蠢，我们会发现。 在这里哈哈哈哈   由   提交/u/Complete-Sea6655   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tayl61/taught_claude_to_talk_like_a_caveman_to_use_75/</guid>
       <pubDate>Tue, 12 May 2026 11:21:10 GMT</pubDate>
     </item>
@@ -74,13 +81,6 @@
       <description><![CDATA[克劳德以前给过我这样的粗鲁和萨克的时刻。两天前，我带着一个问题来到它，它的责任是“我发现你仍然在避免做实际工作。”如此处所示。但我猜它不会对所有用户都这样做。   由   提交/u/Complete-Sea6655   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tagmoe/the_best_answer_to_this_question_ive_seen_yet/</guid>
       <pubDate>Mon, 11 May 2026 21:10:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>超过 600 名 OpenAI 员工在 IPO 之前以每股 1100 万美元的价格出售了 6.6B 美元的股票</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tafv0o/over_600_openai_employees_sold_66b_in_shares_at/</link>
-      <description><![CDATA[ 由   提交/u/andix3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tafv0o/over_600_openai_employees_sold_66b_in_shares_at/</guid>
-      <pubDate>Mon, 11 May 2026 20:43:19 GMT</pubDate>
     </item>
     <item>
       <title>这家伙用克劳德建造了一架用激光跟踪目标的无人机</title>

@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 12 May 2026 19:50:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 22:12:41 GMT</lastBuildDate>
     <item>
       <title>免费人工智能 SEO 审核员</title>
       <link>https://www.producthunt.com/products/free-ai-seo-auditor</link>
@@ -20,20 +20,6 @@
       <pubDate>Tue, 12 May 2026 01:28:35 GMT</pubDate>
     </item>
     <item>
-      <title>棱镜协议</title>
-      <link>https://www.producthunt.com/products/prism-protocol</link>
-      <description><![CDATA[
-            将信用转化为可交易风险
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/prism-protocol</guid>
-      <pubDate>Tue, 12 May 2026 00:30:24 GMT</pubDate>
-    </item>
-    <item>
       <title>Coddo 的耳语岛</title>
       <link>https://www.producthunt.com/products/coddo</link>
       <description><![CDATA[
@@ -46,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/coddo</guid>
       <pubDate>Mon, 11 May 2026 20:16:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>混沌大脑</title>
+      <link>https://www.producthunt.com/products/khaos-brain</link>
+      <description><![CDATA[
+            AI 代理的本地预测记忆
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/khaos-brain</guid>
+      <pubDate>Mon, 11 May 2026 14:44:17 GMT</pubDate>
     </item>
     <item>
       <title>诺斯</title>
@@ -76,6 +76,20 @@
       <pubDate>Mon, 11 May 2026 12:29:11 GMT</pubDate>
     </item>
     <item>
+      <title>选项卡组库</title>
+      <link>https://www.producthunt.com/products/tabgroup-vault</link>
+      <description><![CDATA[
+            确保您的选项卡组安全、可搜索且可恢复
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/tabgroup-vault</guid>
+      <pubDate>Mon, 11 May 2026 11:21:44 GMT</pubDate>
+    </item>
+    <item>
       <title>电子邮件寺庙</title>
       <link>https://www.producthunt.com/products/emailtemple</link>
       <description><![CDATA[
@@ -102,34 +116,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/pixcode</guid>
       <pubDate>Mon, 11 May 2026 08:53:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的人工智能代理</title>
-      <link>https://www.producthunt.com/products/my-ai-agent</link>
-      <description><![CDATA[
-            AI一句话组建3-10人特工团队
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/my-ai-agent</guid>
-      <pubDate>Mon, 11 May 2026 02:04:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>奥维洛</title>
-      <link>https://www.producthunt.com/products/auvylo</link>
-      <description><![CDATA[
-            将占星学和四大支柱转变为与您交谈的人工智能角色
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/auvylo</guid>
-      <pubDate>Sun, 10 May 2026 09:17:30 GMT</pubDate>
     </item>
     <item>
       <title>韦西洛</title>
@@ -202,18 +188,32 @@
       <pubDate>Mon, 13 Apr 2026 14:09:19 GMT</pubDate>
     </item>
     <item>
-      <title>同步化</title>
-      <link>https://www.producthunt.com/products/synci</link>
+      <title>黑客巢穴</title>
+      <link>https://www.producthunt.com/products/hackerden</link>
       <description><![CDATA[
-            拥有完全授权的AI配乐平台
+            具有可见贡献的协作黑客马拉松工作空间
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/synci</guid>
-      <pubDate>Sun, 29 Mar 2026 15:44:23 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/hackerden</guid>
+      <pubDate>Sat, 11 Apr 2026 06:23:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>先知平台</title>
+      <link>https://www.producthunt.com/products/seer-platform</link>
+      <description><![CDATA[
+            从想法到实际产品的最快方法
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/seer-platform</guid>
+      <pubDate>Tue, 07 Apr 2026 06:27:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

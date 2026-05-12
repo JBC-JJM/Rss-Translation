@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 12 May 2026 19:49:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 22:11:56 GMT</lastBuildDate>
+    <item>
+      <title>工作流程：在单独的图层上进行模糊以覆盖分级混音</title>
+      <link>https://www.reddit.com/r/editors/comments/1tbcwbr/workflow_blur_on_seperate_layer_to_put_over/</link>
+      <description><![CDATA[我正在努力寻找在分级之前必须完成的密集模糊的最佳工作流程，因为电影必须通过法律批准，并且图像上的模糊效果。评分后，距离交付已经没有足够的时间了。我可以使用 Premiere 或 Davinci。目前唯一想到的是 Premiere：模糊一切 -&gt;复制属性并将它们粘贴到场景中检测到的每个剪辑上，分级混音，这会是一件痛苦的事情。 我尝试将剪辑的模糊效果复制粘贴到调整层上，但它的不透明度看起来与剪辑上的模糊不同。 是否有更简单的选择，也许在达芬奇中？    由   提交 /u/HolyStimpy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1tbcwbr/workflow_blur_on_seperate_layer_to_put_over/</guid>
+      <pubDate>Tue, 12 May 2026 19:59:27 GMT</pubDate>
+    </item>
     <item>
       <title>对于非技术客户来说，好的在线字幕编辑/审阅工具吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1tbblvu/good_online_subtitle_editingreview_tool_for_non/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[当我使用 AutoSequence + 通过源时间码自动同步在 Avid 中构建同步贴图时，有时我会注意到素材中存在非常轻微的一致偏移。有时大约 2-4 帧。 Jam 同步本身是稳定的，因此不会随着时间的推移而漂移，而只是剪辑中微小的均匀偏移。 我很好奇人们在这种情况下通常会做什么。 如果您发现这种一致的偏移，您会： - 通过 Aux TC 将 TC 偏移几帧并重建自动同步， - 或者如果只有 2-3 帧，您通常会不管它吗？ 特别是在商业工作流程中，最终剪辑只有 30-60 秒，无论如何，音频最终都会经过后期/声音，稍后事情可能会再次收紧。 并不是真正从“不会被打扰”的角度来问，更好奇的是在现实世界中处理大量镜头时，手动同步所有内容是非常不切实际的，什么被认为是最佳实践。 谢谢！    由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1t9evob/avid_sync_drift/</guid>
       <pubDate>Sun, 10 May 2026 18:31:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid：多机位工作流程首先自动同步，然后对剪辑进行分组？</title>
-      <link>https://www.reddit.com/r/editors/comments/1t994cm/avid_multicam_workflow_autosync_first_then_group/</link>
-      <description><![CDATA[尝试了解 Avid MC 与 Premiere 中正确的多机位工作流程。 假设我有多个摄像机角度，带有暂存音频和单独的外部录音机音频。在 Premiere 中，我通常只选择所有内容并创建单独的多机位源序列，然后一步同步/构建多机位剪辑。 在 Avid 中，标准工作流程是首先将每个摄像机角度与外部音频自动同步，创建同步的主剪辑，然后将这些同步剪辑分组到一个组剪辑中？ 或者是否有一种更干净/更快的方法来直接在垃圾箱中处理多个角度和外部音频？ 只是想了解 Avid 中的正常专业工作流程。 谢谢！ **编辑：** 发现一些值得添加的内容 - 在“自动同步”对话框底部有一个复选框：“创建组剪辑而不是子剪辑”在“当视频轨道重叠时”下。或许？？？    由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1t994cm/avid_multicam_workflow_autosync_first_then_group/</guid>
-      <pubDate>Sun, 10 May 2026 14:55:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
