@@ -4,62 +4,104 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 13 May 2026 14:33:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 17:16:29 GMT</lastBuildDate>
     <item>
-      <title>PitchDrop.ai</title>
-      <link>https://www.producthunt.com/products/pitchdrop-ai</link>
+      <title>旁注</title>
+      <link>https://www.producthunt.com/products/sidenotes-3</link>
       <description><![CDATA[
-            将您的推介变成可赢得交易的实时品牌 URL
+            在屏幕一侧做笔记
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/pitchdrop-ai</guid>
-      <pubDate>Wed, 13 May 2026 05:41:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/sidenotes-3</guid>
+      <pubDate>Wed, 13 May 2026 04:42:25 GMT</pubDate>
     </item>
     <item>
-      <title>烈焰2.0</title>
-      <link>https://www.producthunt.com/products/blaze-5</link>
+      <title>霍格老板</title>
+      <link>https://www.producthunt.com/products/bosshogg</link>
       <description><![CDATA[
-            面向中小型企业的人工智能营销人员提供完整的策略、内容和广告
+            用于 PostHog 分析和功能标志的代理优先 CLI
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/blaze-5</guid>
-      <pubDate>Wed, 13 May 2026 04:02:47 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/bosshogg</guid>
+      <pubDate>Wed, 13 May 2026 01:45:29 GMT</pubDate>
     </item>
     <item>
-      <title>Whisper 互联网基础设施 AI 环境</title>
-      <link>https://www.producthunt.com/products/whisper-internet-infra-ai-context</link>
+      <title>塔</title>
+      <link>https://www.producthunt.com/products/mnara-macos-system-monitor</link>
       <description><![CDATA[
-            用于安全 AI 的免费 MCP：实时 BGP、DNS、威胁图
+            菜单栏中的实时 Mac 指标
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/whisper-internet-infra-ai-context</guid>
-      <pubDate>Tue, 12 May 2026 09:29:30 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mnara-macos-system-monitor</guid>
+      <pubDate>Tue, 12 May 2026 21:54:47 GMT</pubDate>
     </item>
     <item>
-      <title>调整</title>
-      <link>https://www.producthunt.com/products/tweaklify</link>
+      <title>谷歌图书</title>
+      <link>https://www.producthunt.com/products/googlebook-2</link>
       <description><![CDATA[
-            快速 DOM 原型设计和实时风格编辑
+            专为 Gemini Intelligence 设计的新型笔记本电脑
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tweaklify</guid>
-      <pubDate>Tue, 12 May 2026 08:17:46 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/googlebook-2</guid>
+      <pubDate>Tue, 12 May 2026 21:33:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Termux Lite</title>
+      <link>https://www.producthunt.com/products/termux-lite</link>
+      <description><![CDATA[
+            功能强大的 SSH 终端，支持 FTP 和 SFTP
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/termux-lite</guid>
+      <pubDate>Tue, 12 May 2026 19:04:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>光泽</title>
+      <link>https://www.producthunt.com/products/glosso</link>
+      <description><![CDATA[
+            学习一门语言来解锁社交媒体
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/glosso</guid>
+      <pubDate>Tue, 12 May 2026 18:17:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>克劳德·共享</title>
+      <link>https://www.producthunt.com/products/claude-share</link>
+      <description><![CDATA[
+            与您的朋友安全地分享您的克劳德代码
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/claude-share</guid>
+      <pubDate>Tue, 12 May 2026 08:51:44 GMT</pubDate>
     </item>
     <item>
       <title>宝丽金</title>
@@ -74,34 +116,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/polygram-4</guid>
       <pubDate>Mon, 11 May 2026 21:26:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>去</title>
-      <link>https://www.producthunt.com/products/tago-by-savhfresh</link>
-      <description><![CDATA[
-            为您带来回报的爱好应用程序
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/tago-by-savhfresh</guid>
-      <pubDate>Mon, 11 May 2026 21:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snaply 的 AI 会议记录</title>
-      <link>https://www.producthunt.com/products/ai-dication-by-snaply</link>
-      <description><![CDATA[
-            适用于 Mac 的免费私人 AI 会议记录
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ai-dication-by-snaply</guid>
-      <pubDate>Mon, 11 May 2026 08:26:44 GMT</pubDate>
     </item>
     <item>
       <title>格雷特尔</title>
@@ -132,20 +146,6 @@
       <pubDate>Thu, 07 May 2026 19:06:38 GMT</pubDate>
     </item>
     <item>
-      <title>记忆宝石</title>
-      <link>https://www.producthunt.com/products/memoket-gem</link>
-      <description><![CDATA[
-            一款可以全天记住您对话的人工智能可穿戴设备
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/memoket-gem</guid>
-      <pubDate>Thu, 07 May 2026 04:28:59 GMT</pubDate>
-    </item>
-    <item>
       <title>皮帕里</title>
       <link>https://www.producthunt.com/products/pipali</link>
       <description><![CDATA[
@@ -160,32 +160,32 @@
       <pubDate>Wed, 06 May 2026 16:42:58 GMT</pubDate>
     </item>
     <item>
-      <title>Apideck MCP 服务器</title>
-      <link>https://www.producthunt.com/products/apideck</link>
+      <title>布鲁托</title>
+      <link>https://www.producthunt.com/products/blurto</link>
       <description><![CDATA[
-            让 AI 代理能够访问 200 多个应用程序中的实时数据
+            将您的想法分类为任务、笔记、想法等
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/apideck</guid>
-      <pubDate>Mon, 04 May 2026 12:57:15 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/blurto</guid>
+      <pubDate>Mon, 04 May 2026 09:33:19 GMT</pubDate>
     </item>
     <item>
-      <title>初级</title>
-      <link>https://www.producthunt.com/products/liminary</link>
+      <title>带有 Living UI 的 CraftBot</title>
+      <link>https://www.producthunt.com/products/craftbot</link>
       <description><![CDATA[
-            在工作时将您的人工智能融入已保存的知识中
+            开发您自己的活跃软件。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/liminary</guid>
-      <pubDate>Wed, 29 Apr 2026 20:37:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/craftbot</guid>
+      <pubDate>Thu, 30 Apr 2026 10:02:37 GMT</pubDate>
     </item>
     <item>
       <title>振动空间</title>
@@ -202,18 +202,18 @@
       <pubDate>Tue, 21 Apr 2026 09:39:22 GMT</pubDate>
     </item>
     <item>
-      <title>克劳迪</title>
-      <link>https://www.producthunt.com/products/claudy</link>
+      <title>提示点击</title>
+      <link>https://www.producthunt.com/products/tiptap-2</link>
       <description><![CDATA[
-            Claude Code 的合适之家 — 多会话、多帐户
+            客户给对他们帮助最大的支持代理小费
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/claudy</guid>
-      <pubDate>Tue, 10 Mar 2026 08:22:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/tiptap-2</guid>
+      <pubDate>Thu, 16 Apr 2026 12:21:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
