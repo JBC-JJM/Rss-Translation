@@ -4,62 +4,48 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 15 May 2026 02:57:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 06:35:04 GMT</lastBuildDate>
     <item>
-      <title>雨滴工作坊</title>
-      <link>https://www.producthunt.com/products/raindrop</link>
+      <title>商店工艺</title>
+      <link>https://www.producthunt.com/products/storecraft</link>
       <description><![CDATA[
-            适用于 AI 代理的开源、免费、本地调试器
+            快速构建人工智能驱动的无头电子商务后端
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/raindrop</guid>
-      <pubDate>Thu, 14 May 2026 06:50:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/storecraft</guid>
+      <pubDate>Thu, 14 May 2026 06:54:40 GMT</pubDate>
     </item>
     <item>
-      <title>靛青</title>
-      <link>https://www.producthunt.com/products/indigo-2</link>
+      <title>comie.dev</title>
+      <link>https://www.producthunt.com/products/comie-dev</link>
       <description><![CDATA[
-            与 Bluesky 和 Mastodon 上的人员保持联系
+            具有日志、数据库和错误跟踪的 AI 生产环境
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/indigo-2</guid>
-      <pubDate>Thu, 14 May 2026 05:01:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/comie-dev</guid>
+      <pubDate>Thu, 14 May 2026 06:09:16 GMT</pubDate>
     </item>
     <item>
-      <title>Notion开发者平台</title>
-      <link>https://www.producthunt.com/products/notion</link>
+      <title>恩乔帮助中心</title>
+      <link>https://www.producthunt.com/products/enjo-help-center</link>
       <description><![CDATA[
-            构建在 Notion 之上，而不仅仅是在其内部
+            人工智能自动构建向您的团队学习的帮助中心
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/notion</guid>
-      <pubDate>Thu, 14 May 2026 03:14:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>转法</title>
-      <link>https://www.producthunt.com/products/transfa-sh</link>
-      <description><![CDATA[
-            适用于 AI 代理的 WeTransfer
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/transfa-sh</guid>
-      <pubDate>Thu, 14 May 2026 01:12:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/enjo-help-center</guid>
+      <pubDate>Thu, 14 May 2026 03:01:38 GMT</pubDate>
     </item>
     <item>
       <title>水晶</title>
@@ -76,18 +62,60 @@
       <pubDate>Wed, 13 May 2026 23:42:49 GMT</pubDate>
     </item>
     <item>
-      <title>设计MD</title>
-      <link>https://www.producthunt.com/products/designmd-2</link>
+      <title>希格斯菲尔德超级计算机</title>
+      <link>https://www.producthunt.com/products/higgsfield</link>
       <description><![CDATA[
-            将任何网站变成人工智能就绪的设计系统
+            通过一位聊天代理运行整个创意流程
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/designmd-2</guid>
-      <pubDate>Wed, 13 May 2026 14:40:33 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/higgsfield</guid>
+      <pubDate>Wed, 13 May 2026 21:15:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>编写 Lint</title>
+      <link>https://www.producthunt.com/products/write-lint</link>
+      <description><![CDATA[
+             Mac 的内置校对器，由 ⌘⇧L 调用。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/write-lint</guid>
+      <pubDate>Wed, 13 May 2026 18:23:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>防污护目镜</title>
+      <link>https://www.producthunt.com/products/slop-goggles</link>
+      <description><![CDATA[
+            检测 Reddit 上 AI 生成的评论和帖子
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/slop-goggles</guid>
+      <pubDate>Wed, 13 May 2026 15:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新发送自动化</title>
+      <link>https://www.producthunt.com/products/resend</link>
+      <description><![CDATA[
+            构建事件驱动的电子邮件流
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/resend</guid>
+      <pubDate>Wed, 13 May 2026 15:22:21 GMT</pubDate>
     </item>
     <item>
       <title>打开浏览器使用</title>
@@ -104,116 +132,88 @@
       <pubDate>Wed, 13 May 2026 09:12:57 GMT</pubDate>
     </item>
     <item>
-      <title>奥瑞莎</title>
-      <link>https://www.producthunt.com/products/replit</link>
+      <title>悄悄</title>
+      <link>https://www.producthunt.com/products/quietly-5</link>
       <description><![CDATA[
-            您的人工智能伴侣始终在场且深度协调
+            离线 AI IDE 和本地聊天
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/replit</guid>
-      <pubDate>Wed, 13 May 2026 07:51:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/quietly-5</guid>
+      <pubDate>Wed, 13 May 2026 07:32:48 GMT</pubDate>
     </item>
     <item>
-      <title>开放爪操作系统</title>
-      <link>https://www.producthunt.com/products/thesys</link>
+      <title>机器人大脑</title>
+      <link>https://www.producthunt.com/products/robrain</link>
       <description><![CDATA[
-            将一次性聊天变成持久可用的应用程序
+            共享人工智能内存可防止代理重复错误
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/thesys</guid>
-      <pubDate>Wed, 13 May 2026 07:21:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/robrain</guid>
+      <pubDate>Tue, 12 May 2026 17:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>夏洛克</title>
-      <link>https://www.producthunt.com/products/sherloq-2</link>
+      <title>C15T 2.0</title>
+      <link>https://www.producthunt.com/products/c15t</link>
       <description><![CDATA[
-            立即了解哪位 LinkedIn 潜在客户是热情的
+            开发优先的 cookie 横幅不会减慢您的网站速度
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/sherloq-2</guid>
-      <pubDate>Tue, 12 May 2026 06:06:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/c15t</guid>
+      <pubDate>Tue, 12 May 2026 10:53:02 GMT</pubDate>
     </item>
     <item>
-      <title>小行星</title>
-      <link>https://www.producthunt.com/products/asteroid-3</link>
+      <title>取力器流</title>
+      <link>https://www.producthunt.com/products/ptoflow</link>
       <description><![CDATA[
-            在几秒钟内构建浏览器、Linux 和 Windows AI 代理
+            在 Slack 和 Google 日历中管理 PTO
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/asteroid-3</guid>
-      <pubDate>Sun, 10 May 2026 04:12:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ptoflow</guid>
+      <pubDate>Wed, 06 May 2026 23:07:27 GMT</pubDate>
     </item>
     <item>
-      <title>托洛卡 (Toloka) 的 Tendem</title>
-      <link>https://www.producthunt.com/products/tendem-by-toloka</link>
+      <title>奥塔米瑟</title>
+      <link>https://www.producthunt.com/products/otamiser</link>
       <description><![CDATA[
-            人工智能平台将任何任务交给人类专家
+            排名管理解决方案可提高您的 OTA 知名度 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tendem-by-toloka</guid>
-      <pubDate>Wed, 06 May 2026 21:23:37 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/otamiser</guid>
+      <pubDate>Thu, 23 Apr 2026 20:39:18 GMT</pubDate>
     </item>
     <item>
-      <title>筹款事业</title>
-      <link>https://www.producthunt.com/products/causo-hub-free-tools-for-fundraising</link>
+      <title>沃利特</title>
+      <link>https://www.producthunt.com/products/woleet-sign</link>
       <description><![CDATA[
-            向正确的风险投资人推销，省去繁琐的工作
+            以比特币为锚定的文件真实性证明
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/causo-hub-free-tools-for-fundraising</guid>
-      <pubDate>Wed, 06 May 2026 13:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>飞设计模式</title>
-      <link>https://www.producthunt.com/products/autonomyai</link>
-      <description><![CDATA[
-            使用 AI 代理直接编辑和调整 UI 像素
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/autonomyai</guid>
-      <pubDate>Tue, 05 May 2026 20:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>玩3.0</title>
-      <link>https://www.producthunt.com/products/spellar</link>
-      <description><![CDATA[
-            具有跨会议记忆的AI会议伴侣
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/spellar</guid>
-      <pubDate>Sun, 04 Jan 2026 17:04:53 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/woleet-sign</guid>
+      <pubDate>Sun, 12 Apr 2026 19:42:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
