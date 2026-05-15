@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 15 May 2026 11:22:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 14:04:56 GMT</lastBuildDate>
     <item>
       <title>米娅</title>
       <link>https://www.producthunt.com/products/mia-8</link>
@@ -20,32 +20,102 @@
       <pubDate>Fri, 15 May 2026 05:29:32 GMT</pubDate>
     </item>
     <item>
-      <title>喜欢网桥</title>
-      <link>https://www.producthunt.com/products/kimi-ai-assistant</link>
+      <title>云</title>
+      <link>https://www.producthunt.com/products/nimbus-10</link>
       <description><![CDATA[
-            连接人工智能代理和实时网络的桥梁
+            Agentic 浏览器与 Claude Code UX
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/kimi-ai-assistant</guid>
-      <pubDate>Fri, 15 May 2026 05:16:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/nimbus-10</guid>
+      <pubDate>Fri, 15 May 2026 04:58:07 GMT</pubDate>
     </item>
     <item>
-      <title>到飞机上</title>
-      <link>https://www.producthunt.com/products/planora-3</link>
+      <title>特工-Sin</title>
+      <link>https://www.producthunt.com/products/agent-sin</link>
       <description><![CDATA[
-            用于创意协作的数字工作空间
+            通过可重用技能处理重复任务的人工智能代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/planora-3</guid>
-      <pubDate>Thu, 14 May 2026 21:33:41 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/agent-sin</guid>
+      <pubDate>Fri, 15 May 2026 02:36:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Basedash MCP 连接器</title>
+      <link>https://www.producthunt.com/products/basedash</link>
+      <description><![CDATA[
+            连接任何应用程序。随时随地采取行动。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/basedash</guid>
+      <pubDate>Thu, 14 May 2026 21:09:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>克莱奥艾</title>
+      <link>https://www.producthunt.com/products/cleo-ai</link>
+      <description><![CDATA[
+            AI原生团队的AI产品运营商
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cleo-ai</guid>
+      <pubDate>Thu, 14 May 2026 18:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发记录器</title>
+      <link>https://www.producthunt.com/products/devrecorder</link>
+      <description><![CDATA[
+            带有控制台、网络、错误和注释的屏幕录像机
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/devrecorder</guid>
+      <pubDate>Thu, 14 May 2026 15:15:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>铁路代理公司</title>
+      <link>https://www.producthunt.com/products/agentrail</link>
+      <description><![CDATA[
+            AI编码代理的本地控制平面
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/agentrail</guid>
+      <pubDate>Thu, 14 May 2026 14:51:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>一览</title>
+      <link>https://www.producthunt.com/products/glance-native-macos-markdown-viewer</link>
+      <description><![CDATA[
+            通过快速查看立即预览 .md 文件
+          
+
+讨论
+            |
+            Link
+]]></description>
+      <guid>https://www.producthunt.com/products/glance-native-macos-markdown-viewer</guid>
+      <pubDate>Thu, 14 May 2026 14:10:53 GMT</pubDate>
     </item>
     <item>
       <title>及时侦察</title>
@@ -76,18 +146,32 @@
       <pubDate>Thu, 14 May 2026 10:15:38 GMT</pubDate>
     </item>
     <item>
-      <title>Agentic 网站生成器 2.0（Lokuma）</title>
-      <link>https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma</link>
+      <title>画图MCP</title>
+      <link>https://www.producthunt.com/products/picsart</link>
       <description><![CDATA[
-            使用设计代理工具设计、构建和运行您的站点
+            一次连接 140 多个图像和视频 AI 模型
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma</guid>
-      <pubDate>Thu, 14 May 2026 02:51:00 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/picsart</guid>
+      <pubDate>Thu, 14 May 2026 08:53:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>裸</title>
+      <link>https://www.producthunt.com/products/noeth</link>
+      <description><![CDATA[
+            编码面试 AI 可让您携带自己的 API 密钥
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/noeth</guid>
+      <pubDate>Thu, 14 May 2026 08:31:20 GMT</pubDate>
     </item>
     <item>
       <title>渐变刘海</title>
@@ -104,116 +188,32 @@
       <pubDate>Wed, 13 May 2026 23:38:02 GMT</pubDate>
     </item>
     <item>
-      <title>克鲁斯泰特</title>
-      <link>https://www.producthunt.com/products/findable-4</link>
+      <title>面筋应用程序</title>
+      <link>https://www.producthunt.com/products/gluten-app</link>
       <description><![CDATA[
-            修复您的 LinkedIn，让 AI 招聘人员找到您
+            按城市和旅行目的地查找无麸质场所
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/findable-4</guid>
-      <pubDate>Wed, 13 May 2026 14:11:17 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/gluten-app</guid>
+      <pubDate>Tue, 12 May 2026 15:03:27 GMT</pubDate>
     </item>
     <item>
-      <title>PH基准</title>
-      <link>https://www.producthunt.com/products/vela-terminal</link>
+      <title>阿特拉斯导航</title>
+      <link>https://www.producthunt.com/products/atlas-navigation</link>
       <description><![CDATA[
-            通过 ProductHunt 发布预测下一个 A 轮融资
+            在您前往机场之前预测您的 TSA 等待时间
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/vela-terminal</guid>
-      <pubDate>Mon, 11 May 2026 18:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>猫锁</title>
-      <link>https://www.producthunt.com/products/cats-lock-keyboard-lock-for-cat-people</link>
-      <description><![CDATA[
-            锁定您的 Mac 键盘，以便您的猫可以在上面行走。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cats-lock-keyboard-lock-for-cat-people</guid>
-      <pubDate>Sat, 09 May 2026 00:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>利夫利</title>
-      <link>https://www.producthunt.com/products/riffly</link>
-      <description><![CDATA[
-            描述一个套牌，AI 构建它 + 导出到 PowerPoint
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/riffly</guid>
-      <pubDate>Thu, 07 May 2026 18:37:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是提示</title>
-      <link>https://www.producthunt.com/products/just-the-tips</link>
-      <description><![CDATA[
-            适用于 Discord、Telegram、Twitch 和 X 的稳定币小费罐机器人
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/just-the-tips</guid>
-      <pubDate>Mon, 04 May 2026 21:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>魔法笔记本</title>
-      <link>https://www.producthunt.com/products/magic-notebook</link>
-      <description><![CDATA[
-            一个平静的写作应用程序，没有复杂性，没有人工智能
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/magic-notebook</guid>
-      <pubDate>Fri, 24 Apr 2026 21:39:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>令人惊叹的</title>
-      <link>https://www.producthunt.com/products/wowable</link>
-      <description><![CDATA[
-            粘贴链接并获取实时网站
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/wowable</guid>
-      <pubDate>Fri, 24 Apr 2026 10:30:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新喷漆</title>
-      <link>https://www.producthunt.com/products/repaint-ai-website-builder</link>
-      <description><![CDATA[
-            用人工智能重建您现有的网站
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/repaint-ai-website-builder</guid>
-      <pubDate>Fri, 24 Apr 2026 02:44:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/atlas-navigation</guid>
+      <pubDate>Mon, 11 May 2026 22:24:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
