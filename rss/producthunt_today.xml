@@ -4,20 +4,20 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 15 May 2026 19:29:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 22:03:07 GMT</lastBuildDate>
     <item>
-      <title>小小世界建造者</title>
-      <link>https://www.producthunt.com/products/tiny-world-builder</link>
+      <title>开放IT</title>
+      <link>https://www.producthunt.com/products/openit</link>
       <description><![CDATA[
-            单击并构建微小世界
+            在 ClaudeCode 上运行的 ServiceNow 的开源替代方案
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tiny-world-builder</guid>
-      <pubDate>Fri, 15 May 2026 12:33:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/openit</guid>
+      <pubDate>Fri, 15 May 2026 07:00:30 GMT</pubDate>
     </item>
     <item>
       <title>莫比乌斯</title>
@@ -34,20 +34,6 @@
       <pubDate>Fri, 15 May 2026 06:07:23 GMT</pubDate>
     </item>
     <item>
-      <title>米娅</title>
-      <link>https://www.producthunt.com/products/mia-8</link>
-      <description><![CDATA[
-            产品经理的光标
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mia-8</guid>
-      <pubDate>Fri, 15 May 2026 05:29:32 GMT</pubDate>
-    </item>
-    <item>
       <title>云</title>
       <link>https://www.producthunt.com/products/nimbus-10</link>
       <description><![CDATA[
@@ -62,60 +48,88 @@
       <pubDate>Fri, 15 May 2026 04:58:07 GMT</pubDate>
     </item>
     <item>
-      <title>时尚分析 v3</title>
-      <link>https://www.producthunt.com/products/sleek-analytics</link>
+      <title>到飞机上</title>
+      <link>https://www.producthunt.com/products/planora-3</link>
       <description><![CDATA[
-            现代网络的简单 Google Analytics 替代方案。
+            用于创意协作的数字工作空间
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/sleek-analytics</guid>
-      <pubDate>Fri, 15 May 2026 03:17:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/planora-3</guid>
+      <pubDate>Thu, 14 May 2026 21:33:41 GMT</pubDate>
     </item>
     <item>
-      <title>特工-Sin</title>
-      <link>https://www.producthunt.com/products/agent-sin</link>
+      <title>Basedash MCP 连接器</title>
+      <link>https://www.producthunt.com/products/basedash</link>
       <description><![CDATA[
-            通过可重用技能处理重复任务的人工智能代理
+            连接任何应用程序并在任何地方采取行动
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agent-sin</guid>
-      <pubDate>Fri, 15 May 2026 02:36:56 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/basedash</guid>
+      <pubDate>Thu, 14 May 2026 21:09:07 GMT</pubDate>
     </item>
     <item>
-      <title>铁路代理公司</title>
-      <link>https://www.producthunt.com/products/agentrail</link>
+      <title>由 Resemble AI 设计的 DramaBox</title>
+      <link>https://www.producthunt.com/products/resemble-clone</link>
       <description><![CDATA[
-            AI编码代理的本地控制平面
+            AI将场景描述转化为声音表演
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agentrail</guid>
-      <pubDate>Thu, 14 May 2026 14:51:39 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/resemble-clone</guid>
+      <pubDate>Thu, 14 May 2026 19:55:25 GMT</pubDate>
     </item>
     <item>
-      <title>Agentic 网站生成器 2.0（Lokuma）</title>
-      <link>https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma</link>
+      <title>曼特尔</title>
+      <link>https://www.producthunt.com/products/mantel-color-coded-macos-terminal</link>
       <description><![CDATA[
-            使用设计代理工具设计、构建和运行您的站点
+            停止混淆您的克劳德代码会话和终端窗口
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma</guid>
-      <pubDate>Thu, 14 May 2026 02:51:00 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mantel-color-coded-macos-terminal</guid>
+      <pubDate>Thu, 14 May 2026 18:46:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发记录器</title>
+      <link>https://www.producthunt.com/products/devrecorder</link>
+      <description><![CDATA[
+            带有控制台、网络、错误和注释的屏幕录像机
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/devrecorder</guid>
+      <pubDate>Thu, 14 May 2026 15:15:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>裸</title>
+      <link>https://www.producthunt.com/products/noeth</link>
+      <description><![CDATA[
+            编码面试 AI 可让您携带自己的 API 密钥
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/noeth</guid>
+      <pubDate>Thu, 14 May 2026 08:31:20 GMT</pubDate>
     </item>
     <item>
       <title>渐变刘海</title>
@@ -132,34 +146,6 @@
       <pubDate>Wed, 13 May 2026 23:38:02 GMT</pubDate>
     </item>
     <item>
-      <title>Composio 的 TrustClaw</title>
-      <link>https://www.producthunt.com/products/composio</link>
-      <description><![CDATA[
-            自托管 AI 代理，可连接 Vercel 上的 1000 多个应用程序
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/composio</guid>
-      <pubDate>Wed, 13 May 2026 20:37:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>克莱恩SDK</title>
-      <link>https://www.producthunt.com/products/cline-4</link>
-      <description><![CDATA[
-            使用基于插件的开源运行时构建编码代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cline-4</guid>
-      <pubDate>Wed, 13 May 2026 16:45:13 GMT</pubDate>
-    </item>
-    <item>
       <title>PH基准</title>
       <link>https://www.producthunt.com/products/vela-terminal</link>
       <description><![CDATA[
@@ -172,6 +158,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/vela-terminal</guid>
       <pubDate>Mon, 11 May 2026 18:22:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>伦斯莫尔</title>
+      <link>https://www.producthunt.com/products/lensmor-2</link>
+      <description><![CDATA[
+            将参展商数据转化为预先预订的销售会议
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/lensmor-2</guid>
+      <pubDate>Sat, 09 May 2026 08:19:13 GMT</pubDate>
     </item>
     <item>
       <title>拥有数据</title>
@@ -188,32 +188,32 @@
       <pubDate>Thu, 07 May 2026 09:34:26 GMT</pubDate>
     </item>
     <item>
-      <title>开放人类</title>
-      <link>https://www.producthunt.com/products/openhuman</link>
+      <title>魔法笔记本</title>
+      <link>https://www.producthunt.com/products/magic-notebook</link>
       <description><![CDATA[
-            以人为本的开源人工智能工具
+            一个平静的写作应用程序，没有复杂性，没有人工智能
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/openhuman</guid>
-      <pubDate>Fri, 01 May 2026 16:39:53 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/magic-notebook</guid>
+      <pubDate>Fri, 24 Apr 2026 21:39:35 GMT</pubDate>
     </item>
     <item>
-      <title>令人惊叹的</title>
-      <link>https://www.producthunt.com/products/wowable</link>
+      <title>中继</title>
+      <link>https://www.producthunt.com/products/relay-15</link>
       <description><![CDATA[
-            粘贴链接并获取实时网站
+            停止对每个人工智能重复自己
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/wowable</guid>
-      <pubDate>Fri, 24 Apr 2026 10:30:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/relay-15</guid>
+      <pubDate>Sat, 18 Apr 2026 12:32:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
