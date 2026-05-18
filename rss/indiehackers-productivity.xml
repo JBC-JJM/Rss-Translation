@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 18 May 2026 19:48:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 22:02:42 GMT</lastBuildDate>
     <item>
       <title>Show IH：我做了一个项目追踪器，无意中发现它也是一个心理健康工具</title>
       <link>https://feed.indiehackers.world/post/ac7cb5228c</link>
@@ -166,11 +166,11 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Mon, 23 Mar 2026 12:45:34 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>我们在 5 周内安装了 1.30 个 Chrome 扩展程序。这就是真正令人感动的事情（而且完全是浪费时间）。</title>
       <link>https://feed.indiehackers.world/post/cebd3e4a5a</link>
       <description><![CDATA[当我们推出 Clico（一款存在于每个浏览器文本字段中的人工智能写作助手）时，我列出了 12 种分发策略，我相信这些策略会奏效。
-Four of them did.八个都是浪费时间。这是诚实的细分。
-What didn&#39;t work:
+其中四个人做到了。八个都是浪费时间。这是诚实的细分。
+什么不起作用：
 在随机 Slack 社区中发帖 → 零安装，大量“酷！”回复
 冷淡地向生产力影响者发私信 → 忽略或礼貌拒绝
 撰写发布博客文章 → 200 次浏览，3 次安装
@@ -185,7 +185,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Mon, 23 Mar 2026 11:44:24 GMT</pubDate>
     </item>
     <item>
-      <title>a16z 说“这些初创公司还不存在——现在是你建立的时候了。” I've been building one.</title>
+      <title>a16z 说“这些初创公司还不存在——现在是你建立的时候了。”我一直在建造一个。</title>
       <link>https://feed.indiehackers.world/post/b05b279b26</link>
       <description><![CDATA[1.通话
 a16z 在其 2026 年大创意中提出了一个新类别：社交 AI 应用。
@@ -209,18 +209,18 @@ Discord Indiehackers 聊天广告此处]]></description>
       <title>我分析了超过 2 万个独立创始人的帖子。第一个抱怨不是金钱或技能。</title>
       <link>https://feed.indiehackers.world/post/36bee8bff4</link>
       <description><![CDATA[
-社区是为了滚动而不是连接而构建的。 You post something, get 2 upvotes, move on.
+社区是为了滚动而不是连接而构建的。您发布了一些内容，获得 2 票赞成，然后继续。
 
-真正改变我产出的一件事是在我所处的阶段找到了另一位创始人。 We did weekly 30-min calls.非常简单——你运送了什么，下一步是什么，卡住了什么。 My productivity doubled.
-Then he got busy. The calls stopped. I went back to building alone.
+真正改变我产出的一件事是在我所处的阶段找到了另一位创始人。我们每周进行 30 分钟的通话。非常简单——你运送了什么，下一步是什么，卡住了什么。我的工作效率提高了一倍。
+然后他就开始忙碌了。电话停止了。我独自一人回到大楼。
 所以现在我正在尝试构建一些东西来大规模地实现这一点。人工智能会为您匹配一位处于您所处阶段的创始人，每周负责一次。再加上社区提要，您的内容实际上会被看到，以及根据类似产品的功能提供建议的工具，而不是一般建议。
-Still very early.只需建立一个登陆页面，看看这是否能引起共鸣，或者我是否将自己的问题投射到其他人身上。
+还很早。只需建立一个登陆页面，看看这是否能引起共鸣，或者我是否将自己的问题投射到其他人身上。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/36bee8bff4</guid>
       <pubDate>Wed, 11 Mar 2026 07:48:31 GMT</pubDate>
     </item>
     <item>
-      <title>我认为人工智能让我更快。 My Metrics Disagreed.</title>
+      <title>我认为人工智能让我更快。我的指标不同意。</title>
       <link>https://feed.indiehackers.world/post/6df31c0d54</link>
       <description><![CDATA[周五下午 4:47。
 一个 PR 出现在仓库中，带有清晰的摘要、整洁的 diff 和 AI 审查评论，不妨阅读一下：
