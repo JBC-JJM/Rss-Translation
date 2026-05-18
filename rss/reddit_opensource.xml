@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 18 May 2026 15:30:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 19:47:27 GMT</lastBuildDate>
+    <item>
+      <title>有关 Revo Mirror 和 GPLv3 合规性的问题</title>
+      <link>https://www.reddit.com/r/opensource/comments/1tgxeil/question_regarding_revo_mirror_and_gplv3/</link>
+      <description><![CDATA[      由   提交 /u/TheGuyWhoAnnoys   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1tgxeil/question_regarding_revo_mirror_and_gplv3/</guid>
+      <pubDate>Mon, 18 May 2026 19:04:02 GMT</pubDate>
+    </item>
     <item>
       <title>WhatsUP - 适用于 WhatsApp 的开源 TypeScript REST 和 WebSocket API</title>
       <link>https://www.reddit.com/r/opensource/comments/1tgpgqc/whatsup_opensource_typescript_rest_websocket_api/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[      嘿 Reddit， 我是 agent-qa 的创建者。 人工智能加速了开发，使开发人员能够以闪电般的速度构建产品。但对其是否有效的信心不存在。虽然编码代理可以自己编写测试，但他们贪婪地编写测试以使它们通过。 构建 agent-qa 的目的是为 E2E 测试提供 AI 原生解决方案。 我使用 playwright 作为在 QA 工具中执行计划操作的内核。 期待反馈。 GitHub - https://github.com/vostride/agent-qa 考虑给它一个⭐谢谢！ 演示 - vostride.com/   由   提交 /u/IndianITCell   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1tgn3jf/agentqa_write_tests_in_natural_language_qa/</guid>
       <pubDate>Mon, 18 May 2026 13:44:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>wearehere — 浏览器扩展程序，显示谁在每个页面上跟踪您，并在他们之后悄悄清理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1tgmrab/wearehere_browser_extension_that_shows_whos/</link>
-      <description><![CDATA[       由   提交 /u/Tight_Heron1730   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1tgmrab/wearehere_browser_extension_that_shows_whos/</guid>
-      <pubDate>Mon, 18 May 2026 13:31:35 GMT</pubDate>
     </item>
     <item>
       <title>MAGDA 0.8.0 — 带有 FAUST 驱动的 FX 库的开源 DAW</title>
