@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 19 May 2026 17:38:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 19:51:02 GMT</lastBuildDate>
+    <item>
+      <title>Gilbert Codex v0.5.0 是迄今为止最大的更新</title>
+      <link>https://www.reddit.com/r/software/comments/1thxmo5/gilbert_codex_v050_is_the_biggest_update_yet/</link>
+      <description><![CDATA[ 由   提交/u/Elegant_Associate889  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1thxmo5/gilbert_codex_v050_is_the_biggest_update_yet/</guid>
+      <pubDate>Tue, 19 May 2026 19:30:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>ClearView Studio 刚刚进行了重大升级。</title>
+      <link>https://www.reddit.com/r/software/comments/1thxgdv/clearview_studio_just_got_a_major_upgrade/</link>
+      <description><![CDATA[此版本的新增功能： • 全面支持 iPadOS，优化布局 • 实时双预览系统（原始/增强） • 处理前实时增强预览更新 • 新的增强控制面板 • 添加了伽玛级别控件 • 添加了色彩平衡级别控件 • 添加了自动白平衡开关 • 改进了离线视频增强工作流程 • 更快、更流畅的预览更新 • 改进的处理体验和 UI 响应能力 • 使用新的 ClearView Studio 主题更新视觉设计 • 多项稳定性改进和错误修复 链接：https://apps.apple.com/us/app/clearview-studio/id6767339271   由   提交 /u/tknzn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1thxgdv/clearview_studio_just_got_a_major_upgrade/</guid>
+      <pubDate>Tue, 19 May 2026 19:24:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Portabase 1.14：开源数据库备份/恢复工具</title>
+      <link>https://www.reddit.com/r/software/comments/1thu8af/portabase_114_open_source_database_backuprestore/</link>
+      <description><![CDATA[大家好！ 我是Portabase的维护者之一，我有一些更新！ 存储库：https://github.com/Portabase/portabase 数据库同构迁移现已上线内置！ 以前，迁移意味着：  从源数据库下载备份 上传并备份将其恢复到目标数据库  现在：无需下载，无需上传，一切都直接通过 GUI 进行。 它适用于所有支持的数据库，并且可以在同一组织内完成迁移。 我们还添加了对 Microsoft SQL Server 的支持！它仍然需要更广泛的社区测试，以帮助识别我们可能错过的错误或边缘情况。 快速回顾：Portabase 是数据库的开源平台备份和恢复。 我们现在支持 9 个数据库：  PostgreSQL MariaDB 和 MySQL SQLite MongoDB Redis 和 Valkey Firebird SQL Microsoft SQL Server  如果您使用 Microsoft SQL Server（或任何其他支持的数据库），我们非常感谢您的反馈。如果发现任何错误，请随时提出问题。   由   提交 /u/Dense_Marionberry741   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1thu8af/portabase_114_open_source_database_backuprestore/</guid>
+      <pubDate>Tue, 19 May 2026 17:39:02 GMT</pubDate>
+    </item>
     <item>
       <title>厌倦了 Windows 在 PDF 预览方面落后于 MacOS</title>
       <link>https://www.reddit.com/r/software/comments/1thtrw4/got_tired_of_windows_being_behind_macos_for_pdf/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/Fun_Ad5176  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1thgyqq/as_a_developer_i_got_tired_of_the_chaos_of/</guid>
       <pubDate>Tue, 19 May 2026 08:52:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>WinDirStat 现在使用后台进程？</title>
-      <link>https://www.reddit.com/r/software/comments/1thgjp3/windirstat_uses_background_processes_now/</link>
-      <description><![CDATA[在我的工作笔记本电脑上，由于权限问题，我无法安装 WizTree，所以多年来我第一次回到 WinDirStat。有人说它现在更快，但仍然比 WizTree 慢得多。 无论如何，我注意到，有时当我关闭笔记本电脑时，即使我没有启动该软件，我也会从 WinDirStat.exe 收到错误消息。今天我检查了任务管理器，发现windirstat.exe有3个后台进程。我不知道为什么我每隔几个月使用一次的程序需要 24/7 运行的后台进程...   由   提交/u/ExdigguserPies  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1thgjp3/windirstat_uses_background_processes_now/</guid>
-      <pubDate>Tue, 19 May 2026 08:27:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>MS-Word 问题</title>
-      <link>https://www.reddit.com/r/software/comments/1thftoz/problems_with_msword/</link>
-      <description><![CDATA[在MS-Word中，有时我们必须对不同的页面应用不同的颜色，例如，如果一页是蓝色的，那么我们想要的另一页可能是红色或黄色，在这种情况下，大多数人会使用形状或文本功能来应用这些颜色，因为它可以兼容一页或几页，但当要应用到许多页面时，手动执行就变得很头疼。 所以我们真的应该坐视这种情况吗？问题或 Microsoft 团队应该对此问题采取行动...！！   由   提交 /u/MeetGangwani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1thftoz/problems_with_msword/</guid>
-      <pubDate>Tue, 19 May 2026 07:46:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>1999 年的 Gizmos Play</title>
-      <link>https://www.reddit.com/r/software/comments/1thc319/gizmos_play_from_1999/</link>
-      <description><![CDATA[我有一个视频文件，是 1999 年在 play.com 的 Gizmos 软件上制作的。该应用程序称为 PerformerPlayer。我真的需要启动该程序并再次工作，以便在更多人死亡之前获取视频。 唯一的帮助是包含其联系信息的 html 文件，该文件已失效。 要联系 Play 网站（您可以在其中找到有关 Performer、Gizmos 以及 Play 所有其他产品的有用信息），请点击以下链接： www.play.com 如果您在使用本产品时遇到技术困难，并且无法在我们的网站上找到答案，您可能希望通过电子邮件联系客户支持。 在您点击的显示此信息的链接或按钮附近，您还会找到一个可用于通过电子邮件联系 Play 的链接或按钮。 如果您希望通过邮件或电话联系 Play，您可以通过以下地址找到我们： Play 客户支持 2890 Kilgore Road Rancho Cordova, CA 95670-6133 传真：(916) 851-0901 电话：(916) 851-0900 客户支持代表将于太平洋标准时间周一至周五上午 9 点至下午 5 点提供服务。   由   提交/u/astcell  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1thc319/gizmos_play_from_1999/</guid>
-      <pubDate>Tue, 19 May 2026 04:29:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
