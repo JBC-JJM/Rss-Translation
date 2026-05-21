@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 20 May 2026 22:24:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 03:33:59 GMT</lastBuildDate>
+    <item>
+      <title>谷歌发布漏洞代码威胁数百万 Chromium 用户</title>
+      <link>https://www.reddit.com/r/programming/comments/1tj77ww/google_publishes_exploit_code_threatening/</link>
+      <description><![CDATA[ 由   提交 /u/CircumspectCapybara   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tj77ww/google_publishes_exploit_code_threatening/</guid>
+      <pubDate>Thu, 21 May 2026 02:37:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>YAML？这就是挪威的问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1tj1bcs/yaml_thats_norway_problem/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tj1bcs/yaml_thats_norway_problem/</guid>
+      <pubDate>Wed, 20 May 2026 22:29:45 GMT</pubDate>
+    </item>
     <item>
       <title>如何构建 .NET 混淆器第三部分</title>
       <link>https://www.reddit.com/r/programming/comments/1tj0mwv/how_to_build_net_obfuscator_part_iii/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/Tekmo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1thncdv/type_out_the_code/</guid>
       <pubDate>Tue, 19 May 2026 13:40:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解数据的形状</title>
-      <link>https://www.reddit.com/r/programming/comments/1thnaos/learn_the_shape_of_your_data/</link>
-      <description><![CDATA[ 由   提交 /u/Specialist-Owl2603   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1thnaos/learn_the_shape_of_your_data/</guid>
-      <pubDate>Tue, 19 May 2026 13:38:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>直言不讳的工程师是 ZIRP 现象</title>
-      <link>https://www.reddit.com/r/programming/comments/1thf964/the_justsayno_engineer_was_a_zirp_phenomenon/</link>
-      <description><![CDATA[ 由   提交/u/radozok  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1thf964/the_justsayno_engineer_was_a_zirp_phenomenon/</guid>
-      <pubDate>Tue, 19 May 2026 07:14:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
