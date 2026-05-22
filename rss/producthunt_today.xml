@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 22 May 2026 09:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:53:26 GMT</lastBuildDate>
     <item>
       <title>训练数据 - AI 微游戏</title>
       <link>https://www.producthunt.com/products/training-data-ai-microgames</link>
@@ -18,34 +18,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/training-data-ai-microgames</guid>
       <pubDate>Fri, 22 May 2026 06:58:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Databricks 决策框</title>
-      <link>https://www.producthunt.com/products/decisionbox</link>
-      <description><![CDATA[
-            将 DecisionBox 连接到您的 Databricks 以验证结果
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/decisionbox</guid>
-      <pubDate>Fri, 22 May 2026 05:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>JAMtime.ai</title>
-      <link>https://www.producthunt.com/products/jamtime-ai</link>
-      <description><![CDATA[
-            只需告诉您的吉他踏板如何发声即可
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/jamtime-ai</guid>
-      <pubDate>Fri, 22 May 2026 03:17:59 GMT</pubDate>
     </item>
     <item>
       <title>人工智能金块</title>
@@ -90,20 +62,6 @@
       <pubDate>Thu, 21 May 2026 20:28:41 GMT</pubDate>
     </item>
     <item>
-      <title>WordPress 7.0</title>
-      <link>https://www.producthunt.com/products/wordpress-7-0</link>
-      <description><![CDATA[
-            WordPress 阿姆斯特朗在这里
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/wordpress-7-0</guid>
-      <pubDate>Thu, 21 May 2026 19:14:44 GMT</pubDate>
-    </item>
-    <item>
       <title>零辅助</title>
       <link>https://www.producthunt.com/products/zero-assist</link>
       <description><![CDATA[
@@ -146,18 +104,60 @@
       <pubDate>Thu, 21 May 2026 11:50:50 GMT</pubDate>
     </item>
     <item>
-      <title>自动帖子</title>
-      <link>https://www.producthunt.com/products/auto-posts</link>
+      <title>谁在那儿</title>
+      <link>https://www.producthunt.com/products/whosthere</link>
       <description><![CDATA[
-            你的社交。终于开启自动驾驶模式
+            具有交互式 TUI 的局域网发现工具
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/auto-posts</guid>
-      <pubDate>Tue, 19 May 2026 20:23:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/whosthere</guid>
+      <pubDate>Thu, 21 May 2026 10:55:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPromise - 深度工作的人工智能焦点伙伴。</title>
+      <link>https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work</link>
+      <description><![CDATA[
+            将“Body Double”带入您的 Mac 缺口。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/ipromise-ai-focus-buddy-for-deep-work</guid>
+      <pubDate>Thu, 21 May 2026 10:45:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>穆普</title>
+      <link>https://www.producthunt.com/products/moop</link>
+      <description><![CDATA[
+            品味的社交网络。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/moop</guid>
+      <pubDate>Wed, 20 May 2026 21:51:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGG识别</title>
+      <link>https://www.producthunt.com/products/agg-identify</link>
+      <description><![CDATA[
+            轻量级、安全、精简的 OIDC 和 OAuth2 提供商
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/agg-identify</guid>
+      <pubDate>Sun, 17 May 2026 18:03:02 GMT</pubDate>
     </item>
     <item>
       <title>测试精灵3.0</title>
