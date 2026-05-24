@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 24 May 2026 13:24:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 16:01:29 GMT</lastBuildDate>
+    <item>
+      <title>C 语言的二维格基约简</title>
+      <link>https://www.reddit.com/r/programming/comments/1tmfalm/2dimensional_lattice_basis_reduction_in_c/</link>
+      <description><![CDATA[ 由   提交 /u/DataBaeBee   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tmfalm/2dimensional_lattice_basis_reduction_in_c/</guid>
+      <pubDate>Sun, 24 May 2026 15:29:18 GMT</pubDate>
+    </item>
     <item>
       <title>libwce：小波编解码器本身的熵层</title>
       <link>https://www.reddit.com/r/programming/comments/1tmbrjz/libwce_the_entropy_layer_of_a_wavelet_codec_on/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/henk53  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tlc1tx/spring_boot_vs_nodejs_i_ran_both_in_production/</guid>
       <pubDate>Sat, 23 May 2026 09:47:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clojure 匿名函数</title>
-      <link>https://www.reddit.com/r/programming/comments/1tlaj3y/clojure_anonymous_functions/</link>
-      <description><![CDATA[ 由   提交/u/Efficient-Public-551   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tlaj3y/clojure_anonymous_functions/</guid>
-      <pubDate>Sat, 23 May 2026 08:19:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
