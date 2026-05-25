@@ -4,20 +4,20 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 25 May 2026 14:54:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 17:08:23 GMT</lastBuildDate>
     <item>
-      <title>Centrifugo 中的地图订阅 — 同步实时键值状态和在线状态</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tnaml4/map_subscriptions_in_centrifugo_synchronized/</link>
-      <description><![CDATA[      Centrifugo 是一个开源、可扩展的实时消息传递服务器。它可以用作 PubNub、Pusher、Ably、Socket.IO、Phoenix.PubSub 和 SignalR 的自托管替代方案。直到最近，它还提供基于通道的 PUB/SUB 流，并且在最近的版本中，它获得了一些有趣的功能，以实现最终一致的状态同步。链接的博客文章描述了其中之一 - 地图订阅、其背后的动机以及涉及的实施决策。   由   提交 /u/FZambia   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tnaml4/map_subscriptions_in_centrifugo_synchronized/</guid>
-      <pubDate>Mon, 25 May 2026 14:20:58 GMT</pubDate>
+      <title>你们现在都在哪里找工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tnempu/where_are_you_guys_looking_for_jobs_now_a_days/</link>
+      <description><![CDATA[最近在这里看到一位 LinkedIn 员工的帖子，谈论大部分工作在发布之前就已经被抢走了，是伪造的，而且现在的申请完全没有任何作用。  我很好奇你们到底去哪里寻找职位空缺。 与一两年前相比，现在的市场怎么样？    由   提交 /u/IAmRules   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tnempu/where_are_you_guys_looking_for_jobs_now_a_days/</guid>
+      <pubDate>Mon, 25 May 2026 16:43:39 GMT</pubDate>
     </item>
     <item>
-      <title>在浏览器中实时重新着色 Lottie 动画——我遇到的一些问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tn9h44/live_recoloring_lottie_animations_in_the_browser/</link>
-      <description><![CDATA[一直在为一个业余项目构建一个登陆页面，希望让访问者选择一个色样并观看实时重新着色的乐蒂动画。我认为这很简单。这不是哈哈 一些让我绊倒的东西： lottie 将颜色存储为 [r, g, b, a] 但值是 0-1 而不是 0-255。在我意识到我需要除以 255 之前，我花了很长时间想知道为什么我的颜色是错误的。 你不能只是改变导入的 json 并期望对重新渲染做出反应。对象引用没有改变，所以反应不会注意到。每次都必须使用 JSON.parse(JSON.stringify()) 进行深度克隆，改变克隆，然后设置状态。感觉很丑，但它有效。 真正的痛苦 - 不同的lottie 文件具有完全不同的内部结构。简单的颜色就在顶层。但有些使用预合成，其中实际的形状和颜色被隐藏在“资产”中。数组，嵌套 3-4 层深。我的 walker 功能仅检查顶层，我无法弄清楚为什么有些文件拒绝重新着色。也必须使其递归到资产中。 还有一些动画具有不应改变颜色的白色或灰色元素（例如彩色圆圈顶部的复选标记）。最终添加了快速饱和度检查 - 如果最大和最小 RGB 通道之间的差异小于 0.15，则跳过它。粗糙，但适用于我的用例。 堆栈是 next.js 16 + lottie-react + tailwind v4。如果有人想尝试的话，这个东西就在 motionist.app 上上线了——点击模型部分的色样。我是构建它的人。 还有其他人做过运行时彩票操作吗？很好奇是否有比每次都遍历整个 json 树更干净的方法。   由   提交 /u/drastic001010   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tn9h44/live_recoloring_lottie_animations_in_the_browser/</guid>
-      <pubDate>Mon, 25 May 2026 13:38:48 GMT</pubDate>
+      <title>持久的多人游戏状态，没有混乱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tne7an/persistent_multiplayer_state_without_chaos/</link>
+      <description><![CDATA[       由   提交/u/der_gopher  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tne7an/persistent_multiplayer_state_without_chaos/</guid>
+      <pubDate>Mon, 25 May 2026 16:28:20 GMT</pubDate>
     </item>
     <item>
       <title>需要从头开始的建议</title>
@@ -25,13 +25,6 @@
       <description><![CDATA[几年前我曾经有一个小型网络和移动应用开发工作室。我本人是一名拥有 10 年经验的全栈开发人员。长话短说，几年前我不得不搬到其他国家并找到了一份解决方案架构师的工作。  我现在来到了一个新的国家，在那里我并没有真正的客户网络，并且希望从头开始。  我不知道如何在我居住的地方（魁北克）找到客户，来构建或维护他们的项目。在我看来，要么都是企业级的，要么什么都没有。  你们现在如何寻找客户？   由   提交/u/ContributionSea1225  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tn99ou/need_advice_on_starting_over_from_scratch/</guid>
       <pubDate>Mon, 25 May 2026 13:30:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>企业词汇网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tn96c7/a_site_for_corporate_words/</link>
-      <description><![CDATA[      链接如下。这个周末有一些空闲时间，正在尝试这个想法，以讽刺的方式记录所有技术兄弟的单词。  享受吧！请随意添加您在电子邮件和 Zoom 通话中听到的任何废话。 https://brolingo.xyz/   由   提交/u/FreshCakeWTF   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tn96c7/a_site_for_corporate_words/</guid>
-      <pubDate>Mon, 25 May 2026 13:27:21 GMT</pubDate>
     </item>
     <item>
       <title>需要投入2-3个月的时间进行数据分析</title>
@@ -83,7 +76,7 @@
       <pubDate>Mon, 25 May 2026 08:15:33 GMT</pubDate>
     </item>
     <item>
-      <title>图像重网站的单独设计建议</title>
+      <title>图像重站点的单独设计建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1tn0tog/solo_design_for_image_heavy_site_advice/</link>
       <description><![CDATA[嘿各位！ 我正在考虑为我的摄影建立一个网站，并可能在未来托管网络漫画。我期望的唯一交互性是电子邮件表单，也许还有复古风格的留言簿或我的作品评论部分。 我打算自行托管，因此，不想遇到手写的技术麻烦。什么样的设计工具最适合这个用例？具体来说，寻找具有足够灵活性的东西，以便我可以适当地培养一种“2000 年代”的感觉。 我一直在考虑使用静态站点生成器，但不知道该使用哪一个。如果可能的话，我更喜欢开源的东西。   由   提交 /u/halfbakedmemes0426   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tn0tog/solo_design_for_image_heavy_site_advice/</guid>
@@ -109,6 +102,13 @@
       <description><![CDATA[      当文件达到 3.4 MB 时，我正在导出登录页面的 15 秒屏幕录像。在手机上它是信箱式的。在偏好减少运动的情况下，它无论如何都会播放。我无法为其设置主题、在特定场景暂停或滚动到选项卡。视频是一个冻结的工件。该产品还活着。 因此我删除了 MP4，并将演练构建为脚本化的 GSAP 动画。纯 DOM，无视频文件，gzip 后小于 40 KB。每个元素都是页面上的真实元素，其样式与网站的其余部分相同。 一个 gsap.timeline()、基于标签的定位、使用 power2.out 减速到目标的光标、使用 back.out(2.2) 过冲的点击反馈、每张卡旋转偏移的卡片交错、以恒定速度键入文本以及使用 autoAlpha 进行场景交叉淡入淡出，以便不可见的元素离开 Tab 键顺序。 这篇文章有两个实时演示，您可以暂停并在浏览器中检查。不是录音，不是 Lottie，不是 Rive。运行 DOM 元素。 数学：  GSAP 演示：约 40 KB 压缩 等效 MP4：3.4 MB（重 85 倍） 等效 GIF：10+ MB 视频无法在标记场景处暂停，无法响应缩减运动，无法适应视口  完整包含实时交互式演示和代码的文章：https://spanthi.com/blog/gsap-choreography/ 生产示例：https://costumary.com    由   提交/u/LordVein05   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tmnq4o/replacing_34mb_video_with_40kb_of_scripted_gsap/</guid>
       <pubDate>Sun, 24 May 2026 20:45:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们仍然有这种感觉吗？或者我只是一个在这件事上挣扎的人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tml4xw/do_you_guys_still_feel_thisor_am_i_only_one/</link>
+      <description><![CDATA[自从我开始学习开发已经有一段时间了，我用基本的工具和语言做了一些小项目，但不喜欢太好的东西...我开始构建一个全栈项目，我不知道从哪里开始，但通读文档和所有，谷歌等等，开始研究它，大约需要 2-3 周，从 api 开始，添加与经纪人的通知服务，与渠道聊天和websockets...有时候我感觉很愚蠢，因为我失去了对它的跟踪，不是完全愚蠢而是对它感到不知所措，并尝试重新连接所有点和我所做的一切，这让我感到非常奇怪和迷失，我知道发生了什么以及在哪里，但我不知道如何解释这件事......我只是坚持并尝试记住我做了什么，这样我下次就不会忘记......   由   提交 /u/nish_isMess   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tml4xw/do_you_guys_still_feel_thisor_am_i_only_one/</guid>
+      <pubDate>Sun, 24 May 2026 19:05:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
