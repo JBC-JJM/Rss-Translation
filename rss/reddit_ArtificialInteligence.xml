@@ -4,13 +4,34 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Wed, 27 May 2026 15:37:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 20:13:44 GMT</lastBuildDate>
     <item>
-      <title>还有其他人遇到 AI 代理工作流程的 GitHub 停机问题吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tp5cl0/anyone_else_running_into_github_downtime_issues/</link>
-      <description><![CDATA[最近，我遇到的 GitHub 中断次数超出了我的预期，尤其是在运行生成、迭代和推送代码的代理时。 CI 管道停滞，代理在任务中失去访问权限 - 当您的工作流程严重依赖它时，这会令人沮丧。 我最近开始尝试使用 Gitlawb 作为替代方案。它是一个围绕 IPFS + libp2p 构建的去中心化 Git 网络，其中人类和 AI 代理都拥有适当的加密身份 (DID)。代理可以签署提交、打开 PR 并进行更原生的协作，而无需依赖令牌或集中身份验证。 吸引我的地方： • 没有单点故障，因此在中断期间感觉更具弹性。 • 代理作为一流的参与者而不是固定的自动化进行操作。 • 您以点对点的方式控制自己的密钥和存储库。 现在还处于早期（alpha 阶段），并且UX 还没有 GitHub 那样完善，但对于代理较多的项目来说，感觉像是朝着更强大和以所有权为中心的方向迈出了一步。 有其他人在他们的 AI 设置中尝试过它吗？好奇它是如何为您工作的，或者是否有其他值得关注的去中心化选项。   由   提交/u/amu4biz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tp5cl0/anyone_else_running_into_github_downtime_issues/</guid>
-      <pubDate>Wed, 27 May 2026 13:18:49 GMT</pubDate>
+      <title>西方艾在实时搜索中很糟糕</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tpe9b6/western_ai_sucks_on_live_search/</link>
+      <description><![CDATA[我一直在处理所有这些 chatgpt、Gemini 和 claude， chatgpt 大部分时间都无法进行实时搜索，它在分析已经给出的内容方面很好 gemini 很适合实时，但它实际上错过了许多细节，有时不能完全执行实时网络搜索 claude 有点思考不正确，是的，它会生成良好的报告，但有时甚至有不是一般知识并给出过于严格的答案 Kimi 有很多好的选择，但希望并且总是在实时网络搜索任务中表现出色 这只是我的意见   由   提交/u/AdShot3417  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tpe9b6/western_ai_sucks_on_live_search/</guid>
+      <pubDate>Wed, 27 May 2026 18:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>科技公司首席执行官显然患有人工智能精神病</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tpbp3s/tech_ceos_are_apparently_suffering_from_ai/</link>
+      <description><![CDATA[“首席执行官特别容易患人工智能精神病，因为他们距离最后一英里的工作足够远，而最后一英里的工作仍然必须通过人工智能产生最大价值，”--Box 创始人 Aaron Levie。   由   提交 /u/CackleRooster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tpbp3s/tech_ceos_are_apparently_suffering_from_ai/</guid>
+      <pubDate>Wed, 27 May 2026 17:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 基金会承诺投入 2.5 亿美元帮助工人和经济应对人工智能颠覆</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tpb37b/openai_foundation_commits_250_million_to_help/</link>
+      <description><![CDATA[ 由   提交/u/talkingatoms  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tpb37b/openai_foundation_commits_250_million_to_help/</guid>
+      <pubDate>Wed, 27 May 2026 16:42:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepMind 首席执行官哈萨比斯将 AGI 的最后期限推迟到 2029 年</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tp926e/deepmind_ceo_hassabis_moves_agi_deadline_closer/</link>
+      <description><![CDATA[Demis Hassabis 将 AGI 时间表缩短至 2029 年，这使他成为有记录以来公开预测中最激进的前沿实验室首席执行官。  在 Axios 采访中，Hassabis 指出了 DeepMind 需要在三年内实现的一两个剩余技术突破。 DeepMind 的联合科学家多智能体系统已经在能源部所有 17 个国家实验室中投入使用，提供了可能为修订后的估计提供信息的真实部署数据。  悬而未决的问题  Hassabis 认为还剩下哪些具体技术突破：Axios 采访中没有公开提及这些突破。 Co-Scientist 的 DOE 部署是否包括自主决策能力或在严格的人类监督协议下运行。 考虑到没有可比的记录，其他前沿实验室首席执行官（Sam Altman、Dario Amodei）将如何公开回应 2029 年的主播预测截至 2026 年 5 月。  来源：https://aiweekly.co/alerts/deepmind-ceo-hassabis-moves-agi-deadline-to-2029   由   提交 /u/Justgototheeffinmoon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tp926e/deepmind_ceo_hassabis_moves_agi_deadline_closer/</guid>
+      <pubDate>Wed, 27 May 2026 15:31:41 GMT</pubDate>
     </item>
     <item>
       <title>当你给艺术贴上“人工智能”的标签时，即使是莫奈，对人们来说也变得“马虎”了</title>
@@ -50,16 +71,9 @@
     <item>
       <title>Uber 在 Claude Code 的帮助下，在短短 4 个月内就耗尽了 2026 年全部人工智能预算</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tovvxm/uber_managed_to_blow_its_entire_2026_ai_budget_in/</link>
-      <description><![CDATA[ https://preview.redd.it/4j39jgcb7m3h1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=17c48308c26640157531a6e863ad69eb9efc2769 《连线》杂志的史蒂文·利维 (Steven Levy) 刚刚发布了一份关于人工智能代理如何彻底炸毁科技公司预算的报告。 Uber 的首席技术官 Pravin Nepali Naga 实际上承认，他们的开发人员使用 Anthropic 的工具 Claude Code，最终在短短四个月内就耗尽了公司 2026 年的全部人工智能预算。 其背后的统计数据有点疯狂。目前，Uber 95%的工程师每月都在使用人工智能程序，上传到平台的代码约有70%是由这些工具生成的。每个开发者的 API 代币成本实际上从每月 500 美元跃升至 2,000 美元。由于这些疯狂的成本，其他公司也开始改变其内部政策。例如，Duolingo 的首席执行官 Luis von Ahn 最终取消了一项要求员工使用人工智能作为绩效评估一部分的规则。 Uber 的首席运营官 Andrew Macdonald 指出，代币使用量的大幅增长甚至没有转化为用户的新功能，这使得很难证明实际的投资回报率是合理的。现在，科技公司被迫放慢招聘速度并转移资金，只是为了支付这些自主系统产生的巨额账单。 来源：https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/   由   提交 /u/andrewaltair   [链接] [评论]]]></description>
+      <description><![CDATA[ https://preview.redd.it/4j39jgcb7m3h1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=17c48308c26640157531a6e863ad69eb9efc2769 《连线》杂志的史蒂文·利维 (Steven Levy) 刚刚发布了一份关于人工智能代理如何彻底炸毁科技公司预算的报告。 Uber 的首席技术官 Pravin Nepali Naga 实际上承认，他们的开发人员使用 Anthropic 的工具 Claude Code，最终在短短四个月内就耗尽了公司 2026 年的全部人工智能预算。 其背后的统计数据有点疯狂。目前，Uber 95%的工程师每月都在使用人工智能程序，上传到平台的代码约有70%是由这些工具生成的。每个开发者的 API 代币成本实际上从每月 500 美元跃升至 2,000 美元。由于这些疯狂的成本，其他公司也开始改变其内部政策。例如，Duolingo 的首席执行官 Luis von Ahn 最终废除了一项要求员工使用人工智能作为绩效评估一部分的规则。 Uber 的首席运营官 Andrew Macdonald 指出，代币使用量的大幅增长甚至没有转化为用户的新功能，这使得很难证明实际的投资回报率是合理的。现在，科技公司被迫放慢招聘速度并转移资金，只是为了支付这些自主系统产生的巨额账单。 来源：https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/   由   提交 /u/andrewaltair   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tovvxm/uber_managed_to_blow_its_entire_2026_ai_budget_in/</guid>
       <pubDate>Wed, 27 May 2026 05:20:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员刚刚在医学论文中发现了 28 条虚假的 AI 引用</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tovv8g/researchers_just_found_28_fake_ai_citations_in/</link>
-      <description><![CDATA[ https://preview.redd.it/fatwrex57m3h1.png?width=1900&amp;format=png&amp;auto=webp&amp;s=0ecf308f2029dcd749cd9333f871caecf751da40 因此，人工智能生成的虚假引文正正式渗透到科学期刊中，特别是那些用于为医生创建实际临床指南的期刊。本周，主要作者 Rachel Smart 博士注意到科学家使用未经验证的人工智能工具来帮助撰写论文的趋势非常令人担忧，一个国际研究小组对此发出了警报。 他们进行了分析，发现至少 28 个完全捏造的参考文献，而这些参考文献在现实中根本不存在。可怕的是，这些虚假数据实际上通过了同行评审并进入期刊，成为官方临床建议的基础。客观地说，我们过去只在学生论文中看到这些人工智能的幻觉，但现在它正在渗透到高级医学文献中，而这些文献的审查应该是非常严格的。即使开发这些模型的科技公司也承认他们还无法完全解决幻觉问题。 这显然会增加错误医疗决策的风险，因为临床指南实际上规定了患者如何接受治疗。科学论文中存在虚假来源有点破坏了对传统同行评审系统的信任，这迫使医学界找出新的方法来过滤人工智能生成的文本。 来源：https://the-decoder.com/ai-halluculated-itations-are-creeping-into-papers-that-shape-clinical-guidelines-researchers-warn/   由   提交 /u/andrewaltair   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tovv8g/researchers_just_found_28_fake_ai_citations_in/</guid>
-      <pubDate>Wed, 27 May 2026 05:19:48 GMT</pubDate>
     </item>
     <item>
       <title>教皇刚刚就人工智能发表了一份长达 150 页的宣言，他并没有退缩</title>
@@ -76,25 +90,11 @@
       <pubDate>Wed, 27 May 2026 05:10:16 GMT</pubDate>
     </item>
     <item>
-      <title>“反科技极端主义”：报告称政府正在全国范围内监控人工智能批评</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tojihv/antitech_extremism_the_government_is_monitoring/</link>
-      <description><![CDATA[对人工智能持批评态度在美国绝非边缘现象。最近的民意调查显示，一半的美国成年人对人工智能在日常生活中的使用增加感到更多的是担忧，而不是兴奋，特别是在 Z 世代中，围绕人工智能的兴奋和希望正在下降，而对技术的愤怒却在增加，42% 的 Z 世代表示人工智能让他们感到焦虑。 但据报道，这些日益普遍的人工智能批评情绪正在向联邦政府举起旗帜。 《连线》获得的一千多页未发表的报告显示了美国各地令人担忧的趋势：联邦情报机构和国内执法部门正在瞄准“反技术极端分子”。   由   提交/u/_fastcompany  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tojihv/antitech_extremism_the_government_is_monitoring/</guid>
-      <pubDate>Tue, 26 May 2026 20:39:23 GMT</pubDate>
-    </item>
-    <item>
       <title>教皇利奥称人工智能是“统治、排斥和死亡的工具”。人类在房间里</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1toaq7t/pope_leo_called_ai_an_instrument_of_domination/</link>
       <description><![CDATA[教皇利奥十四世周一呼吁对人工智能进行强有力的监管，并呼吁其开发者为共同利益而非利润而工作，并发表了一份全面的宣言，保护人类，因为该技术影响着从工作到战争的一切。 利奥十四世的第一部通谕《Magnifica Humanitas》（伟大的人性）自历史上第一位出生于美国的教皇以来就一直受到人们的热切期待当选几天后宣布，他认为人工智能是当今人类面临的最大挑战。 在文中，利奥谴责了推动人工智能竞赛的“权力文化”，特别是在开发更加复杂的远程战争方法方面。他宣称“不允许”将不可逆转的致命决定委托给人工智能系统，这在美国教皇和特朗普政府之间引发了另一个冲突点，特朗普政府一直在积极努力放松对人工智能发展的管制。 “人工智能现在要求解除武装，摆脱将其变成统治、排斥和死亡工具的逻辑，”教皇在梵蒂冈特别介绍了通谕，这是最权威的教学类型之一。教皇可以发布的文件。 阅读更多内容[社交付费墙已删除]： https://fortune.com/2026/05/25/pope-leo-xiv-ai-domination-death-anthropic-olah-encyclal/?utm_source=reddit/    提交者 /u/fortune   [链接]   href=&quot;https://www.reddit.com/r/ArtificialInteligence/comments/1toaq7t/pope_leo_known_ai_an_instrument_of_domination/&quot;&gt;[评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1toaq7t/pope_leo_called_ai_an_instrument_of_domination/</guid>
       <pubDate>Tue, 26 May 2026 15:41:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软和 Uber 表示人工智能编码工具正变得比人类工人更昂贵</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1to31ox/microsoft_and_uber_say_ai_coding_tools_are/</link>
-      <description><![CDATA[ 由   提交/u/techzexplore  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1to31ox/microsoft_and_uber_say_ai_coding_tools_are/</guid>
-      <pubDate>Tue, 26 May 2026 10:36:10 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>

@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 27 May 2026 15:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 20:20:46 GMT</lastBuildDate>
     <item>
       <title>Circadia操作系统</title>
       <link>https://www.producthunt.com/products/circadiaos</link>
@@ -62,18 +62,18 @@
       <pubDate>Tue, 26 May 2026 14:14:01 GMT</pubDate>
     </item>
     <item>
-      <title>块边车</title>
-      <link>https://www.producthunt.com/products/circleci</link>
+      <title>本地面板</title>
+      <link>https://www.producthunt.com/products/local-panel</link>
       <description><![CDATA[
-            在代理生成的代码到达 CI 之前对其进行验证
+            无需订阅或安装的本地 SSH 服务器管理器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/circleci</guid>
-      <pubDate>Tue, 26 May 2026 13:49:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/local-panel</guid>
+      <pubDate>Tue, 26 May 2026 12:28:56 GMT</pubDate>
     </item>
     <item>
       <title>波斯.ai</title>
@@ -104,6 +104,20 @@
       <pubDate>Tue, 26 May 2026 09:59:31 GMT</pubDate>
     </item>
     <item>
+      <title>法斯尔</title>
+      <link>https://www.producthunt.com/products/phasr-2</link>
+      <description><![CDATA[
+            同时运行 100 多个工作流程而不会丢失上下文
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/phasr-2</guid>
+      <pubDate>Tue, 26 May 2026 08:06:02 GMT</pubDate>
+    </item>
+    <item>
       <title>辛烷</title>
       <link>https://www.producthunt.com/products/octolane</link>
       <description><![CDATA[
@@ -116,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/octolane</guid>
       <pubDate>Tue, 26 May 2026 07:00:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>山猫</title>
+      <link>https://www.producthunt.com/products/bob-s-workshop</link>
+      <description><![CDATA[
+            一个主权代理，可以根据您的喜好学习编码
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/bob-s-workshop</guid>
+      <pubDate>Tue, 26 May 2026 04:17:14 GMT</pubDate>
     </item>
     <item>
       <title>莫吉托</title>
@@ -132,34 +160,6 @@
       <pubDate>Mon, 25 May 2026 16:41:44 GMT</pubDate>
     </item>
     <item>
-      <title>阿维奎尔</title>
-      <link>https://www.producthunt.com/products/aviquill</link>
-      <description><![CDATA[
-            为思维混乱的视觉思考者提供的平静画布
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/aviquill</guid>
-      <pubDate>Mon, 25 May 2026 07:57:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>蓝点2.1</title>
-      <link>https://www.producthunt.com/products/bluedot-2</link>
-      <description><![CDATA[
-            在 Apple Watch 上录制。与克劳德同步
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/bluedot-2</guid>
-      <pubDate>Sun, 24 May 2026 11:15:12 GMT</pubDate>
-    </item>
-    <item>
       <title>快速表 v1.2</title>
       <link>https://www.producthunt.com/products/quicksheet-light-spreadsheet</link>
       <description><![CDATA[
@@ -174,20 +174,6 @@
       <pubDate>Sun, 24 May 2026 09:08:42 GMT</pubDate>
     </item>
     <item>
-      <title>层数</title>
-      <link>https://www.producthunt.com/products/layers-8</link>
-      <description><![CDATA[
-            免费创建精美的动画代码片段视频
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/layers-8</guid>
-      <pubDate>Sun, 24 May 2026 00:47:34 GMT</pubDate>
-    </item>
-    <item>
       <title>巴兹工作室</title>
       <link>https://www.producthunt.com/products/bazaar-2</link>
       <description><![CDATA[
@@ -200,6 +186,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/bazaar-2</guid>
       <pubDate>Fri, 22 May 2026 13:37:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>波瓦基</title>
+      <link>https://www.producthunt.com/products/powabase</link>
+      <description><![CDATA[
+            Build AI apps with Postgres, RAG, and agents
+          
+
+讨论
+            |
+            Link
+]]></description>
+      <guid>https://www.producthunt.com/products/powabase</guid>
+      <pubDate>Fri, 15 May 2026 16:18:24 GMT</pubDate>
     </item>
     <item>
       <title>火山口</title>
