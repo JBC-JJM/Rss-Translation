@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 26 May 2026 22:23:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 03:42:58 GMT</lastBuildDate>
     <item>
       <title>有什么好的开源2D动画软件吗？或者带有动画功能的绘图软件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1toltru/any_good_opensource_2d_animation_software_or/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>寻找贡献者帮助在 Wispr Flow 自己的游戏中击败 Wispr Flow。</title>
       <link>https://www.reddit.com/r/opensource/comments/1toafne/looking_for_contributors_to_help_beat_wispr_flow/</link>
-      <description><![CDATA[你们我是马特。在过去的几天里，我一直在与一个小型开发者社区合作构建一个免费的开源 Wispr Flow 替代方案。该项目称为 Freestyle。 我们构建 Freestyle 的动机是我们不敢相信 Wispr Flow 价值 20 亿美元，他们去年筹集了 A 轮融资，今年正试图筹集另一轮资金。 语音听写是一个如此简单的应用程序，我不敢相信人们每个月在它上面花费 12 美元。这也是一个隐私问题，用户将他们的个人音频文件发送到 Wispr Flow 的云。 语音听写是一种商品，应该对社区免费。 我们刚刚开始该项目，我们希望扩大我们的贡献者社区。欢迎所有技能水平的人。如果您对这个项目感兴趣，请考虑查看我们的存储库并加入我们的 Discord 社区！ https://github.com/freestyle-voice/freestyle   由   提交 /u/matt8p   [链接] [评论]]]></description>
+      <description><![CDATA[你们我是马特。在过去的几天里，我一直在与一个小型开发者社区合作构建一个免费的开源 Wispr Flow 替代方案。该项目称为 Freestyle。 我们构建 Freestyle 的动机是我们不敢相信 Wispr Flow 价值 20 亿美元，他们去年筹集了 A 轮融资，今年他们正试图筹集另一轮资金。 语音听写是一个如此简单的应用程序，我不敢相信人们每个月在它上面花费 12 美元。这也是一个隐私问题，用户将他们的个人音频文件发送到 Wispr Flow 的云。 语音听写是一种商品，应该对社区免费。 我们刚刚开始该项目，我们希望扩大我们的贡献者社区。欢迎所有技能水平的人。如果您对这个项目感兴趣，请考虑查看我们的存储库并加入我们的 Discord 社区！ https://github.com/freestyle-voice/freestyle   由   提交 /u/matt8p   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1toafne/looking_for_contributors_to_help_beat_wispr_flow/</guid>
       <pubDate>Tue, 26 May 2026 15:31:20 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>Anagnorisis 的新稳定版本 (v0.4.0) - 本地媒体推荐系统，可以了解您的品味，从而更有效地查找、搜索和过滤数据。</title>
       <link>https://www.reddit.com/r/opensource/comments/1tn3oyz/new_stable_release_v040_of_anagnorisis_local/</link>
-      <description><![CDATA[      我构建这个项目已经有一段时间了（超过两年半），v0.4.0 对我来说感觉像是一个重要的里程碑，该项目实际上变得足够有用且方便日常使用。 简短的版本：它是一个自托管应用程序，利用您的 GPU 来了解您真正喜欢的内容。你将它指向你的音乐、图像、视频或文档，对其中一些进行评分，它会训练一个小模型来预测你的品味，并相应地对其他所有内容进行排序。一切都是本地的，没有任何东西离开你的机器。 这个版本对我来说特别的地方在于，许多粗糙的基础设施工作终于整合在一起了。 ML 模型现在在独立的子进程中运行，因此应用程序在空闲时不再占用您的 VRAM。有一个适当的后台作业系统，可以随着时间的推移自动对您的文件进行评级和描述，因此当您浏览到文件夹时，事情已经被描述和评估了。 还有一个新的外部模块系统，其中有两个实验性模块已经可用：一个用于索引和搜索网站，另一个用于将 YouTube 视为媒体源，同时保持推荐本地化。 该项目仍然有一些粗糙的地方，特别是在视频支持和低端硬件上的描述生成速度方面。但与一两年前相比，这是一次真正不同的体验。 如果这听起来很有趣，它完全通过 Docker 运行，因此设置只需使用文件夹路径编辑 yaml 文件即可。如果有人有任何关于该项目的问题，我很乐意回答。   由   提交 /u/Another__one   [link] [评论] ]]></description>
+      <description><![CDATA[      我构建这个项目已经有一段时间了（超过两年半），v0.4.0 对我来说感觉像是一个重要的里程碑，该项目实际上变得足够有用且方便日常使用。 简短的版本：它是一个自托管应用程序，利用您的 GPU 来了解您真正喜欢的内容。你将它指向你的音乐、图像、视频或文档，对其中一些进行评分，它会训练一个小模型来预测你的品味，并对其他所有内容进行相应的排序。一切都是本地的，没有任何东西离开你的机器。 这个版本对我来说特别的地方在于，许多粗糙的基础设施工作终于整合在一起了。 ML 模型现在在独立的子进程中运行，因此应用程序在空闲时不再占用您的 VRAM。有一个适当的后台作业系统，可以随着时间的推移自动对您的文件进行评级和描述，因此当您浏览到文件夹时，事情已经被描述和评估了。 还有一个新的外部模块系统，其中有两个实验性模块已经可用：一个用于索引和搜索网站，另一个用于将 YouTube 视为媒体源，同时保持推荐本地化。 该项目仍然有一些粗糙的地方，特别是在视频支持和低端硬件上的描述生成速度方面。但与一两年前相比，这是一次真正不同的体验。 如果这听起来很有趣，它完全通过 Docker 运行，因此设置只需使用文件夹路径编辑 yaml 文件即可。如果有人有任何关于该项目的问题，我很乐意回答。   由   提交 /u/Another__one   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1tn3oyz/new_stable_release_v040_of_anagnorisis_local/</guid>
       <pubDate>Mon, 25 May 2026 09:11:49 GMT</pubDate>
     </item>
