@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 28 May 2026 18:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 22:41:42 GMT</lastBuildDate>
+    <item>
+      <title>天使配对4.0</title>
+      <link>https://www.producthunt.com/products/angel-match</link>
+      <description><![CDATA[
+            包含超过 125,000 名天使投资人和风险投资人的数据库，可用于筹集种子轮资金
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/angel-match</guid>
+      <pubDate>Thu, 28 May 2026 02:18:30 GMT</pubDate>
+    </item>
     <item>
       <title>神经代理2.5</title>
       <link>https://www.producthunt.com/products/neuralagent</link>
@@ -18,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/neuralagent</guid>
       <pubDate>Wed, 27 May 2026 23:23:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>库格尔音频</title>
-      <link>https://www.producthunt.com/products/kugelaudio</link>
-      <description><![CDATA[
-            您可以自行托管的实时文本转语音模型
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/kugelaudio</guid>
-      <pubDate>Wed, 27 May 2026 20:30:22 GMT</pubDate>
     </item>
     <item>
       <title>隔间</title>
@@ -60,34 +60,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/buffer-api</guid>
       <pubDate>Wed, 27 May 2026 14:05:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>格罗瓦蒂</title>
-      <link>https://www.producthunt.com/products/growati</link>
-      <description><![CDATA[
-            YouTube 后期制作的自动驾驶仪
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/growati</guid>
-      <pubDate>Wed, 27 May 2026 13:18:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>苏布伦</title>
-      <link>https://www.producthunt.com/products/sublern</link>
-      <description><![CDATA[
-            鼠标悬停即可翻译视频字幕中的任何单词
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/sublern</guid>
-      <pubDate>Wed, 27 May 2026 12:47:02 GMT</pubDate>
     </item>
     <item>
       <title>帕拉商店</title>
@@ -146,20 +118,6 @@
       <pubDate>Wed, 27 May 2026 07:32:57 GMT</pubDate>
     </item>
     <item>
-      <title>阶段</title>
-      <link>https://www.producthunt.com/products/stage-5</link>
-      <description><![CDATA[
-            演示、错误和更新的屏幕录制
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/stage-5</guid>
-      <pubDate>Wed, 27 May 2026 01:44:31 GMT</pubDate>
-    </item>
-    <item>
       <title>沥青代理</title>
       <link>https://www.producthunt.com/products/pitch</link>
       <description><![CDATA[
@@ -188,6 +146,20 @@
       <pubDate>Fri, 22 May 2026 17:19:47 GMT</pubDate>
     </item>
     <item>
+      <title>饼子</title>
+      <link>https://www.producthunt.com/products/pancake-6</link>
+      <description><![CDATA[
+            Slack 中的 OpenClaw 让您的公司实现自治
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/pancake-6</guid>
+      <pubDate>Wed, 20 May 2026 23:50:00 GMT</pubDate>
+    </item>
+    <item>
       <title>商业市场</title>
       <link>https://www.producthunt.com/products/somerch</link>
       <description><![CDATA[
@@ -202,6 +174,20 @@
       <pubDate>Mon, 18 May 2026 07:24:19 GMT</pubDate>
     </item>
     <item>
+      <title>现货</title>
+      <link>https://www.producthunt.com/products/spotsnow</link>
+      <description><![CDATA[
+            通过广告活动洞察来跟踪谁在播客中投放广告
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/spotsnow</guid>
+      <pubDate>Wed, 13 May 2026 15:48:53 GMT</pubDate>
+    </item>
+    <item>
       <title>骚乱</title>
       <link>https://www.producthunt.com/products/revolte</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/revolte</guid>
       <pubDate>Tue, 12 May 2026 12:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>记忆</title>
+      <link>https://www.producthunt.com/products/memori-labs</link>
+      <description><![CDATA[
+            来自座席追踪的持久记忆，而不仅仅是对话
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/memori-labs</guid>
+      <pubDate>Fri, 08 May 2026 02:34:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
