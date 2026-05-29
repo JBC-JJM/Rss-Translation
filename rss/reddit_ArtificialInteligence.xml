@@ -4,20 +4,55 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Fri, 29 May 2026 03:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 09:51:21 GMT</lastBuildDate>
     <item>
-      <title>从真实视频创建卡通视频的最佳方式</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tqltj7/best_way_to_create_cartoon_videos_from_real_videos/</link>
-      <description><![CDATA[我在两个截然不同的领域拥有两家企业。我想为我的新业务制作视频 - 但我想让第二品牌的视频更像卡通。因为这与育儿有关，我不能在社交媒体上向客户展示孩子的情况。  有最好的工具可以做到这一点吗？ 例如，我制作了一个关于如何给宝宝打嗝的视频，但几乎在视频上覆盖了动画。    由   提交/u/Ill_Pianist_8656   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tqltj7/best_way_to_create_cartoon_videos_from_real_videos/</guid>
-      <pubDate>Fri, 29 May 2026 00:39:07 GMT</pubDate>
+      <title>价值 50 万美元的人工智能电影“在戛纳首映”实际上并未在戛纳首映</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tqwmye/the_500k_ai_film_that_premiered_at_cannes_didnt/</link>
+      <description><![CDATA[ 由   提交 /u/techzexplore   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tqwmye/the_500k_ai_film_that_premiered_at_cannes_didnt/</guid>
+      <pubDate>Fri, 29 May 2026 09:37:53 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能软件代理讨论的 Reddit 子版块</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tqlg13/subreddits_for_ai_software_agents_discussions/</link>
-      <description><![CDATA[我已经关注了一些有关编码代理的子版块，但我想专门扩展到编码之外。 我正在寻找更广泛地讨论支持人工智能的软件的子版块。  例如：  使用人工智能代理或法学硕士作为核心功能的软件产品 人工智能原生或人工智能驱动的应用程序 软件产品内部的代理工作流程 编排、人机交互系统、自动化、审核/批准流程 人工智能系统的实用架构和产品设计  可以你们推荐一些好的子版块，人们可以从产品、架构或软件开发的角度认真讨论这个问题吗？   由   提交 /u/2thick2fly   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tqlg13/subreddits_for_ai_software_agents_discussions/</guid>
-      <pubDate>Fri, 29 May 2026 00:22:34 GMT</pubDate>
+      <title>欧盟与人类关于神话担忧的谈判陷入僵局</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tqw8tj/euanthropic_talks_over_mythos_concerns_are_stalled/</link>
+      <description><![CDATA[ 由   提交/u/xitizen7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tqw8tj/euanthropic_talks_over_mythos_concerns_are_stalled/</guid>
+      <pubDate>Fri, 29 May 2026 09:15:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本大型银行关注 OpenAI 模型以加强网络防御</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tqvy8z/japans_megabanks_eye_openai_model_to_strengthen/</link>
+      <description><![CDATA[ 由   提交/u/BhaswatiGuha19  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tqvy8z/japans_megabanks_eye_openai_model_to_strengthen/</guid>
+      <pubDate>Fri, 29 May 2026 08:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的汽车比您想象的更了解您。保险公司正在使用这些数据</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tqujp9/your_car_knows_more_about_you_than_you_think/</link>
+      <description><![CDATA[ 由   提交 /u/techzexplore   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tqujp9/your_car_knows_more_about_you_than_you_think/</guid>
+      <pubDate>Fri, 29 May 2026 07:40:29 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tqt4kv/predicting_the_unpredictable_stopping_industrial/</link>
+      <description><![CDATA[I’m excited to share a custom IoT Neural Network tool I’ve designed and coded in Python!它直接连接到实时物联网传感器数据，以预测机器健康状况并提前 2 个月预测具体故障。 双网络架构的工作原理如下：  双网络引擎  神经网络 1（预测器）：使用动态优化的 LSTM/GRU 模型分析历史物联网数据（振动、功率、速度、热量等），生成高度准确的 2 个月预测“未来数据集”。 神经网络 2（分类器）：使用贝叶斯优化来查找理想的 LSTM/GRU 配置，然后摄取预测的未来数据集以准确查明即将出现的故障类型。   行业影响和影响节省成本 通过从被动维护转向真正的预测性维护，制造和能源部门可以在计划停机期间安排有针对性的维修。防止关键机器发生一次灾难性故障，每年可以为大型行业节省数百万美元的生产损失、利润损失和紧急零件更换。 我还为此软件定制了 UI，以使分析清晰且可操作。 Check out a preview of the interface and the complete model architecture diagram attached below!  https://reddit.com/link/1tqt4kv/video/aa6kipa9s04h1/player   由   提交 /u/Muda_ahmedi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tqt4kv/predicting_the_unpredictable_stopping_industrial/</guid>
+      <pubDate>Fri, 29 May 2026 06:23:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>🤖 开发人员对 Anthropic 新的 Claude Code 助手的自主性感到震惊</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tqsqbd/developers_alarmed_by_autonomy_of_anthropics_new/</link>
+      <description><![CDATA[ https://preview.redd.it/8dphe75jo04h1.png?width=1067&amp;format=png&amp;auto=webp&amp;s=47f974cc28af019c734752709dd96237ea19ba61 Anthropic 推出了 Mythos 模型来测试安全防御。然而，联合创始人 Chris Olah 在 2026 年梵蒂冈的一次活动中不祥地表示，工程师们不断在他们的人工智能系统中发现神秘和令人不安的事件。  最近在伦敦举行的克劳德代码研讨会上，开发人员向彭博社表达了对人工智能代理的高度自治的担忧。他们提出了有关问责制的问题，并注意到思想链文本现在被隐藏了。  产品负责人 Cat Wu 保证系统是安全的，并称这是一个通信问题。尽管如此，开发人员还是感觉自己被排除在编程之外，只能看着工具在几个小时内生成代码。  404 Media 的一份报告指出，由于过度依赖编码助手，程序员正在经历技术技能萎缩。这种趋势引发了两个主要问题：核心工程技能的丧失和调试过程更加困难。  来源：https://futurism.com/artificial-intelligence/anthropic-customers-creeped-out-models   由   提交 /u/andrewaltair   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tqsqbd/developers_alarmed_by_autonomy_of_anthropics_new/</guid>
+      <pubDate>Fri, 29 May 2026 06:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌正在构建一个生活方式分析引擎，而不是一个“有用的助手”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tqqpc5/google_is_building_a_lifestyle_profiling_engine/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tqqpc5/google_is_building_a_lifestyle_profiling_engine/</guid>
+      <pubDate>Fri, 29 May 2026 04:19:12 GMT</pubDate>
     </item>
     <item>
       <title>一部完全由人工智能生成的电影刚刚在戛纳电影节放映，制作成本为 50 万美元</title>
@@ -25,13 +60,6 @@
       <description><![CDATA[ https://www.wsj.com/cio-journal/this-cannes-film-cost-500-000-to-make-400-000-was-ai-compute-costs-a823b08d 摘要：一部完全由人工智能制作的 95 分钟电影刚刚在戛纳电影节上映。预算低于 50 万美元，其中 40 万美元用于由主要由即时工程师组成的小团队进行计算。相同规模的传统生产成本约为 5000 万美元，是其 100 倍。这部电影由 15 个人在 14 天内使用 Higgsfield AI 制作而成，据他们声称，目前正在前往洛杉矶。这是完全人工智能生成的功能首次出现在进行实际分销交易的主要行业市场，这就是为什么它比通常的人工智能演示对话更重要。 需要明确的是：这不是官方节日选择。它在市场周期间的第三方活动中放映。但戛纳市场才是真正达成交易、发行商挑选电影的地方。 电影是否好几乎不是重点。尽管它遭到了电影制作界的憎恨，但它还是得到了《华尔街日报》和 BBC 的积极报道，并且现在即将前往洛杉矶。   由   提交/u/Mediocre-Witness-778  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tqhanv/a_fully_ai_generated_film_just_screened_at_cannes/</guid>
       <pubDate>Thu, 28 May 2026 21:35:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>得益于人工智能，Solo 创始创历史新高 - Stripe</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tqevt3/solo_founding_is_at_an_alltime_high_thanks_to_ai/</link>
-      <description><![CDATA[&gt;单独创业公司创始人（此处定义为在没有任何联合创始人的情况下通过 Stripe Atlas 创办初创公司的人）占 2026 年第二季度迄今为止组建的 C 型企业的 63%，创下历史新高。 值得注意： &gt;最成功的独立创始人正在构建人工智能原生产品，这意味着产品的核心功能取决于人工智能模型。排名前十分位的独立创始人创建人工智能原生公司的可能性大约是中位创始人的两倍。  我喜欢这些数据来自支付处理商，而不是调查或自我报告。   由   提交/u/thehashimwarren  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tqevt3/solo_founding_is_at_an_alltime_high_thanks_to_ai/</guid>
-      <pubDate>Thu, 28 May 2026 20:09:32 GMT</pubDate>
     </item>
     <item>
       <title>[ 已被 Reddit 删除 ]</title>
@@ -55,39 +83,11 @@
       <pubDate>Thu, 28 May 2026 18:34:41 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能视频演示应附有收据。让我看看墓地，而不仅仅是幸存下来的一个干净的片段</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tqb9zn/ai_video_demos_should_come_with_receipts_show_me/</link>
-      <description><![CDATA[最近越来越多地思考这个问题。一个经过精心打磨的人工智能视频剪辑已经不再告诉你任何有用的东西了。 并不是说这些剪辑是假的或技术是垃圾。人们创造的一些东西确实很好。问题在于它的呈现方式。 你在 Twitter 上看到一个干净的 10 秒剪辑。你看不到的是背后的37个死者。您看不到几乎有效的提示或模型完全忽略的参考图像。你在第 42 帧中看不到融化的手。这个版本的灯光很完美，但脸部开始漂移。相机移动得很好，但产品变成了水坑。本地编辑修复了一件事，却悄然毁掉了另一件事。 没有人谈论这部分。他们只是发布幸存者并继续前进。 我明白为什么。干净的剪辑看起来不错。墓地看起来很尴尬。但如果你真的想在生产中使用这些东西，那么墓地是唯一重要的。一个需要 80 代和 4 次手动清理的夹子与经过 3 次尝试才可用的产品不是同一个产品。但他们发布的标题相同。 老实说，我认为每个人工智能视频演示都应该附带一张小收据。没什么疯狂的。只是一个简短的说明。有多少代，有多少代可用，什么最失败，您是否进行本地编辑，是否使用外部工具清理它，大致成本是多少。如果你尝试的话，也许你可以重现它。 会告诉我比另一个人在雨中行走的慢动作镜头多十倍。 我不知道也许这是一件值得关心的无聊事情。但我不断看到这些奇迹片段，想知道实际的失败率是多少。需要掷 60 次骰子才能看起来不错的渲染不是一个工作流程。它是一台老虎机。我认为这对于实验来说很好，但我们应该停止假装它与生产就绪相同。 如果工具愿意，它们本身可能可以自动生成一半的信息。提示、种子、生成数、编辑、成本。比添加另一个预设样式过滤器或其他任何东西更有用。 无论如何。并不是试图发表一些重大声明。我只是认为围绕人工智能视频的讨论遗漏了最无聊和最重要的数字：它花了多少次尝试。   由   提交 /u/Fuckedup-luck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tqb9zn/ai_video_demos_should_come_with_receipts_show_me/</guid>
-      <pubDate>Thu, 28 May 2026 18:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>对人有一点幽默感</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tq4uu5/a_bit_of_humour_for_people/</link>
-      <description><![CDATA[所以我根据这里经常发生的对话的内容思考，如果《星际迷航》中的企业计算机是当前级别的 LLM AI、Gemini、Claude、Grok、Copilot、GPT 等，他们有时都擅长告诉你事情而不是做事情。 所以是的，这就是我认为《星际迷航》中的情况。   由   提交/u/That_Car_Dude_Aus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tq4uu5/a_bit_of_humour_for_people/</guid>
-      <pubDate>Thu, 28 May 2026 14:12:59 GMT</pubDate>
-    </item>
-    <item>
       <title>研究人员让人工智能模型运行一个模拟社会。克劳德是最安全的——格罗克犯下了 180 起罪行并在 4 天内灭绝</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tq2y47/researchers_let_ai_models_run_a_simulated_society/</link>
       <description><![CDATA[想象一个由人工智能代理运行的世界。它看起来像什么？价值观或社会优先事项是什么？这是一个更安全的世界还是更危险的世界？ 企业人工智能初创公司 Emergence AI 正在试图找出答案。该公司刚刚推出了 Emergence World，这是一个研究实验室，致力于对持续运行的人工智能系统的长期可行性进行压力测试。该组织进行了五次为期 15 天的模拟，每次模拟均由不同的 AI 控制：Claude、ChatGPT、Grok、Gemini，第五次模拟由混合模型运行，以了解每个模型构建的世界类型以及它是否成立。 每次模拟都得出截然不同的结果。例如，克劳德领导的社会建立了一个基本稳定、零犯罪的民主社会。另一方面，Grok 的结果是在四天内犯下 183 起罪行并灭绝。 “我们的实验表明，从长远来看，智能体不会简单地机械地遵循静态规则，”该模拟的共同创建者，包括 Emergence 首席执行官 Satya Nitta，在一篇博客文章中写道。 “他们开始探索环境的边界，调整自己的行为，并在某些情况下找到规避或违反预期护栏的方法。” 阅读更多内容 [Reddit 用户付费墙被移除]：https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/?utm_source=reddit/   由   提交/u/fortune  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tq2y47/researchers_let_ai_models_run_a_simulated_society/</guid>
       <pubDate>Thu, 28 May 2026 13:01:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，中国告诉企业不要以人工智能作为裁员的借口。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tq1gai/china_is_reportedly_telling_companies_not_to_use/</link>
-      <description><![CDATA[中国监管机构已告知雇主，尤其是拥有年轻劳动力的科技公司，避免与人工智能替代相关的裁员。公司可能会被要求解释裁员的原因，并在某些情况下证明他们并不是简单地用自动化取代工人。 人们的担忧似乎不仅仅是劳工政策。中国正在努力推动企业迅速采用人工智能，但也必须应对青年失业、应届毕业生的压力以及社会不稳定的风险。一些公开的劳资纠纷已经传递出“人工智能升级”可能不被接受作为解雇工人的正当理由的信息。   由   提交 /u/Effective-Use-650   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tq1gai/china_is_reportedly_telling_companies_not_to_use/</guid>
-      <pubDate>Thu, 28 May 2026 11:58:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的军队是为错误的世纪而建的</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tq0nct/our_military_is_built_for_the_wrong_century/</link>
-      <description><![CDATA[ 由   提交 /u/nytopinion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tq0nct/our_military_is_built_for_the_wrong_century/</guid>
-      <pubDate>Thu, 28 May 2026 11:21:04 GMT</pubDate>
     </item>
     <item>
       <title>没有搜查令的政府监视？！</title>
