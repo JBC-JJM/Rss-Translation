@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 29 May 2026 15:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 20:23:00 GMT</lastBuildDate>
+    <item>
+      <title>人工智能自动化社区</title>
+      <link>https://www.reddit.com/r/automation/comments/1trciym/ai_automation_community/</link>
+      <description><![CDATA[如今，很难获得建议或技巧，或者至少很难获得一个像样的社区，让我们聚在一起互相帮助或提供自动化指导。 现在，那些日子已经一去不复返了。目前，我们正在为此目的建立一个不断壮大的不和谐社区。我不想透露细节，但如果有人愿意让我知道。    由   提交/u/Jaypheroh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1trciym/ai_automation_community/</guid>
+      <pubDate>Fri, 29 May 2026 19:16:18 GMT</pubDate>
+    </item>
     <item>
       <title>我测试了 50 多种人工智能工具，所以您不必这样做。这是我在 2026 年实际使用的自动化堆栈</title>
       <link>https://www.reddit.com/r/automation/comments/1tr496j/i_tested_50_ai_tools_so_you_dont_have_to_heres/</link>
@@ -74,13 +81,6 @@
       <description><![CDATA[大多数自动化项目在第一天看起来都不错。更困难的部分是在输入漂移、API 更改、人类跳过字段或工作流程默默地产生错误输出之后发生的情况。 我不断回顾的清单是：  明确每种故障模式的所有者 在写入操作之前进行硬验证 对低置信度输出进行人工审查 解释决策而不仅仅是错误的日志 每个外部的重试规则系统 仅针对有人实际上可以修复的问题发出警报  好奇一旦演示结束并且工作流程必须在正常的业务混乱中生存下来，其他人会使用什么作为可靠性检查表。   由   提交 /u/Ok_Shift9291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tqs0k9/what_is_your_reliability_checklist_after_an/</guid>
       <pubDate>Fri, 29 May 2026 05:25:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用多个 PDF 创建 PPT 提案？</title>
-      <link>https://www.reddit.com/r/automation/comments/1tqlrh4/creating_a_ppt_proposal_using_multiple_pdfs/</link>
-      <description><![CDATA[      大家好， 我是这个 Reddit 子版块的新手，很好奇它是否对我正在考虑的项目有帮助。我在保险行业工作，我的员工的部分工作是使用 Power Point 创建提案。我想知道使用 Copilot 或其他人工智能工具以某种方式实现自动化会有多大的挑战性。我的愿景是将 CompanyAquote.pdf 上传到某个引擎并让它提取值并将其插入单元格中。  所引用的每种保单类型都有一张幻灯片。例如，房主ins。幻灯片、自动插入。幻灯片，洪水插入。幻灯片等。下面一张幻灯片的示例。  https://preview.redd.it/wcfc2m4c1z3h1.png?width=877&amp;format=png&amp;auto=webp&amp;s=7b9994244b8e251399015b92dc2f0b2f15778f08 Copilot 在任务中表现不错，但不够稳定，不足以可靠和可用。我非常有能力研究和解决这个问题，但不知道从哪里开始。我询问了一些不同的法学硕士，他们提出了一些使用 Azure 文档智能和 Power Automate 的想法。很好奇你们对这个项目有何看法，以及它对我来说是否可行。  请告诉我您可能有的任何问题，以便我更好地指导我。非常感谢！   由   提交/u/vbsponger  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tqlrh4/creating_a_ppt_proposal_using_multiple_pdfs/</guid>
-      <pubDate>Fri, 29 May 2026 00:36:31 GMT</pubDate>
     </item>
     <item>
       <title>没有人谈论人工智能工作流程自动化的实际限制</title>
