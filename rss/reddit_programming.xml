@@ -4,20 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 28 May 2026 22:41:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 03:27:22 GMT</lastBuildDate>
+    <item>
+      <title>寻找 Svelte、Solid、Vue 和 Angular 开发人员来帮助为基于 Socket.IO 的实时客户端（开源）提供框架绑定</title>
+      <link>https://www.reddit.com/r/programming/comments/1tqp7j7/looking_for_svelte_solid_vue_angular_devs_to_help/</link>
+      <description><![CDATA[我正在开发一个名为 Arkos 的开源项目 - 它是一个包含电池的后端框架，我一直在构建其实时 WebSocket 层。 核心客户端 (@arkosjs/websockets-client) 是一个围绕 Socket.IO 处理的纯 TypeScript 包装器确认/重试/超时、命名空间管理、元数据注入、重复数据删除——所有这些混乱的东西。 React 绑定已经完成并正在工作。 但是我需要日常实际使用这些框架的人来验证和交付其他适配器： - Svelte 5 - @/arkosjs/svelte-websockets - Solid - @/arkosjs/solid-websockets - Vue 3 - @/arkosjs/vue-websockets - Angular - @/arkosjs/angular-websockets 架构很简单：框架包是瘦适配器，将核心客户端包装在每个框架的反应原语（存储、信号、引用、可观察量）中。所有业务逻辑都位于一个地方。 目标 API 在各个框架中都是一致的： const chat = useGateway(&quot;/chat&quot;); chat.on(&quot;message&quot;, handler); // 卸载时自动清理 chat.status; // 反应式连接状态 chat.user; // 响应式身份验证用户 const send = chat.useEmit(&quot;send_message&quot;); send.emit(data); send.emit(data, { ack: true }); // 带重试/超时 send.loading; // 反应式 send.error; // 反应式 代码已经编写 - 我为所有四个框架生成了参考实现（您可以在下面的问题中看到它们）。只是还没有经过真正使用这些框架的人的测试。我不想向 Svelte/Solid/Vue/Angular 开发人员提供一些感觉不对的东西。 我正在寻找的东西： - 一个对框架足够了解的人，可以说“这感觉很惯用”。或“这是您应该更改的内容” - 愿意拉出分支，将其放入最小的应用程序中，并验证连接 -&gt;发射-&gt;端到端接收工作 - 检查清理是否有效（无内存泄漏）、反应性更新是否正确、命名空间更改的重新订阅是否有效 您将获得什么： - 存储库中的贡献者信用 - 对框架集成工作方式的影响 - 我永远的感激之情 里程碑和所有参考代码都在这里： github.com/Uanela/arkos/milestone/11 即使您可以对 Svelte/Solid/Vue/Angular 代码片段进行代码审查并指出问题所在，这也已经很有帮助了。发表评论或打开 PR。   由   提交 /u/uanelacomo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tqp7j7/looking_for_svelte_solid_vue_angular_devs_to_help/</guid>
+      <pubDate>Fri, 29 May 2026 03:09:24 GMT</pubDate>
+    </item>
     <item>
       <title>Node.js 工作线程存在问题，但它们对我们来说非常有用</title>
       <link>https://www.reddit.com/r/programming/comments/1tqisnn/nodejs_worker_threads_are_problematic_but_they/</link>
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tqisnn/nodejs_worker_threads_are_problematic_but_they/</guid>
       <pubDate>Thu, 28 May 2026 22:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>一些我们快要实现但从未实现的 Python 功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1tqgaw9/some_python_features_we_almost_got_but_never_did/</link>
-      <description><![CDATA[ 由   提交/u/yangzhou1993  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tqgaw9/some_python_features_we_almost_got_but_never_did/</guid>
-      <pubDate>Thu, 28 May 2026 20:59:14 GMT</pubDate>
     </item>
     <item>
       <title>面向开发人员、DevOps 和平台工程师的网络基础知识</title>
