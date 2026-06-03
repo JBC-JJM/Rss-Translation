@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 03 Jun 2026 10:57:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 16:47:29 GMT</lastBuildDate>
+    <item>
+      <title>作曲家</title>
+      <link>https://www.producthunt.com/products/composer-3</link>
+      <description><![CDATA[
+            为您、您的团队和您的经纪人提供多人游戏降价。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/composer-3</guid>
+      <pubDate>Wed, 03 Jun 2026 06:41:12 GMT</pubDate>
+    </item>
     <item>
       <title>落石1.5</title>
       <link>https://www.producthunt.com/products/dropstone-2</link>
@@ -48,18 +62,32 @@
       <pubDate>Tue, 02 Jun 2026 22:26:11 GMT</pubDate>
     </item>
     <item>
-      <title>德文桌面</title>
-      <link>https://www.producthunt.com/products/devin-by-cognition</link>
+      <title>爱马仕桌面</title>
+      <link>https://www.producthunt.com/products/hermes-4</link>
       <description><![CDATA[
-            从一个界面管理本地和云代理团队
+            与您共同成长的代理商
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/devin-by-cognition</guid>
-      <pubDate>Tue, 02 Jun 2026 20:00:47 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/hermes-4</guid>
+      <pubDate>Tue, 02 Jun 2026 22:20:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>文件夹加</title>
+      <link>https://www.producthunt.com/products/folderplus</link>
+      <description><![CDATA[
+            无需打开即可查看任何文件夹
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/folderplus</guid>
+      <pubDate>Tue, 02 Jun 2026 19:16:55 GMT</pubDate>
     </item>
     <item>
       <title>林克兹</title>
@@ -76,32 +104,18 @@
       <pubDate>Tue, 02 Jun 2026 18:10:54 GMT</pubDate>
     </item>
     <item>
-      <title>向前</title>
-      <link>https://www.producthunt.com/products/forward-10</link>
+      <title>AI 的 Carbone 技能</title>
+      <link>https://www.producthunt.com/products/carbone</link>
       <description><![CDATA[
-            通过一条命令将您的 API 安装到客户的代码库中
+            教您的 AI 构建文档模板
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/forward-10</guid>
-      <pubDate>Tue, 02 Jun 2026 12:40:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>光彩套件</title>
-      <link>https://www.producthunt.com/products/radiancekit</link>
-      <description><![CDATA[
-            在 Mac 上将照片转换为 3D 高斯斑点
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/radiancekit</guid>
-      <pubDate>Tue, 02 Jun 2026 12:39:28 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/carbone</guid>
+      <pubDate>Tue, 02 Jun 2026 09:39:46 GMT</pubDate>
     </item>
     <item>
       <title>品牌背景 API</title>
@@ -132,6 +146,20 @@
       <pubDate>Mon, 01 Jun 2026 23:39:18 GMT</pubDate>
     </item>
     <item>
+      <title>弗兰兹6号</title>
+      <link>https://www.producthunt.com/products/franz-messenger</link>
+      <description><![CDATA[
+            您所有的消息应用程序都在一个窗口中 - 带有私人人工智能
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/franz-messenger</guid>
+      <pubDate>Mon, 01 Jun 2026 19:56:42 GMT</pubDate>
+    </item>
+    <item>
       <title>使用链接</title>
       <link>https://www.producthunt.com/products/uselink</link>
       <description><![CDATA[
@@ -146,20 +174,6 @@
       <pubDate>Mon, 01 Jun 2026 10:35:49 GMT</pubDate>
     </item>
     <item>
-      <title>InsForge 后端分支</title>
-      <link>https://www.producthunt.com/products/insforge-alpha</link>
-      <description><![CDATA[
-            后端的 Git 风格分支
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/insforge-alpha</guid>
-      <pubDate>Sun, 31 May 2026 07:40:43 GMT</pubDate>
-    </item>
-    <item>
       <title>派遣</title>
       <link>https://www.producthunt.com/products/dispatch-cae30304-5c83-4bd1-acc5-d5a9630193f1</link>
       <description><![CDATA[
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/dispatch-cae30304-5c83-4bd1-acc5-d5a9630193f1</guid>
       <pubDate>Sun, 31 May 2026 05:36:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃利V2</title>
-      <link>https://www.producthunt.com/products/wallie-v2</link>
-      <description><![CDATA[
-            真正让人感觉充满活力的开源人工智能流媒体
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/wallie-v2</guid>
-      <pubDate>Fri, 29 May 2026 12:16:07 GMT</pubDate>
     </item>
     <item>
       <title>适合步行</title>
