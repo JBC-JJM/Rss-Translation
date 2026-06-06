@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 05 Jun 2026 22:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 02:58:34 GMT</lastBuildDate>
     <item>
       <title>本地点击</title>
       <link>https://www.producthunt.com/products/localclicky</link>
@@ -146,6 +146,20 @@
       <pubDate>Thu, 04 Jun 2026 04:45:58 GMT</pubDate>
     </item>
     <item>
+      <title>表意文字4.0</title>
+      <link>https://www.producthunt.com/products/ideogram-4-0</link>
+      <description><![CDATA[
+            通过开放权重、布局控制生成设计就绪图像
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/ideogram-4-0</guid>
+      <pubDate>Thu, 04 Jun 2026 02:58:53 GMT</pubDate>
+    </item>
+    <item>
       <title>竞技场上的代理模式</title>
       <link>https://www.producthunt.com/products/arena-5</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/lumo-studios</guid>
       <pubDate>Sat, 25 Apr 2026 19:22:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>穆德卢姆</title>
-      <link>https://www.producthunt.com/products/moodloom</link>
-      <description><![CDATA[
-            具有 AI 内容过滤功能的无广告 Pinterest 替代方案 
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/moodloom</guid>
-      <pubDate>Mon, 16 Mar 2026 19:14:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
