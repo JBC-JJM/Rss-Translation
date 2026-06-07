@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 07 Jun 2026 13:49:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 16:14:19 GMT</lastBuildDate>
+    <item>
+      <title>如何在Paragon分区管理器社区版上分配/删除驱动器号？</title>
+      <link>https://www.reddit.com/r/software/comments/1tzg4zz/how_to_assignremove_drive_letters_on_paragon/</link>
+      <description><![CDATA[不知道在哪里发布，但我刚刚得到了软件。如何分配/删除驱动器号？   由   提交 /u/No_Expression_8835   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tzg4zz/how_to_assignremove_drive_letters_on_paragon/</guid>
+      <pubDate>Sun, 07 Jun 2026 16:06:25 GMT</pubDate>
+    </item>
     <item>
       <title>有没有一个网站可以生成随机的抖音视频链接？</title>
       <link>https://www.reddit.com/r/software/comments/1tzcj9i/is_there_a_website_that_generates_random_tiktok/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想分享一个我一直在从事的开源项目 - Awesome Music Player。一款开源桌面应用程序，旨在以最高性能和最小资源消耗处理大量本地音频集合。 该架构用 Tauri v2 和 Rust 后端取代了传统的 Electron 堆栈，显着减少了内存占用。 它由 Rust 提供支持，可在大量本地目录中快速提取 ID3 元数据。 使用 React 19、TypeScript 和 TailwindCSS v4 构建，具有动态主题系统和流畅的体验微动画。 通过 localStorage 通过积极的元数据缓存进行优化，确保零延迟启动和即时 UI 渲染。 本地化，开箱即用地支持 8 种语言。 该项目完全开源，并具有可扩展性。如果您有任何有关 Tauri + React 实现的反馈、代码审查或架构讨论，我将不胜感激。 GitHub 存储库 - https://github.com/S1avv/awesome-music-player   由   提交/u/S1avs  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tyo3h3/i_built_a_modern_local_music_player_using_react/</guid>
       <pubDate>Sat, 06 Jun 2026 17:57:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>同意还是不同意？</title>
-      <link>https://www.reddit.com/r/software/comments/1tymt8s/agree_or_not/</link>
-      <description><![CDATA[ 由   提交/u/Delicious_Character6  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tymt8s/agree_or_not/</guid>
-      <pubDate>Sat, 06 Jun 2026 17:08:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
