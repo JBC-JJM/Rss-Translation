@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 15 Jun 2026 19:03:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 23:02:13 GMT</lastBuildDate>
     <item>
       <title>我们正在开发一款使用免费网络工具而不是广告的移动应用程序。这是到目前为止的剧本。</title>
       <link>https://feed.indiehackers.world/post/f4253a6776</link>
@@ -45,7 +45,7 @@ Discord Indiehackers 聊天广告此处]]></description>
 
 （讽刺的是，我并没有忘记：TrackAura 是我为读者构建的价格跟踪百科全书，而 Price Engine 是我为商家构建的价格跟踪 - 同样是我擅长的核心技能，最终指向了一个可以真正接触到人们的渠道。）
 诚实的当前状态：在 Shopify 应用商店上运行，本周首次自然安装，收入为 0 美元。很早。但这是我第一次将发行视为与引擎同等重要的一流交付成果，而不是我在发布后所希望的那样。
-我面临的真正问题是，我很想听听更进一步的人的意见：如果你是一个更愿意编码而不是市场的构建者 - 你实际上如何强迫自己进行分发？是什么让它坚持下去？
+我面临的真正问题是，我很想听听更进一步的人的意见：如果你是一个更愿意编码而不是市场的构建者 - 你实际上如何强迫自己进行分发？是什么让它坚持下来？
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/02dff8c9fb</guid>
       <pubDate>Sun, 14 Jun 2026 13:48:32 GMT</pubDate>
@@ -97,7 +97,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Sat, 13 Jun 2026 11:43:16 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一个小工具，可以将房地产列表照片转换为可随时发布的社交内容</title>
+      <title>我开发了一个小工具，可以将房地产列表照片转换为可立即发布的社交内容</title>
       <link>https://feed.indiehackers.world/post/d3f96ba7e7</link>
       <description><![CDATA[https://outlist.io
 Discord Indiehackers 聊天广告此处]]></description>
@@ -129,14 +129,14 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Fri, 12 Jun 2026 19:52:06 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个不提供建议的人工智能。这是我学到的</title>
+      <title>I Built an AI That Doesn't Give Advice.这是我学到的</title>
       <link>https://feed.indiehackers.world/post/00890e77a8</link>
       <description><![CDATA[还早。
 还是很小。
-仍在计算分配。
-但是，与多年发布内容相比，开发产品让我更多地了解人类行为。
-对于公开建筑的创始人：
-您的产品教会您最意想不到的最重要的事情是什么？
+Still figuring out distribution.
+But building a product has taught me more about human behavior than years of publishing content.
+For founders building in public:
+What&#39;s the biggest thing your product taught you that you weren&#39;t expecting?
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/00890e77a8</guid>
       <pubDate>Fri, 12 Jun 2026 16:00:21 GMT</pubDate>
@@ -164,7 +164,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Fri, 12 Jun 2026 09:15:24 GMT</pubDate>
     </item>
     <item>
-      <title>我通过在 Reddit 上疯传两次来验证一个产品创意。以下是我了解到的影响力和转化率之间的差距。</title>
+      <title></title>
       <link>https://feed.indiehackers.world/post/8ce2e004ad</link>
       <description><![CDATA[教训：影响力并不等于验证。转换就是验证。不存在的东西的等待名单让人们没有理由今天就采取行动。
 因此，我在 tryahead.app/calculator 上构建了第一个真正的功能 - 一个免费的育儿假收入计算器。无需注册。
@@ -201,7 +201,7 @@ Discord Indiehackers 聊天广告此处]]></description>
 检查 Trello 中的任务卡。
 
 运行测试提交并检查 Slack。
-第 8 步 - 创建预启动门
+Step 8 — Create the pre-launch gate
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/a782e29909</guid>
       <pubDate>Thu, 11 Jun 2026 13:58:53 GMT</pubDate>
