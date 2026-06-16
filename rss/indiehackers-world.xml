@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 15 Jun 2026 23:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 03:55:09 GMT</lastBuildDate>
     <item>
       <title>我们正在开发一款使用免费网络工具而不是广告的移动应用程序。这是到目前为止的剧本。</title>
       <link>https://feed.indiehackers.world/post/f4253a6776</link>
@@ -45,7 +45,7 @@ Discord Indiehackers 聊天广告此处]]></description>
 
 （讽刺的是，我并没有忘记：TrackAura 是我为读者构建的价格跟踪百科全书，而 Price Engine 是我为商家构建的价格跟踪 - 同样是我擅长的核心技能，最终指向了一个可以真正接触到人们的渠道。）
 诚实的当前状态：在 Shopify 应用商店上运行，本周首次自然安装，收入为 0 美元。很早。但这是我第一次将发行视为与引擎同等重要的一流交付成果，而不是我在发布后所希望的那样。
-我面临的真正问题是，我很想听听更进一步的人的意见：如果你是一个更愿意编码而不是市场的构建者 - 你实际上如何强迫自己进行分发？是什么让它坚持下来？
+我面临的真正问题是，我很想听听更进一步的人的意见：如果你是一个更愿意编码而不是市场的构建者 - 你实际上如何强迫自己进行分发？是什么让它坚持下去？
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/02dff8c9fb</guid>
       <pubDate>Sun, 14 Jun 2026 13:48:32 GMT</pubDate>
@@ -108,7 +108,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <title>我花在设置冷电子邮件上的时间比实际销售的时间还多。这是修复它的方法。</title>
       <link>https://feed.indiehackers.world/post/4f56cf9583</link>
       <description><![CDATA[无论哪种方式，您都会将时间花在推动发展、与潜在客户交谈并完善您的产品/服务上，而不是配置 DNS 记录和发送时间表。
-访问 https://outboundglow.ai/，亲自尝试 14 天免费试用。输入您的网站网址，让 Glow Mate 为您设置您的第一个广告系列。
+访问 https://outboundglow.ai/，亲自尝试 14 天免费试用。输入您的网站网址，让 Glow Mate 为您设置第一个广告系列。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/4f56cf9583</guid>
       <pubDate>Sat, 13 Jun 2026 10:38:42 GMT</pubDate>
@@ -129,14 +129,14 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Fri, 12 Jun 2026 19:52:06 GMT</pubDate>
     </item>
     <item>
-      <title>I Built an AI That Doesn't Give Advice.这是我学到的</title>
+      <title>我构建了一个不提供建议的人工智能。这是我学到的</title>
       <link>https://feed.indiehackers.world/post/00890e77a8</link>
       <description><![CDATA[还早。
 还是很小。
-Still figuring out distribution.
-But building a product has taught me more about human behavior than years of publishing content.
-For founders building in public:
-What&#39;s the biggest thing your product taught you that you weren&#39;t expecting?
+仍在计算分配。
+但是，与多年发布内容相比，开发产品让我更多地了解人类行为。
+对于公开建筑的创始人：
+您的产品教会您最意想不到的最重要的事情是什么？
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/00890e77a8</guid>
       <pubDate>Fri, 12 Jun 2026 16:00:21 GMT</pubDate>
@@ -164,7 +164,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Fri, 12 Jun 2026 09:15:24 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>我通过在 Reddit 上疯传两次来验证一个产品创意。以下是我了解到的影响力和转化率之间的差距。</title>
       <link>https://feed.indiehackers.world/post/8ce2e004ad</link>
       <description><![CDATA[教训：影响力并不等于验证。转换就是验证。不存在的东西的等待名单让人们没有理由今天就采取行动。
 因此，我在 tryahead.app/calculator 上构建了第一个真正的功能 - 一个免费的育儿假收入计算器。无需注册。
@@ -201,7 +201,7 @@ Discord Indiehackers 聊天广告此处]]></description>
 检查 Trello 中的任务卡。
 
 运行测试提交并检查 Slack。
-Step 8 — Create the pre-launch gate
+第 8 步 - 创建预启动门
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/a782e29909</guid>
       <pubDate>Thu, 11 Jun 2026 13:58:53 GMT</pubDate>
