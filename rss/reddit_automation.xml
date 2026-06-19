@@ -4,111 +4,111 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 11 Jun 2026 15:56:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:23:09 GMT</lastBuildDate>
     <item>
-      <title>我厌倦了为每个自动化重新提示代理，因此我构建了一个您可以仅通过屏幕记录来提供上下文的代理</title>
-      <link>https://www.reddit.com/r/automation/comments/1u2zaqh/i_got_tired_of_reprompting_agents_for_every/</link>
-      <description><![CDATA[对于我真正想要的大多数自动化，显示比提示更容易，因为我们已经在自己的计算机上自己完成了它们。 例如，我有一个任务，我想要：  打开谷歌驱动器到特定文件夹 查看现有文件夹，创建一个包含今天日期的文件夹。如果该名称已存在，请添加 -2，然后添加 -3 等等 打开该新文件夹 从我的计算机上的特定文件夹上传文件  这是一项小任务，但将所有内容拼写出来作为提示，包括“如果存在则执行此操作”。逻辑，然后一步步迭代直到它起作用，这是一项大量的工作，而且很累人。 因此我构建了一个工具（macos 应用程序），您可以在其中屏幕记录自己执行一次任务。代理观看记录，与您确认输入、输出和方法，学习任务并将其编译成确定性脚本。 之后，重新运行几乎是免费的。它只是使用一组新输入运行的代码。循环中没有 llm，没有每次运行成本，无需等待代理思考。 脚本中断时会发生什么？ 它回退到代理。它传递最初学习的上下文和脚本错误日志，以便代理可以完成运行并在需要时修复脚本。对于网络来说，它更喜欢 dom/可访问性选择器而不是坐标，因此小的 ui 更改不会立即杀死它。 很想知道你的想法。我觉得这可能是以更加改革的形式创建自动化的未来。 在评论中添加了存储库的链接   由   提交 /u/slow-fast-person   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u2zaqh/i_got_tired_of_reprompting_agents_for_every/</guid>
-      <pubDate>Thu, 11 Jun 2026 13:36:07 GMT</pubDate>
+      <title>n8n中的批量发票处理：通过表单上传多张发票，一次性提取数据[包含工作流程]</title>
+      <link>https://www.reddit.com/r/automation/comments/1u9xf52/batch_invoice_processing_in_n8n_upload_multiple/</link>
+      <description><![CDATA[       由   提交/u/easybits_ai   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u9xf52/batch_invoice_processing_in_n8n_upload_multiple/</guid>
+      <pubDate>Fri, 19 Jun 2026 09:35:34 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Groq AI 自动发布社交帖子</title>
-      <link>https://www.reddit.com/r/automation/comments/1u2ykb3/automating_social_posts_with_groq_ai/</link>
+      <title>如何将我的圣诞树保留到六月为我带来了数百万美元的客户</title>
+      <link>https://www.reddit.com/r/automation/comments/1u9u9x6/how_keeping_my_christmas_tree_up_until_june_got/</link>
+      <description><![CDATA[ 由   提交/u/I_AM_HYLIAN   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u9u9x6/how_keeping_my_christmas_tree_up_until_june_got/</guid>
+      <pubDate>Fri, 19 Jun 2026 06:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动化中的弹性与便利性</title>
+      <link>https://www.reddit.com/r/automation/comments/1u9sr49/resilience_vs_convenience_in_automation/</link>
+      <description><![CDATA[ 由   提交 /u/GroundwritingLet202   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u9sr49/resilience_vs_convenience_in_automation/</guid>
+      <pubDate>Fri, 19 Jun 2026 05:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>建议 - 有抱负的航空公司飞行员</title>
+      <link>https://www.reddit.com/r/automation/comments/1u9na7k/advice_aspiring_airline_pilot/</link>
+      <description><![CDATA[大家好， 我即将参加大学飞行课程，希望将来成为一名航空公司飞行员。然而，随着人工智能基础设施的发展步伐，我开始担心我的职业生涯能否持续下去。  对于任何拥有专业知识的人，考虑到人工智能的发展，您是否建议不要成为飞行员？在可预见的未来是否有可能出现全自动商用飞机？  谢谢。   由   提交 /u/Intelligent_Shoe3799   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u9na7k/advice_aspiring_airline_pilot/</guid>
+      <pubDate>Fri, 19 Jun 2026 00:32:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Termux 中的 Node.js + FFmpeg 在 Android 手机上自动化了整个短视频编辑工作流程</title>
+      <link>https://www.reddit.com/r/automation/comments/1u9mbw3/i_automated_my_entire_shortform_video_editing/</link>
+      <description><![CDATA[      成分为 Android、Termux、FFMPEG、Node.js、Gemini 免费 😋👌 当我在 30 分钟内制作 10 个 TikTok 视频时，看看它的实际效果。大多数时候我只是等待过程完成，只需轻松点击点击即可..   由   提交/u/baabullah   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u9mbw3/i_automated_my_entire_shortform_video_editing/</guid>
+      <pubDate>Thu, 18 Jun 2026 23:49:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的人工智能代理又做了一件疯狂的事</title>
+      <link>https://www.reddit.com/r/automation/comments/1u9h7x1/another_wild_thing_my_ai_agent_did/</link>
+      <description><![CDATA[这是一个疯狂的故事。 ​ 周末期间，我办公室的一个人订婚了。我当时想，这是一个值得庆祝的理由。所以我告诉我的人工智能代理（catch ai）嘿，请为我们安排一个团队活动，去酒吧喝酒或去餐厅吃饭。 ​ 我给了他一点指导，但基本上他所做的是，一，与整个团队交谈并了解他们的时间表和可用性。第二，选一个地方让我们吃一顿丰盛的晚餐。第三，实际打电话给餐厅并为我们预订一张桌子。第四，他们要求提供一张信用卡作为押金，他实际上能够与主人交谈并让她在不提供我的信用卡详细信息的情况下为我们保留桌子。 ​ 所以这不是一个提示让一切都正确，但它太疯狂了！！   由   提交/u/CartographerFeisty66   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u9h7x1/another_wild_thing_my_ai_agent_did/</guid>
+      <pubDate>Thu, 18 Jun 2026 20:19:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 n8n 自动生成发票</title>
+      <link>https://www.reddit.com/r/automation/comments/1u9fg4o/automating_invoices_with_n8n/</link>
       <description><![CDATA[      由   提交/u/Boring-Shop-9424   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u2ykb3/automating_social_posts_with_groq_ai/</guid>
-      <pubDate>Thu, 11 Jun 2026 13:06:20 GMT</pubDate>
+      <guid>https://www.reddit.com/r/automation/comments/1u9fg4o/automating_invoices_with_n8n/</guid>
+      <pubDate>Thu, 18 Jun 2026 19:11:55 GMT</pubDate>
     </item>
     <item>
-      <title>支持被埋在票下，所以我尝试将其中一些交给代理</title>
-      <link>https://www.reddit.com/r/automation/comments/1u2y6kn/support_was_buried_under_tickets_so_i_tried/</link>
-      <description><![CDATA[没想到会有太多进展。我们每天可能会提供 30-40 张帮助侦察票，而且全部由一个人负责。她落后了，一遍又一遍地回答同样的问题，所以我想要一些至少可以为她起草一份草案的东西 ​ 第一次尝试是每个人都向你推荐的开源代理框架。但我们的支持主管不会编码，而且设置也没有发生。 env 配置、api 键、常见的依赖混乱。她戳了一个小时然后敲了出来。不能责怪她，如果我不是整天住在航站楼里，我也不会碰它 ​ 第二次尝试实际上卡住了。让她安装一个跳过所有配置内容的安装程序，当天下午她就可以启动并运行。现在，她拉了一张票，在给她草稿之前，它会检查我们的文档。大约五分之一的内容是错误的，她从头开始重写，通常是语气问题或者遗漏了一些上下文。其余的她只是清理并发送 ​ 我没有计划的部分是 github 的事情。连接它，以便票证中的错误报告直接推送到 github 问题，因此支持和开发人员不会整天在 slack 上相互 ping。仅这一点就可能证明整个事情是合理的 ​ ​   由   提交/u/FortuneHonest1070   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u2y6kn/support_was_buried_under_tickets_so_i_tried/</guid>
-      <pubDate>Thu, 11 Jun 2026 12:50:52 GMT</pubDate>
+      <title>我在发送前通过人工智能运行每封电子邮件，一位同事发现并认为这很奇怪</title>
+      <link>https://www.reddit.com/r/automation/comments/1u9eeq9/i_run_every_email_through_ai_before_i_send_it_and/</link>
+      <description><![CDATA[ 由   提交/u/North_Teacher_7522   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u9eeq9/i_run_every_email_through_ai_before_i_send_it_and/</guid>
+      <pubDate>Thu, 18 Jun 2026 18:33:24 GMT</pubDate>
     </item>
     <item>
-      <title>有人真的为他们的电子商务商店找到了电话自动化吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1u2x7oj/has_anyone_actually_figured_out_phone_automation/</link>
-      <description><![CDATA[感觉我已经在这个问题上兜圈子好几个月了。我们经常错过电话，客户感到沮丧，每次我尝试解决这个问题时，我都会陷入更深的困境，没有明确的答案。 电子邮件和短信自动化很容易弄清楚。手机感觉就像一个完全不同的野兽，老实说，我很惊讶更多的人不谈论它，因为有多少收入可能会从裂缝中溜走。 甚至没有谈论任何花哨的事情。只是希望当周围无人时能够妥善处理电话，并以某种方式跟进那些表现出兴趣但从未购买过的人。看起来很简单，但我看过的每个解决方案都感觉要么过于企业化，要么与电子商务商店的实际工作方式完全脱节。 也许我想太多了。对于我们这种规模的商店来说，也许手机不值得让我们头疼。 有人真正破解了这个吗？还是像我说的那么痛苦？   由   提交/u/LuminousGiraffe6  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u2x7oj/has_anyone_actually_figured_out_phone_automation/</guid>
-      <pubDate>Thu, 11 Jun 2026 12:07:29 GMT</pubDate>
+      <title>建议</title>
+      <link>https://www.reddit.com/r/automation/comments/1u92xel/suggestion/</link>
+      <description><![CDATA[使其自动化且易于销售的最佳问题或想法。   由   提交/u/LabComplete4703  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u92xel/suggestion/</guid>
+      <pubDate>Thu, 18 Jun 2026 10:47:26 GMT</pubDate>
     </item>
     <item>
-      <title>您最喜欢的真正改变您业务运营方式的“一劳永逸”自动化是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1u2x0a2/whats_your_favorite_setandforget_automation_that/</link>
-      <description><![CDATA[作为一名自由职业者，我绝对鄙视两件事：追客户要钱和手工记账。这很尴尬、无聊，而且浪费大量精力。 所以我建立了一个“获得报酬”的应用程序。机器人：  匹配：每次付款到达我的 Stripe 或银行帐户时，它会自动在 Google 表格中找到相应的发票并将其标记为“已付款”。 追逐：如果发票逾期 3 天，它会自动触发向客户发送礼貌、专业且坚定的后续电子邮件/Slack 消息。  它悄悄地节省了我的现金流并消除了100%手动追债的尴尬。我已经好几个月没有手动追发票了。 你构建的那个被低估的、不性感的、没有它就活不下去的自动化系统是什么？   由   提交/u/debugging_life_14  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u2x0a2/whats_your_favorite_setandforget_automation_that/</guid>
-      <pubDate>Thu, 11 Jun 2026 11:58:33 GMT</pubDate>
+      <title>您如何说服领导批准仓库升级？</title>
+      <link>https://www.reddit.com/r/automation/comments/1u90wxl/how_did_you_convince_leadership_to_approve/</link>
+      <description><![CDATA[我们正在尝试研究内部物料移动的自动化，因为当前的设置一团糟。技术优势是完全显而易见的，但高层一直在阻挠并询问实际的节省和投资回收期。  对于任何真正获得此类项目批准的人来说，您的决策者在最终批准之前需要查看哪些具体数据或数字？  因为现在我只是和他们一起兜圈子。   由   提交 /u/Electrical_Act_5342   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u90wxl/how_did_you_convince_leadership_to_approve/</guid>
+      <pubDate>Thu, 18 Jun 2026 08:48:14 GMT</pubDate>
     </item>
     <item>
-      <title>管理文档工作流程的最佳工具是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1u2w1wn/what_are_the_best_tools_for_managing_document/</link>
-      <description><![CDATA[我是一家合法公司的营销/运营人员。虽然技术性不强，但我当然知道 Zapier 的情况。因此，我的任务是处理我们的文档工作流程自动化。我问了AI，并从中得到了一些品牌名称。我已经测试了一些，但有些似乎受到销售团队的限制，我想知道你是否可以在这里帮助我。  我首先测试的肯定是 Zapier。我经常用它来做其他事情，而且效果很好。然而，对于文档来说，它显然缺少一些功能。哦，忘了说我们所有的文档都在 Google 文档中。我们的老板希望保持这种状态。 Zapier 确实与 Google Drive 有一些联系，但不是那么好。它可以跟踪正在添加的文件，但仅此而已。此外，我需要围绕我们的文档创建审批工作流程 - 例如，如果合同金额高于某个数字，我需要财务部门批准。扎皮尔做不到这一点。  我也尝试过 PandaDoc。这个感觉很棒。最好的部分是文档生成，并且有自动化功能。然而，所有这些都可以在 Google 文档之外进行 - 这对我来说是必须的要求。  Docuwire 和 M-Files 也被推荐，但我在网站访问阶段就陷入了困境。两者显然都适合技术含量很高的人，我感到害怕。然而，我很感激关于这两者的任何提示或个人经验推荐，因为我还没有亲自测试过它们。  所以，现在我正在考虑两个强有力的选择——Bika ai 和 Zenphi。 Zenphi 在理解我们的 Google Drive 混乱并 100% 地在正确的位置找到正确的文档方面绝对是非常棒的。此外，使用 Zenphi 生成文档似乎非常简单且易于处理。批准还允许任何我想要的逻辑和条件。然而，Bika 似乎更……我不知道……使用起来很愉快。他们还集成了很多人工智能，大量非常酷的功能，例如文档分析。这里有人有过 Zenphi 或 Bika ai 的经验吗？很想听听真正使用过它们的人的意见。有哪些优点、缺点，最重要的是——他们的支持如何运作？我怀疑我需要大量的帮助   由   提交/u/AnaB-2020  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u2w1wn/what_are_the_best_tools_for_managing_document/</guid>
-      <pubDate>Thu, 11 Jun 2026 11:11:40 GMT</pubDate>
+      <title>如何绕过Cloudflare？</title>
+      <link>https://www.reddit.com/r/automation/comments/1u8zoes/how_to_bypass_cloudflare/</link>
+      <description><![CDATA[       https://preview.redd.it/1qgc7frtuz7h1.png?width=668&amp;format=png&amp;auto=webp&amp;s=33403ea4483b6d9f2150bd63ee91780bbf2c55ec 我正在为我的公司构建网络自动化工具。使用 claude pro 进行 vivi 编码和反重力 IDE。我陷入了这个阶段，登录后必须手动按验证框才能继续。克劳德听到“Cloudflare”并字面地回答说他们无能为力。 背景故事：我正在尝试实现门禁注册自动化代理的自动化。所有的记忆都在它里面，很难从一开始就训练其他模型。我已经为一个网站构建了这个，并且正在开发第二个网站。是否有任何其他代码生成工具我可以暂时使用而无需更改已编写的内容。因为一旦我解决了这个问题，我就可以继续使用 claude。 Stack：React/Vite 前端、FastAPI 后端、PostgreSQL 数据库、用于浏览器自动化的 Playwright。   由   提交/u/doctorwhodoctorme   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u8zoes/how_to_bypass_cloudflare/</guid>
+      <pubDate>Thu, 18 Jun 2026 07:32:12 GMT</pubDate>
     </item>
     <item>
-      <title>法国将投资 930 亿欧元巩固其作为欧洲人工智能中心的地位</title>
-      <link>https://www.reddit.com/r/automation/comments/1u2qecc/france_is_investing_93_billion_to_strengthen_its/</link>
-      <description><![CDATA[       由   提交 /u/Low-Honeydew6483   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u2qecc/france_is_investing_93_billion_to_strengthen_its/</guid>
-      <pubDate>Thu, 11 Jun 2026 05:46:47 GMT</pubDate>
+      <title>将零售/建议零售价从官方品牌网站拉至反机器人程序之外</title>
+      <link>https://www.reddit.com/r/automation/comments/1u8y9rt/pulling_retailmsrp_prices_from_official_brand/</link>
+      <description><![CDATA[尝试直接从阿迪达斯和耐克等著名品牌网站到 Head、Lowa 等不那么出名的网站获取产品的正常零售价（而不是促销价）。数量非常少，团队每周可能总共有 10 到 100 个品牌。  基本上，1 个 Excel 文件 = 1 个品牌下的 50-500 个产品，带有 SKU（有时带有 UPC）以及所有其他产品详细信息。 您对我如何做到这一点有什么建议吗？ 对于这种数量，是否值得支付像 scrape do 或 Bright Data 这样的抓取 API 的费用，还是有更简单的方法？跑步剧作家本人真的能超越阿迪达斯机器人吗，还是浪费时间？对任何可行的事情都持开放态度。谢谢！   由   提交 /u/lanzanity   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u8y9rt/pulling_retailmsrp_prices_from_official_brand/</guid>
+      <pubDate>Thu, 18 Jun 2026 06:09:21 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个工具来监视您的 Shopify 竞争对手，这样您就不必</title>
-      <link>https://www.reddit.com/r/automation/comments/1u2nx7v/i_built_a_tool_that_watches_your_shopify/</link>
-      <description><![CDATA[几个月前，我每天早上都会手动检查 3 个竞争对手的商店。 刷新产品页面。检查价格是否变化。注意到新来的人。 这很乏味，而且我总是错过一些东西。 所以我建立了一些东西来为我做这件事。粘贴 Shopify URL，它会监视所有内容 - 价格变化、补货、新产品 - 并通过电子邮件或 Telegram 向您发送 ping 消息。 在此处分享以获取实际从事电子商务的人员的反馈。这是否为您解决了真正的痛苦，还是我是唯一遇到此问题的人？ 免费尝试：shopsentry .datascrape .in   由   提交/u/rohan_3106  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u2nx7v/i_built_a_tool_that_watches_your_shopify/</guid>
-      <pubDate>Thu, 11 Jun 2026 03:39:54 GMT</pubDate>
+      <title>让人工智能代理直接访问数据库是一场噩梦</title>
+      <link>https://www.reddit.com/r/automation/comments/1u8lywu/the_nightmare_of_giving_an_ai_agent_direct_access/</link>
+      <description><![CDATA[大家好， 我和我的团队目前正在构建一个 AI 支持机器人试点（请参阅之前的帖子:)），上周我们正在处理一个令人头疼的问题：数据库集成。 如果 AI 工具实际上对自动化有用，它不能只阅读静态帮助文章。它需要查找实时用户数据，例如订单状态、订阅级别或账单历史记录。 但是让法学硕士直接连接到实时 SQL 数据库是安全团队最糟糕的噩梦。如果提示过滤失败，即使一次，用户理论上也可以欺骗机器人泄露其他人的数据或弄乱表格。 为了为我们的试点解决这个问题，我们必须构建一个隔离层，以便 AI 永远不会编写直接查询，而是触发我们控制的特定的锁定 API 端点。 对于其他需要实时数据查找的自动化工作流程的人，您如何将 AI 安全地连接到内部数据库？您是否使用 API，还是找到了更安全的解决方法？   由   提交/u/Boby_Irendolan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u8lywu/the_nightmare_of_giving_an_ai_agent_direct_access/</guid>
+      <pubDate>Wed, 17 Jun 2026 20:40:54 GMT</pubDate>
     </item>
     <item>
-      <title>停止重复节点 - 使用子工作流程</title>
-      <link>https://www.reddit.com/r/automation/comments/1u2nit2/stop_duplicating_nodes_use_subworkflows_instead/</link>
-      <description><![CDATA[ 由   提交 /u/Boring-Shop-9424   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u2nit2/stop_duplicating_nodes_use_subworkflows_instead/</guid>
-      <pubDate>Thu, 11 Jun 2026 03:19:56 GMT</pubDate>
+      <title>将我的帮助台与 n8n 统一起来</title>
+      <link>https://www.reddit.com/r/automation/comments/1u8hlu1/unified_my_helpdesk_with_n8n/</link>
+      <description><![CDATA[       由   提交/u/Boring-Shop-9424   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u8hlu1/unified_my_helpdesk_with_n8n/</guid>
+      <pubDate>Wed, 17 Jun 2026 18:01:55 GMT</pubDate>
     </item>
     <item>
-      <title>用 1 个批量图像生成请求替换了 50 个连续 API 调用</title>
-      <link>https://www.reddit.com/r/automation/comments/1u2cy6c/replaced_50_sequential_api_calls_with_1_batch/</link>
-      <description><![CDATA[正在为一个包含 50 篇文章的博客生成 OG 图像 - 每篇文章一次 API 调用，连续，花费很长时间。 切换到批量渲染。分享更改的内容。 之前： for (const post of posts) { const img = waitgenerateImage(post) // 50 个调用，每个约 300ms = 15 秒等待 saveImage(img, post.slug) }  之后： const response = wait fetch(&#39;renderpix.dev/v1/batch&#39;, { method: &#39;POST&#39;, headers: { &#39;X-API-Key&#39;: key, &#39;Content-Type&#39;: &#39;application/json&#39; }, body: JSON.stringify({ items: posts.map(post =&gt; ({ html: OG_TEMPLATE, vars: { title: post.title, 作者: post.author }, width: 1200, height: 630, format: &#39;png&#39; })) }) }) const { results } = wait response.json() // 50 张图像，总计约 3 秒  模板变量 处理动态数据 — 一个 HTML 模板，每个项目有不同的变量。没有字符串插值混乱。 部分失败是内置的 - 如果 50 个失败中的 2 个失败，您仍然会得到 48 个图像，响应为 207。 如果您正在进行无代码自动化，也可以与 n8n 和 Make 一起使用。   由   提交 /u/ozgur-s   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u2cy6c/replaced_50_sequential_api_calls_with_1_batch/</guid>
-      <pubDate>Wed, 10 Jun 2026 19:53:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>您当前用于自动化社交媒体的堆栈是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1u2bjp3/whats_your_current_go_to_stack_for_automating/</link>
-      <description><![CDATA[一直在测试不同的工具，以减轻跨平台内容管理的负担，尤其是保持一致的品牌基调。通常的调度和设计工具可以完成工作，但一切仍然感觉有点笨重和分散。  我真正想知道的是，现在自动化已经通过云 m​​cp 和适当的集成跃升至另一个水平。当您基本上可以连接所有内容并通过一个对话层运行整个计划时，旧的调度程序方法开始感觉过时了   由   提交 /u/TangeloOk9486   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u2bjp3/whats_your_current_go_to_stack_for_automating/</guid>
-      <pubDate>Wed, 10 Jun 2026 19:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>演示：使用 Row-Bot 将研究成果转化为可供客户使用的报告</title>
-      <link>https://www.reddit.com/r/automation/comments/1u2aqer/demo_turn_research_into_a_clientready_report_with/</link>
-      <description><![CDATA[      研究通常意味着兼顾搜索选项卡、注释、PDF、文档和电子邮件。 在此 Row-Bot 演示中，我将展示如何将其转化为一个工作流程：  搜索网络 使用上传的客户背景 生成结构化简报 导出 PDF 起草客户电子邮件    由   提交/u/Acceptable-Object390   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u2aqer/demo_turn_research_into_a_clientready_report_with/</guid>
-      <pubDate>Wed, 10 Jun 2026 18:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 n8n 自动化 Instagram 潜在客户</title>
-      <link>https://www.reddit.com/r/automation/comments/1u29nsb/automating_instagram_leads_with_n8n/</link>
-      <description><![CDATA[      由   提交/u/Boring-Shop-9424   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u29nsb/automating_instagram_leads_with_n8n/</guid>
-      <pubDate>Wed, 10 Jun 2026 17:55:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>您自动化了哪些无聊的任务并立即后悔没有早些年实现自动化？</title>
-      <link>https://www.reddit.com/r/automation/comments/1u215ci/what_boring_task_did_you_automate_and_immediately/</link>
-      <description><![CDATA[​ 我最近自动化了一项我多年来一直手动执行的任务。 ​ 有趣的是，任务本身并不是特别困难。每次只花了一两分钟，这可能就是为什么我从来没有费心去修复它。 ​ 然后我终于花了大约 20 分钟设置了一个自动化系统，一天之内我就想知道我浪费了多少时间来手动完成它。 ​ 这让我意识到，一些最浪费时间的事情并不是最浪费时间的事情。需要花费数小时的任务，它们是您不假思索地重复数百或数千次的小任务。 ​ 您自动化并立即后悔多年前没有自动化的最无聊的任务是什么？ ​ 它是什么？您认为它为您节省了多少时间、精力或挫败感？   由   提交/u/SMBowner_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u215ci/what_boring_task_did_you_automate_and_immediately/</guid>
-      <pubDate>Wed, 10 Jun 2026 12:44:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们中最近开始自动化的人，开始时有什么困难？</title>
-      <link>https://www.reddit.com/r/automation/comments/1u1zu8f/those_of_you_who_recently_started_automating/</link>
-      <description><![CDATA[我们正在尝试构建一个自动化工作平台（我知道，令人震惊），而我们不断遇到的问题之一是第一步往往是最困难的。 “我要自动化什么？我如何开始？&quot; 很多人似乎无法足够具体地描述任务以实现自动化，这使得自动化立即陷入困境。 那些挣扎过但克服了最初的事情的人，想了解是什么对你能够完成某件事产生了影响？ 编辑：在问题周围添加引号，以确保人们理解我不是在问问题，而是我们不断听到的问题与人交谈时。   由   提交/u/OnlyCrappyNamesLeft   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u1zu8f/those_of_you_who_recently_started_automating/</guid>
-      <pubDate>Wed, 10 Jun 2026 11:46:08 GMT</pubDate>
+      <title>您实施的最节省时间的自动化是什么？</title>
+      <link>https://www.reddit.com/r/automation/comments/1u8230h/whats_one_automation_you_implemented_that_saved/</link>
+      <description><![CDATA[我一直在探索不同的方法来自动化重复性工作，无论是在家里还是在工作中。这让我想知道您构建（或采用）的对生产力影响最大的单一自动化是什么？ 可以是任何东西： Excel/Google Sheets Python 脚本 Zapier/Make/n8n AI 工作流程 制造业或工业自动化 寻找实用而不是过于复杂的想法。   由   提交/u/Final_Tea1759  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u8230h/whats_one_automation_you_implemented_that_saved/</guid>
+      <pubDate>Wed, 17 Jun 2026 06:14:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
