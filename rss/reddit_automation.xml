@@ -4,111 +4,111 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 22 Jun 2026 22:46:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 17:06:17 GMT</lastBuildDate>
     <item>
-      <title>打开保存关闭所有 Excel 文件（无更新，无密码）- VBA</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucuu68/open_save_close_all_excel_files_no_update_no/</link>
-      <description><![CDATA[       由   提交/u/New-Length-9406   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucuu68/open_save_close_all_excel_files_no_update_no/</guid>
-      <pubDate>Mon, 22 Jun 2026 19:46:24 GMT</pubDate>
+      <title>[ 已被 Reddit 删除 ]</title>
+      <link>https://www.reddit.com/r/automation/comments/1ujuuof/removed_by_reddit/</link>
+      <description><![CDATA[[因违反内容政策而被 Reddit 删除。 ]   由   提交/u/Long_Investment_9780   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ujuuof/removed_by_reddit/</guid>
+      <pubDate>Tue, 30 Jun 2026 16:59:24 GMT</pubDate>
     </item>
     <item>
-      <title>Make：没有使用数据？！</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucr7lo/make_not_using_the_data/</link>
-      <description><![CDATA[       https://preview.redd.it/rkodn49pdv8h1.png?width=1109&amp;format=png&amp;auto=webp&amp;s=9148e93718faa151ae767e76a75ece5b498562b7 我的第一个自动化：RSS 帖子应该保存在 Excel 文件中...但是...?!?!   由   提交/u/Mission-Example-194   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucr7lo/make_not_using_the_data/</guid>
-      <pubDate>Mon, 22 Jun 2026 17:33:47 GMT</pubDate>
+      <title>使用 n8n 自动更新订单状态</title>
+      <link>https://www.reddit.com/r/automation/comments/1uju86z/automated_order_status_updates_with_n8n/</link>
+      <description><![CDATA[      由   提交/u/Boring-Shop-9424   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uju86z/automated_order_status_updates_with_n8n/</guid>
+      <pubDate>Tue, 30 Jun 2026 16:36:22 GMT</pubDate>
     </item>
     <item>
-      <title>现在哪种自动化工具实际上值得学习？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucqg6a/which_automation_tool_is_actually_worth_learning/</link>
-      <description><![CDATA[我最近一直在测试一些自动化平台，包括 Zapier、Make、n8n 和一些较新的专注于 AI 的工具。每个似乎都有自己的优势，但对于积极构建的人们来说，在定价、灵活性、易用性或可扩展性方面也有一些权衡。自动化，哪个平台已成为您的首选，为什么？您优先考虑的是易于设置、人工智能功能、自托管、成本还是其他什么？ 好奇人们在最初的炒作消退后仍在使用哪些工具   由   提交/u/darshie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucqg6a/which_automation_tool_is_actually_worth_learning/</guid>
-      <pubDate>Mon, 22 Jun 2026 17:06:00 GMT</pubDate>
+      <title>有哪些任务因为自动化不起作用而仍然付钱让人去做？</title>
+      <link>https://www.reddit.com/r/automation/comments/1ujtd3w/what_task_do_you_still_pay_a_person_to_do_because/</link>
+      <description><![CDATA[现在我确信你们每个人都尝试过将自己所做的大部分工作自动化，并且对于其中的很大一部分，我确信它是有效的。但在实际工作中，有些事情还没有完全实现自动化。在实践中，自动化在哪里真正不再值得，而你只是在说服自己自动化效率更高？您尝试将哪些具体操作任务自动化但没有成功？   由   提交 /u/r4yce   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ujtd3w/what_task_do_you_still_pay_a_person_to_do_because/</guid>
+      <pubDate>Tue, 30 Jun 2026 16:04:57 GMT</pubDate>
     </item>
     <item>
-      <title>还有其他人从复杂的 Zapier 链转向小型、单一用途的工作流程工具吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucqf6t/anyone_else_shifting_away_from_complex_zapier/</link>
-      <description><![CDATA[我曾经有过这个极其脆弱的自动化设置：Webflow 表单 -&gt;扎皮尔 -&gt;气垫 -&gt;自定义脚本-&gt;邮箱。每隔几周，一次小的 API 更新就会破坏它，我会花半天时间进行故障排除。 最近，我一直在用小型、单一用途的跟踪器应用程序或基本的微工作流程替换这些多功能工具链，这些应用程序可以在一个地方处理接收和后续操作。它不那么“花哨”，但它不会崩溃。 你们是否已经开始将脆弱的多工具管道整合为更简单、单一用途的设置，还是仍然是 Zapier 团队？   由   提交 /u/MoodIn_Me   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucqf6t/anyone_else_shifting_away_from_complex_zapier/</guid>
-      <pubDate>Mon, 22 Jun 2026 17:04:57 GMT</pubDate>
+      <title>如果您拥有无限的资源，您首先要自动化的是什么？</title>
+      <link>https://www.reddit.com/r/automation/comments/1ujse7i/whats_the_first_thing_youd_automate_if_you_had/</link>
+      <description><![CDATA[ 由   提交 /u/Boring_Yam8366   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ujse7i/whats_the_first_thing_youd_automate_if_you_had/</guid>
+      <pubDate>Tue, 30 Jun 2026 15:28:35 GMT</pubDate>
     </item>
     <item>
-      <title>初学者应该从哪里开始使用人工智能代理和工作流程自动化？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucp0l1/where_should_beginners_start_with_ai_agents/</link>
-      <description><![CDATA[我想开始构建人工智能驱动的工作流程和代理，但是有很多工具：n8n、Make、Zapier、Relevance AI 等等 对于从头开始的人来说，哪个平台可以帮助您最快地学习，同时仍然对实际项目有用？寻找既能教授基础知识又不会让人不知所措的东西   由   提交/u/juniperbush12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucp0l1/where_should_beginners_start_with_ai_agents/</guid>
-      <pubDate>Mon, 22 Jun 2026 16:14:28 GMT</pubDate>
+      <title>作为一个小团队添加视频功能，该模型通常是简单的 20%</title>
+      <link>https://www.reddit.com/r/automation/comments/1ujnd93/adding_a_video_feature_as_a_small_team_the_model/</link>
+      <description><![CDATA[我在 VideoDB 工作，分享了我在小型团队中经常看到的一种模式，将视频添加到他们的产品中。 带有模型的演示在一个下午看起来很棒。然后真实的镜头出现，工作开始。您需要一个采样策略，这样您就不会将每一帧都发送到模型并消耗预算。您需要场景检测，因此检索很有用。您需要将搜索结果映射回用户实际可以播放的剪辑。这些都不是迷人的，所有这些都决定了该功能是否有效。 最快完成该功能的团队往往会停止将视频视为文件，并开始将其视为可搜索的上下文。一旦建立索引并可查询，小团队就可以在几分钟而不是几周内从原始素材转移到第一个有用的查询。这通常就是发布视频功能和搁置它之间的区别。 如果您已经自动化了视频管道的任何部分，我想听听最让您绊倒的是什么。采样、评估、结构化输出或保持成本合理。 如果您遇到同样的问题，很乐意在评论中交换经验。   由   提交 /u/CallmeAK__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ujnd93/adding_a_video_feature_as_a_small_team_the_model/</guid>
+      <pubDate>Tue, 30 Jun 2026 12:07:29 GMT</pubDate>
     </item>
     <item>
-      <title>泰加 (Tyga) 和艾薇儿·拉维尼 (Avril Lavigne) 在《我》中看起来很像 1️⃣</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucnq4w/tyga_and_avril_lavigne_look_one_1_in_i/</link>
-      <description><![CDATA[ 由   提交/u/Yes_Einstein   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucnq4w/tyga_and_avril_lavigne_look_one_1_in_i/</guid>
-      <pubDate>Mon, 22 Jun 2026 15:27:47 GMT</pubDate>
+      <title>我构建了一个移动应用程序，用于将语音输入到 n8n 工作流程中 - 现在它可以分块传输长录音</title>
+      <link>https://www.reddit.com/r/automation/comments/1ujltga/i_built_a_mobile_app_for_voice_input_into_n8n/</link>
+      <description><![CDATA[       由   提交 /u/Zafahix   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ujltga/i_built_a_mobile_app_for_voice_input_into_n8n/</guid>
+      <pubDate>Tue, 30 Jun 2026 10:50:44 GMT</pubDate>
     </item>
     <item>
-      <title>自动化自由职业者选择</title>
-      <link>https://www.reddit.com/r/automation/comments/1uclyy4/automating_freelancer_selection/</link>
+      <title>考虑在我们的工厂实现物料搬运自动化。人们通常从哪里开始？</title>
+      <link>https://www.reddit.com/r/automation/comments/1uji1rs/thinking_about_automating_material_handling_in/</link>
+      <description><![CDATA[我们正在考虑自动化工厂内的一些物料移动，主要是托盘和重复运输。不试图立即实现完全自动化，只是想从实用的地方开始。对于那些以前做过此操作的人来说，第一步通常是什么？您从什么开始？为什么？   由   提交/u/Final_Tea1759  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uji1rs/thinking_about_automating_material_handling_in/</guid>
+      <pubDate>Tue, 30 Jun 2026 07:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过所有反机器人和验证码的隐形 Playwright (Firefox) 版本</title>
+      <link>https://www.reddit.com/r/automation/comments/1ujfxdh/a_stealth_playwright_firefox_version_that_passes/</link>
+      <description><![CDATA[此分支在 C++ 级别进行了修补，并为每个会话生成不同但内部一致的指纹。 它是 MIT 许可下的完全开源项目，完全免费使用，无需付款、订阅或任何类型的隐藏费用。我主要寻求来自 Playwright、Firefox、浏览器指纹识别或 AI 代理工作人员的技术反馈。 Repo：https://github.com/feder-cr/invisible_playwright   由   提交 /u/OwlZealousideal4779   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ujfxdh/a_stealth_playwright_firefox_version_that_passes/</guid>
+      <pubDate>Tue, 30 Jun 2026 05:12:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>你会怎么做？我是新人</title>
+      <link>https://www.reddit.com/r/automation/comments/1uj64p4/how_would_you_do_it_im_new/</link>
+      <description><![CDATA[我找到了一份数据处理工作，向雇主提到我也有一点人工智能自动化经验，现在我专门为此受聘。 任务是从不同客户的几个巨大的 Excel 文件中提取特定数据。每个原始数据就像 20-40 列 excel 或 csv，以及数百行。基本上每个文件都会有不同的列标题，我们需要根据包含分类字符串行的一列进行过滤，但每个客户端的分类术语也不同。不同的客户端在其文件中也有不同的标题和表格格式。 在开始时，我只是对解决方案进行了 vivi 编码，最终得到了处理不同文件的 AI + Python 脚本。 AI 基于 API，仅偶尔调用新文件来生成列映射，因为每个客户端的列标题都不同。 我面临的问题是我试图使整个事情能够加入并为每个新文件“格式”创建新映射。但每个新文件都让我有必要编辑硬编码的 Python 脚本。因为Python 负责除了映射之外的所有其他事情。  以下是我面临的一些问题以及我提出的解决方案：  双行标头，某些客户端的标头位于 2 行中，但他们以某种方式将物理单元写入信息标头上方，因此我编辑 python 脚本来发现这些问题并只获取两行。然后，脚本对行进行分析（对于字符串，我采用分类列表或一些样本，对于数字，我采用范围值），并将其发送到 AI 以生成所需数据的索引映射。 Excel 中的不同主要数据位置。振动编码脚本最终使用某种与单元格内容相关的基于标准的内容来发现 Excel 中的实际表格位置。但今天我遇到一个文件，其中的表格被分成不同的工作表，因此需要提取多个工作表。 缺少所需的列。有几次人工智能未能找到正确的列，然后我需要修改提示。但在某些情况下，所需的数据需要从其他地方导出，例如从完全不同的列中导出，然后我需要执行一些列操作。或者今天我还发现了信息位于文件名或工作表名称中的情况。  当我自己做这件事时，这不是问题，但我觉得我在为此建立真正自动化的工作流程方面有点失败。目前交付的是一个 .exe 文件作为内部工具，他们可以在几秒钟内删除输入并接收输出。 此外还有一个存储映射的后端服务器，LLM 负责更新映射。设置起来也有点麻烦。 当文件被识别为符合先前已知的表格格式且具有完全相同的分类术语时，整个设置还允许完全离线操作。 潜在的替代方案是雇主也接受针对 Claude 桌面“项目”的微调提示。老实说，我质疑 Python + API LLM 是否是一个好方法，或者我应该依赖 Claude 的代理能力。但我可能有点陷入沉没成本谬误状态，因为我投入了时间来开发 python 脚本。   由   提交 /u/Hot-Fan-1804   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uj64p4/how_would_you_do_it_im_new/</guid>
+      <pubDate>Mon, 29 Jun 2026 21:50:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>解决无聊的事情很性感！</title>
+      <link>https://www.reddit.com/r/automation/comments/1uj3vz3/fixing_the_boring_stuff_is_sexy/</link>
+      <description><![CDATA[老实说，我认为修复无聊的东西是最好的部分。你的自动化系统坏了，你不知道为什么，或者有人离开了，但你知道它是如何工作的。这就是所谓的治理，也是楼宇自动化中最容易被忽视的方面。每个人都关注“如何”自动化工作以及“什么”工具，他们忘记了“为什么”以及“谁”。这绝对是人工智能自动化中不太吸引人的部分，但它对任何公司来说都是最重要的部分。为公司构建后台解决方案，并看着他们真正看到超负荷工作的团队得到缓解，这就是区别！这就是为什么我说无聊的东西很性感！不是看我能做什么，而是看我们如何帮助团队在日常生活中变得更好。如果您需要有关无聊自动化的帮助，请伸出援手，我们很乐意提供帮助。    由   提交/u/WorkLoopie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uj3vz3/fixing_the_boring_stuff_is_sexy/</guid>
+      <pubDate>Mon, 29 Jun 2026 20:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于将表单数据提取到模板中的 AI 工具</title>
+      <link>https://www.reddit.com/r/automation/comments/1uj318y/ai_tools_for_extracting_form_data_into_templates/</link>
+      <description><![CDATA[我有大量的表单提交，需要一个能够可靠地提取相关上下文并将其映射到结构化大纲或报告中的工具。 寻找可以端到端自动化此过程的工具，而不需要大量的手动解析或设置。您在此工作流程中使用什么工具？   由   提交 /u/Visual-Context-7492   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uj318y/ai_tools_for_extracting_form_data_into_templates/</guid>
+      <pubDate>Mon, 29 Jun 2026 19:54:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动化我的代发货订单</title>
+      <link>https://www.reddit.com/r/automation/comments/1uiz214/automated_my_dropshipping_orders/</link>
       <description><![CDATA[       由   提交/u/Boring-Shop-9424   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1uclyy4/automating_freelancer_selection/</guid>
-      <pubDate>Mon, 22 Jun 2026 14:23:14 GMT</pubDate>
+      <guid>https://www.reddit.com/r/automation/comments/1uiz214/automated_my_dropshipping_orders/</guid>
+      <pubDate>Mon, 29 Jun 2026 17:29:38 GMT</pubDate>
     </item>
     <item>
-      <title>寻找有关电子邮件设计模板创建的建议 - 我的总是在移动设备上崩溃。我做错了什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucl6iy/looking_for_advice_on_email_design_template/</link>
-      <description><![CDATA[我一直在尝试为营销活动构建自己的电子邮件设计模板，但它们在移动设备上不断出现故障，我无法弄清楚原因。 桌面看起来不错，但在较小的屏幕上，布局会变得混乱或意外变化。 我正在使用相当简单的基于表格的方法来创建具有内联样式的电子邮件设计模板，但不同电子邮件客户端的响应能力仍然不一致。 我开始认为我可能缺少一些响应式电子邮件工作的基本规则，而不仅仅是一个工具问题。好奇其他人如何处理跨设备保持稳定的构建模板。   由   提交 /u/Forsaken-Archer-7887   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucl6iy/looking_for_advice_on_email_design_template/</guid>
-      <pubDate>Mon, 22 Jun 2026 13:52:14 GMT</pubDate>
+      <title>人们如何实现 50 个单位的 Airbnb 物业管理自动化？</title>
+      <link>https://www.reddit.com/r/automation/comments/1uitked/how_are_people_automating_airbnb_property/</link>
+      <description><![CDATA[在 50 个单位时，这种手动协调正在成为任务，而不是任务的一部分。客人沟通是我能够管理的事情，但清洁协调、业主沟通和评论跟踪占用了我的大部分时间。曾尝试使用 zapier 集成其中一些流程，但工作流程失败得太频繁，无法证明为创建它们而投入的精力是合理的。 想知道这种规模的操作员如何管理这个问题，无论是通过其他平台或另一种自动化方法还是完全不同的方法。不是在寻找理论上有效的解决方案，而是想听听一些实践经验。   由   提交 /u/ybur011   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uitked/how_are_people_automating_airbnb_property/</guid>
+      <pubDate>Mon, 29 Jun 2026 14:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>Beyond Zapler：2026 年您将使用哪些自动化工具？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucig7h/beyond_zapler_what_automation_tools_are_you_using/</link>
-      <description><![CDATA[我最近一直在探索自动化平台，并意识到除了 Zapier 和 Make 之外还有更多选择， 不断出现的一些名称包括 WRK、Activepieces、Relay、Power Automate 和 Gumloop。他们对待自动化的方式似乎都略有不同，无论是人工智能功能、自托管、企业集成还是处理更复杂的工作流程。 对于那些花时间使用多个平台的人来说，哪一个最终成为您的主要工具，为什么？我特别想知道这些替代方案在实际使用中哪些地方优于 Zapier，而不仅仅是操作定价或功能列表。   由   提交 /u/LissePattern   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucig7h/beyond_zapler_what_automation_tools_are_you_using/</guid>
-      <pubDate>Mon, 22 Jun 2026 11:52:10 GMT</pubDate>
+      <title>如果 API 明天就消失了，您的自动化系统中还有多少百分比仍然可以工作？</title>
+      <link>https://www.reddit.com/r/automation/comments/1uiq6ou/if_apis_disappeared_tomorrow_what_percentage_of/</link>
+      <description><![CDATA[ 由   提交 /u/Effective-Cake-1687   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uiq6ou/if_apis_disappeared_tomorrow_what_percentage_of/</guid>
+      <pubDate>Mon, 29 Jun 2026 11:45:43 GMT</pubDate>
     </item>
     <item>
-      <title>自动化工具</title>
-      <link>https://www.reddit.com/r/automation/comments/1uch7aj/automation_tools/</link>
-      <description><![CDATA[嘿！我正在尝试找出应该学习哪些自动化工具来帮助我未来的客户。既然 n8n 不是免费的，我有什么选择？任何建议都会非常有帮助。 还给我一个我可以制作的有趣的项目想法？   由   提交 /u/Party_Initiative_621   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1uch7aj/automation_tools/</guid>
-      <pubDate>Mon, 22 Jun 2026 10:46:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code vs Cursor vs Codex：人们在生产中实际使用的是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucgee2/claude_code_vs_cursor_vs_codex_what_are_people/</link>
-      <description><![CDATA[ 由   提交 /u/Flaky_Site_4660   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucgee2/claude_code_vs_cursor_vs_codex_what_are_people/</guid>
-      <pubDate>Mon, 22 Jun 2026 10:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucfriu/need_help/</link>
-      <description><![CDATA[有没有办法实现自动化，记录下进球和比赛（如运球、传球、杆子）发生的时间戳，因为我有这些长镜头，我想用时间戳标记下来，所以我不想自己看它们，它太大而且耗时，我尝试了 Gemini claude 和 groq，所以请提出任何建议    由   提交/u/Own_Faith小区_36  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucfriu/need_help/</guid>
-      <pubDate>Mon, 22 Jun 2026 09:25:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>您构建的最有价值的、每周都能为您节省时间的自动化是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucc3bd/whats_the_most_valuable_automation_youve_built/</link>
-      <description><![CDATA[我最近一直在审查我的自动化，并意识到最简单的自动化往往能提供最大的投资回报率。 我很好奇： 您最常用的自动化是什么？ 它每周为您节省多少时间？ 您使用什么工具（n8n、Make、Zapier、Power Automate、自定义脚本、AI 代理、等）？ 您是为了工作、副业还是个人生活而构建它的？ ​   由   提交 /u/Shoddy_Quiet1995   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucc3bd/whats_the_most_valuable_automation_youve_built/</guid>
-      <pubDate>Mon, 22 Jun 2026 05:45:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>最近受聘于一家屡获殊荣的 SaaS。记录业务实际需要的代理运行时</title>
-      <link>https://www.reddit.com/r/automation/comments/1uc5nro/recently_hired_by_an_award_winning_saas/</link>
-      <description><![CDATA[ 由   提交 /u/myna-cx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1uc5nro/recently_hired_by_an_award_winning_saas/</guid>
-      <pubDate>Mon, 22 Jun 2026 00:21:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>分手的伤害比ts还小🥀</title>
-      <link>https://www.reddit.com/r/automation/comments/1ubtwg3/breakup_hurts_less_than_ts/</link>
-      <description><![CDATA[       由   提交/u/Warm-Reaction-456  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ubtwg3/breakup_hurts_less_than_ts/</guid>
-      <pubDate>Sun, 21 Jun 2026 16:09:24 GMT</pubDate>
+      <title>您构建的哪一款自动化程序每次运行时仍然让您微笑？</title>
+      <link>https://www.reddit.com/r/automation/comments/1uiq6fe/whats_one_automation_youve_built_that_still_makes/</link>
+      <description><![CDATA[ 由   提交 /u/Effective-Cake-1687   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uiq6fe/whats_one_automation_youve_built_that_still_makes/</guid>
+      <pubDate>Mon, 29 Jun 2026 11:45:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
