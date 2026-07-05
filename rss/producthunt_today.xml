@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 04 Jul 2026 21:57:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 02:52:22 GMT</lastBuildDate>
     <item>
       <title>Termi协议</title>
       <link>https://www.producthunt.com/products/termi-protocol</link>
@@ -90,32 +90,18 @@
       <pubDate>Thu, 02 Jul 2026 10:03:16 GMT</pubDate>
     </item>
     <item>
-      <title>侧门</title>
-      <link>https://www.producthunt.com/products/sidedoor-2</link>
+      <title>CometChat 的游戏聊天 SDK</title>
+      <link>https://www.producthunt.com/products/cometchat</link>
       <description><![CDATA[
-            粘贴任何工作，查找您的网络中可以推荐您的人
+            聊天会进入虚幻，就像一直存在一样
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/sidedoor-2</guid>
-      <pubDate>Thu, 02 Jul 2026 05:09:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>像素健身</title>
-      <link>https://www.producthunt.com/products/pixfit</link>
-      <description><![CDATA[
-            立即将 1 个创意转化为各种广告格式
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/pixfit</guid>
-      <pubDate>Wed, 01 Jul 2026 19:00:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/cometchat</guid>
+      <pubDate>Thu, 02 Jul 2026 05:02:58 GMT</pubDate>
     </item>
     <item>
       <title>恩斯特</title>
@@ -144,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/context-dev</guid>
       <pubDate>Wed, 01 Jul 2026 03:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>宏</title>
+      <link>https://www.producthunt.com/products/macro-workspace</link>
+      <description><![CDATA[
+            将您的工作统一到一个具有共享内存的应用程序中
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/macro-workspace</guid>
+      <pubDate>Fri, 26 Jun 2026 19:41:09 GMT</pubDate>
     </item>
     <item>
       <title>档案</title>
