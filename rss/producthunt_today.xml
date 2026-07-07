@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 07 Jul 2026 11:47:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:28:20 GMT</lastBuildDate>
     <item>
       <title>长猫-2.0</title>
       <link>https://www.producthunt.com/products/longcat</link>
@@ -62,6 +62,20 @@
       <pubDate>Mon, 06 Jul 2026 06:04:23 GMT</pubDate>
     </item>
     <item>
+      <title>阿斯特里克斯</title>
+      <link>https://www.producthunt.com/products/meta</link>
+      <description><![CDATA[
+            可定制、代理就绪的开源设计系统
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/meta</guid>
+      <pubDate>Mon, 06 Jul 2026 03:52:49 GMT</pubDate>
+    </item>
+    <item>
       <title>滑翔机</title>
       <link>https://www.producthunt.com/products/glideo</link>
       <description><![CDATA[
@@ -74,34 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/glideo</guid>
       <pubDate>Sun, 05 Jul 2026 23:35:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码莫特</title>
-      <link>https://www.producthunt.com/products/codemote-remote-control-for-any-ai</link>
-      <description><![CDATA[
-            Claude Code、Codex、任何 CLI 代理。从您的 iPhone 驱动
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/codemote-remote-control-for-any-ai</guid>
-      <pubDate>Sun, 05 Jul 2026 13:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>尼克斯马克</title>
-      <link>https://www.producthunt.com/products/nixmac</link>
-      <description><![CDATA[
-            尼克斯·达尔文会说简单的英语
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/nixmac</guid>
-      <pubDate>Sun, 05 Jul 2026 13:33:34 GMT</pubDate>
     </item>
     <item>
       <title>涂鸦网络</title>
@@ -146,6 +132,20 @@
       <pubDate>Fri, 26 Jun 2026 05:57:47 GMT</pubDate>
     </item>
     <item>
+      <title>日出</title>
+      <link>https://www.producthunt.com/products/sunrise-5</link>
+      <description><![CDATA[
+            真正的 Google Tasks 规划器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/sunrise-5</guid>
+      <pubDate>Thu, 25 Jun 2026 18:39:17 GMT</pubDate>
+    </item>
+    <item>
       <title>社交获取 - 社交媒体 API</title>
       <link>https://www.producthunt.com/products/social-fetch</link>
       <description><![CDATA[
@@ -163,7 +163,7 @@
       <title>催化剂</title>
       <link>https://www.producthunt.com/products/katalyst</link>
       <description><![CDATA[
-            适用于 Salesforce Pipeline 的 AI 代理
+            适用于您的 Salesforce Pipeline 的 AI 代理
           
 
 讨论
