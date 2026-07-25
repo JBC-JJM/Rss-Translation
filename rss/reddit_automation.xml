@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 25 Jul 2026 02:27:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 08:03:19 GMT</lastBuildDate>
+    <item>
+      <title>比较 5 个 LinkedIn 自动化/外展工具 - 包括我的（已公开），诚实的优点和缺点</title>
+      <link>https://www.reddit.com/r/automation/comments/1v5z95o/5_linkedin_automationoutreach_tools_compared/</link>
+      <description><![CDATA[测试和使用 LinkedIn 自动化工具已经有一段时间了，既是为了我自己机构的外展，也是为了在这个领域构建我自己的工具。预先全面披露：我是其中之一（SendRoq）的创始人，因此相应地权衡这一提及 - 我也试图直接说明它的弱点，而不仅仅是它获胜的地方。 SendRoq - 如果你的瓶颈是找到与谁联系，而不仅仅是发送更快（我的），那么最好 它不是通过静态列表管理发送，而是扫描 LinkedIn 中的帖子，其中有人积极描述你解决的问题，然后通过被标记的具体原因以及预先起草的第一条消息。将其排名第一是因为对于特定的用例（基于意图的定位而不是原始发送量），这确实是我自己构建的用于解决和日常使用的方法。诚实的缺点：在纯规模和多账户功能方面，它比下面的一些工具更新且不太成熟。如果您已经拥有可靠的潜在客户名单并且只需要数量，那么这不是正确的第一选择。 Heyreach - 最适合纯粹的多帐户规模 如果您要跨大量 LinkedIn 帐户进行外展并希望集中管理，这是最成熟的选择。很好地跨账户轮换发送，通过 Zapier 与 CRM 干净地集成。缺点：仅限 LinkedIn，没有本地电子邮件，没有意图/信号检测 - 它是一个发送引擎，而不是目标引擎。您可以携带自己的列表。 Waalaxy - 最适合管理多个客户的代理机构 如果您同时为多个客户开展营销活动，则该功能非常强大 - 通过一个仪表板、体面的模板库对每个客户进行配额和计划控制。缺点：依赖 Chrome 扩展，这会给非技术客户带来摩擦，并且可能会在规模上给 IT 带来麻烦。 Amplemarket - 对于活跃销售代表来说最好的一体化平台 将数据、外展和信号整合在一个平台中 - LinkedIn 参与度捕获（吸引参与特定帖子/活动的人员）确实很强大。缺点：学习曲线陡峭，而且比这里的其他套件更贵，只有当您真正使用全套套件时才值得。 Dripify - 最适合想要简单的东西的独立创始人 干净、学习曲线低、基于云，因此无需打开笔记本电脑即可运行。如果您只想要基本序列而无需进行大量设置，那就太好了。缺点：相当准系统 - 没有人工智能定位，有限的多渠道，以及一些用户报告支持/错误问题。 这些都不是通用的“最佳”方法。 — 取决于您的瓶颈是否是寻找合适的人员、管理跨帐户的规模，还是运行真正的多渠道。好奇这里的其他人正在使用什么，以及人们是否发现意图检测真正有用，或者是否比以体积为中心的方法更新颖。   由   提交 /u/Simple-Maybe-4796   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1v5z95o/5_linkedin_automationoutreach_tools_compared/</guid>
+      <pubDate>Sat, 25 Jul 2026 05:27:04 GMT</pubDate>
+    </item>
     <item>
       <title>有 Gmail 帐户创建机器人吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1v5uqcv/any_gmail_account_creation_bots/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>为房地产构建了 WhatsApp 潜在客户资格机器人，以下是实际架构</title>
       <link>https://www.reddit.com/r/automation/comments/1v5504l/built_a_whatsapp_leadqualification_bot_for_real/</link>
-      <description><![CDATA[房地产行业的领先速度是残酷的。当销售代表在 WhatsApp 上回复广告平台负责人时，他们通常已经向其他三个经纪人发送了消息。 实际连接方式：  FastAPI 后端，具有实际函数调用的 GPT。定义了三个工具：send_property_catalog、log_qualified_lead、confirm_site_visit，每个工具都有严格的模式，因此模型不能只是幻想下一步。 一次一个合格问题：预算，然后是地点。一旦两者都已知，它就会自动启动目录工具，该工具通过 Twilio 媒体消息发送三个带有照片的真实列表 只有在领导对目录作出反应后，它才会询问准备移动还是正在建设，然后是时间表。一旦所有四个字段都存在，它就会将该行记录到 Google 表格中，然后将其交给具有两个具体站点访问时段的指定人工代表。 确认时段会自动触发从小型目录查找中提取的确切属性的 Google 地图链接 如果线索在中途变得安静，则会进行后续推动，但在第一条冷消息后故意不触发，只有在他们接触过一次并停止后才触发。  尝试判断是否存在真正的市场，因为我见过房地产机构在复杂的 CRM 中苦苦挣扎，并寻求更简单的构建。   由   提交/u/Far_Day3173  [链接] [评论]]]></description>
+      <description><![CDATA[房地产行业的领先速度是残酷的。当销售代表在 WhatsApp 上回复广告平台负责人时，他们通常已经向其他三个经纪人发送了消息。 实际连接方式：  FastAPI 后端，具有实际函数调用的 GPT。定义了三个工具：send_property_catalog、log_qualified_lead、confirm_site_visit，每个工具都有严格的模式，因此模型不能只是幻想下一步。 一次一个合格问题：预算，然后是地点。一旦知道了两者，它就会自动启动目录工具，该工具通过 Twilio 媒体消息发送三个带有照片的真实列表 只有在领导对目录作出反应后，它才会询问准备移动还是正在建设，然后是时间表。一旦所有四个字段都存在，它就会将该行记录到 Google 表格中，然后将其交给具有两个具体站点访问时段的指定人工代表。 确认时段会自动触发从小型目录查找中提取的确切属性的 Google 地图链接 如果线索在中途变得安静，则会进行后续推动，但在第一条冷消息后故意不触发，只有在他们接触过一次并停止后才触发。  尝试判断是否存在真正的市场，因为我见过房地产机构在复杂的 CRM 中苦苦挣扎，并寻求更简单的构建。   由   提交/u/Far_Day3173  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1v5504l/built_a_whatsapp_leadqualification_bot_for_real/</guid>
       <pubDate>Fri, 24 Jul 2026 08:05:06 GMT</pubDate>
     </item>
@@ -95,13 +102,6 @@
       <description><![CDATA[我最近不断回顾这一点：最有用的自动化工作通常在工具打开之前就开始了。 这不是令人兴奋的部分。无聊的流程注释。  什么启动工作流程 需要什么输入 谁拥有输出 什么应该停止自动化 人类需要审查什么 “完成”实际上意味着什么  我看的工作流程越多，我就越认为一个小小的SOP可以防止未来发生很多事情 很好奇其他人看到了什么：什么是无聊的文档、清单或 SOP，可以避免自动化破坏、漂移或以后变得无法维护？   由   提交 /u/Admirable-Future-633   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1v4r2w9/whats_the_most_boring_sop_that_saved_an/</guid>
       <pubDate>Thu, 23 Jul 2026 21:18:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>爱马仕代理 – 如何使用它？</title>
-      <link>https://www.reddit.com/r/automation/comments/1v4hmi9/hermes_agent_how_do_you_use_it/</link>
-      <description><![CDATA[我浏览了几个关于 Hermes 代理的 YouTube 视频，到目前为止看起来很有趣。问题是，我使用 Codex 来完成日常任务（编码、设计、营销、简单的自动化等） 有人真正每天使用 Hermes 吗？如果是这样，怎么办？它能为你完成什么样的任务？ 我将它们与 Codex 进行了比较，看起来后者在功能上相差不远。那么改用 Hermes 是否有意义？   由   提交 /u/MaxFromMaxtor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1v4hmi9/hermes_agent_how_do_you_use_it/</guid>
-      <pubDate>Thu, 23 Jul 2026 15:44:49 GMT</pubDate>
     </item>
     <item>
       <title>自动化了一项需要我每周吃 5 个小时的任务，并且只用了不到一个小时就完成了</title>
