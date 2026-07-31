@@ -4,20 +4,34 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 31 Jul 2026 02:36:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 06:11:06 GMT</lastBuildDate>
     <item>
-      <title>维雷</title>
-      <link>https://www.producthunt.com/products/virre</link>
+      <title>帕利</title>
+      <link>https://www.producthunt.com/products/pally</link>
       <description><![CDATA[
-            适合您的职业和网络的私人关系系统。
+            您的私人助理就存在于您的短信中
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/virre</guid>
-      <pubDate>Thu, 30 Jul 2026 02:58:26 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/pally</guid>
+      <pubDate>Thu, 30 Jul 2026 02:31:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>预先准备</title>
+      <link>https://www.producthunt.com/products/premation</link>
+      <description><![CDATA[
+            After Effects 的开源 AI 替代方案
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/premation</guid>
+      <pubDate>Thu, 30 Jul 2026 02:08:08 GMT</pubDate>
     </item>
     <item>
       <title>雅浦岛</title>
@@ -60,20 +74,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/cursor-crane</guid>
       <pubDate>Wed, 29 Jul 2026 19:12:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>焦点室</title>
-      <link>https://www.producthunt.com/products/focus-room</link>
-      <description><![CDATA[
-            将 YouTube 变成您的个人学习平台 
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/focus-room</guid>
-      <pubDate>Wed, 29 Jul 2026 17:02:29 GMT</pubDate>
     </item>
     <item>
       <title>幻音</title>
@@ -132,20 +132,6 @@
       <pubDate>Tue, 28 Jul 2026 10:29:37 GMT</pubDate>
     </item>
     <item>
-      <title>凯梅拉</title>
-      <link>https://www.producthunt.com/products/caimera-2</link>
-      <description><![CDATA[
-            时尚团队AI视觉制作平台
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/caimera-2</guid>
-      <pubDate>Tue, 28 Jul 2026 07:17:55 GMT</pubDate>
-    </item>
-    <item>
       <title>梅米特工</title>
       <link>https://www.producthunt.com/products/memmy</link>
       <description><![CDATA[
@@ -174,20 +160,6 @@
       <pubDate>Tue, 21 Jul 2026 19:56:36 GMT</pubDate>
     </item>
     <item>
-      <title>桌子</title>
-      <link>https://www.producthunt.com/products/tablo-a-desktop-cat-widget</link>
-      <description><![CDATA[
-            一只小猫，为你监视你的人工智能编码代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/tablo-a-desktop-cat-widget</guid>
-      <pubDate>Sun, 12 Jul 2026 06:18:17 GMT</pubDate>
-    </item>
-    <item>
       <title>适用于 iOS 和 Android 的专家追逐</title>
       <link>https://www.producthunt.com/products/expert-chase-deleted-1107920</link>
       <description><![CDATA[
@@ -202,6 +174,20 @@
       <pubDate>Wed, 08 Jul 2026 22:09:29 GMT</pubDate>
     </item>
     <item>
+      <title>工艺故事</title>
+      <link>https://www.producthunt.com/products/craftstory</link>
+      <description><![CDATA[
+            由紧凑型人工智能提供支持的逼真人类视频
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/craftstory</guid>
+      <pubDate>Wed, 08 Jul 2026 09:28:11 GMT</pubDate>
+    </item>
+    <item>
       <title>人工智能搜索控制台</title>
       <link>https://www.producthunt.com/products/ai-search-console</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/ai-search-console</guid>
       <pubDate>Fri, 03 Jul 2026 12:43:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>妮娜</title>
+      <link>https://www.producthunt.com/products/agenq-nina-ai-product-assistant</link>
+      <description><![CDATA[
+            逐步引导用户进入您的产品。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/agenq-nina-ai-product-assistant</guid>
+      <pubDate>Fri, 19 Dec 2025 10:28:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
