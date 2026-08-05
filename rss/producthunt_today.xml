@@ -4,20 +4,20 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Aug 2026 02:14:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 05:44:30 GMT</lastBuildDate>
     <item>
-      <title>斯蒂纳尔</title>
-      <link>https://www.producthunt.com/products/stynar</link>
+      <title>片段</title>
+      <link>https://www.producthunt.com/products/snipplet</link>
       <description><![CDATA[
-            为您运行出站的AI SDR
+            创建并分享您喜爱的地方的精美指南
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/stynar</guid>
-      <pubDate>Tue, 04 Aug 2026 04:49:37 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/snipplet</guid>
+      <pubDate>Tue, 04 Aug 2026 06:15:21 GMT</pubDate>
     </item>
     <item>
       <title>视频有我</title>
@@ -48,6 +48,34 @@
       <pubDate>Mon, 03 Aug 2026 19:21:35 GMT</pubDate>
     </item>
     <item>
+      <title>Glasp MCP 连接器</title>
+      <link>https://www.producthunt.com/products/glasp-mcp-connector</link>
+      <description><![CDATA[
+            在 Claude 和 ChatGPT 中搜索您的亮点和笔记
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/glasp-mcp-connector</guid>
+      <pubDate>Mon, 03 Aug 2026 18:39:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>凤凰</title>
+      <link>https://www.producthunt.com/products/finyuus</link>
+      <description><![CDATA[
+            用于持久、受管控的 AI 工作流程的代码优先语言
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/finyuus</guid>
+      <pubDate>Mon, 03 Aug 2026 18:14:47 GMT</pubDate>
+    </item>
+    <item>
       <title>氛围好友</title>
       <link>https://www.producthunt.com/products/vibe-buddy</link>
       <description><![CDATA[
@@ -62,46 +90,46 @@
       <pubDate>Mon, 03 Aug 2026 08:36:13 GMT</pubDate>
     </item>
     <item>
-      <title>屏幕很棒</title>
-      <link>https://www.producthunt.com/products/screen-awesome-record-annotate</link>
+      <title>语音流</title>
+      <link>https://www.producthunt.com/products/speakoflow</link>
       <description><![CDATA[
-            免费的屏幕录像机无法上传您的视频
+            适用于桌面的开源本地语音助手
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/screen-awesome-record-annotate</guid>
-      <pubDate>Mon, 03 Aug 2026 08:00:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/speakoflow</guid>
+      <pubDate>Mon, 03 Aug 2026 08:34:16 GMT</pubDate>
     </item>
     <item>
-      <title>大石指标</title>
-      <link>https://www.producthunt.com/products/dashi-metrics</link>
+      <title>ZapDigits MCP</title>
+      <link>https://www.producthunt.com/products/zapdigits</link>
       <description><![CDATA[
-            在 3D 地球仪上可视化您的收入
+            用于营销数据的 MCP 服务器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/dashi-metrics</guid>
-      <pubDate>Thu, 30 Jul 2026 08:30:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/zapdigits</guid>
+      <pubDate>Sun, 02 Aug 2026 18:39:13 GMT</pubDate>
     </item>
     <item>
-      <title>想知道</title>
-      <link>https://www.producthunt.com/products/wondering-2</link>
+      <title>空间OCR</title>
+      <link>https://www.producthunt.com/products/space-ocr</link>
       <description><![CDATA[
-            Duolingo 可以学习任何东西
+            作为应用程序或 API 检查自己的答案的 OCR
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/wondering-2</guid>
-      <pubDate>Thu, 30 Jul 2026 07:14:31 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/space-ocr</guid>
+      <pubDate>Fri, 31 Jul 2026 06:50:04 GMT</pubDate>
     </item>
     <item>
       <title>成长手册5.0</title>
@@ -132,20 +160,6 @@
       <pubDate>Mon, 27 Jul 2026 14:28:16 GMT</pubDate>
     </item>
     <item>
-      <title>横庄</title>
-      <link>https://www.producthunt.com/products/yokoso-2</link>
-      <description><![CDATA[
-            日语，适合您在日本实际生活的生活
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/yokoso-2</guid>
-      <pubDate>Sat, 25 Jul 2026 07:39:23 GMT</pubDate>
-    </item>
-    <item>
       <title>多莫</title>
       <link>https://www.producthunt.com/products/domo-a-claude-agent-for-your-calendar</link>
       <description><![CDATA[
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/driven-ai</guid>
       <pubDate>Wed, 22 Jul 2026 02:16:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件翻转器</title>
-      <link>https://www.producthunt.com/products/fileflippers</link>
-      <description><![CDATA[
-            发送大文件并通过下载获得报酬
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/fileflippers</guid>
-      <pubDate>Mon, 20 Jul 2026 15:33:31 GMT</pubDate>
     </item>
     <item>
       <title>阿特拉斯</title>
