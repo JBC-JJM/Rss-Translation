@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Aug 2026 07:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 09:58:19 GMT</lastBuildDate>
+    <item>
+      <title>基于ash任务</title>
+      <link>https://www.producthunt.com/products/basedash</link>
+      <description><![CDATA[
+            自动驾驶您的业务
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/basedash</guid>
+      <pubDate>Fri, 14 Aug 2026 03:29:11 GMT</pubDate>
+    </item>
     <item>
       <title>提奥斯[RFM]</title>
       <link>https://www.producthunt.com/products/theos-rfm-remote-facility-manager</link>
@@ -20,18 +34,18 @@
       <pubDate>Fri, 14 Aug 2026 02:57:16 GMT</pubDate>
     </item>
     <item>
-      <title>苏诺工作室2.0</title>
-      <link>https://www.producthunt.com/products/suno</link>
+      <title>和弦可视化</title>
+      <link>https://www.producthunt.com/products/chordviz</link>
       <description><![CDATA[
-            基于浏览器的生成 DAW
+            构建您自己的 MIDI 和音频音乐可视化工具
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/suno</guid>
-      <pubDate>Thu, 13 Aug 2026 20:42:41 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/chordviz</guid>
+      <pubDate>Fri, 14 Aug 2026 01:28:45 GMT</pubDate>
     </item>
     <item>
       <title>指南针日历</title>
@@ -90,6 +104,20 @@
       <pubDate>Thu, 13 Aug 2026 14:59:15 GMT</pubDate>
     </item>
     <item>
+      <title>NS1</title>
+      <link>https://www.producthunt.com/products/ns1</link>
+      <description><![CDATA[
+            个性化神经系统训练
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/ns1</guid>
+      <pubDate>Thu, 13 Aug 2026 14:43:54 GMT</pubDate>
+    </item>
+    <item>
       <title>端口22</title>
       <link>https://www.producthunt.com/products/port22</link>
       <description><![CDATA[
@@ -146,20 +174,6 @@
       <pubDate>Thu, 13 Aug 2026 03:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>嘴迪夫林</title>
-      <link>https://www.producthunt.com/products/munder-difflin</link>
-      <description><![CDATA[
-            使用 Claude Code 和 Codex 进行克隆来完成您的工作
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/munder-difflin</guid>
-      <pubDate>Wed, 12 Aug 2026 13:04:54 GMT</pubDate>
-    </item>
-    <item>
       <title>沉思</title>
       <link>https://www.producthunt.com/products/muse-19</link>
       <description><![CDATA[
@@ -174,46 +188,32 @@
       <pubDate>Tue, 11 Aug 2026 10:51:23 GMT</pubDate>
     </item>
     <item>
-      <title>浏览器行为云</title>
-      <link>https://www.producthunt.com/products/browseract</link>
+      <title>机会®</title>
+      <link>https://www.producthunt.com/products/occasio-2</link>
       <description><![CDATA[
-            通过一个提示即可从任何网站抓取任何数据
+            Pinboard 与引文经理会面，分享见解。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/browseract</guid>
-      <pubDate>Fri, 07 Aug 2026 08:40:34 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/occasio-2</guid>
+      <pubDate>Mon, 10 Aug 2026 21:46:32 GMT</pubDate>
     </item>
     <item>
-      <title>重装步兵</title>
-      <link>https://www.producthunt.com/products/hoplite</link>
+      <title>结果</title>
+      <link>https://www.producthunt.com/products/contentblocks</link>
       <description><![CDATA[
-            轻松部署云软件工厂。
+            将您的内容转化为每个潜在客户的个人成果
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/hoplite</guid>
-      <pubDate>Sat, 18 Jul 2026 23:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>布利</title>
-      <link>https://www.producthunt.com/products/buply</link>
-      <description><![CDATA[
-            使用鼻纹让丢失的宠物重聚
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/buply</guid>
-      <pubDate>Sun, 17 May 2026 17:48:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/contentblocks</guid>
+      <pubDate>Mon, 18 Dec 2023 01:58:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
