@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Aug 2026 21:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 01:09:25 GMT</lastBuildDate>
     <item>
       <title>GLM-5.3</title>
       <link>https://www.producthunt.com/products/z-ai</link>
@@ -90,6 +90,20 @@
       <pubDate>Wed, 12 Aug 2026 15:22:53 GMT</pubDate>
     </item>
     <item>
+      <title>嘴迪夫林</title>
+      <link>https://www.producthunt.com/products/munder-difflin</link>
+      <description><![CDATA[
+            使用 Claude Code 和 Codex 进行克隆来完成您的工作
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/munder-difflin</guid>
+      <pubDate>Wed, 12 Aug 2026 13:04:54 GMT</pubDate>
+    </item>
+    <item>
       <title>地狱岩长凳</title>
       <link>https://www.producthunt.com/products/inferock-bench</link>
       <description><![CDATA[
@@ -146,20 +160,6 @@
       <pubDate>Sat, 08 Aug 2026 01:41:10 GMT</pubDate>
     </item>
     <item>
-      <title>浏览器行为云</title>
-      <link>https://www.producthunt.com/products/browseract</link>
-      <description><![CDATA[
-            通过一个提示即可从任何网站抓取任何数据
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/browseract</guid>
-      <pubDate>Fri, 07 Aug 2026 08:40:34 GMT</pubDate>
-    </item>
-    <item>
       <title>文件路由器</title>
       <link>https://www.producthunt.com/products/filerouter</link>
       <description><![CDATA[
@@ -191,7 +191,7 @@
       <title>大麦克</title>
       <link>https://www.producthunt.com/products/big-mike</link>
       <description><![CDATA[
-            你最喜欢的了解体育和投注的叔叔，在 iMessage 上
+            你最喜欢的懂体育和投注的叔叔，在 iMessage 上
           
 
 讨论
