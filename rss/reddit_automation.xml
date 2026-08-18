@@ -4,111 +4,111 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 06 Aug 2026 08:32:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:35:22 GMT</lastBuildDate>
     <item>
-      <title>我厌倦了在 LinkedIn 帐户上收到警告，因此我构建了自己的安全 LinkedIn 自动化工具</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgwyy7/i_got_tired_of_getting_warnings_on_my_linkedin/</link>
-      <description><![CDATA[我曾经从事 IT 外包业务的对外销售工作，因此我经常在 LinkedIn 上联系人员推广该服务。 尝试每周发送 200 多个手动连接请求非常耗时，因此我决定使用一个工具来自动化此过程。 大约一周后，我收到警告，如果我继续这样做，我的帐户可能会被禁止。  所以，我停止使用那个自动化工具，因为它似乎不值得。 我对帐户被 LinkedIn 标记为自动化的原因/如何进行了一些研究，似乎现有的工具都没有真正考虑到所有这些安全因素。 所以，我构建了自己的工具，用于我自己的用例，并满足我对在 LinkedIn 上被禁止的偏执。  我将其命名为“ZenMode”，灵感源自“无为”理念，即毫不费力的行动，以及事半功倍。  从一开始，我的目的就是让自动化尽可能像人类一样，所以我特意将架构范围限定为具有某些功能； - 基于浏览器的自动化（无插件/云使用） - 连接请求的每日速率限制 - 操作之间的随机时间延迟 - 屏幕上打字 - 在 LinkedIn 页面上像人类一样点击鼠标 将这一切放在一起当然不容易从头开始，没有任何技术知识。  使用 AI 工具构建几周后，我有了一个工作原型。 我开始在销售工作中使用它，当时预约更多与工程经理的会议对我来说确实很有帮助，所以我在今年早些时候决定也公开该工具。 自 4 月份推出以来，ZenMode 已有 400 多人注册免费试用，平均每天大约有 50 名活跃用户。  我自己也每天使用它来进行自己的推广，到目前为止，没有一个 ZenMode 用户遇到过帐户禁令。 至少到目前为止，我可以说我实现了制作一个可以通过我的帐户信任的 LinkedIn 自动化工具的目标！    由   提交 /u/Downtown_Pudding9728   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgwyy7/i_got_tired_of_getting_warnings_on_my_linkedin/</guid>
-      <pubDate>Thu, 06 Aug 2026 07:07:11 GMT</pubDate>
+      <title>自动将计算值推回到应用程序的数据库中</title>
+      <link>https://www.reddit.com/r/automation/comments/1vrsmsp/pushing_computed_values_back_into_your_apps/</link>
+      <description><![CDATA[一种对我有用的模式，而不是每晚将聚合从仓库复制到应用程序数据库的反向 ETL 脚本：Lakebase 同步表使 Postgres 表与源 Delta 表持续保持同步，因此应用程序可以读取新的计算值，而无需 cron 来照顾。我还漏掉了其他东西吗？   由   提交/u/pretzels90210   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vrsmsp/pushing_computed_values_back_into_your_apps/</guid>
+      <pubDate>Tue, 18 Aug 2026 15:37:09 GMT</pubDate>
     </item>
     <item>
-      <title>有人像我一样在人工智能生成中面临同样混乱的工作流程问题吗？？？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgtqc6/does_anyone_face_the_same_messy_workflow_issue_in/</link>
-      <description><![CDATA[“我们可以回到第一个版本吗？” 上周从客户那里听到这句话让我意识到我的工作流程中存在一个问题：一旦项目有多个版本，我就无法再追溯到旧版本 剪辑已生成。该项目分散在各处。 Google 文档中的脚本。下载中的参考图像。生成的剪辑分为三个文件夹，名称如 v2_final_USE_THIS。两个 VO 镜头的文件名几乎相同。 当他们要求 V1 时，我什至不记得我使用了哪个提示或参考图像。我意识到我不再花时间生成内容，而是花时间搜索。 对我来说，让视频更快并不是要为我发布更多内容。这意味着要按时完成任务，所以我要保留帐户。 我开始将镜头列表、参考图像、提示和拒绝的版本视为实际项目资产，而不是临时垃圾。 最近，我一直在测试 Framia，只是为了将所有视觉参考和过去的输出保留在一个工作区中。现在称其为答案还为时过早，但不要寻找“上周二的那张照片”。已经在帮忙了。 你们是如何组织你们这一代人的，还是我是唯一一个淹没在文件中的人？    由   提交 /u/SyntaxError0205   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgtqc6/does_anyone_face_the_same_messy_workflow_issue_in/</guid>
-      <pubDate>Thu, 06 Aug 2026 04:10:50 GMT</pubDate>
+      <title>我为设计安全实用的AI Agent系统而制作的信息图</title>
+      <link>https://www.reddit.com/r/automation/comments/1vrs15o/infographics_i_made_for_designing_a_safe_and/</link>
+      <description><![CDATA[      如果这不是发布此内容的正确位置，我深表歉意   由   提交 /u/donotfire   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vrs15o/infographics_i_made_for_designing_a_safe_and/</guid>
+      <pubDate>Tue, 18 Aug 2026 15:14:38 GMT</pubDate>
     </item>
     <item>
-      <title>我的自动早安草稿让我每天听起来都像一个不同的男朋友</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgshns/my_automated_goodmorning_drafts_made_me_sound/</link>
-      <description><![CDATA[我和我女朋友住在不同的时区，她喜欢在醒来时收到消息。然而，她的早晨是在我一天中最忙碌的时候开始的。我总是忘记给她发短信，所以我用 Accio Work 尝试了预定的消息草稿。 我创建了几种“语气”，这样消息就不会变得重复（温暖、有趣、诗意和鼓励）。 Accio Work 每天晚上都会生成草稿，我会在安排发送之前对其进行审阅。 一周后，我的女朋友问我为什么突然开始像四个不同的人一样写作。 - 星期一很正常。 - 星期二包含励志名言。 - 星期三将她与日出进行比较。 - 星期四听起来像是客户支持人员希望她度过高效的一天。 我向 Accio Work 发送了我在工作期间自然写下的消息。上个月，让它将句子长度、词汇量和喜爱程度与生成的草稿进行比较。 分析发现，我的真实信息很短、太具体，并且通常引用了当天发生的事情。生成的内容更长、更通用。 我将说明更改为不引用、不隐喻、最多两句话，并且始终提及我们对话中的一个真实细节。这一添加使得草稿变得不那么令人印象深刻，并且更加可信。 我们仍然使用提醒，但我通常自己写实际的消息。自动化计时很有帮助。自动化我的个性却没有。我很想听听您对这是否是您尝试过或帮助过的事情的想法！   由   提交 /u/Sweet-Panic8630   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgshns/my_automated_goodmorning_drafts_made_me_sound/</guid>
-      <pubDate>Thu, 06 Aug 2026 03:09:47 GMT</pubDate>
+      <title>n8n 新手，不知道从哪里开始？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vrk0vb/new_to_n8n_and_not_sure_where_to_start/</link>
+      <description><![CDATA[       由   提交/u/easybits_ai  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vrk0vb/new_to_n8n_and_not_sure_where_to_start/</guid>
+      <pubDate>Tue, 18 Aug 2026 09:14:50 GMT</pubDate>
     </item>
     <item>
-      <title>我厌倦了价格过高的剪辑工具，所以我制作了自己的（开源）视频短片生成器。包括 MCP 服务器</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgmm3r/i_was_tired_of_overpriced_clip_tools_so_i_made_my/</link>
-      <description><![CDATA[      我只是想让你知道我对 openshorts 做了很多改进，特别是在 MCP 服务器方面，现在你可以连接你的代理并生成整整一周的剪辑。另外，还有许多新字体、剪辑系统的改进等。 github 存储库：mutonby/openshorts   由   提交 /u/mutonbini   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgmm3r/i_was_tired_of_overpriced_clip_tools_so_i_made_my/</guid>
-      <pubDate>Wed, 05 Aug 2026 22:47:39 GMT</pubDate>
+      <title>寻找擅长销售的人合作进行人工智能自动化工作</title>
+      <link>https://www.reddit.com/r/automation/comments/1vrcxh8/looking_for_someone_good_at_sales_to_partner_up/</link>
+      <description><![CDATA[我为小型企业构建人工智能自动化，例如聊天机器人、跟进系统、抓取数据、清理工作流程，以及任何占用他们时间或花费金钱的东西。我在技术方面很扎实，但老实说，我不擅长寻找客户或向他们推销。 寻找善于与小企业主交谈并能够发现他们在哪里浪费时间或金钱的人。如果你给我带来客户并完成交易，我会处理构建方面的所有事情，然后我们将其分开。 无论你以前是否做过这件事，如果你善于与人相处并且能够销售，这确实是我需要的主要东西。 如果这听起来像你想做的事情，我们可以弄清楚分割并开始行动。   由   提交/u/Thunderbird435  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vrcxh8/looking_for_someone_good_at_sales_to_partner_up/</guid>
+      <pubDate>Tue, 18 Aug 2026 02:48:33 GMT</pubDate>
     </item>
     <item>
-      <title>停止为 2 步问题构建 12 步 Webhook 摩天大楼</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgibjj/stop_building_12step_webhook_skyscrapers_for/</link>
-      <description><![CDATA[自动化中最大的陷阱不是选择了错误的工具，而是选择了错误的工具。它正在建造一座脆弱的摩天大楼，而木凳就可以完成这项工作。早期，我陷入了尝试自动化工作流程中每个微小摩擦点的陷阱。我构建了庞大的十二步集成链，连接表单构建器、网络钩子、数据库和自定义人工智能摘要端点，只是为了处理简单的每周客户摄入量。直到 API 端点发生变化、达到速率限制或无声故障意味着三天的潜在客户数据丢失之前，这感觉就像魔法一样。我花在调试、监控和重建自动化上的时间比我自己实际完成手动工作的时间还要多。 当我开始将自动化视为一项需要缴纳高额维护税的投资时，转折点就来了。每个新节点、API 调用和条件分支都是您必须永远维护的技术债务。现在，在编写一行代码或在 Make 或 n8n 中删除单个块之前，我强迫自己遵循三个严格的规则。首先，在我手动完成至少二十次之前，我从来不会自动化某个流程。自动化不稳定或难以理解的流程只会加速混乱，并使边缘情况无法捕捉。 其次，我总是选择尽可能最低的技术堆栈来解决百分之八十的问题。如果标准的预定 Python 脚本或简单的本机集成有效，我将永远不会使用多个 Webhook 来实现复杂的多平台工作流程。第三，也是最重要的一点，我首先会为无声的失败而努力。如果自动化系统在不可避免地发生故障时没有干净、即时的警报机制，那么它还没有准备好投入生产。最好的自动化不是最复杂的，而是最复杂的。它们是看不见的、可靠的三步流程，在后台默默运行两年，无需进行任何调整。 您构建的最不必要的复杂自动化设置是什么，您最终将其拆除为非常简单的东西？   由   提交/u/Neighbourhoodplane17   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgibjj/stop_building_12step_webhook_skyscrapers_for/</guid>
-      <pubDate>Wed, 05 Aug 2026 20:03:00 GMT</pubDate>
+      <title>我们如何链接多个法学硕士将复杂任务错误减少 45%</title>
+      <link>https://www.reddit.com/r/automation/comments/1vr8lu0/how_we_chained_multiple_llms_to_cut_complex_task/</link>
+      <description><![CDATA[       由   提交/u/Ok_pettech   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vr8lu0/how_we_chained_multiple_llms_to_cut_complex_task/</guid>
+      <pubDate>Mon, 17 Aug 2026 23:35:17 GMT</pubDate>
     </item>
     <item>
-      <title>没有故障记录的自动化只是时间表的希望</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgh923/automation_without_failure_logging_is_just_hope/</link>
-      <description><![CDATA[我见过的每一个自动化都不是因为糟糕的工作流程而死掉的。它死于无形的。 工作流程运行良好数周。然后一个 API 发生了变化，一个字段变成了空，直到客户注意到为止，没有人注意到。那是没有人演示的部分。演示始终是快乐的道路。第一个月总是幸福的道路。 解决办法很无聊：记录每一次失败。不仅仅是车祸。重试、超时、奇怪的响应仍然算作 200。然后每周对它们进行一次分类。三种类型将涵盖您的大部分失败，解决这三种问题就可以将脚本变成系统。 去年我一直在构建必须能够与现实接触的自动化。那些持续存在的那些我可以打开日志并准确查看损坏的原因、时间和原因。那些死去的人是我从别人那里发现的。 你在自动化中记录了什么，你通过艰难的方式学到了什么？   由   提交 /u/Grouchy-Conflict-211   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgh923/automation_without_failure_logging_is_just_hope/</guid>
-      <pubDate>Wed, 05 Aug 2026 19:25:21 GMT</pubDate>
+      <title>如何绕过谷歌浏览器验证码</title>
+      <link>https://www.reddit.com/r/automation/comments/1vr81wk/how_to_bypass_google_chrome_captchas/</link>
+      <description><![CDATA[嘿伙计们。希望你们都做得很好。我陷入了我的 chrome 自动化项目。我希望有人能帮助我解决这个问题。 如何在未登录的情况下处理 google 验证码？   由   提交/u/wannabeepsycho   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vr81wk/how_to_bypass_google_chrome_captchas/</guid>
+      <pubDate>Mon, 17 Aug 2026 23:11:55 GMT</pubDate>
     </item>
     <item>
-      <title>您如何在大型自动化项目中对 PLC 逻辑进行版本控制？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgecr3/how_are_you_versioncontrolling_plc_logic_in_large/</link>
-      <description><![CDATA[对于拥有多名工程师处理 PLC 程序的团队，您的版本控制工作流程是怎样的？您是否以任何身份、特定于供应商的工具或其他方式使用 Git？ 我很好奇人们如何避免合并冲突、跟踪更改以及管理生产中的回滚。   由   提交/u/Top-Try419  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgecr3/how_are_you_versioncontrolling_plc_logic_in_large/</guid>
-      <pubDate>Wed, 05 Aug 2026 17:42:22 GMT</pubDate>
+      <title>我认为在 Product Hunt 上获得第一名的感觉会有所不同。</title>
+      <link>https://www.reddit.com/r/automation/comments/1vr0hg0/i_thought_getting_1_on_product_hunt_would_feel/</link>
+      <description><![CDATA[      我们今天推出了 Meridian，并最终成为当日排名第一的产品。 我在最初的几个小时里不断刷新 Product Hunt，但排名很快就变得没有看到陌生人使用我们在自己的泡沫中构建的东西那么有趣了。 几个月来，我们一直在争论工作流程是否有用、开发人员是否会关心以及我们是否正在解决问题正确的问题。今天，真正的用户开始回答这些问题。他们的反馈已经挑战了我们的一些假设，并改变了我们对产品的看法。 这是我最大的收获：在陌生人使用它之前，你并不真正知道自己构建了什么。 #1 徽章感觉很棒，但更艰苦的工作现在开始了。我们需要将这种注意力转化为开发人员真正认为有用的东西。 您可以在今天的 Product Hunt 上找到我们的热门产品！ 如果您之前曾在 Product Hunt 上推出过，那么发布后最令您惊讶的是什么？   由   提交/u/Akarsh_Hegde   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vr0hg0/i_thought_getting_1_on_product_hunt_would_feel/</guid>
+      <pubDate>Mon, 17 Aug 2026 18:27:33 GMT</pubDate>
     </item>
     <item>
-      <title>通过将数据代理固定到 Slack 通道来跳过“给我一个号码”ping</title>
-      <link>https://www.reddit.com/r/automation/comments/1vgbcri/skip_the_pull_me_a_number_pings_by_pinning_a_data/</link>
-      <description><![CDATA[我使用 Databricks 设置自动化了很多 Slack 响应。当人们不断向您私信询问号码时，Slack 的 Databricks Genie 应用程序是自动完成此操作的好方法：您在频道中u/Genie，它会在线索中回答来源和后续提示。有用的一点是，频道所有者可以将一个特定的 Genie Agent 固定到该频道，这样每个人都可以从相同的数据集获得一致的答案，并且回复可以设置为公开或私有，仅对提问者开放。 就像我之前所说的，自动化电子邮件草稿/回复一直是我的第一自动化。如果您正在使用其他类似的东西，请告诉我，因为我正在尝试在所有表面上执行此操作。   由   提交 /u/pretzels90210   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vgbcri/skip_the_pull_me_a_number_pings_by_pinning_a_data/</guid>
-      <pubDate>Wed, 05 Aug 2026 15:56:30 GMT</pubDate>
+      <title>我周一的报告仍然取决于记住上周一的提示。</title>
+      <link>https://www.reddit.com/r/automation/comments/1vqyrg3/my_monday_report_still_depends_on_remembering/</link>
+      <description><![CDATA[下周一这个报告设置会变得尴尬。当前版本可以获取几个市场导出并进行比较。一旦解释了日期范围和计算规则，它就可以工作。 一周后，新文件到达。我可能还记得这次我是如何处理退款的，但我不希望报告取决于我的记忆。每次更新之前通读旧对话将用即时维护取代电子表格维护。 我在 Accio Work 中尝试了该任务，它接受上传的报告，并在我提供公式后生成可行的结果。对于调查偶尔出现的问题来说，这似乎没问题。 我对使用人们每周一期待的报告相同的方法不太有信心。那时，我希望商定的计算保持固定，而不是在每次上传时再次解释。 第一个版本运行后，人们如何锁定基于聊天的报告？   由   提交 /u/That-Economist-2756   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vqyrg3/my_monday_report_still_depends_on_remembering/</guid>
+      <pubDate>Mon, 17 Aug 2026 17:27:53 GMT</pubDate>
     </item>
     <item>
-      <title>AI 连接器投资回报率：连接器与单独的法学硕士</title>
-      <link>https://www.reddit.com/r/automation/comments/1vga044/ai_connector_roi_connectors_vs_llms_alone/</link>
-      <description><![CDATA[       由   提交/u/stewofkc   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vga044/ai_connector_roi_connectors_vs_llms_alone/</guid>
-      <pubDate>Wed, 05 Aug 2026 15:08:01 GMT</pubDate>
+      <title>高级合同开发商的解决方案是成立代理机构吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vqvld2/is_the_solution_for_senior_contract_developers_to/</link>
+      <description><![CDATA[嗨， 我是一名新手，正在探索自动化（如 n8n、Make、Zapier）作为一项潜在的副业。 所以我的问题是针对自动化机构所有者的。 我想从一名自由职业者开始，然后有一天发展成为一家机构。 我阅读了合同开发人员社区，其中很多人都说找一份工作；客户用完了；我做了其他事情。 所以我想知道经营一家代理机构是否有什么不同？ 如果市场疲软，我会失去客户吗？ 我基本上想知道这种模式的可持续性如何，来自经验丰富的代理机构所有者：如果他们不得不关闭代理机构，为什么？ 显然，没有什么是面向未来的，正如任何企业家都知道的那样（永远不要把鸡蛋放在同一个篮子里）。我计划构建多种 SaaS 产品并投资多样化的产品组合。   由   提交 /u/Fine-Market9841   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vqvld2/is_the_solution_for_senior_contract_developers_to/</guid>
+      <pubDate>Mon, 17 Aug 2026 15:30:21 GMT</pubDate>
     </item>
     <item>
-      <title>如何在生产中保持人工智能构建的管道的确定性？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vg2i7z/how_do_you_keep_an_aibuilt_pipeline_deterministic/</link>
-      <description><![CDATA[      背景：我是 Octigen 的联合创始人（所以，为了透明起见，这是我自己的项目）。我们致力于将杂乱的源数据 + PowerPoint 模板转变为重复的、数据驱动的报告。下面我想分享一个对我们很有帮助的设计决策。 我们来自一个受监管的行业，到目前为止，这些流程都是以几个月来衡量的，技术合作伙伴的典型报价是 4 个月。如今，让法学硕士在每个时期生成报告是很诱人的。这种方法的加入速度非常快，但对于客户/投资者每月收到的东西来说，它有两个交易破坏者： a）它是不确定的（相同的输入可能会导致不同的输出 - &gt;你永远不会停止检查）， b）它是一个黑匣子（当它错误时，你所能做的就是重新提示并希望你不要破坏其他东西）。 所以我们将它分开。人工智能仅在入门时使用：您将源文件和一份完成的示例报告交给它，然后代理构建整个管道：数据收集、转换、映射到每张幻灯片 - 然后根据您的示例对自己的输出进行评分并进行迭代。但一旦建成，生产就是一个简单的确定性管道，循环中没有模型。相同的数据产生相同的文档，无一例外。每个转换都是分析师可以阅读和编辑的可检查步骤列表。 我真正希望输入的部分是：其他人如何界定何时使用人工智能？  如果有用，我拍摄了正在构建的完整过程，并在链接的博客文章中写下了推理。很高兴回答有关该方法的任何问题。   由   提交/u/muellermichel  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vg2i7z/how_do_you_keep_an_aibuilt_pipeline_deterministic/</guid>
-      <pubDate>Wed, 05 Aug 2026 09:32:57 GMT</pubDate>
+      <title>什么是软件工厂？ 2026 年评估的 5 种产品</title>
+      <link>https://www.reddit.com/r/automation/comments/1vqq2f4/what_is_a_software_factory_5_products_to_evaluate/</link>
+      <description><![CDATA[       由   提交 /u/sn1pr0s   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vqq2f4/what_is_a_software_factory_5_products_to_evaluate/</guid>
+      <pubDate>Mon, 17 Aug 2026 11:48:06 GMT</pubDate>
     </item>
     <item>
-      <title>如果你明天开始一份新工作，你想要自动化的第一件事是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vg042n/whats_the_first_thing_youd_automate_if_you/</link>
-      <description><![CDATA[你走进一份全新的工作、新的系统、新的流程，你首先要选择一件事来自动化。你想做什么？ 对我来说，通常是报告。几乎每项工作都有一些每周或每月的报告，是有人手工制作的，将数字从一个地方复制到另一个地方。它很无聊，很容易出错，而且是我首先想要消失的东西。 那么你会选择什么？这些年来您的答案是否发生了变化，或者每次都是相同的任务？   由   提交 /u/I_know_few_things   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vg042n/whats_the_first_thing_youd_automate_if_you/</guid>
-      <pubDate>Wed, 05 Aug 2026 07:11:57 GMT</pubDate>
+      <title>今年您遇到的最令人印象深刻的自动化是什么？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vqpjag/what_is_the_most_impressive_automation_you_have/</link>
+      <description><![CDATA[例如，我刚刚看到我的朋友设置了一个自动化功能，每次客户会议后，Zooms AI Summary 都会自动路由到 Gamma。然后，Gamma 为他和客户生成关于我们总结讨论的内容和后续步骤的最终 PPT，并自动发送给双方。客户似乎很喜欢它，因为感觉他在每次通话后都付出了很大的努力来为他们进行个人演示，哈哈。 很好奇，Reddit 用户，今年你们遇到的最令人印象深刻的自动化是什么？   由   提交 /u/No-Marionberry8257   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vqpjag/what_is_the_most_impressive_automation_you_have/</guid>
+      <pubDate>Mon, 17 Aug 2026 11:21:52 GMT</pubDate>
     </item>
     <item>
-      <title>到底是什么导致 AMR 部署停机？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vfycnr/what_actually_causes_amr_downtime_in_deployments/</link>
-      <description><![CDATA[导航和车队管理得到了大部分关注，但很多真正的停机时间似乎来自现场的小事情。我听说它可以像热缩包装一样小，掉进机器人的车道里。   由   提交 /u/controlbeyond   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vfycnr/what_actually_causes_amr_downtime_in_deployments/</guid>
-      <pubDate>Wed, 05 Aug 2026 05:35:16 GMT</pubDate>
+      <title>一个简单的浏览器自动化/插件可以发布在 Substack 上？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vqojp9/a_simple_browser_automationplugin_to_post_on/</link>
+      <description><![CDATA[子堆栈没有 API。我已经完成了在我的网站上发布文章的自动化操作。最后一步是在 Substack 上发布注释。 注释就像一条推文。我希望自动化只打开新笔记，粘贴文本并提交。    由   提交 /u/jonbristow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vqojp9/a_simple_browser_automationplugin_to_post_on/</guid>
+      <pubDate>Mon, 17 Aug 2026 10:30:22 GMT</pubDate>
     </item>
     <item>
-      <title>我们向提取的行添加了源链接，因为用户不断询问数据来自哪里</title>
-      <link>https://www.reddit.com/r/automation/comments/1vfvqgc/we_added_source_links_to_extracted_rows_because/</link>
-      <description><![CDATA[我在 Thunderbit 工作，这是一种用于将网页转换为表格的浏览器扩展。 我们从围绕 Web 数据构建自动化中学到的一件事：导出不是人们信任它的时刻。 当一行看起来错误时，信任时刻就会到来。 价格很奇怪。公司名称从错误的地方提取。尽管页面上明确有字段，但该字段仍为空白。此时，干净的电子表格是不够的。检查它的人想要返回到确切的页面并查看发生了什么。 因此，我们在导出之前在行和预览表上添加了源链接。这是一件小事，但它改变了人们使用该工具的方式。他们不太担心人工智能的猜测，因为输出更容易检查。 这对于烦人的中间地带非常有用：公共网络数据重复性太高，无法手动复制，但不值得维护完整的抓取工具。 对于构建自动化工具的人来说，您是否发现当用户可以在输出写入表格或 CRM 之前检查输出时，他们会更信任自动化？   由   提交 /u/Thunderbit_HQ   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vfvqgc/we_added_source_links_to_extracted_rows_because/</guid>
-      <pubDate>Wed, 05 Aug 2026 03:20:58 GMT</pubDate>
+      <title>Tiiny x Workbuddy：跳过手动数据工作</title>
+      <link>https://www.reddit.com/r/automation/comments/1vqoh9j/tiiny_x_workbuddy_skip_the_manual_data_work/</link>
+      <description><![CDATA[      由   提交/u/TiinyAI   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vqoh9j/tiiny_x_workbuddy_skip_the_manual_data_work/</guid>
+      <pubDate>Mon, 17 Aug 2026 10:26:44 GMT</pubDate>
     </item>
     <item>
-      <title>Blurbus 公开测试版：需要反馈</title>
-      <link>https://www.reddit.com/r/automation/comments/1vfoo26/blurbus_open_beta_feedback_needed/</link>
-      <description><![CDATA[       由   提交/u/LMikeH   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vfoo26/blurbus_open_beta_feedback_needed/</guid>
-      <pubDate>Tue, 04 Aug 2026 22:09:49 GMT</pubDate>
+      <title>自动创建 Word 文档时获得一致的品牌</title>
+      <link>https://www.reddit.com/r/automation/comments/1vqoara/getting_consistent_branding_when_automating_word/</link>
+      <description><![CDATA[大家好，我一直在尝试自动创建品牌一致的 Microsoft Word 文档，其中模型需要遵循现有模板并填充其他上下文，例如来自成绩单的信息。 我发现，简单地提供完整的模板文档和成绩单通常会产生不错的结果，但并不总是一致。 我还尝试将模板分解为明确的说明，例如：  字体和字体大小 品牌颜色 标题和段落样式 徽标/图像资源 页面布局和间距  有趣的是，这通常会产生比仅仅提供完整模板文档更糟糕的结果。 对于处理过类似问题的任何人，有什么方法可以解决？您发现最适合一致地复制品牌 Word 文档吗？ 您主要依赖于原始模板、将品牌/布局定义为结构化指令、直接操作 DOCX 还是使用这些的某种组合？   由   提交/u/Tessalarius   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vqoara/getting_consistent_branding_when_automating_word/</guid>
+      <pubDate>Mon, 17 Aug 2026 10:16:47 GMT</pubDate>
     </item>
     <item>
-      <title>对于集成/业务流程自动化领域的人员来说，您是否看到了向更多自定义应用程序的转变？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vfo4bg/for_those_in_integrationbusiness_process/</link>
-      <description><![CDATA[考虑到对一个简单的内部工具进行振动编码是多么的快速和容易，您是在自动化方面失去业务还是在定制方面获得业务？   由   提交/u/RadianChoi  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vfo4bg/for_those_in_integrationbusiness_process/</guid>
-      <pubDate>Tue, 04 Aug 2026 21:48:06 GMT</pubDate>
+      <title>YouTube 评论自动化（小型 YouTuber 如何赚钱）</title>
+      <link>https://www.reddit.com/r/automation/comments/1vqaocs/youtube_comment_automation_how_small_youtubers/</link>
+      <description><![CDATA[      我在科技领域经营一个 YouTube 频道，我们希望自动捕获漏斗顶部的潜在客户，以构建电子邮件列表并销售数字产品（电子书、课程、指南）。 问题： 在 Instagram 上，当关注者评论关键字时，ManyChat 等自动化工具会触发 DM。但在 YouTube 上，描述链接在移动设备上的点击次数几乎为 0，并且通过链接传递手动回复数十条评论需要花费数小时。 技术解决方案： 我找不到一个干净的 API 兼容工具，因此我构建了 (replytide.co) 来自动化整个工作流程：  触发器： 通过官方 YouTube Data API v3 监听视频评论流以触发特定关键字（例如“GUIDE”、“RECIPE”、“PDF”）。 操作：从您的频道自动发送包含指定引导磁石/着陆页链接的官方评论回复。 合规性：严格按照 Google OAuth 和 API 开发者政策操作 - 无头抓取工具或频道标记的风险。  结果： 将视频评论部分转变为自动潜在客户捕获渠道，同时提高评论量（这会提高 YouTube 算法中的视频参与度信号）。 希望自动化社区就工作流程或 API 实施提供反馈！  https://preview.redd.it/cjyj21rjdtjh1.png?width=509&amp;format=png&amp;auto=webp&amp;s=a4963a703b734adafa6f81a19a631217a4db949a 链接：:=&gt;ReplyTide.co    由   提交/u/AppressiveCable641   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vqaocs/youtube_comment_automation_how_small_youtubers/</guid>
+      <pubDate>Sun, 16 Aug 2026 22:31:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
