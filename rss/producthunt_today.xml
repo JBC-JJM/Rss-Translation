@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 21 Aug 2026 21:21:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 01:04:43 GMT</lastBuildDate>
     <item>
       <title>幕府将军AI</title>
       <link>https://www.producthunt.com/products/shogunai</link>
@@ -48,18 +48,18 @@
       <pubDate>Fri, 21 Aug 2026 03:43:53 GMT</pubDate>
     </item>
     <item>
-      <title>PixelRead人工智能OCR</title>
-      <link>https://www.producthunt.com/products/pixelread-ai-ocr</link>
+      <title>奴才</title>
+      <link>https://www.producthunt.com/products/flunkey</link>
       <description><![CDATA[
-            捕获、翻译和理解 Mac 上的任何文本
+            适用于 Windows 的语音优先 AI 层（测试版）
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/pixelread-ai-ocr</guid>
-      <pubDate>Thu, 20 Aug 2026 21:21:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/flunkey</guid>
+      <pubDate>Thu, 20 Aug 2026 18:50:24 GMT</pubDate>
     </item>
     <item>
       <title>埃福</title>
@@ -88,20 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/wizstar</guid>
       <pubDate>Thu, 20 Aug 2026 15:05:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>坡道路由器</title>
-      <link>https://www.producthunt.com/products/ramp-router</link>
-      <description><![CDATA[
-            代币就是钱。保存两者。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ramp-router</guid>
-      <pubDate>Thu, 20 Aug 2026 13:50:53 GMT</pubDate>
     </item>
     <item>
       <title>码头工</title>
@@ -158,6 +144,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/plow-latch</guid>
       <pubDate>Wed, 19 Aug 2026 23:12:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>动作x0</title>
+      <link>https://www.producthunt.com/products/actx0</link>
+      <description><![CDATA[
+            AI 代理的内存基础设施。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/actx0</guid>
+      <pubDate>Wed, 19 Aug 2026 22:00:59 GMT</pubDate>
     </item>
     <item>
       <title>一个CLI</title>
