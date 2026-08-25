@@ -1,219 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
+    <title></title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Aug 2026 06:41:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:32:36 GMT</lastBuildDate>
     <item>
-      <title>反重力遥控</title>
-      <link>https://www.producthunt.com/products/google-antigravity</link>
-      <description><![CDATA[
-            从任何浏览器驱动反重力代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/google-antigravity</guid>
-      <pubDate>Mon, 24 Aug 2026 05:00:08 GMT</pubDate>
+      <title>键位图</title>
+      <link>https://www.producthunt.com/products/keymap</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.producthunt.com/products/keymap</guid>
+      <pubDate>Tue, 25 Aug 2026 02:20:27 GMT</pubDate>
     </item>
     <item>
-      <title>波袋 ▶︎•၊||၊||။၊|။</title>
-      <link>https://www.producthunt.com/products/wavepocket-free-ios-app</link>
-      <description><![CDATA[
-            合成器、鼓组、4 轨磁带循环和 FX 应用程序
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/wavepocket-free-ios-app</guid>
-      <pubDate>Sun, 23 Aug 2026 22:52:00 GMT</pubDate>
+      <title>whoisthegoat.lol</title>
+      <link>https://www.producthunt.com/products/whoisthegoat-lol</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.producthunt.com/products/whoisthegoat-lol</guid>
+      <pubDate>Mon, 24 Aug 2026 18:03:23 GMT</pubDate>
     </item>
     <item>
-      <title>落石</title>
-      <link>https://www.producthunt.com/products/dropstone-2</link>
-      <description><![CDATA[
-            随处记忆、学习和行动的 AI 运行时
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/dropstone-2</guid>
-      <pubDate>Sun, 23 Aug 2026 17:33:30 GMT</pubDate>
+      <title></title>
+      <link>https://www.producthunt.com/products/chatgpt-ad-library</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.producthunt.com/products/chatgpt-ad-library</guid>
+      <pubDate>Mon, 24 Aug 2026 15:40:38 GMT</pubDate>
     </item>
     <item>
-      <title>IFAH</title>
-      <link>https://www.producthunt.com/products/ifah-a-new-experience-of-sound</link>
+      <title></title>
+      <link>https://www.producthunt.com/products/session-indexer</link>
       <description><![CDATA[
-            用于创作和体验声音空间的乐器
+            对您自己的 Claude Code 会话历史记录进行语义搜索
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ifah-a-new-experience-of-sound</guid>
-      <pubDate>Sun, 23 Aug 2026 16:44:19 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/session-indexer</guid>
+      <pubDate>Mon, 24 Aug 2026 09:32:05 GMT</pubDate>
     </item>
     <item>
-      <title>世界地图.lol</title>
-      <link>https://www.producthunt.com/products/worldmap-lol</link>
-      <description><![CDATA[
-            让您的创业公司名声大噪。字面上地。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/worldmap-lol</guid>
-      <pubDate>Sun, 23 Aug 2026 13:07:55 GMT</pubDate>
+      <title>好友视觉测试</title>
+      <link>https://www.producthunt.com/products/buddy</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.producthunt.com/products/buddy</guid>
+      <pubDate>Mon, 24 Aug 2026 09:19:46 GMT</pubDate>
     </item>
     <item>
-      <title>凹凸不平</title>
-      <link>https://www.producthunt.com/products/bumply</link>
+      <title></title>
+      <link>https://www.producthunt.com/products/alchemize</link>
       <description><![CDATA[
-            更新您的依赖项并撤消任何操作
+            充满信心地交付更多代码
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/bumply</guid>
-      <pubDate>Sun, 23 Aug 2026 11:55:52 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/alchemize</guid>
+      <pubDate>Sun, 23 Aug 2026 17:49:34 GMT</pubDate>
     </item>
     <item>
-      <title>本地码头</title>
-      <link>https://www.producthunt.com/products/localdock</link>
+      <title></title>
+      <link>https://www.producthunt.com/products/agnost-ai</link>
       <description><![CDATA[
-            每个本地项目都有一个真实的地址。
+            捕获您的评估错过的代理故障
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/localdock</guid>
-      <pubDate>Sun, 23 Aug 2026 11:54:19 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/agnost-ai</guid>
+      <pubDate>Sun, 23 Aug 2026 06:03:45 GMT</pubDate>
     </item>
     <item>
-      <title>谋划</title>
-      <link>https://www.producthunt.com/products/contrive</link>
+      <title>耀斑</title>
+      <link>https://www.producthunt.com/products/flare-11</link>
       <description><![CDATA[
-            在您的所有工作应用程序中搜索并执行操作
+            用于代理编码的图形优先 IDE 和交互式地图
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/contrive</guid>
-      <pubDate>Sun, 23 Aug 2026 08:19:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/flare-11</guid>
+      <pubDate>Sat, 22 Aug 2026 13:13:26 GMT</pubDate>
     </item>
     <item>
-      <title>德卡沃克</title>
-      <link>https://www.producthunt.com/products/decawork</link>
+      <title>酷插头</title>
+      <link>https://www.producthunt.com/products/coolplugz</link>
       <description><![CDATA[
-            控制公司的内部人工智能代理和工具
+            Claude 协调器可以为开发人员节省大量时间
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/decawork</guid>
-      <pubDate>Sun, 23 Aug 2026 05:41:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/coolplugz</guid>
+      <pubDate>Thu, 20 Aug 2026 13:17:55 GMT</pubDate>
     </item>
     <item>
-      <title>阴谋</title>
-      <link>https://www.producthunt.com/products/trama-mac-automation-in-plain-language</link>
+      <title>粒子工作室</title>
+      <link>https://www.producthunt.com/products/particle-studio</link>
       <description><![CDATA[
-            使用简单语言创建 macOS 本机自动化
+            将静态图像转变为动态粒子体验
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/trama-mac-automation-in-plain-language</guid>
-      <pubDate>Sat, 22 Aug 2026 19:15:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/particle-studio</guid>
+      <pubDate>Tue, 18 Aug 2026 15:58:49 GMT</pubDate>
     </item>
     <item>
-      <title>离环</title>
-      <link>https://www.producthunt.com/products/offloop</link>
+      <title>忍者AI</title>
+      <link>https://www.producthunt.com/products/ninjo-ai</link>
       <description><![CDATA[
-            人员和人工智能代理完成工作的共享工作空间
+            从 Claude Code 运行的任何渠道上的 AI 销售代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/offloop</guid>
-      <pubDate>Sat, 22 Aug 2026 15:50:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ninjo-ai</guid>
+      <pubDate>Thu, 13 Aug 2026 15:09:36 GMT</pubDate>
     </item>
     <item>
-      <title>支付套件</title>
-      <link>https://www.producthunt.com/products/paymentkit</link>
-      <description><![CDATA[
-            处理器关闭后仍可计费
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/paymentkit</guid>
-      <pubDate>Thu, 20 Aug 2026 15:10:48 GMT</pubDate>
+      <title>Jotform人工智能数据助手</title>
+      <link>https://www.producthunt.com/products/jotform</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.producthunt.com/products/jotform</guid>
+      <pubDate>Tue, 11 Aug 2026 12:01:37 GMT</pubDate>
     </item>
     <item>
-      <title>凤凰</title>
-      <link>https://www.producthunt.com/products/phoenix-10</link>
+      <title>阿克塔专业版</title>
+      <link>https://www.producthunt.com/products/akta-pro</link>
       <description><![CDATA[
-            专为 iOS、macOS 应用程序开发而构建的 AI 编码代理
+            适用于代理经济的私营公司数据和信号 API
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/phoenix-10</guid>
-      <pubDate>Thu, 20 Aug 2026 09:32:29 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/akta-pro</guid>
+      <pubDate>Thu, 06 Aug 2026 13:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>命运戒指</title>
-      <link>https://www.producthunt.com/products/destiny-rings</link>
+      <title></title>
+      <link>https://www.producthunt.com/products/inquio</link>
       <description><![CDATA[
-            近距离约会、社交和网络
+            看看你的机器人出了什么问题
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/destiny-rings</guid>
-      <pubDate>Thu, 20 Aug 2026 02:09:37 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/inquio</guid>
+      <pubDate>Wed, 05 Aug 2026 13:40:24 GMT</pubDate>
     </item>
     <item>
-      <title>导航</title>
-      <link>https://www.producthunt.com/products/navigara</link>
+      <title></title>
+      <link>https://www.producthunt.com/products/hacktron</link>
       <description><![CDATA[
-            将您的人工智能支出直接连接到您的路线图
+            关闭漏洞发现和修补之间的循环。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/navigara</guid>
-      <pubDate>Thu, 13 Aug 2026 22:04:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/hacktron</guid>
+      <pubDate>Wed, 29 Jul 2026 09:47:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
