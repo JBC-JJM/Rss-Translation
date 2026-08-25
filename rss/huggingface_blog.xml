@@ -4,13 +4,27 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Tue, 25 Aug 2026 03:46:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:41:51 GMT</lastBuildDate>
+    <item>
+      <title></title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</guid>
+      <pubDate>Tue, 25 Aug 2026 11:39:24 GMT</pubDate>
+    </item>
     <item>
       <title>连接、运行、部署：Gradio 中的 AI 工作流程</title>
       <link>https://huggingface.co/blog/gradio-workflow-guide</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/gradio-workflow-guide</guid>
       <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>拥抱人脸推理端点、作业和存储桶如何通过代码增强论文搜索</title>
+      <link>https://huggingface.co/blog/pwc-search</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/pwc-search</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>测量语音识别中的基准优化</title>
@@ -34,7 +48,7 @@
       <pubDate>Tue, 18 Aug 2026 18:09:38 GMT</pubDate>
     </item>
     <item>
-      <title>带有句子变压器的多向量（后期交互）嵌入模型</title>
+      <title></title>
       <link>https://huggingface.co/blog/multi-vector-encoder</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/multi-vector-encoder</guid>
@@ -62,14 +76,14 @@
       <pubDate>Thu, 13 Aug 2026 17:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>通过复制 ICML 的 2,200 篇论文我们学到了什么</title>
+      <title></title>
       <link>https://huggingface.co/blog/icml-2026-open-reproductions</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/icml-2026-open-reproductions</guid>
       <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出的自定义嵌入用于下游分析</title>
+      <title>OlmoEarth 嵌入简介：从 OlmoEarth Studio 导出自定义嵌入以进行下游分析</title>
       <link>https://huggingface.co/blog/allenai/olmoearth-embeddings</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/allenai/olmoearth-embeddings</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</guid>
       <pubDate>Mon, 10 Aug 2026 10:05:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 与 Muse Glimmer 一起回归：本地、代理、多模式和开源</title>
-      <link>https://huggingface.co/blog/muse-glimmer</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/muse-glimmer</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Baseten 拥抱人脸推理提供商 🔥</title>
-      <link>https://huggingface.co/blog/baseten</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/baseten</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
