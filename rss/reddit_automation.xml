@@ -4,111 +4,111 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 18 Aug 2026 18:35:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:25:17 GMT</lastBuildDate>
     <item>
-      <title>自动将计算值推回到应用程序的数据库中</title>
-      <link>https://www.reddit.com/r/automation/comments/1vrsmsp/pushing_computed_values_back_into_your_apps/</link>
-      <description><![CDATA[一种对我有用的模式，而不是每晚将聚合从仓库复制到应用程序数据库的反向 ETL 脚本：Lakebase 同步表使 Postgres 表与源 Delta 表持续保持同步，因此应用程序可以读取新的计算值，而无需 cron 来照顾。我还漏掉了其他东西吗？   由   提交/u/pretzels90210   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vrsmsp/pushing_computed_values_back_into_your_apps/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:37:09 GMT</pubDate>
+      <title>有人让人工智能实际运行并修复管道，而不仅仅是编写它吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vyb93m/anyone_letting_an_ai_actually_run_and_fix_the/</link>
+      <description><![CDATA[一直在使用 Databricks Genie Code 进行管道工作，令人惊讶的部分不是代码生成，而是它在无服务器上运行管道，在出现问题时读取错误，并提出快速修复方案，所有这些都针对您受管理的 Unity 目录表，并在您的批准后进行。  您实际上对代理在不检查每个步骤的情况下运行管道代码的信任程度如何？   由   提交/u/pretzels90210  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vyb93m/anyone_letting_an_ai_actually_run_and_fix_the/</guid>
+      <pubDate>Tue, 25 Aug 2026 20:19:12 GMT</pubDate>
     </item>
     <item>
-      <title>我为设计安全实用的AI Agent系统而制作的信息图</title>
-      <link>https://www.reddit.com/r/automation/comments/1vrs15o/infographics_i_made_for_designing_a_safe_and/</link>
-      <description><![CDATA[      如果这不是发布此内容的正确位置，我深表歉意   由   提交 /u/donotfire   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vrs15o/infographics_i_made_for_designing_a_safe_and/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:14:38 GMT</pubDate>
+      <title>我为空置土地建造了佛罗里达州的税收契约灌木丛。这是我在考虑投标之前会考虑的内容。</title>
+      <link>https://www.reddit.com/r/automation/comments/1vy1t0g/i_built_a_florida_tax_deed_scrub_for_vacant_land/</link>
+      <description><![CDATA[ 由   提交 /u/Successful_Prize_286   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vy1t0g/i_built_a_florida_tax_deed_scrub_for_vacant_land/</guid>
+      <pubDate>Tue, 25 Aug 2026 14:42:45 GMT</pubDate>
     </item>
     <item>
-      <title>n8n 新手，不知道从哪里开始？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vrk0vb/new_to_n8n_and_not_sure_where_to_start/</link>
-      <description><![CDATA[       由   提交/u/easybits_ai  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vrk0vb/new_to_n8n_and_not_sure_where_to_start/</guid>
-      <pubDate>Tue, 18 Aug 2026 09:14:50 GMT</pubDate>
+      <title>最终让我的特工在不死亡的情况下执行长时间任务的模型并不是更好的模型</title>
+      <link>https://www.reddit.com/r/automation/comments/1vxxw3y/the_thing_that_finally_got_my_agent_to_run_long/</link>
+      <description><![CDATA[今年花了太多时间试图让代理对旧代码库进行大规模重构，而不是每十分钟照顾一次。遗留的 Django 东西，几百个文件。 模型从来都不是问题。它开始得很好，前十个或十五个文件，然后在三十年代的某个地方它就失去了情节。忘记我已经碰过的东西，重做一些东西，有时会停下来，表现得好像刚开始时就已经完成了一样。任何运行过其中之一一段时间的人都知道这种感觉。 Fix 几乎是愚蠢的。在启动之前让它写入一个跟踪器文件。只是降价。每个需要工作的文件、状态、更改行。待处理、进行中、已完成、需要审查。然后它每次都会读取跟踪器，在完成某件事后更新它，继续下去，直到每一行都说完成。 比我尝试过的任何模型交换都多。该作业存在于文件中而不是代理头部中，因此上下文不会以同样的方式腐烂，它会在每个循环中不断重建跟踪器，而不是拖累整个混乱。 尽管它不是自主的，但不要欺骗自己。仍然必须关注需求审查行，有几次跟踪器偏离了实际代码，我不得不手动修复它。整个下午不要管它，你可能会变得一团糟。更像是一个顽固的后辈，记下不错的笔记，而不是放手任何事情。 两个模型。作品适合那些需要真正判断的关卡，那些粗糙的关卡。反复阅读跟踪器和文件并进行机械编辑，这就是 GLM-5.3。大上下文在这里保持不变，因为每个循环都会重新读取跟踪器以及文件上下文的负载。毫无疑问，当 Opus 需要认真思考时，它仍然会更好。不过，大多数重构循环并不是这样的。 听起来太愚蠢了，懒得发帖，但这仍然是我从任何事情中获得的最大的可靠性飞跃。比模型还要多。   由   提交 /u/Efficient_Letter9480   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vxxw3y/the_thing_that_finally_got_my_agent_to_run_long/</guid>
+      <pubDate>Tue, 25 Aug 2026 12:03:49 GMT</pubDate>
     </item>
     <item>
-      <title>寻找擅长销售的人合作进行人工智能自动化工作</title>
-      <link>https://www.reddit.com/r/automation/comments/1vrcxh8/looking_for_someone_good_at_sales_to_partner_up/</link>
-      <description><![CDATA[我为小型企业构建人工智能自动化，例如聊天机器人、跟进系统、抓取数据、清理工作流程，以及任何占用他们时间或花费金钱的东西。我在技术方面很扎实，但老实说，我不擅长寻找客户或向他们推销。 寻找善于与小企业主交谈并能够发现他们在哪里浪费时间或金钱的人。如果你给我带来客户并完成交易，我会处理构建方面的所有事情，然后我们将其分开。 无论你以前是否做过这件事，如果你善于与人相处并且能够销售，这确实是我需要的主要东西。 如果这听起来像你想做的事情，我们可以弄清楚分割并开始行动。   由   提交/u/Thunderbird435  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vrcxh8/looking_for_someone_good_at_sales_to_partner_up/</guid>
-      <pubDate>Tue, 18 Aug 2026 02:48:33 GMT</pubDate>
+      <title>n8n 中的文档分类 – 使用置信度分数对 PDF 进行分类，并将不稳定的 PDF 路由到 Slack [包含工作流程]</title>
+      <link>https://www.reddit.com/r/automation/comments/1vxu2bv/document_classification_in_n8n_classify_pdfs_with/</link>
+      <description><![CDATA[       由   提交/u/easybits_ai   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vxu2bv/document_classification_in_n8n_classify_pdfs_with/</guid>
+      <pubDate>Tue, 25 Aug 2026 08:39:25 GMT</pubDate>
     </item>
     <item>
-      <title>我们如何链接多个法学硕士将复杂任务错误减少 45%</title>
-      <link>https://www.reddit.com/r/automation/comments/1vr8lu0/how_we_chained_multiple_llms_to_cut_complex_task/</link>
-      <description><![CDATA[       由   提交/u/Ok_pettech   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vr8lu0/how_we_chained_multiple_llms_to_cut_complex_task/</guid>
-      <pubDate>Mon, 17 Aug 2026 23:35:17 GMT</pubDate>
+      <title>安德鲁·杨警告说，人工智能将取代数百万工人，美国“在再培训”工人方面很糟糕......“煤矿工人没有成为程序员”</title>
+      <link>https://www.reddit.com/r/automation/comments/1vxnaul/andrew_yang_warns_that_ai_is_set_to_displace/</link>
+      <description><![CDATA[    /u/BarchartNews   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vxnaul/andrew_yang_warns_that_ai_is_set_to_displace/</guid>
+      <pubDate>Tue, 25 Aug 2026 02:31:05 GMT</pubDate>
     </item>
     <item>
-      <title>如何绕过谷歌浏览器验证码</title>
-      <link>https://www.reddit.com/r/automation/comments/1vr81wk/how_to_bypass_google_chrome_captchas/</link>
-      <description><![CDATA[嘿伙计们。希望你们都做得很好。我陷入了我的 chrome 自动化项目。我希望有人能帮助我解决这个问题。 如何在未登录的情况下处理 google 验证码？   由   提交/u/wannabeepsycho   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vr81wk/how_to_bypass_google_chrome_captchas/</guid>
-      <pubDate>Mon, 17 Aug 2026 23:11:55 GMT</pubDate>
+      <title>我喜欢 UI 自动化！ （开源光学框架）</title>
+      <link>https://www.reddit.com/r/automation/comments/1vxfq63/im_loving_ui_automation_open_source/</link>
+      <description><![CDATA[过去几个月我一直在一家公司实习，与我所在学院的学者一起实习。他们拥有基于 UI 自动化的整个产品线，并且拥有一个开源框架（链接如下），该框架支持/启发了许多此类产品。 由于这是一个开源项目，因此我应该将其视为一个开源项目。因此，我们经历了各种审稿人循环，到目前为止很有趣！ Optics Framework 是一个 UI 自动化框架，支持 Android/iOS/TV 自动化（浏览器、BLE 即将添加），我一直致力于核心框架逻辑、重构、入门。  几个月之内，我已经上升为存储库的第二大贡献者，甚至考虑用我开发的一些想法向上游贡献给 appium 和其他自动化库。  我一直在贡献的存储库 - o​​ptics-framework 我只是想知道这个空间受欢迎吗？我知道其他一些存储库，例如 Maestro，它在 React Native Expo 期间就很流行。你们在消费者层面使用 UI 自动化吗？ B2B我明白，企业消费者显然是存在的，但是你们呢？   由   提交/u/chinmayjha_cj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vxfq63/im_loving_ui_automation_open_source/</guid>
+      <pubDate>Mon, 24 Aug 2026 21:13:52 GMT</pubDate>
     </item>
     <item>
-      <title>我认为在 Product Hunt 上获得第一名的感觉会有所不同。</title>
-      <link>https://www.reddit.com/r/automation/comments/1vr0hg0/i_thought_getting_1_on_product_hunt_would_feel/</link>
-      <description><![CDATA[      我们今天推出了 Meridian，并最终成为当日排名第一的产品。 我在最初的几个小时里不断刷新 Product Hunt，但排名很快就变得没有看到陌生人使用我们在自己的泡沫中构建的东西那么有趣了。 几个月来，我们一直在争论工作流程是否有用、开发人员是否会关心以及我们是否正在解决问题正确的问题。今天，真正的用户开始回答这些问题。他们的反馈已经挑战了我们的一些假设，并改变了我们对产品的看法。 这是我最大的收获：在陌生人使用它之前，你并不真正知道自己构建了什么。 #1 徽章感觉很棒，但更艰苦的工作现在开始了。我们需要将这种注意力转化为开发人员真正认为有用的东西。 您可以在今天的 Product Hunt 上找到我们的热门产品！ 如果您之前曾在 Product Hunt 上推出过，那么发布后最令您惊讶的是什么？   由   提交/u/Akarsh_Hegde   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vr0hg0/i_thought_getting_1_on_product_hunt_would_feel/</guid>
-      <pubDate>Mon, 17 Aug 2026 18:27:33 GMT</pubDate>
+      <title>有没有好的开源自动化 Gmail 分类和跟进服务？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vx96qn/any_good_opensource_automation_for_gmail_triage/</link>
+      <description><![CDATA[我的 Gmail 收件箱混合了工作请求、个人通信、提醒和我需要跟进的对话。我考虑过建立一个助手，但我宁愿使用或贡献一些好的东西，也不愿重新发明它。我更喜欢开源，尽管我对运行良好的闭源工具持开放态度。 我正在寻找能够：  识别需要回复或采取行动的东西 提取截止日期和承诺 标记未答复的对话 创建草稿以供审核 生成简短的每日摘要  我遇到过MailFlow、Google MailPilot、GmailDraft、NeatMail 和一些 n8n 工作流程。有没有人在真正的收件箱中使用过其中一种或另一种设置？ 我特别想知道：  什么效果好 什么被错误分类或遗漏  我目前的计划是试用现有的助手，记下它成功或失败的地方，然后保留它，为开源项目做出贡献，或者只构建缺失的部分。   由   提交 /u/codeRoman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vx96qn/any_good_opensource_automation_for_gmail_triage/</guid>
+      <pubDate>Mon, 24 Aug 2026 17:22:11 GMT</pubDate>
     </item>
     <item>
-      <title>我周一的报告仍然取决于记住上周一的提示。</title>
-      <link>https://www.reddit.com/r/automation/comments/1vqyrg3/my_monday_report_still_depends_on_remembering/</link>
-      <description><![CDATA[下周一这个报告设置会变得尴尬。当前版本可以获取几个市场导出并进行比较。一旦解释了日期范围和计算规则，它就可以工作。 一周后，新文件到达。我可能还记得这次我是如何处理退款的，但我不希望报告取决于我的记忆。每次更新之前通读旧对话将用即时维护取代电子表格维护。 我在 Accio Work 中尝试了该任务，它接受上传的报告，并在我提供公式后生成可行的结果。对于调查偶尔出现的问题来说，这似乎没问题。 我对使用人们每周一期待的报告相同的方法不太有信心。那时，我希望商定的计算保持固定，而不是在每次上传时再次解释。 第一个版本运行后，人们如何锁定基于聊天的报告？   由   提交 /u/That-Economist-2756   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vqyrg3/my_monday_report_still_depends_on_remembering/</guid>
-      <pubDate>Mon, 17 Aug 2026 17:27:53 GMT</pubDate>
+      <title>哪种软件有助于自动化销售线索生成流程？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vx1wu0/which_software_helps_automate_lead_generation/</link>
+      <description><![CDATA[每当我们寻找自动化销售线索生成的软件时，我们通常都会从自动化漏斗中错误的部分开始，默认的剧本通常是这样的：从目录中抓取电子邮件列表，将其插入自动排序器，然后每天发送 1000 条消息。到第三周，域交付率崩溃，回复率徘徊在 1% 以下，团队又回到了原点。 如果您看看现代潜在客户开发自动化的工作原理，您会发现挑战通常是在外展发生之前实现意图检测和上下文层的自动化。在实践中，软件方法通常分为两个主要架构： 专用意图和目的。信号引擎（规模智能）： 这种方法不是从静态联系人列表开始，而是自动化计时和发现过程。 Scale Intelligence 充当帐户级 GTM 引擎，可监控社交渠道（reddit、github 存储库、discord、职位发布、CRM 数据）中的 75 个以上数据源，以将分散的公众意图解析回特定公司帐户。它对购买准备情况进行评分，并通过 API/MCP 将高意向机会路由到 Slack 或下游代理堆栈，确保仅当帐户处于活跃购买窗口时才会进行外展。工作流组装路线（Clay + Webhooks + Sequencers）： 这是为每个步骤连接单独工具的方法：用于原始记录的数据抓取器、用于数据卫生的瀑布浓缩表以及用于冷发送的一些其他工具。它对每个提示和列提供精细的电子表格级控制，但需要持续的手动编排、自定义抓取工具维护和持续的 API 信用管理。   由   提交/u/sibraan_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vx1wu0/which_software_helps_automate_lead_generation/</guid>
+      <pubDate>Mon, 24 Aug 2026 12:50:14 GMT</pubDate>
     </item>
     <item>
-      <title>高级合同开发商的解决方案是成立代理机构吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vqvld2/is_the_solution_for_senior_contract_developers_to/</link>
-      <description><![CDATA[嗨， 我是一名新手，正在探索自动化（如 n8n、Make、Zapier）作为一项潜在的副业。 所以我的问题是针对自动化机构所有者的。 我想从一名自由职业者开始，然后有一天发展成为一家机构。 我阅读了合同开发人员社区，其中很多人都说找一份工作；客户用完了；我做了其他事情。 所以我想知道经营一家代理机构是否有什么不同？ 如果市场疲软，我会失去客户吗？ 我基本上想知道这种模式的可持续性如何，来自经验丰富的代理机构所有者：如果他们不得不关闭代理机构，为什么？ 显然，没有什么是面向未来的，正如任何企业家都知道的那样（永远不要把鸡蛋放在同一个篮子里）。我计划构建多种 SaaS 产品并投资多样化的产品组合。   由   提交 /u/Fine-Market9841   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vqvld2/is_the_solution_for_senior_contract_developers_to/</guid>
-      <pubDate>Mon, 17 Aug 2026 15:30:21 GMT</pubDate>
+      <title>您将使用什么来自动化您的视觉内容？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vx12tn/what_do_youll_use_to_automate_your_visual_content/</link>
+      <description><![CDATA[发现了一些有趣的方法来自动化资产，无论是标题图像、视觉效果还是任何此类性质的图形。  n8n、工作流程自动化、自托管或云。具有图像 API 的节点，因此您可以按计划或 Webhook 触发生成。最灵活的无代码选项。 MCP 调用 higgsfield 模型，按计划运行 aeon。生成作为工作流程中的一个步骤发生，而不是我坐在选项卡提示中。  当然，只需关注令牌支出。 有人以不同的方式自动化此操作吗？好奇什么在起作用。   由   提交/u/amu4biz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vx12tn/what_do_youll_use_to_automate_your_visual_content/</guid>
+      <pubDate>Mon, 24 Aug 2026 12:13:17 GMT</pubDate>
     </item>
     <item>
-      <title>什么是软件工厂？ 2026 年评估的 5 种产品</title>
-      <link>https://www.reddit.com/r/automation/comments/1vqq2f4/what_is_a_software_factory_5_products_to_evaluate/</link>
-      <description><![CDATA[       由   提交 /u/sn1pr0s   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vqq2f4/what_is_a_software_factory_5_products_to_evaluate/</guid>
-      <pubDate>Mon, 17 Aug 2026 11:48:06 GMT</pubDate>
+      <title>我在凌晨 2 点构建了 12 个 api 工作流程，因为 webhooks 只花了 5 分钟</title>
+      <link>https://www.reddit.com/r/automation/comments/1vwrd8h/i_built_12_api_workflows_at_2_am_because_the/</link>
+      <description><![CDATA[凌晨 2 点我盯着我的气泡编辑器，有 12 个活动的 api 工作流程。他们都跑得很完美。唯一的问题是零个用户实际上需要它们。 我只是构建了可以快速实现的东西。我正在堆叠逻辑块，因为设置网络钩子花了五分钟。现在技术更容易了，所以我构建出完全错误的东西的可能性猛增。这十二个脚本之一是一个脚本，它抓取当地的天气数据，只是为了更改仪表板上的早安文本，实际上没有人登录。我们自动化垃圾处理，因为按钮就在那里。 删除大部分工作流程伤害了我的自尊，但让它们运行假装我解决了问题实在是可悲。现在我有一个硬性规定。我不会接触 api 或构建单个触发器，除非本周我手动浪费了至少两个小时来手动执行完全相同的任务。   由   提交 /u/BarracudaMean9308   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vwrd8h/i_built_12_api_workflows_at_2_am_because_the/</guid>
+      <pubDate>Mon, 24 Aug 2026 03:20:28 GMT</pubDate>
     </item>
     <item>
-      <title>今年您遇到的最令人印象深刻的自动化是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vqpjag/what_is_the_most_impressive_automation_you_have/</link>
-      <description><![CDATA[例如，我刚刚看到我的朋友设置了一个自动化功能，每次客户会议后，Zooms AI Summary 都会自动路由到 Gamma。然后，Gamma 为他和客户生成关于我们总结讨论的内容和后续步骤的最终 PPT，并自动发送给双方。客户似乎很喜欢它，因为感觉他在每次通话后都付出了很大的努力来为他们进行个人演示，哈哈。 很好奇，Reddit 用户，今年你们遇到的最令人印象深刻的自动化是什么？   由   提交 /u/No-Marionberry8257   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vqpjag/what_is_the_most_impressive_automation_you_have/</guid>
-      <pubDate>Mon, 17 Aug 2026 11:21:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个简单的浏览器自动化/插件可以发布在 Substack 上？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vqojp9/a_simple_browser_automationplugin_to_post_on/</link>
-      <description><![CDATA[子堆栈没有 API。我已经完成了在我的网站上发布文章的自动化操作。最后一步是在 Substack 上发布注释。 注释就像一条推文。我希望自动化只打开新笔记，粘贴文本并提交。    由   提交 /u/jonbristow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vqojp9/a_simple_browser_automationplugin_to_post_on/</guid>
-      <pubDate>Mon, 17 Aug 2026 10:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tiiny x Workbuddy：跳过手动数据工作</title>
-      <link>https://www.reddit.com/r/automation/comments/1vqoh9j/tiiny_x_workbuddy_skip_the_manual_data_work/</link>
+      <title>Tiiny 遇见 DeepSeek 安全带</title>
+      <link>https://www.reddit.com/r/automation/comments/1vwpu0l/tiiny_meets_deepseek_harness/</link>
       <description><![CDATA[      由   提交/u/TiinyAI   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vqoh9j/tiiny_x_workbuddy_skip_the_manual_data_work/</guid>
-      <pubDate>Mon, 17 Aug 2026 10:26:44 GMT</pubDate>
+      <guid>https://www.reddit.com/r/automation/comments/1vwpu0l/tiiny_meets_deepseek_harness/</guid>
+      <pubDate>Mon, 24 Aug 2026 02:06:25 GMT</pubDate>
     </item>
     <item>
-      <title>自动创建 Word 文档时获得一致的品牌</title>
-      <link>https://www.reddit.com/r/automation/comments/1vqoara/getting_consistent_branding_when_automating_word/</link>
-      <description><![CDATA[大家好，我一直在尝试自动创建品牌一致的 Microsoft Word 文档，其中模型需要遵循现有模板并填充其他上下文，例如来自成绩单的信息。 我发现，简单地提供完整的模板文档和成绩单通常会产生不错的结果，但并不总是一致。 我还尝试将模板分解为明确的说明，例如：  字体和字体大小 品牌颜色 标题和段落样式 徽标/图像资源 页面布局和间距  有趣的是，这通常会产生比仅仅提供完整模板文档更糟糕的结果。 对于处理过类似问题的任何人，有什么方法可以解决？您发现最适合一致地复制品牌 Word 文档吗？ 您主要依赖于原始模板、将品牌/布局定义为结构化指令、直接操作 DOCX 还是使用这些的某种组合？   由   提交/u/Tessalarius   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vqoara/getting_consistent_branding_when_automating_word/</guid>
-      <pubDate>Mon, 17 Aug 2026 10:16:47 GMT</pubDate>
+      <title>PAD 消耗</title>
+      <link>https://www.reddit.com/r/automation/comments/1vwlq9m/pad_consumed/</link>
+      <description><![CDATA[ 由   提交/u/Dream_On_83  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vwlq9m/pad_consumed/</guid>
+      <pubDate>Sun, 23 Aug 2026 22:59:37 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube 评论自动化（小型 YouTuber 如何赚钱）</title>
-      <link>https://www.reddit.com/r/automation/comments/1vqaocs/youtube_comment_automation_how_small_youtubers/</link>
-      <description><![CDATA[      我在科技领域经营一个 YouTube 频道，我们希望自动捕获漏斗顶部的潜在客户，以构建电子邮件列表并销售数字产品（电子书、课程、指南）。 问题： 在 Instagram 上，当关注者评论关键字时，ManyChat 等自动化工具会触发 DM。但在 YouTube 上，描述链接在移动设备上的点击次数几乎为 0，并且通过链接传递手动回复数十条评论需要花费数小时。 技术解决方案： 我找不到一个干净的 API 兼容工具，因此我构建了 (replytide.co) 来自动化整个工作流程：  触发器： 通过官方 YouTube Data API v3 监听视频评论流以触发特定关键字（例如“GUIDE”、“RECIPE”、“PDF”）。 操作：从您的频道自动发送包含指定引导磁石/着陆页链接的官方评论回复。 合规性：严格按照 Google OAuth 和 API 开发者政策操作 - 无头抓取工具或频道标记的风险。  结果： 将视频评论部分转变为自动潜在客户捕获渠道，同时提高评论量（这会提高 YouTube 算法中的视频参与度信号）。 希望自动化社区就工作流程或 API 实施提供反馈！  https://preview.redd.it/cjyj21rjdtjh1.png?width=509&amp;format=png&amp;auto=webp&amp;s=a4963a703b734adafa6f81a19a631217a4db949a 链接：:=&gt;ReplyTide.co    由   提交/u/AppressiveCable641   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vqaocs/youtube_comment_automation_how_small_youtubers/</guid>
-      <pubDate>Sun, 16 Aug 2026 22:31:01 GMT</pubDate>
+      <title>我制作了一个代理，它可以在 Instagram 上滚动并找到病毒视频，您可以在其中插入您的应用程序 - 正是人类的做法。</title>
+      <link>https://www.reddit.com/r/automation/comments/1vwj9c4/i_made_an_agent_that_doomscrolls_instagram_and/</link>
+      <description><![CDATA[作为一个曾经通过 doomscroll 为我的下一个病毒式内容寻找灵感的人，我可以在其中插入我的产品，这是一项 24/7 的工作。我问自己，智能体能否像人类一样善于获取灵感？  当我在克劳德身上测试时，我很惊讶。这是一个疯狂的模型，可以采用具有相同利基的病毒视频，借用病毒元素来提出一个新概念，将您的产品插入其中。  我当前的工作流程包括让代理 doomscroll、点赞并保存与我们产品相关的视频，以便源始终坚持我们想要的内容，并且代理会从这些视频中提出最终的脚本列表。这确保了他们也不会错过我们的利基市场之外的总体趋势，但我们的产品可以适应的地方。    由   提交/u/Top-Nefiousness-28   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vwj9c4/i_made_an_agent_that_doomscrolls_instagram_and/</guid>
+      <pubDate>Sun, 23 Aug 2026 21:16:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>系统自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1vwh0zd/automating_a_system/</link>
+      <description><![CDATA[我正在尝试自动化工资系统。我使用 VS code 和 antigravity 等代理软件来设计它，并使用 openai 作为引擎。现在，从图像或 PDF 中提取信息是一项简单的任务，而且它们的质量很好。系统失败了。我强烈怀疑是 Agentic 工作流程失败了，因为像 gpt mini 4.0 或 4.1 甚至 olllama 这样的模型都可以提取它。我还没有尝试过使用 GPT 模型本身进行单独提取。有人可以建议我应该在哪里进行更改吗？谢谢   由   提交/u/Secure_Solution_725   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vwh0zd/automating_a_system/</guid>
+      <pubDate>Sun, 23 Aug 2026 19:49:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>2x2 改变了我对自动化操作与任务的看法</title>
+      <link>https://www.reddit.com/r/automation/comments/1vvzk7w/he_2x2_that_changed_how_i_think_about_automating/</link>
+      <description><![CDATA[构建自动化工作流程已经有一段时间了，真正重要的思维转变不是工具或框架，而是意识到“我可以自动化这个”吗？和“这应该在我不看的情况下运行吗”这是两个完全不同的问题。 这是我运行每个工作流程操作的方式： 我可以在 5 分钟内撤消它吗？ 它会触及金钱或客户数据吗？ 如果两个答案都很好（可逆、低风险）.. 让它完全自动化运行。记录、标记、内部注释，如果出现错误，只需单击两次即可修复。 如果任一答案不好（不可逆转，或涉及金钱/数据） ...该操作需要有人在触发之前看一眼。不一定每次都永远，但至少直到您信任该模式为止。 这让我感到不安：我有一个基于支持票证分类器的工作流程自动处理退款。几周来效果很好。然后一张票被错误分类了，我什至还没看到它就花掉了 400 美元。没有任何东西“损坏” 自动化完全按照我构建它的目的进行。我只是永远不应该让该特定操作在无人看管的情况下运行。 从那时起，我更加慎重地将“可以运行的东西”与“可以运行的东西”分开。来自“需要检查点的事物”。最终我自己为此构建了一个小工具（Decree，一个可以在操作与其执行之间放置的批准 API），因为我厌倦了为每个涉及敏感内容的工作流程组合 Slack ping。  对于在生产中运行自动化的任何人的问题： 您是否有任何自动化运行完全不干涉金钱、客户数据或任何难以逆转的东西？或者默认情况下你会安排一个人来了解这些情况吗？如果是这样，如何在不分散松弛/团队消息的情况下让人员参与多个工作流程？   由   提交 /u/GeorgeHadjisavvas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vvzk7w/he_2x2_that_changed_how_i_think_about_automating/</guid>
+      <pubDate>Sun, 23 Aug 2026 06:31:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
