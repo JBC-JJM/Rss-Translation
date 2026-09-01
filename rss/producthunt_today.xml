@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Sep 2026 18:09:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:00:04 GMT</lastBuildDate>
+    <item>
+      <title>荣耀机器人手机</title>
+      <link>https://www.producthunt.com/products/honor-robot-phone</link>
+      <description><![CDATA[
+            真正内置万向节的手机
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/honor-robot-phone</guid>
+      <pubDate>Tue, 01 Sep 2026 05:16:36 GMT</pubDate>
+    </item>
     <item>
       <title>宇宙特工插件</title>
       <link>https://www.producthunt.com/products/cosmic</link>
@@ -20,18 +34,32 @@
       <pubDate>Tue, 01 Sep 2026 03:12:53 GMT</pubDate>
     </item>
     <item>
-      <title>EAS观察</title>
-      <link>https://www.producthunt.com/products/expo</link>
+      <title>默梅尔</title>
+      <link>https://www.producthunt.com/products/murmell</link>
       <description><![CDATA[
-            为 Expo 和 React Native 构建的性能监控
+            人工智能代理的谷歌文档，你可以关闭你的笔记本电脑
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/expo</guid>
-      <pubDate>Mon, 31 Aug 2026 17:29:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/murmell</guid>
+      <pubDate>Mon, 31 Aug 2026 22:39:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>可信路由器</title>
+      <link>https://www.producthunt.com/products/trustedrouter</link>
+      <description><![CDATA[
+            每个模型都有统一的界面。隐私有证据。 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/trustedrouter</guid>
+      <pubDate>Mon, 31 Aug 2026 16:38:25 GMT</pubDate>
     </item>
     <item>
       <title>纳西姆</title>
@@ -88,6 +116,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/sider-code-customize-any-website</guid>
       <pubDate>Fri, 28 Aug 2026 09:05:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>迅雷手机</title>
+      <link>https://www.producthunt.com/products/thunderphone</link>
+      <description><![CDATA[
+            用于构建可靠的人工智能电话代理的平台（2c/分钟起）
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/thunderphone</guid>
+      <pubDate>Thu, 27 Aug 2026 22:32:20 GMT</pubDate>
     </item>
     <item>
       <title>孩子</title>
@@ -158,48 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/channelos</guid>
       <pubDate>Tue, 25 Aug 2026 20:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>早生五</title>
-      <link>https://www.producthunt.com/products/waseigo</link>
-      <description><![CDATA[
-            学习 1,000 多个看起来像英语的日语单词
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/waseigo</guid>
-      <pubDate>Mon, 17 Aug 2026 08:48:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 版 ARC-24 多轨 Groovebox</title>
-      <link>https://www.producthunt.com/products/arc-24-multitrack-groovebox-fro-ios</link>
-      <description><![CDATA[
-            适用于 iOS 的多轨合成器、采样器、鼓机和循环器。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/arc-24-multitrack-groovebox-fro-ios</guid>
-      <pubDate>Thu, 13 Aug 2026 16:30:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>不切实际</title>
-      <link>https://www.producthunt.com/products/impractical</link>
-      <description><![CDATA[
-            AI 运动设计 - 每个功能都值得精彩的视频。 
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/impractical</guid>
-      <pubDate>Wed, 12 Aug 2026 19:19:38 GMT</pubDate>
     </item>
     <item>
       <title>JetBrains 的 Kilo 代码</title>
