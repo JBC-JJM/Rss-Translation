@@ -4,7 +4,19 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sat, 05 Sep 2026 12:22:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:08:52 GMT</lastBuildDate>
+    <item>
+      <title>SaaS 订阅陷阱：“忘记取消”如何成为一种商业模式</title>
+      <link>https://feed.indiehackers.world/post/7ce68ac4e8</link>
+      <description><![CDATA[FTC“点击取消”规则已空出 — Cooley  https://www.cooley.com/news/insight/2025/2025-07-11-click-to-cancel-just-got-cancelled-第八电路-vacates-entirety-of-ftcs-negative-option-rule
+联邦贸易委员会/脑部和解https://www.lawyer-monthly.com/2025/05/ftc-cerebral-refund-subscription-scandal/
+Self.inc — 2026 年未使用的付费订阅成本https://www.self.inc/info/cost-of-unused-paid-subscriptions/
+西门罗 - 美国人在订阅上花费更多的调查 https://www.westmonroe.com/press-releases/americans-are-spending-more-on-subscriptions-and-are-less-aware-of-spending
+FTC“让黑暗模式曝光” 2022 年 9 月员工报告  https://www.ftc.gov/system/files/ftc_gov/pdf/P214800+Dark+Patterns+Report+9.14.2022+-+FINAL.pdf
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/7ce68ac4e8</guid>
+      <pubDate>Fri, 04 Sep 2026 17:58:13 GMT</pubDate>
+    </item>
     <item>
       <title>我为独立黑客启动了一个项目，我只想说谢谢</title>
       <link>https://feed.indiehackers.world/post/e9396c1289</link>
@@ -38,7 +50,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Thu, 20 Aug 2026 16:30:50 GMT</pubDate>
     </item>
     <item>
-      <title>Show IH：我为人工智能搜索忽略的小型企业建立了 18 个行业页面——我遗漏了哪一个？</title>
+      <title>Show IH：我为人工智能搜索忽略的小型企业建立了 18 个行业页面 - 我遗漏了哪一个？</title>
       <link>https://feed.indiehackers.world/post/7aa6b73dbb</link>
       <description><![CDATA[有两种方法可以提供帮助，最简单的第一个：
 
@@ -91,7 +103,7 @@ C) 诚实的书面反馈
 D) 访客来自哪里
 E) 有多少人后来回来了
 F）其他的东西
-我使用这里的答案来决定首先构建什么。
+我使用此处的答案来决定首先构建什么。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/7424714b3b</guid>
       <pubDate>Wed, 19 Aug 2026 09:45:17 GMT</pubDate>
@@ -103,7 +115,7 @@ Discord Indiehackers 聊天广告此处]]></description>
 付费用户实际上来自哪里？
 对于这个产品，我的下一个重点可能是 SEO + YouTube，同时继续测试较小的频道。
 产品：https://livefaceswap.ai
-For other indie hackers: have you also found that your highest-traffic channel and highest-converting channel are completely different?
+对于其他独立黑客：您是否也发现您的最高流量渠道和最高转化渠道完全不同？
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/043fd4ce67</guid>
       <pubDate>Wed, 19 Aug 2026 06:45:54 GMT</pubDate>
@@ -142,12 +154,12 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>你用 Lovable 建造了它。现在怎么办？</title>
       <link>https://feed.indiehackers.world/post/4eebc7b055</link>
-      <description><![CDATA[粘贴您的产品网址。 Zarek reads it, builds a full 6-phase launch roadmap, and writes every piece of copy — X thread, Show HN, LinkedIn, Reddit, Product Hunt.它会为您的特定产品找到正确的子版块和目录，在编写推介之前预先筛选每个子版块和目录的规则和约束，自动提交目录，然后验证每个列表是否确实存在。
+      <description><![CDATA[粘贴您的产品网址。 Zarek 阅读了它，构建了完整的 6 阶段发布路线图，并编写了每一份副本 - X thread、Show HN、LinkedIn、Reddit、Product Hunt。它会为您的特定产品找到正确的子版块和目录，在编写推介之前预先筛选每个子版块和目录的规则和约束，自动提交目录，然后验证每个列表是否确实存在。
 然后，它会通过电子邮件向您发送发布窗口期间的每日简报：这是已完成的工作、这是需要注意的内容、这是今天要做的事情。
-If you&#39;ve shipped something with Lovable and the launch is the part you&#39;re dreading — Zarek is built for you.
-Try it at https://track.zarek.tech/t/XTGwkuA0.粘贴您的网址并查看返回的内容。
+如果您已经通过 Lovable 发布了一些东西，并且发布是您所害怕的部分 - Zarek 就是为您而构建的。
+在https://track.zarek.tech/t/XTGwkuA0尝试一下。粘贴您的网址并查看返回的内容。
 &lt;小时/&gt;
-Happy to hear from anyone who&#39;s been through this. What was the hardest part of your launch after the build?
+很高兴收到经历过此事的人的来信。构建后发布过程中最困难的部分是什么？
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/4eebc7b055</guid>
       <pubDate>Mon, 17 Aug 2026 13:44:00 GMT</pubDate>
@@ -174,7 +186,7 @@ Discord Indiehackers 聊天广告此处]]></description>
 获取：获取整个 SaaS → 拥有它 → 自定义它 → 让它成为您的。
 我特意在寻找合作伙伴中发布此内容，因为我不是在寻找随机买家。
 让我们停止谈论我们可以构建什么，并从已经构建的东西开始。
-DM me and I’ll show you the product. Let’s see what we can build from here.
+私信我，我会向您展示产品。让我们看看我们可以从这里构建什么。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/7ec9107817</guid>
       <pubDate>Mon, 17 Aug 2026 11:01:34 GMT</pubDate>
@@ -183,10 +195,10 @@ Discord Indiehackers 聊天广告此处]]></description>
       <title>寻找美国社交应用技术联合创始人/开发团队</title>
       <link>https://feed.indiehackers.world/post/c033357318</link>
       <description><![CDATA[👇后续步骤
-If this mission resonates with you, let&#39;s chat!
+如果这个任务引起您的共鸣，我们来聊聊吧！
 在下面发表评论，介绍一下您的背景，或者发送一条带有您的作品集或 GitHub 链接的消息。
-All feedback on the concept is highly welcomed! Let&#39;s build the future of networking together.
-NextUs — Where our intent meets reality.
+非常欢迎有关该概念的所有反馈！让我们共同构建网络的未来。
+NextUs — 我们的意图与现实相遇的地方。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/c033357318</guid>
       <pubDate>Mon, 17 Aug 2026 09:46:47 GMT</pubDate>
@@ -202,14 +214,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/d731289806</guid>
       <pubDate>Mon, 17 Aug 2026 08:19:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我告诉一位创始人要在评论网站上列出。她的报告显示人工智能引用了她竞争对手的主页。</title>
-      <link>https://feed.indiehackers.world/post/150af1e406</link>
-      <description><![CDATA[这里有人检查过您所在类别中的人工智能答案实际上是基于哪些来源构建的吗？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/150af1e406</guid>
-      <pubDate>Mon, 17 Aug 2026 05:32:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
