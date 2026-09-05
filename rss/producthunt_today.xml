@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 05 Sep 2026 07:25:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:21:54 GMT</lastBuildDate>
     <item>
       <title>马尾辫</title>
       <link>https://www.producthunt.com/products/ponytail</link>
@@ -48,32 +48,18 @@
       <pubDate>Fri, 04 Sep 2026 03:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>天气下一个 3</title>
-      <link>https://www.producthunt.com/products/weathernext-3</link>
+      <title>GPT-6 阿斯特拉</title>
+      <link>https://www.producthunt.com/products/openai</link>
       <description><![CDATA[
-            我们最先进、最准确的全球天气人工智能模型
+            OpenAI 最强大的端到端工作模型
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/weathernext-3</guid>
-      <pubDate>Thu, 03 Sep 2026 15:17:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mac 版粉笔</title>
-      <link>https://www.producthunt.com/products/chalked</link>
-      <description><![CDATA[
-            您的回复已准备好并包含您工作的完整背景
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/chalked</guid>
-      <pubDate>Thu, 03 Sep 2026 12:47:52 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/openai</guid>
+      <pubDate>Thu, 03 Sep 2026 20:14:40 GMT</pubDate>
     </item>
     <item>
       <title>晚上 8 点</title>
@@ -93,7 +79,7 @@
       <title>队列砖</title>
       <link>https://www.producthunt.com/products/queuebrick</link>
       <description><![CDATA[
-            Letterboxd 替代方案。 
+            Letterboxd 替代方案
           
 
 讨论
@@ -116,6 +102,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/brickforgerai</guid>
       <pubDate>Wed, 02 Sep 2026 10:45:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>轨道MCP</title>
+      <link>https://www.producthunt.com/products/trackmcp</link>
+      <description><![CDATA[
+            适用于 MCP 服务器的 Google Analytics
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/trackmcp</guid>
+      <pubDate>Tue, 01 Sep 2026 08:37:38 GMT</pubDate>
     </item>
     <item>
       <title>反射</title>
@@ -160,20 +160,6 @@
       <pubDate>Mon, 31 Aug 2026 03:39:25 GMT</pubDate>
     </item>
     <item>
-      <title>我的AI学院</title>
-      <link>https://www.producthunt.com/products/myaicademy</link>
-      <description><![CDATA[
-            学习适合您的特定角色和团队的人工智能技能
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/myaicademy</guid>
-      <pubDate>Fri, 28 Aug 2026 16:01:08 GMT</pubDate>
-    </item>
-    <item>
       <title>邮箱</title>
       <link>https://www.producthunt.com/products/postbox</link>
       <description><![CDATA[
@@ -188,18 +174,32 @@
       <pubDate>Thu, 27 Aug 2026 23:32:18 GMT</pubDate>
     </item>
     <item>
-      <title>TwelveLabs 的合规性</title>
-      <link>https://www.producthunt.com/products/twelvelabs</link>
+      <title>重述</title>
+      <link>https://www.producthunt.com/products/retold</link>
       <description><![CDATA[
-            由您控制的规则提供支持的视频合规性审核
+            将家庭声音变成手绘故事电影
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/twelvelabs</guid>
-      <pubDate>Fri, 21 Aug 2026 22:41:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/retold</guid>
+      <pubDate>Wed, 26 Aug 2026 11:38:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>离线 JS 游乐场</title>
+      <link>https://www.producthunt.com/products/offline-js-playground</link>
+      <description><![CDATA[
+            离线编写、运行和测试 JavaScript 片段和 JSON
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/offline-js-playground</guid>
+      <pubDate>Tue, 18 Aug 2026 17:23:32 GMT</pubDate>
     </item>
     <item>
       <title>差异文件</title>
