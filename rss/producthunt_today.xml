@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 06 Sep 2026 22:41:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 02:52:43 GMT</lastBuildDate>
     <item>
       <title>DocsAlot 可视化编辑器</title>
       <link>https://www.producthunt.com/products/docsalot-2</link>
@@ -32,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/gitwarren</guid>
       <pubDate>Fri, 04 Sep 2026 05:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>体验实验室</title>
-      <link>https://www.producthunt.com/products/experiential-labs</link>
-      <description><![CDATA[
-            开源 AI 网关将流量转变为更好的模型
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/experiential-labs</guid>
-      <pubDate>Fri, 04 Sep 2026 03:10:57 GMT</pubDate>
     </item>
     <item>
       <title>晚上 8 点</title>
@@ -174,7 +160,21 @@
       <pubDate>Fri, 28 Aug 2026 23:28:49 GMT</pubDate>
     </item>
     <item>
-      <title>差异sh</title>
+      <title>重述</title>
+      <link>https://www.producthunt.com/products/retold</link>
+      <description><![CDATA[
+            将家庭声音变成手绘故事电影
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/retold</guid>
+      <pubDate>Wed, 26 Aug 2026 11:38:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>差异文件</title>
       <link>https://www.producthunt.com/products/dif-sh</link>
       <description><![CDATA[
             Markdown 功能会标记您安装的编码代理
